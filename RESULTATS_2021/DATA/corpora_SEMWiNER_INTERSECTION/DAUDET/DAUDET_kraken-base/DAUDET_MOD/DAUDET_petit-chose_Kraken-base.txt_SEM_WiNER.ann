@@ -1,0 +1,2861 @@
+T1	Location 61 70	Languedoc
+T2	Location 182 192	Carmelites
+T3	Location 229 232	Mon
+T4	Person 242 250	Eyssette
+T5	Organization 860 900	Bibliotheque nationale de FranceLE PETIT
+T6	Person 987 995	Eyssette
+T7	Location 1008 1013	Annou
+T8	Location 1216 1225	Marseille
+T9	Person 1291 1299	Eyssette
+T10	Location 1415 1424	Marseille
+T11	Person 1467 1473	Daniel
+T12	Person 1505 1522	monsieur Eyssette
+T13	Location 1736 1745	Marseille
+T14	Person 1854 1862	Baptiste
+T15	Person 2726 2737	Me Eyssette
+T16	Location 2750 2755	Annou
+T17	Person 2757 2774	mon frere Jacques
+T18	Person 2851 2858	Colombe
+T19	Location 2880 2886	Rouget
+T20	Person 3377 3385	Eyssette
+T21	Location 3419 3427	FABRIQUE
+T22	Location 3648 3654	Rouget
+T23	Location 3735 3741	Rouget
+T24	Person 3903 3911	Eyssette
+T25	Person 4373 4380	Jacques
+T26	Organization 4395 4400	Annou
+T27	Person 4692 4700	Eyssette
+T28	Person 4702 4706	Dieu
+T29	Person 4806 4819	papa Eyssette
+T30	Person 4825 4829	Dieu
+T31	Person 4952 4955	Ohl
+T32	Person 5017 5025	Eyssette
+T33	Location 5452 5457	Annou
+T34	Person 5459 5476	mon frere Jacques
+T35	Location 5608 5610	MI
+T36	Person 5612 5620	Eyssette
+T37	Location 5654 5659	Annou
+T38	Person 5687 5698	Me Eyssette
+T39	Person 5708 5715	Jacques
+T40	Person 5877 5894	mon frere Jacques
+T41	Person 5994 6005	PETIT CHOSE
+T42	Person 6355 6363	Eyssette
+T43	Person 6464 6472	Eyssette
+T44	Person 6598 6605	Jacques
+T45	Person 7010 7019	Qu'as-tun
+T46	Person 7035 7042	Jacques
+T47	Location 7201 7207	Rouget
+T48	Location 7353 7359	Rouget
+T49	Person 7379 7386	Colombe
+T50	Location 7579 7585	Rouget
+T51	Location 7618 7624	Rouget
+T52	Location 7648 7654	Rouget
+T53	Location 7765 7773	Moi-meme
+T54	Person 7812 7827	Daniel Eyssette
+T55	Person 7932 7947	Crusoe lui-meme
+T56	Person 7998 8010	mon Robinson
+T57	Location 8255 8260	Ocean
+T58	Location 8396 8402	Rouget
+T59	Person 8510 8518	Robinson
+T60	Location 8534 8542	FABRIQUE
+T61	Location 8931 8940	MIoi-meme
+T62	Location 8942 8950	Robinson
+T63	Location 9053 9059	Rouget
+T64	Location 9099 9105	Rouget
+T65	Person 9456 9464	Eyssette
+T66	Location 10170 10176	Rouget
+T67	Person 10214 10218	Paul
+T68	Person 10353 10356	Ohl
+T69	Person 10447 10454	Lucifer
+T70	Location 10581 10587	Rouget
+T71	Person 10623 10627	Dieu
+T72	Person 11112 11123	PETIT CHOSE
+T73	Location 11263 11269	Rouget
+T74	Location 11441 11444	Mon
+T75	Person 11463 11471	Robinson
+T76	Person 11543 11551	Baptiste
+T77	Location 11767 11771	tete
+T78	Location 11774 11778	tete
+T79	Person 11842 11850	Robinson
+T80	Person 11920 11928	Baptiste
+T81	Person 12827 12834	Colombe
+T82	Location 13251 13255	tete
+T83	Location 13683 13701	IZ 3,t L---  A IlP
+T84	Location 13704 13706	I.
+T85	Location 13707 13708	L
+T86	Location 13771 13776	EZEYt
+T87	Location 13813 13815	AI
+T88	Location 13828 13829	L
+T89	Location 13832 13834	I-
+T90	Location 13872 13873	L
+T91	Person 13887 13892	P' -L
+T92	Person 13996 14004	Eyssette
+T93	Location 14112 14116	Lyon
+T94	Location 14236 14238	Eh
+T95	Person 14327 14335	Eyssette
+T96	Person 14379 14383	Dieu
+T97	Location 14740 14745	Adieu
+T98	Person 15292 15300	Robinson
+T99	Location 15428 15430	MI
+T100	Person 15432 15440	Eyssette
+T101	Location 15454 15458	Lyon
+T102	Location 15595 15600	Annou
+T103	Location 15602 15605	Mon
+T104	Location 15688 15697	Beaucaire
+T105	Person 15721 15728	Colombe
+T106	Person 15843 15852	mon frere
+T107	Person 15879 15890	Me Eyssette
+T108	Location 15951 15956	Annou
+T109	Person 16017 16024	Jacques
+T110	Location 16059 16063	Lyon
+T111	Person 16141 16156	Daniel Eyssette
+T112	Location 16261 16266	PETIT
+T113	Person 16484 16499	Daniel Eyssette
+T114	Date 16602 16614	go septembre
+T115	Location 16623 16633	BABAROTTES
+T116	Location 16637 16638	O
+T117	Person 16909 16924	coq Montelimart
+T118	Location 17367 17372	Rhone
+T119	Location 17420 17423	Moi
+T120	Location 17837 17855	Nord des s cafards
+T121	Person 17859 17870	PETIT CHOSE
+T122	Person 17885 17888	Ohl
+T123	Location 18299 18303	Lyon
+T124	Location 18363 18367	Lyon
+T125	Person 18836 18843	Jacques
+T126	Location 18858 18863	Annou
+T127	Location 18993 18998	Annou
+T128	Person 19105 19113	Eyssette
+T129	Person 19397 19405	Eyssette
+T130	Person 19436 19445	mon frere
+T131	Location 19491 19503	Suivez-moilo
+T132	Person 19777 19790	Ahl mon Dieul
+T133	Location 20047 20050	Mon
+T134	Location 20196 20206	BABAROTTES
+T135	Person 20354 20373	Robinsonl Robinsonl
+T136	Person 20518 20526	Eyssette
+T137	Person 20741 20749	Robinson
+T138	Location 20898 20902	sale
+T139	Location 20914 20926	rue Lanterne
+T140	Person 20928 20931	Ohl
+T141	Location 21154 21159	Annou
+T142	Location 21484 21489	Annou
+T143	Location 21856 21860	Lyon
+T144	Location 22139 22144	Annou
+T145	Location 22383 22388	Rhone
+T146	Location 22481 22489	Perrache
+T147	Person 22497 22508	PETIT CHOSE
+T148	Person 22654 22662	Eyssette
+T149	Person 22673 22680	Jacques
+T150	Location 22872 22877	Annou
+T151	Location 23192 23197	Annou
+T152	Location 23272 23278	misere
+T153	Product 23282 23303	La femme du concierge
+T154	Location 23548 23550	Tu
+T155	Organization 23650 23658	Jacquesl
+T156	Person 23700 23708	Eyssette
+T157	Person 24056 24064	Eyssette
+T158	Person 24281 24288	Jacques
+T159	Person 24353 24361	Eyssette
+T160	Person 24394 24401	Jacques
+T161	Location 24455 24457	Tu
+T162	Person 24487 24495	Eyssette
+T163	Person 24586 24594	Eyssette
+T164	Person 24606 24609	Ohl
+T165	Person 24703 24710	Jacques
+T166	Location 24767 24777	BABAROTTES
+T167	Person 24853 24861	Eyssette
+T168	Location 25029 25031	Eh
+T169	Person 25094 25101	Jacques
+T170	Person 25122 25130	Eyssette
+T171	Location 25201 25209	Parbleul
+T172	Person 25253 25261	Eyssette
+T173	Person 25615 25623	Eyssette
+T174	Person 25763 25771	Eyssette
+T175	Location 25862 25866	Lyon
+T176	Location 25912 25915	Mon
+T177	Person 26036 26047	Me Eyssette
+T178	Location 26129 26141	Saint-Nizier
+T179	Person 26209 26222	Saint- Nizier
+T180	Location 26290 26294	tete
+T181	Location 26975 26986	Monseigneur
+T182	Person 27027 27030	Ohl
+T183	Location 27059 27063	fier
+T184	Person 27075 27086	PETIT CHOSE
+T185	Location 27759 27766	Sanctus
+T186	Location 27955 27959	aube
+T187	Person 28231 28242	Me Eyssette
+T188	Person 28400 28407	Caduffe
+T189	Person 28820 28827	Jacques
+T190	Location 29086 29090	Lyon
+T191	Person 29158 29164	Daniel
+T192	Person 29173 29181	Eyssette
+T193	Organization 29188 29196	Jacquesl
+T194	Person 29211 29214	Ohl
+T195	Location 29392 29394	MI
+T196	Person 29396 29404	Eyssette
+T197	Organization 29543 29547	Li-'
+T198	Location 29575 29577	IM
+T199	Location 29652 29653	L
+T200	Location 29696 29697	L
+T201	Location 29777 29778	L
+T202	Location 29790 29791	W
+T203	Location 29808 29809	Y
+T204	Location 29810 29811	O
+T205	Person 29815 29820	N- c-
+T206	Location 29862 29872	BABAROTTES
+T207	Location 30098 30102	Lyon
+T208	Location 30210 30213	Moi
+T209	Person 30734 30751	Daniel Ey-sset-te
+T210	Person 31261 31268	Jacques
+T211	Person 32356 32364	Eyssette
+T212	Person 32425 32436	PETIT CHOSE
+T213	Person 32594 32605	Me Eyssette
+T214	Location 32688 32690	Tu
+T215	Location 32731 32734	Oui
+T216	Location 32745 32747	Tu
+T217	Person 32767 32770	OhI
+T218	Person 32841 32852	Me Eyssette
+T219	Person 33013 33022	Eyssettel
+T220	Organization 33183 33211	IL EST MORT1 PRIEZ POUR LUII
+T221	Person 33441 33446	De la
+T222	Location 33471 33483	rue Lanterne
+T223	Person 33779 33796	Eyssette lui-meme
+T224	Location 34022 34025	Moi
+T225	Person 34150 34163	Saint- Nizier
+T226	Person 34407 34418	PETIT CHOSE
+T227	Person 34437 34444	Jacques
+T228	Person 34469 34477	Eyssette
+T229	Person 34554 34561	Jacques
+T230	Person 34575 34581	Daniel
+T231	Person 34861 34868	Jacques
+T232	Person 35210 35218	Eyssette
+T233	Person 35737 35745	Eyssette
+T234	Person 35980 35984	Dieu
+T235	Person 36109 36113	Dieu
+T236	Person 36398 36406	Eyssette
+T237	Location 36483 36488	Finet
+T238	Person 37701 37707	Daniel
+T239	Person 37720 37728	Eyssette
+T240	Person 38101 38104	Ohl
+T241	Person 38191 38199	Eyssette
+T242	Location 38364 38366	Tu
+T243	Location 38782 38785	Qu'
+T244	Person 38837 38848	PETIT CHOSE
+T245	Location 40503 40505	MI
+T246	Location 40650 40655	Finet
+T247	Person 40821 40824	Ohl
+T248	Person 40949 40957	Eyssette
+T249	Location 40966 40970	tete
+T250	Organization 41235 41260	EST MORTl PRIEzZ POUR LIl
+T251	Person 41415 41420	Finet
+T252	Organization 41934 41935	E
+T253	Location 42012 42021	z eZ 7A E
+T254	Organization 42032 42041	ItEa-c-rs
+T255	Location 42045 42046	R
+T256	Location 42058 42060	P.
+T257	Location 42085 42086	L
+T258	Location 42100 42101	R
+T259	Location 42126 42129	N P
+T260	Organization 42187 42192	I- Y'
+T261	Location 42199 42201	M'
+T262	Person 42309 42321	CAHIER ROUGE
+T263	Person 42659 42670	Me Eyssette
+T264	Location 42692 42696	Lyon
+T265	Person 42978 42986	Eyssette
+T266	Location 43039 43051	Saint-Nizier
+T267	Person 43363 43370	Jacques
+T268	Person 43533 43544	PETIT CHOSE
+T269	Person 43662 43669	Jacques
+T270	Person 43721 43728	Jacques
+T271	Person 44084 44095	Me Eyssette
+T272	Person 44577 44584	Jacques
+T273	Location 44719 44723	tete
+T274	Location 44863 44869	Daniel
+T275	Person 44995 45002	Jacques
+T276	Person 45063 45070	Jacques
+T277	Location 45074 45076	Eh
+T278	Location 45300 45304	tete
+T279	Person 45350 45363	RELIGION RELI
+T280	Organization 45383 45402	chants rAR HEssETTE
+T281	Person 45479 45486	Jacques
+T282	Person 45488 45505	mon frere Jacques
+T283	Person 45522 45534	CAHIER ROUGE
+T284	Person 45611 45630	Religionl Religionl
+T285	Person 45811 45818	Jacques
+T286	Location 45849 45862	cher Eyssette
+T287	Organization 45864 45872	Jacquesl
+T288	Organization 46325 46333	Eyssette
+T289	Location 46335 46342	Jacques
+T290	Person 46539 46547	Eyssette
+T291	Person 46549 46556	Jacques
+T292	Person 46662 46681	Religionl Religionl
+T293	Location 46935 46939	Muse
+T294	Location 46961 46965	Muse
+T295	Person 47106 47109	Ohl
+T296	Person 47165 47175	Jacques me
+T297	Person 47307 47317	Jacques m'
+T298	Organization 47723 47759	Mysterel Voix touchante et solitaire
+T299	Person 47761 47784	Compassionl Compassionl
+T300	Person 47840 47851	PETIT CHOSE
+T301	Person 47882 47890	Eyssette
+T302	Person 49010 49023	Eyssette pere
+T303	Location 49110 49116	Daniel
+T304	Person 49182 49195	Eyssette pere
+T305	Person 49359 49372	Eyssette pere
+T306	Person 49393 49403	Mon garcon
+T307	Person 49627 49634	Jacques
+T308	Person 49657 49665	Eyssette
+T309	Location 49731 49735	Lyon
+T310	Location 49955 49961	misere
+T311	Person 50047 50059	CAHIER ROUGE
+T312	Person 50256 50264	Eyssette
+T313	Person 50352 50358	Daniel
+T314	Person 50534 50542	Baptiste
+T315	Person 50544 50551	Jacques
+T316	Location 50562 50566	Lyon
+T317	Location 50614 50617	Moi
+T318	Location 50990 50999	La-dessus
+T319	Person 51153 51161	Eyssette
+T320	Person 51190 51197	Jacques
+T321	Location 51361 51364	Qu'
+T322	Person 51408 51416	Eyssette
+T323	Person 51458 51466	Eyssette
+T324	Person 51490 51497	Jacques
+T325	Location 51766 51774	Eyssette
+T326	Location 51777 51781	Lyon
+T327	Person 51802 51818	Capitaine Genies
+T328	Location 51887 51892	Annou
+T329	Location 51910 51918	Robinson
+T330	Person 52068 52079	Me Eyssette
+T331	Person 52134 52145	PETIT CHOSE
+T332	Person 52302 52310	Eyssette
+T333	Person 52558 52562	Dieu
+T334	Person 52655 52659	Dieu
+T335	Location 52783 52787	Lyon
+T336	Location 53077 53082	Rhone
+T337	Location 53481 53485	tete
+T338	Location 53677 53683	Vienne
+T339	Location 53882 53886	fier
+T340	Person 54064 54079	Robinson Crusoe
+T341	Person 54560 54579	CAHIER ROUGE Helasl
+T342	Person 54939 54952	Eyssette pere
+T343	Person 55077 55085	Eyssette
+T344	Person 55228 55241	Ahl mon Dieul
+T345	Location 56038 56046	Sarlande
+T346	Location 56279 56287	Sarlande
+T347	Location 56693 56701	Sarlande
+T348	Person 56845 56856	PETIT CHOSE
+T349	Location 57155 57161	FRANCE
+T350	Person 57950 57957	Daniell
+T351	Organization 57960 57984	Annoul ma vieille Annoul
+T352	Person 58056 58064	mon Dieu
+T353	Location 58077 58082	Annou
+T354	Location 58095 58100	Annou
+T355	Person 58125 58133	Eyssette
+T356	Person 58190 58200	ean Peyrol
+T357	Location 58303 58308	Annou
+T358	Person 58347 58354	Daniell
+T359	Person 58641 58656	Daniel Eyssette
+T360	Person 58670 58681	Jean Peyrol
+T361	Person 58784 58790	Daniel
+T362	Organization 58816 58822	Peyrol
+T363	Person 58897 58903	Daniel
+T364	Location 58935 58940	Annou
+T365	Location 58954 58955	W
+T366	Location 58965 58968	A 4
+T367	Location 59074 59075	L
+T368	Person 59205 59214	iei M' .H
+T369	Location 59229 59230	L
+T370	Organization 59249 59250	E
+T371	Location 59413 59415	I.
+T372	Location 59436 59439	L.R
+T373	Location 59445 59448	Iz-
+T374	Organization 59450 59458	=F ,r rY
+T375	Location 59464 59465	L
+T376	Location 59511 59512	R
+T377	Person 59529 59534	Eh JA
+T378	Location 59550 59551	L
+T379	Location 59577 59578	W
+T380	Organization 59587 59594	F 2 `Lr
+T381	Person 59622 59634	CAHIER ROUGE
+T382	Person 59656 59667	Jean Peyrol
+T383	Location 59862 59867	Annou
+T384	Person 59972 59982	ean Peyrol
+T385	Person 60002 60025	Chateau- Neuf-des-Papes
+T386	Location 60413 60418	Annou
+T387	Person 60461 60471	ean Peyrol
+T388	Person 60516 60522	Daniel
+T389	Person 60587 60593	Daniel
+T390	Person 60600 60611	Jean Peyrol
+T391	Person 60802 60813	Jean Peyrol
+T392	Person 60816 60832	Daniel Eyssettel
+T393	Location 60836 60841	Annou
+T394	Organization 60999 61005	Peyrol
+T395	Person 61070 61081	Jean Peyrol
+T396	Person 61132 61140	Eyssette
+T397	Person 61155 61163	Eyssette
+T398	Person 61172 61179	Jacques
+T399	Person 61183 61189	Daniel
+T400	Location 61204 61209	Annou
+T401	Location 61221 61226	Annou
+T402	Location 61419 61423	Lyon
+T403	Location 61428 61440	rue Lanterne
+T404	Location 61530 61534	Dejh
+T405	Location 61562 61567	Annou
+T406	Person 61801 61807	Daniel
+T407	Event 61852 61866	Tour de France
+T408	Person 61934 61946	Daniell Dieu
+T409	Person 62001 62012	PETIT CHOSE
+T410	Person 62031 62041	ean Peyrol
+T411	Location 62148 62159	Petit Chose
+T412	Person 62576 62584	Robinson
+T413	Location 62599 62609	Angleterre
+T414	Location 62821 62825	tete
+T415	Person 63029 63045	Daniel Eyssettel
+T416	Person 63046 63061	Daniel Eyssette
+T417	Person 63403 63404	O
+T418	Location 63471 63481	Carmelites
+T419	Person 63520 63535	TA VIE Sarlande
+T420	Person 64637 64648	PETIT CHOSE
+T421	Organization 65624 65633	Qu'est-ce
+T422	Person 65640 65657	monsieur Cassagne
+T423	Location 65999 66006	Veillon
+T424	Location 66033 66040	Crouzat
+T425	Location 66095 66104	La-dessus
+T426	Person 66462 66470	Cassagne
+T427	Person 66687 66693	TA VIE
+T428	Person 66996 67004	Cassagne
+T429	Person 67448 67457	Serrieres
+T430	Person 68964 68975	PETIT CHOSE
+T431	Location 69093 69097	tete
+T432	Person 69125 69134	Ecce homo
+T433	Organization 69356 69376	frincl frincl frincl
+T434	Person 69398 69411	Monsieur Viot
+T435	Person 69458 69462	Ser-
+T436	Person 69490 69494	Viot
+T437	Person 69662 69672	Serrieresl
+T438	Location 69827 69838	M.Serrieres
+T439	Person 69964 69968	Viot
+T440	Person 70172 70183	Serrieres.n
+T441	Person 70214 70218	Viot
+T442	Person 70467 70484	Monsieur Eyssette
+T443	Person 70676 70680	Viot
+T444	Organization 70970 70990	frincl frincl frincl
+T445	Person 71262 71270	GAGNE TA
+T446	Person 72848 72853	Roger
+T447	Location 72942 72950	Sarlande
+T448	Location 73004 73011	Afrique
+T449	Location 73013 73017	Ceci
+T450	Person 73787 73798	PETIT CHOSE
+T451	Location 73841 73847	misere
+T452	Person 73942 73950	Eyssette
+T453	Location 74002 74006	fier
+T454	Person 74181 74185	Viot
+T455	Person 74295 74299	Viot
+T456	Person 74978 74982	Viot
+T457	Person 75227 75231	Viot
+T458	Organization 75257 75277	frincl frincl frincl
+T459	Location 75573 75575	MI
+T460	Person 75577 75581	Viot
+T461	Organization 76066 76067	E
+T462	Location 76116 76117	Y
+T463	Organization 76131 76134	Ma-
+T464	Location 76185 76187	C.
+T465	Person 76190 76198	GAGNE TA
+T466	Person 76245 76249	Viot
+T467	Person 76495 76499	Viot
+T468	Person 76572 76587	Daniel Eyssette
+T469	Location 76697 76701	tete
+T470	Person 76901 76910	Serrieres
+T471	Person 76922 76931	Serrieres
+T472	Location 76959 76967	Parbleul
+T473	Location 77080 77084	Ceci
+T474	Location 77358 77360	Ca
+T475	Person 77390 77399	Serrieres
+T476	Organization 77592 77605	cafe Barbette
+T477	Location 77734 77738	sien
+T478	Organization 77764 77777	cafe Barbette
+T479	Location 78033 78042	Serrieres
+T480	Person 78147 78156	Serrieres
+T481	Person 78444 78453	Serrieres
+T482	Person 78576 78587	PETIT CHOSE
+T483	Organization 78665 78678	cafe Barbette
+T484	Location 78704 78706	Eh
+T485	Person 78738 78747	Serrieres
+T486	Location 78854 78862	Sarlande
+T487	Organization 78903 78916	cafe Barbette
+T488	Organization 79239 79243	Viot
+T489	Person 79296 79304	Ohl vous
+T490	Person 79619 79628	Serrieres
+T491	Organization 79845 79858	cafe Barbette
+T492	Location 80642 80646	Lyon
+T493	Organization 80738 80751	cafe Barbette
+T494	Person 80899 80908	TA VIE 43
+T495	Location 80925 80931	misere
+T496	Person 81115 81120	Roger
+T497	Person 81191 81206	Daniel Eyssette
+T498	Location 81242 81246	fier
+T499	Person 81258 81273	Daniel Eyssette
+T500	Person 81433 81451	Monsieur Serrieres
+T501	Person 81732 81736	Viot
+T502	Person 81945 81954	Serrieres
+T503	Person 82008 82012	Viot
+T504	Organization 82079 82098	frincl frincl frinc
+T505	Organization 82144 82164	frincl frincl frincl
+T506	Location 83165 83171	Est-ce
+T507	Person 83405 83414	Serrieres
+T508	Location 83461 83464	Moi
+T509	Person 83987 83996	ean Lapin
+T510	Person 84118 84129	PETIT CHOSE
+T511	Person 84339 84343	Dieu
+T512	Person 84382 84390	Eyssette
+T513	Person 84392 84399	Jacques
+T514	Person 84495 84499	Viot
+T515	Person 84811 84820	ean Lapin
+T516	Person 84842 84846	Viot
+T517	Person 84938 84948	Jean Lapin
+T518	Person 85071 85075	Viot
+T519	Person 85466 85470	Viot
+T520	Person 85899 85908	ean Lapin
+T521	Person 86337 86341	Viot
+T522	Organization 86858 86871	cafe Barbette
+T523	Person 86953 86961	Cassagne
+T524	Person 86983 86988	Roger
+T525	Person 87253 87261	Cassagne
+T526	Person 87312 87320	Cassagne
+T527	Organization 87740 87753	cafe Barbette
+T528	Location 88110 88114	tete
+T529	Location 88778 88782	Muse
+T530	Person 88862 88873	PETIT CHOSE
+T531	Location 88940 88944	Muse
+T532	Person 89173 89181	Eyssette
+T533	Location 89712 89719	Prairie
+T534	Location 90659 90666	Prairie
+T535	Location 91066 91072	Gardez
+T536	Location 91174 91178	tete
+T537	Location 91362 91364	I.
+T538	Hour 91389 91394	5 h 1
+T539	Location 91460 91462	I-
+T540	Location 91487 91488	Y
+T541	Location 91557 91558	L
+T542	Location 91605 91606	Y
+T543	Location 91609 91610	W
+T544	Location 91652 91657	Lg I2
+T545	Location 91735 91736	Y
+T546	Location 91758 91759	Y
+T547	Person 91771 91776	I-  W
+T548	Location 91783 91784	Y
+T549	Date 91797 91803	11Aill
+T550	Person 91976 91980	Viot
+T551	Location 92129 92137	Sarlande
+T552	Organization 92457 92464	OQuelle
+T553	Location 92763 92767	sale
+T554	Location 93299 93305	Bamban
+T555	Location 93332 93338	Bamban
+T556	Location 93385 93391	Bamban
+T557	Location 93586 93594	Sarlande
+T558	Location 93757 93763	Bamban
+T559	Location 94016 94022	Bamban
+T560	Person 94145 94156	PETIT CHOSE
+T561	Person 94221 94227	Bamban
+T562	Location 94234 94238	sale
+T563	Location 94694 94698	tete
+T564	Location 94909 94910	L
+T565	Location 95016 95022	Bamban
+T566	Location 95465 95469	tete
+T567	Location 95507 95513	Bamban
+T568	Location 95756 95762	Bamban
+T569	Location 95963 95970	Prairie
+T570	Location 96270 96274	Lyon
+T571	Location 96546 96552	Bamban
+T572	Location 96748 96754	Bamban
+T573	Location 97041 97047	Bamban
+T574	Location 97225 97231	Bamban
+T575	Person 97275 97279	Dieu
+T576	Location 97939 97945	Bamban
+T577	Location 98493 98504	PETIT CHOSE
+T578	Location 98900 98907	Prairie
+T579	Location 99106 99109	Qu'
+T580	Location 99124 99130	Bamban
+T581	Location 99426 99432	Bamban
+T582	Location 99437 99443	Bamban
+T583	Location 100605 100607	Eh
+T584	Organization 100838 100849	PETIT CHOSE
+T585	Location 101142 101149	Veillon
+T586	Location 101181 101186	Loupi
+T587	Location 101203 101213	Bouzanquet
+T588	Person 101510 101518	Eyssette
+T589	Location 101534 101542	Sarlande
+T590	Location 101843 101846	Oui
+T591	Person 102470 102483	Ahl mon Dieul
+T592	Organization 102487 102496	Qu'est-ce
+T593	Person 102565 102580	Daniel Eyssette
+T594	Location 102636 102644	Sarlande
+T595	Location 103966 103969	Moi
+T596	Person 104109 104126	monsieur Eyssette
+T597	Person 104237 104241	Viot
+T598	Organization 104260 104280	frincl frincl frincl
+T599	Person 104347 104351	Viot
+T600	Person 104646 104653	mon ame
+T601	Product 104673 104687	l'abbe Germane
+T602	Person 104712 104724	abbe Germane
+T603	Person 104864 104868	Viot
+T604	Location 104962 104966	tete
+T605	Person 105427 105438	PETIT CHOSE
+T606	Product 105846 105860	l'abbe Germane
+T607	Product 105990 106004	l'abbe Germane
+T608	Location 106650 106659	Condillac
+T609	Location 106971 106980	Condillac
+T610	Location 106999 107008	Condillac
+T611	Location 107121 107129	Sarlande
+T612	Product 107189 107203	l'abbe Germane
+T613	Location 107475 107484	Condillac
+T614	Location 107615 107620	Titan
+T615	Person 107634 107646	abbe Germane
+T616	Organization 107868 107885	E-=-e' N-.-- -C r
+T617	Location 107939 107940	W
+T618	Location 107985 107988	At-
+T619	Organization 108287 108296	Qu'est-ce
+T620	Location 108599 108608	Condillac
+T621	Location 108612 108622	Condillacl
+T622	Location 108636 108646	Condillacl
+T623	Product 108660 108674	l'abbe Germane
+T624	Location 108902 108911	Condillac
+T625	Location 108966 108968	Tu
+T626	Person 109010 109023	Ton Condillac
+T627	Location 109175 109184	Condillac
+T628	Location 109276 109278	Tu
+T629	Location 109353 109359	Est-ce
+T630	Location 109705 109711	misere
+T631	Location 109786 109788	Tu
+T632	Person 109843 109846	Ohl
+T633	Product 109984 109998	l'abbe Germane
+T634	Location 110100 110104	MIoi
+T635	Location 110205 110214	Condillac
+T636	Person 110330 110341	PETIT CHOSE
+T637	Person 110425 110429	Dieu
+T638	Product 111284 111298	l'abbe Germane
+T639	Product 111588 111602	l'abbe Germane
+T640	Location 111737 111744	Bonjour
+T641	Location 112457 112461	sien
+T642	Person 113290 113293	Ohl
+T643	Organization 113496 113508	abbe Germane
+T644	Location 113610 113614	tete
+T645	Person 114093 114097	Viot
+T646	Hour 114179 114195	frincl- h droite
+T647	Location 114436 114440	tete
+T648	Person 114728 114735	mon ame
+T649	Person 115326 115337	PETIT CHOSE
+T650	Person 115529 115533	Viot
+T651	Person 115728 115732	Viot
+T652	Location 117803 117807	tete
+T653	Person 117874 117890	Daniel Eyssettel
+T654	Location 117926 117931	MIais
+T655	Organization 118069 118080	6z LE PETIT
+T656	Person 118562 118577	Daniell Daniell
+T657	Person 118656 118666	Jacques tu
+T658	Person 118714 118720	Daniel
+T659	Person 118722 118732	mon Daniel
+T660	Person 118740 118748	ton pere
+T661	Location 118872 118876	tete
+T662	Person 119332 119345	Eyssette pere
+T663	Location 119479 119485	Est-ce
+T664	Location 119497 119503	Est-ce
+T665	Location 119517 119520	Oui
+T666	Person 119522 119532	mon Daniel
+T667	Location 119570 119571	O
+T668	Person 119755 119758	Ohl
+T669	Person 119818 119831	Eyssette pere
+T670	Location 119846 119864	Allonsl couvre-toi
+T671	Location 119992 120002	Figure-toi
+T672	Location 120093 120095	Tu
+T673	Person 120165 120175	Daniell J'
+T674	Person 120234 120240	Daniel
+T675	Location 120532 120534	Tu
+T676	Location 120636 120638	Tu
+T677	Location 120692 120694	Tu
+T678	Person 120802 120806	Viot
+T679	Location 120821 120823	MI
+T680	Person 120825 120829	Viot
+T681	Person 121151 121159	Eyssette
+T682	Location 121202 121206	Viot
+T683	Person 121366 121374	Eyssette
+T684	Location 121391 121398	Voyonsl
+T685	Person 121452 121460	Baptiste
+T686	Location 121467 121475	Jacquesl
+T687	Person 121478 121485	Jacques
+T688	Person 121953 121960	Jacques
+T689	Person 122026 122034	Eyssette
+T690	Person 122141 122144	Ohl
+T691	Location 122263 122265	IM
+T692	Person 122267 122275	Eyssette
+T693	Person 122376 122384	Eyssette
+T694	Person 122546 122557	PETIT CHOSE
+T695	Person 122762 122766	Cas-
+T696	Person 123201 123209	Daniel n
+T697	Location 123233 123237	tete
+T698	Person 123534 123540	Daniel
+T699	Organization 124859 124872	Mademoisellel
+T700	Location 124993 124997	tete
+T701	Person 125326 125329	Ohl
+T702	Location 126483 126490	Bonjour
+T703	Person 126501 126518	Daniell...n Alors
+T704	Location 127315 127320	sucre
+T705	Location 127325 127330	Adieu
+T706	Person 127401 127412	PETIT CHOSE
+T707	Location 127475 127477	Eh
+T708	Person 127503 127506	Ohl
+T709	Person 127801 127805	Viot
+T710	Person 127831 127835	Viot
+T711	Location 128482 128494	Saint-Esprit
+T712	Person 128498 128502	Veni
+T713	Person 128871 128875	Viot
+T714	Person 128899 128921	Veni creator Spiritusl
+T715	Person 129212 129216	Veni
+T716	Location 129226 129235	Spiritusl
+T717	Product 129469 129483	l'abbe Germane
+T718	Person 129532 129554	Veni creator Spiritusl
+T719	Location 129587 129599	Saint-Esprit
+T720	Location 129796 129802	Limoux
+T721	Location 130054 130058	aube
+T722	Location 130308 130312	tete
+T723	Person 130522 130535	Tout Sarlande
+T724	Location 130617 130624	Prairie
+T725	Location 130852 130856	pate
+T726	Location 131038 131040	MI
+T727	Person 131225 131229	Viot
+T728	Location 131362 131365	Oui
+T729	Location 131433 131435	MI
+T730	Person 132195 132211	Limoux Seulement
+T731	Product 132258 132272	l'abbe Germane
+T732	Person 132352 132363	PETIT CHOSE
+T733	Location 132396 132398	MI
+T734	Person 132475 132479	Viot
+T735	Location 132504 132515	Muse badine
+T736	Person 132536 132540	Viot
+T737	Person 132692 132696	Viot
+T738	Organization 132771 132785	eleve Menalque
+T739	Person 132791 132803	leve Dorilas
+T740	Organization 132845 132859	eleve Menalque
+T741	Organization 133463 133477	eleve Menalque
+T742	Person 133504 133508	Viot
+T743	Person 133642 133650	Viotl C'
+T744	Location 133784 133787	Moi
+T745	Person 133911 133915	Viot
+T746	Location 134381 134396	Saint-Theophile
+T747	Person 134841 134845	Viot
+T748	Organization 135181 135204	Dingl dongl Levez- vous
+T749	Person 135244 135266	Instruisez-vousl Dingl
+T750	Location 135314 135315	O
+T751	Person 135347 135361	eleve Menalque
+T752	Person 135412 135416	Viot
+T753	Location 135444 135453	Sarlandel
+T754	Location 135457 135460	Moi
+T755	Location 135508 135511	Mon
+T756	Person 135662 135673	PETIT CHOSE
+T757	Location 136145 136148	Mon
+T758	Location 136223 136227	tete
+T759	Person 136732 136736	Viot
+T760	Location 136790 136805	Saint-Theophile
+T761	Person 137125 137129	Viot
+T762	Person 137469 137484	Viot la-dessous
+T763	Event 137514 137531	affaire Boucoyran
+T764	Person 137533 137536	Ohl
+T765	Location 137674 137677	Moi
+T766	Person 137910 137914	Bou-
+T767	Location 138011 138019	Sarlande
+T768	Location 138778 138787	Boucoyran
+T769	Location 139130 139139	Boucoyran
+T770	Person 139552 139556	Dieu
+T771	Location 140083 140088	Bravo
+T772	Location 140126 140130	tete
+T773	Person 140251 140262	PETIT CHOSE
+T774	Location 140529 140534	Bravo
+T775	Location 140562 140571	Boucoyran
+T776	Person 140906 140910	Viot
+T777	Location 140961 140962	R
+T778	Location 141021 141030	Boucoyran
+T779	Location 141436 141445	Boucoyran
+T780	Location 141698 141700	MI
+T781	Location 141889 141898	Boucoyran
+T782	Person 142102 142106	Viot
+T783	Person 142334 142338	Bou-
+T784	Location 142579 142584	L.LLL
+T785	Location 142587 142599	W 1P I Rb ==
+T786	Location 142611 142612	W
+T787	Person 142637 142641	T L-
+T788	Location 143007 143016	La-dessus
+T789	Location 143375 143384	Boucoyran
+T790	Location 143808 143817	Boucoyran
+T791	Person 144137 144141	Viot
+T792	Event 144631 144648	affaire Boucoyran
+T793	Person 144684 144687	Ohl
+T794	Location 144748 144760	Petit-Cercle
+T795	Location 144765 144777	Grand-Cercle
+T796	Person 144789 144800	PETIT CHOSE
+T797	Location 145130 145139	Boucoyran
+T798	Location 145883 145888	Helas
+T799	Location 146076 146085	Boucoyran
+T800	Person 146219 146223	Bou-
+T801	Location 146581 146590	Boucoyran
+T802	Location 146910 146917	Bonjour
+T803	Location 146919 146930	Boucoyranln
+T804	Location 146933 146940	Bonjour
+T805	Location 147180 147187	Prairie
+T806	Person 147661 147666	Roger
+T807	Person 147768 147773	Roger
+T808	Person 147981 147988	Daniell
+T809	Person 148132 148136	Viot
+T810	Person 148566 148571	Roger
+T811	Person 148901 148906	Roger
+T812	Person 148952 148967	Monsieur Daniel
+T813	Organization 149102 149115	cafe Barbette
+T814	Organization 149201 149214	cafe Barbette
+T815	Organization 149492 149505	cafe Barbette
+T816	Person 149654 149665	PETIT CHOSE
+T817	Person 149678 149683	Roger
+T818	Location 149904 149909	Bravo
+T819	Location 149936 149939	Moi
+T820	Location 150080 150089	Boucoyran
+T821	Organization 151020 151033	cafe Barbette
+T822	Person 151098 151103	Roger
+T823	Person 151477 151488	PETIT CHOSE
+T824	Location 151512 151521	Boucoyran
+T825	Organization 151748 151761	cafe Barbette
+T826	Person 151847 151857	Roger vint
+T827	Location 152048 152052	fier
+T828	Location 152353 152361	Sarlande
+T829	Location 153294 153296	Eh
+T830	Location 153674 153679	Paris
+T831	Location 153981 153988	Cecilia
+T832	Location 154242 154248	Elvire
+T833	Person 154363 154372	O Cecilia
+T834	Location 154511 154515	Muse
+T835	Person 154529 154532	Ohl
+T836	Organization 154561 154588	Donne-la moil donne-la-moil
+T837	Person 154779 154784	Roger
+T838	Person 155407 155416	O Cecilia
+T839	Person 155493 155498	Roger
+T840	Hour 155920 155931	neuf heures
+T841	Organization 155954 155978	sous-prefectureln Est-ce
+T842	Person 156049 156054	Roger
+T843	Person 156109 156120	PETIT CHOSE
+T844	Location 156318 156323	Paris
+T845	Location 156552 156559	Cecilia
+T846	Person 156604 156608	Ange
+T847	Location 156836 156843	Cecilia
+T848	Location 156877 156879	I.
+T849	Product 157005 157017	w s  s N l A
+T850	Location 157020 157021	Y
+T851	Location 157039 157040	O
+T852	Person 157093 157097	l P'
+T853	Location 157146 157153	S 4 eLL
+T854	Organization 157222 157223	E
+T855	Organization 157277 157282	.A  F
+T856	Person 157391 157397	AMI LE
+T857	Person 158475 158482	Jacques
+T858	Location 158537 158542	Paris
+T859	Person 158546 158555	mon Dieul
+T860	Location 158564 158569	Paris
+T861	Location 158603 158614	Cher Daniel
+T862	Location 158649 158651	Tu
+T863	Location 158691 158696	Paris
+T864	Location 158730 158734	Lyon
+T865	Person 158757 158768	PETIT CHOSE
+T866	Location 158790 158794	tete
+T867	Location 158951 158953	MI
+T868	Location 158966 158978	Saint-Nizier
+T869	Location 158996 159006	Providence
+T870	Location 159390 159401	cher Daniel
+T871	Location 160069 160077	Sarlande
+T872	Location 160258 160266	Sarlande
+T873	Location 160279 160287	Sarlande
+T874	Person 160322 160339	mon frere Jacques
+T875	Location 160522 160524	Tu
+T876	Person 160541 160547	Daniel
+T877	Location 160571 160579	Bretagne
+T878	Location 160815 160822	Espagne
+T879	Person 160889 160896	Jacques
+T880	Location 160950 160961	cher Daniel
+T881	Person 161010 161016	AMI LE
+T882	Location 161089 161091	Tu
+T883	Organization 161255 161269	Quartier Latin
+T884	Location 161276 161292	Quartier ILatinl
+T885	Organization 162074 162087	cafe Barbette
+T886	Person 162225 162232	Jacques
+T887	Person 162587 162596	mon frere
+T888	Person 162608 162623	Monsieur Daniel
+T889	Location 162820 162826	Est-ce
+T890	Person 163248 163259	PETIT CHOSE
+T891	Person 163310 163317	Jacques
+T892	Person 163346 163356	marquis m'
+T893	Person 163582 163587	Roger
+T894	Location 164068 164070	MI
+T895	Person 164292 164296	Viot
+T896	Person 164763 164778	Daniel Eyssette
+T897	Person 164820 164835	Daniel Eyssette
+T898	Organization 165314 165321	OQuelle
+T899	Person 165342 165348	AMI LE
+T900	Product 165358 165381	ARMES 8s Le sous-prefet
+T901	Person 165919 165923	Viot
+T902	Location 166095 166103	Sarlande
+T903	Location 166277 166282	MIais
+T904	Location 166393 166400	Cecilia
+T905	Person 166466 166475	O Cecilia
+T906	Person 166553 166557	Ange
+T907	Location 166917 166919	Eh
+T908	Location 167013 167019	Est-ce
+T909	Location 167061 167062	R
+T910	Location 167098 167102	tete
+T911	Person 167222 167227	Roger
+T912	Person 167423 167428	Roger
+T913	Person 167650 167661	PETIT CHOSE
+T914	Person 167801 167809	Eyssette
+T915	Person 168224 168232	Roger m'
+T916	Person 168369 168376	Daniell
+T917	Person 168743 168748	Roger
+T918	Location 168968 168974	Daniel
+T919	Person 169429 169435	Daniel
+T920	Person 169718 169723	Roger
+T921	Person 169770 169776	AMI LE
+T922	Person 170025 170030	Roger
+T923	Location 170259 170267	Mon cher
+T924	Location 170355 170359	tete
+T925	Location 170659 170661	Eh
+T926	Person 170673 170678	Roger
+T927	Location 171633 171637	fier
+T928	Person 171837 171842	Roger
+T929	Person 171984 171995	PETIT CHOSE
+T930	Person 172102 172110	Eyssette
+T931	Person 172154 172161	Jacques
+T932	Location 172348 172353	Paris
+T933	Organization 172664 172677	cafe Barbette
+T934	Location 172722 172726	Bahl
+T935	Person 172805 172810	Roger
+T936	Person 172828 172833	Roger
+T937	Location 173091 173096	Paris
+T938	Person 173152 173156	Viot
+T939	Person 173408 173413	Roger
+T940	Organization 173614 173627	cafe Barbette
+T941	Person 173648 173653	Roger
+T942	Location 173682 173689	Prairie
+T943	Location 173958 173965	Prairie
+T944	Location 174049 174057	Sarlande
+T945	Location 174063 174070	Prairie
+T946	Person 174215 174220	Roger
+T947	Location 174526 174533	Prairie
+T948	Location 174658 174663	Paris
+T949	Person 174749 174754	Roger
+T950	Organization 174893 174906	cafe Barbette
+T951	Person 174994 174997	Ohl
+T952	Location 175071 175076	PETIT
+T953	Location 175115 175122	Prairie
+T954	Location 175389 175397	Sarlande
+T955	Location 175582 175586	sale
+T956	Person 176729 176734	Roger
+T957	Person 176799 176814	Daniel Eyssette
+T958	Location 177317 177321	sale
+T959	Organization 177527 177541	ma tete goutte
+T960	Location 177747 177748	O
+T961	Person 177768 177772	Dieu
+T962	Organization 177916 177923	Esperon
+T963	Location 177925 177928	Mon
+T964	Location 178010 178017	Cecilia
+T965	Organization 178517 178524	Esperon
+T966	Person 178536 178544	Eyssette
+T967	Person 178745 178750	Roger
+T968	Person 178781 178792	n Lh-dessus
+T969	Person 179089 179094	Roger
+T970	Location 179217 179220	Moi
+T971	Person 179404 179409	Roger
+T972	Location 179636 179643	Cecilia
+T973	Location 179666 179673	Cecilia
+T974	Person 179750 179757	Daniell
+T975	Location 179780 179784	Bahl
+T976	Person 179806 179817	PETIT CHOSE
+T977	Location 180097 180105	A Rogerl
+T978	Person 180841 180858	mon frere Jacques
+T979	Person 180860 180874	Denoncer Roger
+T980	Person 180941 180948	Cecilia
+T981	Location 181218 181226	Sarlande
+T982	Location 181662 181670	Sarlande
+T983	Location 181773 181781	Sarlande
+T984	Person 182322 182330	Eyssette
+T985	Location 182332 182345	rue Bonaparte
+T986	Location 182349 182354	Paris
+T987	Person 182384 182391	Jacques
+T988	Location 182428 182431	Toi
+T989	Person 182575 182581	Daniel
+T990	Person 183209 183226	Soubeyroll Fouque
+T991	Location 183230 183235	Loupi
+T992	Location 183258 183262	Ceci
+T993	Person 183298 183309	Jacquesl J'
+T994	Person 183899 183919	mon frere Jacques la
+T995	Person 184109 184120	PETIT CHOSE
+T996	Person 184257 184280	Daniel EYssETTE.n Apres
+T997	Person 184331 184338	Jacques
+T998	Product 184496 184510	l'abbe Germane
+T999	Person 184786 184790	Viot
+T1000	Person 184920 184934	monsieur Viotn
+T1001	Product 185573 185587	l'abbe Germane
+T1002	Location 186594 186599	Adieu
+T1003	Location 186601 186628	Jacquesl Adieu Me Eyssettel
+T1004	Product 186944 186958	l'abbe Germane
+T1005	Product 186960 186974	l'abbe Germane
+T1006	Location 187284 187288	tete
+T1007	Product 187342 187356	l'abbe Germane
+T1008	Location 187473 187484	cher Daniel
+T1009	Location 187631 187639	Commentl
+T1010	Location 187655 187657	Tu
+T1011	Person 187684 187687	Ohl
+T1012	Person 187774 187780	Daniel
+T1013	Person 187826 187832	Daniel
+T1014	Person 187899 187911	abbe Germane
+T1015	Location 187935 187942	Voyonsl
+T1016	Product 188427 188441	l'abbe Germane
+T1017	Person 188744 188755	PETIT CHOSE
+T1018	Location 189245 189247	Tu
+T1019	Location 189715 189719	MIoi
+T1020	Person 190202 190214	abbe Germane
+T1021	Person 190922 190934	abbe Germane
+T1022	Location 191126 191130	tete
+T1023	Person 191209 191214	L A-'
+T1024	Location 191235 191236	L
+T1025	Person 191279 191284	I -ke
+T1026	Organization 191616 191629	cafe Barbette
+T1027	Location 192079 192084	Paris
+T1028	Person 192114 192118	Dieu
+T1029	Organization 192165 192179	Tu m'en- tends
+T1030	Person 192229 192235	Daniel
+T1031	Location 192326 192335	La-dessus
+T1032	Location 192685 192690	Paris
+T1033	Product 193550 193564	l'abbe Germane
+T1034	Person 193690 193701	PETIT CHOSE
+T1035	Person 194284 194288	VIOT
+T1036	Person 194485 194494	Eyssettel
+T1037	Person 194504 194513	Eyssettel
+T1038	Organization 194537 194550	cafe Barbette
+T1039	Person 194571 194579	Cassagne
+T1040	Organization 194646 194657	Est-ce vrai
+T1041	Person 194675 194692	monsieur Eyssette
+T1042	Location 194696 194699	Oui
+T1043	Person 194710 194718	Barbette
+T1044	Person 194720 194731	repondis-je
+T1045	Person 194777 194785	Barbette
+T1046	Person 194802 194810	Cassagne
+T1047	Person 194847 194855	Barbette
+T1048	Person 194891 194899	Cassagne
+T1049	Location 194951 194959	Commentl
+T1050	Person 195122 195130	Barbette
+T1051	Person 195156 195171	Cassagne.Ioo LE
+T1052	Person 195172 195183	PETIT CHOSE
+T1053	Product 195286 195300	l'abbe Germane
+T1054	Person 195694 195711	monsieur Eyssette
+T1055	Person 195735 195738	Ohl
+T1056	Organization 196469 196482	cafe Barbette
+T1057	Person 197598 197606	vIOT IoI
+T1058	Person 197964 197967	Ohl
+T1059	Organization 198015 198024	Qu'est-ce
+T1060	Location 198066 198069	Mon
+T1061	Location 198746 198749	Moi
+T1062	Product 199122 199136	l'abbe Germane
+T1063	Person 199535 199539	Dieu
+T1064	Person 199718 199722	Viot
+T1065	Location 199757 199758	O
+T1066	Person 200000 200011	PETIT CHOSE
+T1067	Person 200779 200783	Viot
+T1068	Person 200796 200800	Viot
+T1069	Person 201098 201111	Monsieur Viot
+T1070	Person 201181 201196	Ohl mon Dieuln-
+T1071	Location 201620 201629	Boucoyran
+T1072	Organization 201757 201766	Barbettel
+T1073	Person 201778 201791	cocherl Sonne
+T1074	Organization 201804 201827	Bonne vieille diligence
+T1075	Person 201999 202007	Baptiste
+T1076	Location 202043 202048	Paris
+T1077	Person 202074 202082	Eyssette
+T1078	Location 202084 202091	Jacques
+T1079	Person 202191 202199	Baptiste
+T1080	Person 202217 202226	Eyssettel
+T1081	Location 202876 202880	Ceci
+T1082	Person 203114 203125	MP Eyssette
+T1083	Person 203420 203431	PETIT CHOSE
+T1084	Person 203432 203440	Baptiste
+T1085	Person 203473 203481	Eyssette
+T1086	Person 203560 203568	Eyssette
+T1087	Person 203588 203596	Eyssette
+T1088	Person 203975 203983	Baptiste
+T1089	Person 204015 204023	Eyssette
+T1090	Person 204257 204265	Eyssette
+T1091	Person 204835 204843	Baptiste
+T1092	Location 204951 204956	Paris
+T1093	Person 204967 204976	mon frere
+T1094	Person 205073 205081	Eyssette
+T1095	Person 205223 205231	Baptiste
+T1096	Person 205257 205263	Daniel
+T1097	Location 205307 205312	Paris
+T1098	Person 205516 205524	Baptiste
+T1099	Person 205909 205915	Daniel
+T1100	Person 206022 206031	Eyssettel
+T1101	Person 206286 206293	Jacques
+T1102	Person 206780 206788	Baptiste
+T1103	Person 207027 207034	PARTIE=
+T1104	Event 207122 207125	E L
+T1105	Location 207170 207171	R
+T1106	Person 207247 207255	Baptiste
+T1107	Location 207324 207331	Afrique
+T1108	Location 207385 207390	Paris
+T1109	Person 207963 207974	PETIT CHOSE
+T1110	Location 208358 208369	Champenoise
+T1111	Location 208520 208524	tete
+T1112	Location 208793 208798	Paris
+T1113	Person 208827 208834	Jacques
+T1114	Location 208849 208866	malgre la faim j'
+T1115	Location 209307 209315	Sarlande
+T1116	Person 209719 209731	MAe Eyssette
+T1117	Location 209747 209749	Eh
+T1118	Location 209978 209989	Champenoise
+T1119	Location 210071 210076	Paris
+T1120	Hour 210112 210133	trois heures du matin
+T1121	Location 210280 210282	Oi
+T1122	Location 210328 210333	Paris
+T1123	Person 210690 210707	Parisl Parisl Vos
+T1124	Location 210744 210748	tete
+T1125	Location 210786 210791	Paris
+T1126	Organization 211117 211125	Jacquesl
+T1127	Location 211452 211461	Circulezl
+T1128	Person 211508 211518	Jacques me
+T1129	Location 211780 211785	Paris
+T1130	Location 211962 211967	Paris
+T1131	Person 212509 212516	Jacques
+T1132	Person 212546 212557	PETIT CHOSE
+T1133	Location 212734 212737	Moi
+T1134	Person 212752 212761	mon frere
+T1135	Location 212863 212868	Paris
+T1136	Person 213127 213157	Ahl Jacquesl Jacquesl Pourquoi
+T1137	Person 213284 213291	Jacques
+T1138	Organization 213426 213443	Commentl Jacquesl
+T1139	Person 213534 213541	Jacques
+T1140	Organization 213691 213715	clocher de Saint-Germain
+T1141	Person 213939 213946	Jacques
+T1142	Location 214019 214027	Mon cher
+T1143	Location 214094 214099	Paris
+T1144	Location 214132 214135	Toi
+T1145	Location 214267 214271	pate
+T1146	Person 214396 214399	Sh-
+T1147	Location 214400 214402	P.
+T1148	Person 214520 214530	DE LA PART
+T1149	Person 214534 214560	CURE DE SAINT-NIZIER Dieul
+T1150	Location 214749 214753	pate
+T1151	Person 214906 214915	Eyssettel
+T1152	Person 214974 214984	Jacques me
+T1153	Location 215119 215122	Moi
+T1154	Person 215730 215741	PETIT CHOSE
+T1155	Location 216136 216144	Bretagne
+T1156	Person 216184 216196	MIP Eyssette
+T1157	Person 216210 216218	Baptiste
+T1158	Location 216252 216254	Tu
+T1159	Location 216825 216827	Tu
+T1160	Location 217033 217045	rue Lanterne
+T1161	Location 217800 217804	Lyon
+T1162	Location 218184 218189	Annou
+T1163	Person 218294 218314	CURE DE SAINT-NIZIER
+T1164	Location 218336 218340	Lyon
+T1165	Person 218347 218351	Dieu
+T1166	Location 218640 218642	Tu
+T1167	Person 218695 218702	lal Ahl
+T1168	Person 218779 218784	De la
+T1169	Location 218942 218944	Tu
+T1170	Location 219540 219552	rue Lanterne
+T1171	Location 219610 219614	Lyon
+T1172	Person 219816 219826	mon Daniel
+T1173	Location 219965 219975	Figure-toi
+T1174	Person 220134 220142	Eyssette
+T1175	Location 220557 220561	Lyon
+T1176	Location 220655 220660	Paris
+T1177	Location 220820 220823	Mon
+T1178	Person 220867 220878	PETIT CHOSE
+T1179	Location 220943 220948	Paris
+T1180	Person 220999 221009	mon Daniel
+T1181	Location 221171 221183	Saint-Nizier
+T1182	Organization 221223 221245	faubourg Saint-Germain
+T1183	Person 221347 221352	De la
+T1184	Product 221551 221570	mon habit mon habit
+T1185	Location 221716 221721	Paris
+T1186	Hour 221727 221747	sept heures du matin
+T1187	Person 221830 221836	Daniel
+T1188	Hour 221882 221902	sept heures du matin
+T1189	Location 221906 221911	Paris
+T1190	Location 221968 221971	Moi
+T1191	Location 222004 222008	fier
+T1192	Location 222214 222229	Fortune a Paris
+T1193	Organization 222283 222305	faubourg Saint-Germain
+T1194	Location 222390 222395	Lille
+T1195	Location 222415 222434	rue Saint-Guillaume
+T1196	Location 222647 222659	Saint-Nizier
+T1197	Location 223024 223026	Eh
+T1198	Location 223221 223233	Saint-Nizier
+T1199	Location 223419 223424	Lille
+T1200	Organization 223436 223467	LA PART DU CURE DE SAINT-NIzIER
+T1201	Person 223678 223691	Saint- Nizier
+T1202	Location 224018 224037	rue Saint-Guillaume
+T1203	Location 224779 224798	rue Saint-Guillaume
+T1204	Location 225069 225071	Tu
+T1205	Person 225320 225328	Ahl tres
+T1206	Person 225335 225346	repondis-je
+T1207	Location 225432 225444	Saint-Nizier
+T1208	Person 225655 225666	PETIT CHOSE
+T1209	Location 225714 225716	Eh
+T1210	Person 225818 225823	De la
+T1211	Location 225840 225852	Saint-Nizier
+T1212	Location 226086 226098	Saint-Nizier
+T1213	Location 226362 226367	Paris
+T1214	Location 226439 226458	rue Saint-Guillaume
+T1215	Location 226642 226647	Lille
+T1216	Location 226718 226729	Hacqueville
+T1217	Location 226761 226763	Tu
+T1218	Location 227039 227051	Saint-Nizier
+T1219	Location 227128 227133	Paris
+T1220	Location 227206 227217	Hacqueville
+T1221	Location 227311 227313	Tu
+T1222	Location 227341 227345	tete
+T1223	Person 228072 228082	DE LA PART
+T1224	Person 228086 228106	CURE DE SAINT-NIZIER
+T1225	Location 228238 228242	tete
+T1226	Location 228520 228524	tete
+T1227	Product 229250 229298	dejeuner du secretaire, qui doit etre tres court
+T1228	Location 229798 229810	Hacquevillel
+T1229	Person 229963 229979	Ohl parfaitement
+T1230	Person 230002 230013	repondis-je
+T1231	Location 230152 230154	Eh
+T1232	Location 230293 230297	XXIV
+T1233	Location 230323 230329	Villle
+T1234	Location 230342 230343	O
+T1235	Person 230347 230358	PETIT CHOSE
+T1236	Person 230484 230494	mon Daniel
+T1237	Location 230939 230945	Italie
+T1238	Location 230972 230980	Moustier
+T1239	Person 231103 231109	Pilois
+T1240	Person 231270 231277	Decazes
+T1241	Location 231506 231515	Pierrotte
+T1242	Location 231519 231525	Est-ce
+T1243	Location 231553 231562	Pierrotte
+T1244	Location 231573 231582	Pierrotte
+T1245	Location 231636 231645	Pierrotte
+T1246	Location 231657 231666	Pierrotte
+T1247	Location 231678 231687	Pierrotte
+T1248	Location 231764 231770	Saumon
+T1249	Person 231804 231812	Eyssette
+T1250	Person 232032 232042	Ohl Daniel
+T1251	Person 232044 232054	mon Daniel
+T1252	Person 232115 232138	MA MERE JACOUES Jacques
+T1253	Person 232395 232402	Jacques
+T1254	Person 232476 232485	mon frere
+T1255	Location 232550 232558	Sarlande
+T1256	Person 232718 232722	Viot
+T1257	Organization 232925 232938	cafe Barbette
+T1258	Product 233063 233077	l'abbe Germane
+T1259	Location 233080 233082	Tu
+T1260	Location 233141 233145	tete
+T1261	Person 233162 233169	Jacques
+T1262	Person 233328 233339	PETIT CHOSE
+T1263	Organization 233431 233443	abbe Germane
+T1264	Person 233468 233474	Daniel
+T1265	Person 233631 233640	mon frere
+T1266	Person 233742 233748	Daniel
+T1267	Person 233773 233785	mere Jacques
+T1268	Location 234078 234079	O
+T1269	Person 234202 234209	Jacques
+T1270	Location 234214 234218	Lyon
+T1271	Person 234223 234230	Jacques
+T1272	Person 234475 234481	Daniel
+T1273	Person 234487 234494	Jacques
+T1274	Person 234573 234580	Jacques
+T1275	Person 234585 234592	Ohl moi
+T1276	Location 234811 234822	Hacqueville
+T1277	Location 234880 234883	Toi
+T1278	Person 234972 234984	mere Jacques
+T1279	Location 235243 235247	pate
+T1280	Organization 235599 235623	clocher de Saint-Germain
+T1281	Location 235680 235693	Saint-Germain
+T1282	Location 236179 236187	Sarlande
+T1283	Person 236406 236412	l Puis
+T1284	Person 236445 236457	chez Iacques
+T1285	Location 236581 236589	Sarlande
+T1286	Location 237120 237133	Saint-Germain
+T1287	Person 237173 237180	Angelus
+T1288	Organization 237406 237430	Angelus de Saint-Germain
+T1289	Person 237443 237450	Angelus
+T1290	Location 237454 237459	Paris
+T1291	Location 237506 237511	Paris
+T1292	Organization 237917 237925	Parisien
+T1293	Location 238399 238404	Paris
+T1294	Location 239034 239041	Regarde
+T1295	Person 239209 239220	PETIT CHOSE
+T1296	Person 239687 239710	Saint-Germain-des- Pres
+T1297	Location 239783 239787	Rome
+T1298	Organization 240088 240112	clocher de Saint-Germain
+T1299	Person 240218 240236	mere Jacques parut
+T1300	Location 240283 240291	Commentl
+T1301	Person 240303 240309	Daniel
+T1302	Person 240316 240326	fais-tu la
+T1303	Location 240380 240382	Tu
+T1304	Person 240422 240432	Jacques me
+T1305	Organization 240479 240492	dejh Parisien
+T1306	Location 240607 240611	Lyon
+T1307	Person 240622 240635	Eyssette pere
+T1308	Location 240932 240941	Lh-dessus
+T1309	Location 240984 240989	Paris
+T1310	Person 241074 241083	mon frere
+T1311	Location 241140 241150	tete haute
+T1312	Person 241253 241260	Jacques
+T1313	Location 241495 241498	Oui
+T1314	Person 242227 242239	mere Jacques
+T1315	Person 242413 242420	Jacques
+T1316	Person 242742 242745	Ohl
+T1317	Location 242779 242788	Boucoyran
+T1318	Location 242829 242838	Boucoyran
+T1319	Location 242853 242862	Boucoyran
+T1320	Location 242865 242874	Boucoyran
+T1321	Location 242920 242929	Boucoyran
+T1322	Person 243093 243113	MIisericordel Daniel
+T1323	Location 243170 243172	Tu
+T1324	Location 243269 243271	Tu
+T1325	Person 243398 243413	Religionl Poeme
+T1326	Location 243434 243436	Ca
+T1327	Person 243492 243495	Ohl
+T1328	Person 243501 243508	Jacques
+T1329	Person 243629 243640	PETIT CHOSE
+T1330	Location 243822 243830	Sarlande
+T1331	Location 243860 243867	Prairie
+T1332	Organization 244065 244084	Religionl Religionl
+T1333	Person 244255 244265	Jacques m'
+T1334	Person 244633 244640	Jacques
+T1335	Person 244692 244703	Ohl Daniell
+T1336	Person 245136 245142	Daniel
+T1337	Person 245214 245217	Ohl
+T1338	Location 245289 245293	Bahl
+T1339	Person 245348 245355	Jacques
+T1340	Location 245480 245483	Toi
+T1341	Person 245624 245631	Jacques
+T1342	Location 245737 245739	We
+T1343	Location 245834 245843	I IL ia.-
+T1344	Location 245898 245899	K
+T1345	Location 245930 245931	R
+T1346	Organization 245991 245999	J eA A--
+T1347	Person 246240 246247	Jacques
+T1348	Location 246356 246359	Moi
+T1349	Location 246507 246509	Tu
+T1350	Person 246608 246616	Eyssette
+T1351	Person 246677 246688	Me Eyssette
+T1352	Person 246939 246953	Saint- Germain
+T1353	Person 247012 247027	Daniel Eyssette
+T1354	Location 247098 247102	fier
+T1355	Location 247174 247190	rue Saint-Benoit
+T1356	Person 247463 247470	Jacques
+T1357	Person 247620 247627	Jacques
+T1358	Person 247693 247708	Daniel Eyssette
+T1359	Location 247857 247859	MI
+T1360	Person 247919 247926	Jacques
+T1361	Person 248199 248206	Jacques
+T1362	Organization 248362 248373	PETIT CHOSE
+T1363	Location 248454 248458	Ouil
+T1364	Person 248523 248531	Eyssette
+T1365	Person 248745 248752	Jacques
+T1366	Location 249036 249038	Tu
+T1367	Location 249197 249203	Est-ce
+T1368	Person 249709 249716	Jacques
+T1369	Location 250308 250325	Eh bienl Jacquesl
+T1370	Location 250329 250331	Eh
+T1371	Person 250338 250344	Daniel
+T1372	Location 250930 250939	Pierrotte
+T1373	Location 251025 251034	Pierrotte
+T1374	Location 251040 251046	Est-ce
+T1375	Location 251071 251074	Oui
+T1376	Person 251125 251141	Tiensl Pierrotte
+T1377	Person 251255 251269	Mlle Pierrotte
+T1378	Person 251273 251276	Ohl
+T1379	Person 251324 251330	Daniel
+T1380	Person 251470 251477	Jacques
+T1381	Location 251644 251648	Lyon
+T1382	Location 251650 251662	rue Lanterne
+T1383	Person 251685 251692	Jacques
+T1384	Location 251719 251731	rue Lanterne
+T1385	Location 251783 251785	MI
+T1386	Person 251787 251795	Eyssette
+T1387	Person 251885 251892	Jacques
+T1388	Location 251990 252003	Saint-Germain
+T1389	Person 252175 252189	De quoi ris-tu
+T1390	Person 252191 252198	Jacques
+T1391	Location 252298 252306	Parbleul
+T1392	Location 252447 252452	MIais
+T1393	Location 252505 252511	Rouget
+T1394	Person 252513 252520	Jacques
+T1395	Location 252522 252528	Est-ce
+T1396	Person 252560 252581	PETIT CHOSE La-dessus
+T1397	Location 252758 252770	Coucou-Blanc
+T1398	Location 252814 252827	Coucou-Blancl
+T1399	Organization 252831 252840	Qu'est-ce
+T1400	Location 252878 252890	Coucou-Blanc
+T1401	Organization 252982 252990	Jacquesl
+T1402	Person 253035 253055	Coucou-Blancl Est-ce
+T1403	Location 253082 253084	Tu
+T1404	Location 253229 253241	Coucou-Blanc
+T1405	Location 253274 253283	La-dessus
+T1406	Person 253285 253292	Jacques
+T1407	Person 253318 253333	Daniel Eyssette
+T1408	Person 253440 253447	LA DAME
+T1409	Organization 253752 253770	Daniel d'autrefois
+T1410	Person 253877 253883	Daniel
+T1411	Organization 253933 253957	horloge de Saint-Germain
+T1412	Organization 254035 254043	Jacquesl
+T1413	Location 254047 254053	Est-ce
+T1414	Location 254375 254378	Moi
+T1415	Person 254438 254445	Jacques
+T1416	Person 254471 254478	Jacques
+T1417	Person 254518 254524	Daniel
+T1418	Person 254632 254643	PETIT CHOSE
+T1419	Person 256561 256568	Jacques
+T1420	Person 256847 256854	Jacques
+T1421	Location 256969 256973	tete
+T1422	Location 256976 256980	tete
+T1423	Location 257019 257024	Mluse
+T1424	Person 257195 257202	LA DAME
+T1425	Organization 257430 257454	cloches de Saint-Germain
+T1426	Person 257811 257818	Angelus
+T1427	Person 257823 257830	Angelus
+T1428	Person 257928 257935	Angelus
+T1429	Location 258226 258242	rue Saint-Benoit
+T1430	Location 258528 258538	Luxembourg
+T1431	Person 258582 258592	9 Eyssette
+T1432	Person 259256 259263	Jacques
+T1433	Person 259449 259456	Jacques
+T1434	Person 259724 259731	Jacques
+T1435	Person 259814 259825	PETIT CHOSE
+T1436	Person 259941 259955	chez Pierrotte
+T1437	Person 260000 260007	Jacques
+T1438	Location 260073 260076	Moi
+T1439	Person 260490 260497	Angelus
+T1440	Location 260558 260562	Muse
+T1441	Hour 260571 260582	neuf heures
+T1442	Location 260694 260706	Coucou-Blanc
+T1443	Location 260906 260918	Coucou-Blanc
+T1444	Location 261123 261128	MIais
+T1445	Location 261167 261172	MIais
+T1446	Location 261267 261272	Latin
+T1447	Location 261303 261307	tete
+T1448	Location 261425 261437	Coucou-Blanc
+T1449	Location 261633 261641	Nanterre
+T1450	Organization 262514 262522	Lfi L---
+T1451	Location 262536 262537	L
+T1452	Location 262563 262564	R
+T1453	Location 262693 262697	A  e
+T1454	Location 262716 262719	AO'
+T1455	Location 262726 262728	I.
+T1456	Location 262730 262731	W
+T1457	Organization 262796 262797	E
+T1458	Location 262798 262799	R
+T1459	Location 262802 262803	W
+T1460	Location 262873 262874	K
+T1461	Person 262895 262902	LA DAME
+T1462	Person 263329 263336	Jacques
+T1463	Location 263361 263373	Coucou-Blanc
+T1464	Person 263460 263463	Ohl
+T1465	Location 264056 264068	Coucou-Blanc
+T1466	Location 264073 264085	Coucou-Blanc
+T1467	Location 264111 264122	Mimi-Pinson
+T1468	Location 264143 264144	O
+T1469	Location 264201 264203	Eh
+T1470	Person 264217 264224	Jacques
+T1471	Location 264547 264551	tete
+T1472	Person 264744 264754	Jacques m'
+T1473	Location 264777 264789	Coucou-Blanc
+T1474	Person 265045 265058	Coucou- Blanc
+T1475	Location 265194 265198	Ceci
+T1476	Organization 265330 265356	PETIT CHOSE l'air monotone
+T1477	Person 265524 265537	Pierre Dupont
+T1478	Person 265651 265664	Coucou- Blanc
+T1479	Location 266480 266482	I'
+T1480	Person 266672 266686	mere Jacques r
+T1481	Location 266812 266816	fier
+T1482	Person 266944 266958	chez Pierrotte
+T1483	Location 267000 267006	Est-ce
+T1484	Location 267072 267074	Tu
+T1485	Location 267150 267153	Oui
+T1486	Location 267185 267194	Pierrotte
+T1487	Person 267281 267284	Ohl
+T1488	Person 267309 267316	Jacques
+T1489	Person 267405 267412	Jacques
+T1490	Person 267590 267597	LA DAME
+T1491	Person 267615 267621	Daniel
+T1492	Person 267714 267728	chez Pierrotte
+T1493	Location 267749 267751	Eh
+T1494	Person 268175 268189	chez Pierrotte
+T1495	Organization 268267 268294	LE ROMAN DE PIERROTTE Quand
+T1496	Location 268295 268304	Pierrotte
+T1497	Location 268372 268374	MI
+T1498	Person 268376 268385	Lalouette
+T1499	Location 268475 268484	Pierrotte
+T1500	Location 268548 268554	Saumon
+T1501	Location 268585 268594	Pierrotte
+T1502	Location 268975 268984	Pierrotte
+T1503	Location 269133 269142	Pierrotte
+T1504	Location 269384 269388	fier
+T1505	Person 269404 269415	Pier- rotte
+T1506	Organization 269509 269516	Cevenol
+T1507	Person 269560 269571	PETIT CHOSE
+T1508	Person 269693 269701	Eyssette
+T1509	Location 269756 269765	Pierrotte
+T1510	Person 269886 269894	Eyssette
+T1511	Location 269927 269936	Pierrotte
+T1512	Location 270056 270064	Eyssette
+T1513	Location 270179 270184	Paris
+T1514	Person 270292 270303	MI Eyssette
+T1515	Location 270340 270349	Pierrotte
+T1516	Location 270463 270472	Pierrotte
+T1517	Location 270627 270636	Pierrotte
+T1518	Person 270730 270738	Eyssette
+T1519	Person 270923 270935	MIP Eyssette
+T1520	Location 270957 270966	Pierrotte
+T1521	Location 271063 271068	Paris
+T1522	Person 271084 271104	Pierrotte- Pierrotte
+T1523	Person 271176 271185	Lalouette
+T1524	Location 271280 271285	Paris
+T1525	Location 271299 271308	Pierrotte
+T1526	Person 271395 271404	Lalouette
+T1527	Person 271410 271419	Lalouette
+T1528	Person 271658 271667	Lalouette
+T1529	Person 271801 271805	Dieu
+T1530	Person 272073 272092	ROMIAN DE PIERROTTE
+T1531	Person 272635 272644	Lalouette
+T1532	Location 272680 272689	Pierrotte
+T1533	Location 272768 272777	Pierrotte
+T1534	Location 272850 272855	Paris
+T1535	Location 272953 272960	Cevenol
+T1536	Location 273333 273342	Pierrotte
+T1537	Location 273549 273559	Montmartre
+T1538	Location 273564 273571	Cevenol
+T1539	Location 273951 273962	Anastagille
+T1540	Location 274029 274040	Anastagille
+T1541	Location 274084 274095	Anastagille
+T1542	Location 274108 274112	tete
+T1543	Location 274305 274316	Anastagille
+T1544	Location 274320 274329	Pierrotte
+T1545	Location 274346 274356	Montmartre
+T1546	Location 274549 274558	Pierrotte
+T1547	Organization 274605 274616	PETIT CHOSE
+T1548	Person 274682 274691	Lalouette
+T1549	Location 274726 274738	Mademoiselle
+T1550	Location 274758 274767	Pierrotte
+T1551	Person 274777 274788	Me Eyssette
+T1552	Location 274968 274977	Pierrotte
+T1553	Location 275136 275145	Pierrotte
+T1554	Organization 275163 275170	Cevenol
+T1555	Location 275271 275282	Anastagille
+T1556	Person 275317 275326	Lalouette
+T1557	Location 275404 275413	Pierrotte
+T1558	Location 275457 275466	Pierrotte
+T1559	Location 275553 275558	Paris
+T1560	Person 275741 275750	Lalouette
+T1561	Person 275910 275919	Lalouette
+T1562	Person 275962 275971	Lalouette
+T1563	Person 276045 276059	Mlle Pierrotte
+T1564	Location 276102 276109	Cevenol
+T1565	Person 276174 276183	Lalouette
+T1566	Person 276247 276256	Lalouette
+T1567	Location 276333 276342	Pierrotte
+T1568	Location 276388 276395	Cevenol
+T1569	Person 276467 276476	Lalouette
+T1570	Location 276523 276527	tete
+T1571	Organization 276739 276757	roman de Pierrotte
+T1572	Person 276767 276777	Jacques me
+T1573	Location 276834 276840	Saumon
+T1574	Location 276969 276976	Cevenol
+T1575	Location 277031 277040	Pierrotte
+T1576	Person 277112 277121	Lalouette
+T1577	Person 277285 277289	L--C
+T1578	Organization 277300 277303	Y i
+T1579	Location 277328 277329	L
+T1580	Location 277374 277375	E
+T1581	Person 277379 277383	J NW
+T1582	Location 277418 277421	Ll-
+T1583	Organization 277467 277488	LE ROMAN DE PIERROTTE
+T1584	Person 277623 277627	Ceci
+T1585	Location 277652 277659	Cevenol
+T1586	Location 277760 277769	Languedoc
+T1587	Person 277991 277998	Jacques
+T1588	Location 278000 278009	Pierrotte
+T1589	Person 278056 278067	Pier- rotte
+T1590	Person 278150 278157	Camille
+T1591	Person 278192 278203	mon Jacques
+T1592	Hour 278254 278265	neuf heures
+T1593	Person 278319 278328	Lalouette
+T1594	Location 278732 278739	Bonjour
+T1595	Person 278741 278751	Pierrottel
+T1596	Person 278757 278764	Jacques
+T1597	Person 278859 278866	Bonjour
+T1598	Person 278868 278887	Pierrotte Pierrotte
+T1599	Person 278938 278945	Jacques
+T1600	Location 279065 279067	Eh
+T1601	Person 279133 279140	Ohl mon
+T1602	Person 279147 279156	mon Dieul
+T1603	Location 279172 279181	Pierrotte
+T1604	Location 279318 279327	Pierrotte
+T1605	Location 279399 279408	Pierrotte
+T1606	Location 279469 279472	Moi
+T1607	Location 279600 279609	Pierrotte
+T1608	Person 279704 279710	Daniel
+T1609	Person 279817 279828	PETIT CHOSE
+T1610	Person 279903 279915	Mee Eyssette
+T1611	Location 279925 279934	Pierrotte
+T1612	Person 280281 280288	Camille
+T1613	Location 280297 280308	Anastagille
+T1614	Location 280456 280465	Pierrotte
+T1615	Location 280687 280693	Est-ce
+T1616	Person 280698 280705	Camille
+T1617	Person 280727 280734	Jacques
+T1618	Location 280765 280768	Oui
+T1619	Person 280908 280914	Daniel
+T1620	Person 281042 281052	Jacques me
+T1621	Location 281149 281158	Pierrotte
+T1622	Location 281287 281293	Boheme
+T1623	Person 281767 281774	Jacques
+T1624	Location 282101 282107	Est-ce
+T1625	Person 282135 282141	Daniel
+T1626	Organization 282142 282163	LE ROMAN DE PIERROTTE
+T1627	Person 282312 282319	Jacques
+T1628	Location 282363 282372	Pierrotte
+T1629	Person 282440 282447	Camille
+T1630	Person 282559 282562	Ohl
+T1631	Person 282650 282657	Camille
+T1632	Person 282687 282699	Veuve Tribou
+T1633	Person 282774 282780	Tribou
+T1634	Location 282787 282796	Pierrotte
+T1635	Person 282857 282862	Sonne
+T1636	Person 282864 282870	Daniel
+T1637	Person 282954 282961	Jacques
+T1638	Person 283052 283065	Mle Pierrotte
+T1639	Person 283117 283130	Mee Lalouette
+T1640	Person 283143 283149	Tribou
+T1641	Location 283358 283365	Camille
+T1642	Person 283378 283385	Camille
+T1643	Person 283503 283515	Me Lalouette
+T1644	Person 283541 283548	Jacques
+T1645	Person 283577 283591	Mlle Pierrotte
+T1646	Location 283944 283953	Pierrotte
+T1647	Location 284018 284024	Saumon
+T1648	Person 284113 284127	Mlle Pierrotte
+T1649	Location 284356 284357	O
+T1650	Location 284618 284624	Est-ce
+T1651	Person 284713 284724	PETIT CHOSE
+T1652	Location 285278 285282	tete
+T1653	Location 285430 285434	tete
+T1654	Location 285570 285575	sucre
+T1655	Person 285851 285860	Lalouette
+T1656	Location 285952 285956	tete
+T1657	Location 286223 286232	Pierrotte
+T1658	Person 286318 286325	Jacques
+T1659	Location 286475 286477	Eh
+T1660	Location 286499 286506	Cevenol
+T1661	Person 286585 286595	ton Daniel
+T1662	Location 286708 286720	Mademoiselle
+T1663	Location 286738 286747	Pierrotte
+T1664	Location 286871 286883	Mademoiselle
+T1665	Location 286897 286909	Mademoiselle
+T1666	Location 286935 286947	Mademoiselle
+T1667	Person 286988 287002	MmAe Lalouette
+T1668	Location 287314 287320	Vallee
+T1669	Person 287435 287442	Jacques
+T1670	Location 287496 287505	Pierrotte
+T1671	Person 287635 287647	Jacques cria
+T1672	Person 287890 287897	Jacques
+T1673	Person 287916 287930	Mlle Pierrotte
+T1674	Location 288019 288027	Rosellen
+T1675	Location 288055 288064	Pierrotte
+T1676	Person 288088 288095	Jacques
+T1677	Location 288232 288240	Rosellen
+T1678	Location 288253 288262	Pierrotte
+T1679	Person 288303 288309	Daniel
+T1680	Person 288436 288443	Jacques
+T1681	Person 288462 288469	Jacques
+T1682	Location 288473 288476	Moi
+T1683	Location 288771 288780	Pierrotte
+T1684	Location 288784 288795	Excusez-moi
+T1685	Location 288916 288925	Pierrotte
+T1686	Person 289098 289108	Jacques m'
+T1687	Hour 289174 289185	onze heures
+T1688	Person 289205 289219	Mlle Pierrotte
+T1689	Location 289261 289266	sucre
+T1690	Person 289592 289605	Mle Pierrotte
+T1691	Person 289642 289656	Mlle Pierrotte
+T1692	Person 289686 289697	PETIT CHOSE
+T1693	Person 289762 289771	Lalouette
+T1694	Person 289960 289974	Mlle Pierrotte
+T1695	Person 290106 290119	MIe Lalouette
+T1696	Location 290272 290281	Pierrotte
+T1697	Person 290382 290388	Daniel
+T1698	Person 290568 290577	Lalouette
+T1699	Person 290609 290615	Tribou
+T1700	Person 291008 291014	Daniel
+T1701	Location 291082 291087	Latin
+T1702	Person 291210 291227	Mlle Coucou-Blanc
+T1703	Location 291267 291279	Coucou-Blanc
+T1704	Location 291310 291319	Pierrotte
+T1705	Person 291357 291364	Jacques
+T1706	Location 291370 291382	Coucou-Blanc
+T1707	Location 291399 291411	Coucou-Blanc
+T1708	Person 291415 291426	Hel hel hel
+T1709	Location 291641 291643	Eh
+T1710	Location 291717 291725	Mon cher
+T1711	Location 291727 291729	MI
+T1712	Person 291731 291740	Lalouette
+T1713	Person 291761 291775	Mlle Pierrotte
+T1714	Person 291917 291932	Allonsl Jacques
+T1715	Person 292251 292261	Jacques me
+T1716	Person 292439 292445	Daniel
+T1717	Person 292598 292604	Daniel
+T1718	Organization 292657 292665	Jacquesl
+T1719	Location 292728 292731	Moi
+T1720	Location 292827 292834	Diablel
+T1721	Person 292899 292913	Mlle Pierrotte
+T1722	Person 292974 292988	Mlle Pierrotte
+T1723	Location 293035 293039	sien
+T1724	Person 293127 293141	Mlle Pierrotte
+T1725	Person 293220 293230	ROSE ROUGE
+T1726	Person 293297 293306	Lalouette
+T1727	Location 293617 293623	Orient
+T1728	Person 294089 294095	Daniel
+T1729	Person 294149 294162	Nonl Jacquesl
+T1730	Person 294347 294361	chez Pierrotte
+T1731	Location 294524 294528	tete
+T1732	Person 294568 294579	PETIT CHOSE
+T1733	Person 294800 294812	mere Jacques
+T1734	Location 294882 294888	Saumon
+T1735	Person 294922 294926	Dieu
+T1736	Organization 295209 295217	Jacquesl
+T1737	Location 295280 295284	Muse
+T1738	Location 295445 295449	tete
+T1739	Person 295553 295565	mere Jacques
+T1740	Person 295714 295728	chez Pierrotte
+T1741	Organization 295825 295834	Qu'est-ce
+T1742	Person 295846 295853	Jacques
+T1743	Location 296410 296417	Voyonsl
+T1744	Location 296506 296508	Eh
+T1745	Location 296620 296626	Est-ce
+T1746	Location 296631 296640	Pierrotte
+T1747	Person 296723 296738	Ohl nonl Daniel
+T1748	Location 296753 296762	Pierrotte
+T1749	Organization 296839 296846	OQuelle
+T1750	Person 296854 296861	Jacques
+T1751	Person 296900 296910	ROSE ROUGE
+T1752	Location 297019 297021	Eh
+T1753	Person 297134 297141	Jacques
+T1754	Person 297178 297185	Jacques
+T1755	Organization 297366 297390	clocher de Saint-Germain
+T1756	Person 297392 297399	Jacques
+T1757	Location 297478 297481	Moi
+T1758	Person 297557 297564	Jacques
+T1759	Person 297582 297596	Mlle Pierrotte
+T1760	Person 297692 297699	Jacques
+T1761	Location 297782 297785	Oui
+T1762	Person 297952 297956	Dieu
+T1763	Person 298040 298047	Jacques
+T1764	Person 298063 298070	Jacques
+T1765	Location 298124 298130	Saumon
+T1766	Person 298149 298158	Lalouette
+T1767	Location 298191 298202	Porcelaines
+T1768	Person 298458 298465	Camille
+T1769	Person 298626 298635	Pierrotte
+T1770	Location 298823 298832	Pierrotte
+T1771	Person 299037 299051	Mlle Pierrotte
+T1772	Person 299092 299106	Mlle Pierrotte
+T1773	Person 299351 299362	PETIT CHOSE
+T1774	Person 299414 299420	Daniel
+T1775	Location 299429 299438	Pierrotte
+T1776	Location 299600 299603	Oui
+T1777	Location 299636 299641	Latin
+T1778	Location 299653 299660	Cevenol
+T1779	Location 299853 299858	Latin
+T1780	Organization 300008 300032	clocher de Saint-Germain
+T1781	Location 300178 300187	Pierrotte
+T1782	Person 300332 300339	Jacques
+T1783	Location 300467 300476	Pierrotte
+T1784	Person 300892 300906	Mlle Pierrotte
+T1785	Location 301002 301008	Est-ce
+T1786	Person 301019 301036	Mlle Coucou-Blanc
+T1787	Person 301488 301502	Mlle Pierrotte
+T1788	Person 301770 301777	mon ame
+T1789	Person 301847 301857	ROsE ROUGE
+T1790	Person 301957 301971	Mlle Pierrotte
+T1791	Person 302046 302053	Jacques
+T1792	Person 302246 302253	Jacques
+T1793	Person 302306 302310	Dieu
+T1794	Location 302426 302434	Sarlande
+T1795	Person 302510 302524	Mlle Pierrotte
+T1796	Location 302599 302602	Moi
+T1797	Person 302640 302647	Jacques
+T1798	Location 302703 302712	La-dessus
+T1799	Person 302769 302776	Jacques
+T1800	Person 302912 302926	Mlle Pierrotte
+T1801	Person 303090 303097	Camille
+T1802	Person 303411 303425	Mlle Pierrotte
+T1803	Person 303463 303470	Jacques
+T1804	Person 303497 303511	Mlle Pierrotte
+T1805	Person 303641 303648	Jacques
+T1806	Person 304304 304318	Jacques la vit
+T1807	Person 304424 304434	PETT CHOSE
+T1808	Person 304669 304676	Jacques
+T1809	Person 304686 304693	Jacques
+T1810	Person 304776 304782	Daniel
+T1811	Location 305086 305089	Moi
+T1812	Organization 305118 305131	ma rose rouge
+T1813	Location 305651 305653	Tu
+T1814	Person 305687 305690	Ohl
+T1815	Person 306110 306120	Jacques me
+T1816	Location 306251 306256	Peine
+T1817	Person 306730 306742	mere Jacques
+T1818	Person 306925 306935	ROSE ROUGE
+T1819	Location 307076 307080	fier
+T1820	Location 307207 307208	O
+T1821	Organization 307209 307217	Jacquesl
+T1822	Person 307377 307391	chez Pierrotte
+T1823	Person 307462 307466	Dieu
+T1824	Location 307480 307485	sucre
+T1825	Person 307491 307500	Lalouette
+T1826	Location 307583 307598	Desir-de-plaire
+T1827	Location 307704 307713	Pierrotte
+T1828	Person 307748 307755	Camille
+T1829	Location 307970 307977	Cevenol
+T1830	Location 308198 308202	tete
+T1831	Location 308205 308209	tete
+T1832	Person 308514 308536	mademoiselle Pierrotte
+T1833	Location 308629 308637	Rosellen
+T1834	Location 309283 309298	Desir-de-plaire
+T1835	Person 309360 309382	mademoiselle Pierrotte
+T1836	Person 309545 309556	PETIT CHOSE
+T1837	Location 309943 309947	tete
+T1838	Person 310098 310120	mademoiselle Pierrotte
+T1839	Person 310400 310414	Voyonsl Daniel
+T1840	Location 310464 310473	Pierrotte
+T1841	Location 310688 310703	Desir-de-plaire
+T1842	Person 310766 310777	Pier- rotte
+T1843	Person 311075 311097	mademoiselle Pierrotte
+T1844	Person 311634 311652	LECTURE AU PASSAGE
+T1845	Organization 311915 311939	clocher de Saint-Germain
+T1846	Person 311962 311969	Jacques
+T1847	Person 312013 312020	Jacques
+T1848	Location 312266 312269	Moi
+T1849	Person 312314 312324	Jacques m'
+T1850	Organization 312902 312913	6z LE PETIT
+T1851	Location 313434 313442	Baghavat
+T1852	Location 313499 313507	bordeaux
+T1853	Location 313557 313565	Baghavat
+T1854	Location 313743 313751	Cunocepa
+T1855	Location 313809 313817	Baghavat
+T1856	Location 313847 313855	Baghavat
+T1857	Location 314089 314092	Moi
+T1858	Location 314188 314196	Baghavat
+T1859	Location 314565 314573	Baghavat
+T1860	Location 315268 315272	MIoi
+T1861	Location 315354 315362	Baghavat
+T1862	Person 315499 315517	LECTURE AU PASSAGE
+T1863	Location 315761 315769	Baghavat
+T1864	Location 316066 316070	tete
+T1865	Location 316562 316568	manche
+T1866	Location 316957 316965	Commentl
+T1867	Location 317094 317103	La-dessus
+T1868	Person 317309 317316	Jacques
+T1869	Location 317393 317396	Qu'
+T1870	Location 317515 317517	Oi
+T1871	Person 317590 317608	Mon brave Jacquesl
+T1872	Person 317714 317721	Daniell
+T1873	Person 317818 317832	chez Pierrotte
+T1874	Location 317857 317866	Pierrotte
+T1875	Person 317871 317874	Ohl
+T1876	Person 317889 317900	PETIT CHOSE
+T1877	Person 317921 317936	Damel Pierrotte
+T1878	Person 318032 318039	Camille
+T1879	Person 318163 318172	Lalouette
+T1880	Location 318232 318241	Pierrotte
+T1881	Location 318252 318257	Paris
+T1882	Location 318331 318334	Qu'
+T1883	Location 318430 318436	Saumon
+T1884	Location 318615 318624	Pierrotte
+T1885	Location 318637 318646	Pierrotte
+T1886	Location 318954 318963	Pierrotte
+T1887	Person 319135 319148	Mmee Passajon
+T1888	Location 319223 319229	Alfort
+T1889	Location 319340 319352	Grand-Orient
+T1890	Product 319527 319576	cet important areopage, vous pensez si je fus emu
+T1891	Location 319836 319840	tete
+T1892	Location 319863 319872	Pierrotte
+T1893	Person 320094 320103	Lalouette
+T1894	Location 320124 320129	sucre
+T1895	Person 320374 320384	Sar- lande
+T1896	Person 320455 320473	LECTURE AU PASSAGE
+T1897	Location 320661 320664	Mon
+T1898	Person 320719 320733	chez Pierrotte
+T1899	Person 321101 321116	Daniel Eyssette
+T1900	Person 321166 321183	DUN PAPILLON BLEU
+T1901	Person 321325 321329	Dieu
+T1902	Person 321484 321488	Dieu
+T1903	Location 321564 321574	A BON DIEU
+T1904	Location 321723 321726	Moi
+T1905	Location 321973 321990	A BON DIEU Helasl
+T1906	Person 322021 322032	PETIT CHOSE
+T1907	Location 322109 322111	Tu
+T1908	Location 322147 322150	Oui
+T1909	Location 322167 322189	A BON DIEU LE PAPILLON
+T1910	Person 322217 322230	Hel roule-toi
+T1911	Location 322271 322281	A BON DIEU
+T1912	Person 322372 322383	PAPILLON LA
+T1913	Location 322389 322399	A BON DIEU
+T1914	Location 322611 322621	A BON DIEU
+T1915	Location 322672 322682	A BON DIEU
+T1916	Person 322747 322765	LECTURE AU PASSAGE
+T1917	Location 322785 322795	A BON DIEU
+T1918	Person 322866 322877	PAPILLON LA
+T1919	Location 322883 322906	A BON DIEU Tres mechant
+T1920	Location 323100 323108	Parbleul
+T1921	Location 323357 323367	A BON DIEU
+T1922	Person 323403 323406	Ohl
+T1923	Location 323475 323489	A BON DIEU Non
+T1924	Location 323541 323546	A BON
+T1925	Person 323653 323664	PETIT CHOSE
+T1926	Location 323711 323721	A BON DIEU
+T1927	Location 323974 323982	Mon cher
+T1928	Location 324038 324048	A BON DIEU
+T1929	Location 324115 324125	A BON DIEU
+T1930	Location 324148 324152	tete
+T1931	Location 324224 324228	tete
+T1932	Location 324291 324301	A BON DIEU
+T1933	Location 324321 324324	Oui
+T1934	Location 324338 324340	Ca
+T1935	Location 324360 324370	A BON DIEU
+T1936	Person 324402 324420	LECTURE AU PASSAGE
+T1937	Location 324524 324534	A BON DIEU
+T1938	Person 324535 324538	Ohl
+T1939	Person 324625 324628	Ohl
+T1940	Location 324643 324665	A BON DIEU LE PAPILLON
+T1941	Location 324666 324668	Ca
+T1942	Location 324737 324747	A BON DIEU
+T1943	Location 324981 324991	A BON DIEU
+T1944	Person 324992 324995	Ohl
+T1945	Location 325031 325035	Bahl
+T1946	Location 325066 325076	A BON DIEU
+T1947	Location 325188 325190	Tu
+T1948	Person 325225 325236	PETIT CHOSE
+T1949	Location 325245 325260	A BON DIEU Puis
+T1950	Location 325353 325363	A BON DIEU
+T1951	Person 325642 325646	Dieu
+T1952	Location 325730 325740	A BON DIEU
+T1953	Location 325807 325809	Eh
+T1954	Location 325832 325842	A BON DIEU
+T1955	Location 325843 325851	Mon cher
+T1956	Person 325955 325958	Ohl
+T1957	Location 326030 326040	A BON DIEU
+T1958	Person 326069 326126	LECTURE AU PASSAGE DU SAUMON LE PAPILLON -L.L-L--L-LL-LL-
+T1959	Location 326127 326129	Tu
+T1960	Location 326187 326197	A BON DIEU
+T1961	Person 326198 326201	Ohl
+T1962	Location 326378 326388	A BON DIEU
+T1963	Location 326629 326639	A BON DIEU
+T1964	Location 326640 326649	Mon Dieul
+T1965	Organization 326653 326661	Scarabee
+T1966	Location 326757 326767	A BON DIEU
+T1967	Person 326818 326829	PAPILLON LA
+T1968	Location 326835 326845	A BON DIEU
+T1969	Location 326966 326997	PETIT CHOSE LE PAPILLON LA BETE
+T1970	Location 326998 327008	A BON DIEU
+T1971	Location 327128 327142	A BON DIEU Hel
+T1972	Location 327335 327345	A BON DIEU
+T1973	Location 327565 327575	A BON DIEU
+T1974	Location 327655 327662	Grillon
+T1975	Organization 327697 327702	aCe P
+T1976	Location 327734 327740	Est-ce
+T1977	Person 327788 327806	LECTURE AU PASSAGE
+T1978	Location 327810 327824	SAUMON LA BETE
+T1979	Location 327825 327840	A BON DIEU Moil
+T1980	Location 328048 328050	Tu
+T1981	Location 328153 328163	A BON DIEU
+T1982	Person 328236 328246	Ahl mercil
+T1983	Location 328356 328366	A BON DIEU
+T1984	Person 328381 328384	Ohl
+T1985	Person 328963 328974	PETIT CHOSE
+T1986	Person 328982 328986	Dieu
+T1987	Person 329402 329406	Dieu
+T1988	Location 330400 330404	aube
+T1989	Person 331543 331561	LECTURE AU PASSAGE
+T1990	Person 331910 331914	Dieu
+T1991	Person 332117 332133	DE LA PORCELAINE
+T1992	Location 332977 332981	tete
+T1993	Person 333002 333011	Lalouette
+T1994	Location 333108 333113	sucre
+T1995	Person 333310 333321	PETIT CHOSE
+T1996	Location 333426 333432	Alfort
+T1997	Person 333490 333494	Dieu
+T1998	Person 333659 333666	Jacques
+T1999	Location 333705 333714	Pierrotte
+T2000	Location 334003 334012	Pierrotte
+T2001	Person 334382 334393	Pier- rotte
+T2002	Location 334764 334771	Cevenol
+T2003	Location 334775 334784	Pierrotte
+T2004	Person 335796 335812	DE LA PORCELAINE
+T2005	Person 336060 336067	Jacques
+T2006	Person 336523 336537	chez Pierrotte
+T2007	Person 336741 336748	Daniell
+T2008	Person 336945 336957	mere Jacques
+T2009	Location 337040 337049	Pierrotte
+T2010	Person 337155 337165	mon Daniel
+T2011	Person 337204 337211	Jacques
+T2012	Location 337258 337270	Coucou-Blanc
+T2013	Person 337377 337384	Jacques
+T2014	Location 337400 337402	Tu
+T2015	Location 337617 337630	Coucou-Blancl
+T2016	Location 337813 337825	Coucou-Blanc
+T2017	Location 337885 337891	Saumon
+T2018	Location 337978 337987	Pierrotte
+T2019	Person 338245 338256	PETIT CHOSE
+T2020	Person 338260 338275	Monsieur Daniel
+T2021	Location 338287 338294	Cevenol
+T2022	Location 338536 338542	Est-ce
+T2023	Person 338593 338600	mon ame
+T2024	Location 338611 338620	Pierrotte
+T2025	Person 339084 339093	Lalouette
+T2026	Location 339210 339219	Pierrotte
+T2027	Location 339303 339306	Qu'
+T2028	Person 339335 339352	compere La-dessus
+T2029	Location 339354 339363	Pierrotte
+T2030	Location 339899 339901	Tu
+T2031	Location 340202 340204	Tu
+T2032	Location 340288 340297	Pierrotte
+T2033	Person 340690 340729	DE LA PORCELAINE LLLLLLLLLLLLL.LL-.L- 8
+T2034	Person 340763 340773	Camille me
+T2035	Person 340791 340805	Mlle Pierrotte
+T2036	Location 340821 340830	Pierrotte
+T2037	Location 341145 341147	Tu
+T2038	Location 341382 341391	Pierrotte
+T2039	Location 341581 341590	Pierrotte
+T2040	Location 341764 341773	Pierrotte
+T2041	Location 341971 341978	Cevenol
+T2042	Location 342275 342277	Tu
+T2043	Location 342370 342374	tete
+T2044	Person 342409 342421	Me Lalouette
+T2045	Location 342531 342539	Rosellen
+T2046	Person 342544 342558	Mlle Pierrotte
+T2047	Location 342752 342757	Venus
+T2048	Location 342794 342799	Amour
+T2049	Location 343132 343134	Oi
+T2050	Person 343250 343261	PETIT CHOSE
+T2051	Person 343262 343269	Jacques
+T2052	Location 343290 343299	Pierrotte
+T2053	Person 343343 343358	Daniel Eyssette
+T2054	Location 343628 343637	Pierrotte
+T2055	Person 343842 343849	Jacques
+T2056	Location 344119 344127	Baghavat
+T2057	Location 344183 344185	Eh
+T2058	Person 344219 344226	Jacques
+T2059	Location 344345 344348	Oui
+T2060	Location 344600 344608	Pardieul
+T2061	Person 344740 344747	Jacques
+T2062	Location 345241 345250	La-dessus
+T2063	Person 345592 345608	DE LA PORCELAINE
+T2064	Location 345812 345826	Saint-Germainl
+T2065	Person 346422 346434	mere Jacques
+T2066	Person 346564 346582	Monsieur Pierrotte
+T2067	Location 346594 346601	Cevenol
+T2068	Person 346647 346654	Camille
+T2069	Person 346731 346734	Ohl
+T2070	Location 346866 346875	Pierrotte
+T2071	Organization 346911 346928	entendis demander
+T2072	Person 346931 346938	Jacques
+T2073	Person 347020 347027	Jacques
+T2074	Location 347044 347053	La-dessus
+T2075	Location 347283 347286	Mon
+T2076	Location 347521 347532	Attends-moi
+T2077	Person 347747 347754	Jacques
+T2078	Location 347821 347829	Mon cher
+T2079	Person 347890 347901	PETIT CHOSE
+T2080	Location 348021 348026	Paris
+T2081	Date 348387 348403	farouche penseur
+T2082	Person 348411 348418	Jacques
+T2083	Location 348582 348586	Nice
+T2084	Location 348772 348774	Eh
+T2085	Person 348811 348825	Voyonsl Daniel
+T2086	Location 348940 348943	Moi
+T2087	Location 348967 348976	Pierrotte
+T2088	Person 349332 349344	mere Jacques
+T2089	Location 349538 349543	Paris
+T2090	Person 350006 350012	Daniel
+T2091	Person 350117 350124	Jacques
+T2092	Person 350242 350249	AIa WWt
+T2093	Location 350359 350360	R
+T2094	Location 350379 350380	Y
+T2095	Organization 350412 350419	Y,3 1LY
+T2096	Location 350452 350492	.1TU vENDRAS DE LA PORCELAINE 8s voiture
+T2097	Person 350535 350545	Jacques me
+T2098	Person 350709 350724	Gustave Planche
+T2099	Person 350821 350829	Eyssette
+T2100	Person 351052 351059	Camille
+T2101	Person 351120 351130	mon Daniel
+T2102	Person 351281 351288	Jacques
+T2103	Person 351402 351415	Heinl OQuelle
+T2104	Person 351436 351442	Daniel
+T2105	Person 351573 351580	Jacques
+T2106	Location 351772 351776	tete
+T2107	Location 351903 351907	tete
+T2108	Person 352173 352182	mon frere
+T2109	Location 352679 352697	MIonsieur Eyssette
+T2110	Person 352860 352871	PETIT CHOSE
+T2111	Person 353839 353845	Daniel
+T2112	Person 353993 354000	Jacques
+T2113	Location 354133 354145	Coucou-Blanc
+T2114	Person 354298 354308	Irma Borel
+T2115	Person 354902 354912	Irma Borel
+T2116	Person 355420 355431	PETIT CHOSE
+T2117	Location 355782 355786	fier
+T2118	Location 355948 355952	tete
+T2119	Location 356125 356131	manche
+T2120	Location 356204 356211	Bonjour
+T2121	Person 356541 356549	Ohl vous
+T2122	Organization 356706 356723	Theatre-Frangcais
+T2123	Location 356822 356826	tete
+T2124	Location 357181 357198	Theatre- Frangais
+T2125	Person 357781 357797	DE LA PORCELAINE
+T2126	Person 357870 357882	mere Jacques
+T2127	Person 357908 357916	Eyssette
+T2128	Person 358009 358023	Mlle Pierrotte
+T2129	Location 358156 358166	Pierrottel
+T2130	Location 358911 358917	Naples
+T2131	Location 359272 359284	Coucou-Blanc
+T2132	Location 359349 359357	Baghavat
+T2133	Location 359395 359403	Baghavat
+T2134	Location 359869 359873	tete
+T2135	Person 360214 360225	PETIT CHOSE
+T2136	Person 360331 360337	Rachel
+T2137	Location 360767 360773	manche
+T2138	Person 361089 361095	Rachel
+T2139	Location 361322 361328	manche
+T2140	Person 361403 361410	Jacques
+T2141	Person 361729 361735	Rachel
+T2142	Person 361770 361776	Rachel
+T2143	Location 362027 362030	Rio
+T2144	Location 362042 362048	Naples
+T2145	Location 362148 362162	Port-au-Prince
+T2146	Location 362166 362171	MIais
+T2147	Location 362229 362241	Coucou-Blanc
+T2148	Person 362272 362285	Coucou- Blanc
+T2149	Person 362529 362534	Borel
+T2150	Location 362587 362599	Coucou-Blanc
+T2151	Location 363049 363057	Baghavat
+T2152	Person 363674 363686	mere Jacques
+T2153	Location 363817 363829	Coucou-Blanc
+T2154	Location 363861 363877	Theatre-Frangais
+T2155	Location 364283 364289	Saumon
+T2156	Location 364328 364335	Cevenol
+T2157	Person 364348 364361	Mle Pierrotte
+T2158	Person 364554 364563	Lalouette
+T2159	Person 364699 364709	Irma Borel
+T2160	Person 364958 364968	Irma Borel
+T2161	Location 365267 365268	L
+T2162	Person 365269 365280	PETIT CHOSE
+T2163	Organization 365904 365928	cloches de Saint-Germain
+T2164	Location 366008 366018	Carmelites
+T2165	Person 366213 366220	Jacques
+T2166	Location 366244 366248	Nice
+T2167	Person 366313 366323	mon Daniel
+T2168	Person 366382 366393	reraitl Moi
+T2169	Person 366484 366499	val Quelquefois
+T2170	Location 366532 366536	tete
+T2171	Location 366633 366644	Hacqueville
+T2172	Person 366730 366740	IMoi- meme
+T2173	Person 366859 366866	Jacques
+T2174	Location 367193 367198	Chili
+T2175	Location 367252 367254	Eh
+T2176	Person 367285 367299	ton Irma Borel
+T2177	Location 367483 367492	Mefie-toi
+T2178	Person 367494 367500	Daniel
+T2179	Person 367657 367664	Jacques
+T2180	Person 367750 367753	Ohl
+T2181	Person 367758 367765	Jacques
+T2182	Location 367821 367822	W
+T2183	Location 367824 367826	MY
+T2184	Location 367829 367830	W
+T2185	Person 367833 367837	L N.
+T2186	Location 367889 367891	I-
+T2187	Organization 367983 367985	LA
+T2188	Location 367986 367987	Y
+T2189	Organization 367993 368004	Wui.h c ee-
+T2190	Organization 368036 368037	E
+T2191	Location 368072 368073	W
+T2192	Location 368082 368083	W
+T2193	Location 368084 368085	L
+T2194	Location 368091 368092	W
+T2195	Person 368108 368113	L Wsa
+T2196	Location 368129 368130	L
+T2197	Organization 368172 368185	--r  L.sdin--
+T2198	Person 368274 368282	BOREL 93
+T2199	Location 368909 368921	Coucou-Blanc
+T2200	Location 369476 369480	tete
+T2201	Location 369548 369553	SUCRE
+T2202	Person 369574 369581	Jacques
+T2203	Location 369645 369656	Hacqueville
+T2204	Location 369736 369742	Italie
+T2205	Person 369812 369819	Jacques
+T2206	Location 369902 369906	Rome
+T2207	Location 369911 369917	Naples
+T2208	Location 369922 369926	Pise
+T2209	Location 369931 369938	Palerme
+T2210	Person 370083 370098	Gustave Planche
+T2211	Person 370135 370145	Irma Borel
+T2212	Person 370326 370336	Irma Borel
+T2213	Person 370359 370374	Gustave Planche
+T2214	Location 370376 370379	Qu'
+T2215	Person 370538 370546	Eyssette
+T2216	Location 370551 370555	Pise
+T2217	Hour 370574 370583	ro heures
+T2218	Person 370587 370594	Jacques
+T2219	Person 370732 370743	PETIT CHOSE
+T2220	Person 370877 370887	Irma Borel
+T2221	Person 370965 370974	O Jacques
+T2222	Person 370976 370983	Jacques
+T2223	Location 371063 371065	Tu
+T2224	Person 371473 371477	Dieu
+T2225	Location 372579 372581	Tu
+T2226	Location 372699 372703	Cuba
+T2227	Location 372863 372869	Est-ce
+T2228	Person 372896 372903	Pacheco
+T2229	Location 372905 372911	Est-ce
+T2230	Person 373142 373145	Ohl
+T2231	Location 373393 373402	Parthenon
+T2232	Organization 373432 373448	CEUR DE SUCRE 97
+T2233	Location 373741 373745	tete
+T2234	Location 374111 374115	tete
+T2235	Location 374316 374322	Est-ce
+T2236	Location 374547 374551	Turc
+T2237	Location 374756 374760	tete
+T2238	Location 374821 374825	Turc
+T2239	Location 374870 374877	Italien
+T2240	Location 374879 374886	Danielo
+T2241	Person 374895 374901	Daniel
+T2242	Person 375052 375064	Irma Borel.o
+T2243	Person 375085 375097	Irma Borel.o
+T2244	Person 375154 375161	Jacques
+T2245	Location 375457 375460	Moi
+T2246	Location 375576 375578	Tu
+T2247	Person 375653 375656	Ohl
+T2248	Person 375704 375715	PETIT CHOSE
+T2249	Person 376039 376049	Irma Borel
+T2250	Person 376516 376528	Ohl Dani-Dan
+T2251	Location 376552 376556	Turc
+T2252	Person 376560 376573	Oh.l Dani-Dan
+T2253	Location 376620 376626	Est-ce
+T2254	Location 376677 376683	Est-ce
+T2255	Location 376834 376836	Eh
+T2256	Location 376935 376944	Laquellek
+T2257	Person 377258 377265	Pacheco
+T2258	Person 377701 377708	Jacques
+T2259	Location 377824 377829	SUCRE
+T2260	Person 378172 378187	Daniel Eyssette
+T2261	Location 378484 378487	Moi
+T2262	Location 378652 378661	Pierrotte
+T2263	Location 378675 378679	tete
+T2264	Location 378746 378757	Porcelaines
+T2265	Location 378771 378780	Pierrotte
+T2266	Person 378796 378805	Lalouette
+T2267	Location 378955 378957	Tu
+T2268	Location 379276 379285	Pierrotte
+T2269	Location 379325 379331	Saumon
+T2270	Organization 379444 379452	Mon cher
+T2271	Location 380075 380077	Tu
+T2272	Person 380296 380307	PETIT CHOSE
+T2273	Location 380577 380589	Coucou-Blanc
+T2274	Location 380714 380717	Ohl
+T2275	Location 380840 380845	sucre
+T2276	Location 380915 380920	sucre
+T2277	Location 381021 381026	sucre
+T2278	Location 381135 381137	Tu
+T2279	Location 381180 381182	Eh
+T2280	Location 381306 381311	sucre
+T2281	Location 381380 381384	tete
+T2282	Location 381503 381505	Tu
+T2283	Location 381584 381586	Eh
+T2284	Person 381654 381664	Irma Borel
+T2285	Location 381805 381809	Turc
+T2286	Person 381888 381899	Quelle tete
+T2287	Person 381922 381942	mon Dani-Danl  MIais
+T2288	Location 382078 382081	Oui
+T2289	Person 382497 382518	CEUR DE SUCRE aMinuit
+T2290	Location 382635 382647	Coucou-Blanc
+T2291	Location 383311 383316	Paris
+T2292	Person 383623 383633	Irma Borel
+T2293	Location 384559 384561	Oi
+T2294	Person 384679 384689	Irma Borel
+T2295	Location 384760 384763	Moi
+T2296	Location 384841 384846	MIais
+T2297	Person 384869 384880	PETIT CHOSE
+T2298	Location 385030 385034	tete
+T2299	Location 385037 385045	Mon cher
+T2300	Person 385140 385148	si lache
+T2301	Location 385321 385337	Theatre-Francais
+T2302	Person 385550 385560	Irma Borel
+T2303	Location 385583 385586	Moi
+T2304	Location 385621 385625	Cuba
+T2305	Location 385938 385942	tete
+T2306	Location 386012 386024	Coucou-Blanc
+T2307	Location 386078 386082	tete
+T2308	Location 386233 386237	Turc
+T2309	Person 386504 386511	Jacques
+T2310	Organization 386515 386523	Jacquesl
+T2311	Person 386560 386563	Ohl
+T2312	Person 386751 386758	Vois-tu
+T2313	Organization 387120 387137	CEUR DE sUCRE zog
+T2314	Person 387202 387206	Dieu
+T2315	Hour 387319 387335	neuf heures son-
+T2316	Location 387518 387521	Mon
+T2317	Person 387762 387769	Jacques
+T2318	Location 387958 387962	fier
+T2319	Person 388698 388715	mon frere Jacques
+T2320	Location 388752 388756	tete
+T2321	Location 388781 388783	Eh
+T2322	Location 388907 388916	La-dessus
+T2323	Person 389413 389424	PETIT CHOSE
+T2324	Person 389703 389715	mere Jacques
+T2325	Location 389914 389919	Peine
+T2326	Organization 390558 390567	Qu'est-ce
+T2327	Location 390970 390973	Toi
+T2328	Person 391175 391190	Gustave Planche
+T2329	Location 391348 391352	tete
+T2330	Location 391410 391414	Turc
+T2331	Location 391516 391520	tete
+T2332	Location 391642 391651	Pierrotte
+T2333	Location 391739 391744	SUCRE
+T2334	Location 391830 391836	Saumon
+T2335	Location 392213 392215	M'
+T2336	Person 392249 392252	Ohl
+T2337	Location 392469 392477	Mon cher
+T2338	Person 392519 392526	Pacheco
+T2339	Person 392716 392730	chez Pierrotte
+T2340	Location 393007 393016	Pierrotte
+T2341	Organization 393555 393568	Conseille-moi
+T2342	Person 393570 393577	Jacques
+T2343	Person 393965 393975	Irma Borel
+T2344	Person 393977 393982	Borel
+T2345	Person 394019 394033	Irma Bourreaul
+T2346	Person 394126 394137	PETIT CHOSE
+T2347	Person 394344 394353	mon Dieul
+T2348	Person 394383 394390	Jacques
+T2349	Person 394392 394401	mon frere
+T2350	Person 394615 394632	TOLOCOToTIGNAN Me
+T2351	Location 394703 394709	misere
+T2352	Person 394726 394741	Daniel Eyssette
+T2353	Location 394802 394807	Paris
+T2354	Person 395117 395140	Tolocototignanl Toloco-
+T2355	Location 395370 395382	Montparnasse
+T2356	Person 395390 395400	Irma Borel
+T2357	Location 395428 395440	Coucou-Blanc
+T2358	Person 395466 395497	Tolocototignanl Tolocototignanl
+T2359	Person 395850 395861	PETIT CHOSE
+T2360	Person 396172 396182	Irma Borel
+T2361	Location 396980 396992	Coucou-Blanc
+T2362	Person 397015 397025	Irma Borel
+T2363	Person 397038 397051	Coucou- Blanc
+T2364	Person 397059 397069	Huit-a-Dix
+T2365	Person 397134 397144	Irma Borel
+T2366	Location 397867 397879	Coucou-Blanc
+T2367	Location 398352 398353	Y
+T2368	Location 398382 398384	I'
+T2369	Location 398409 398413	LP-N
+T2370	Location 398464 398466	LN
+T2371	Location 398715 398723	Gaspardl
+T2372	Location 398827 398839	Coucou-Blanc
+T2373	Person 398906 398916	Irma Borel
+T2374	Location 399097 399103	misere
+T2375	Location 400136 400140	tete
+T2376	Person 400401 400418	voulez-vousl Irma
+T2377	Location 400633 400637	tete
+T2378	Location 400728 400732	tete
+T2379	Location 400822 400825	Mon
+T2380	Person 400984 400995	PETIT CHOSE
+T2381	Person 401762 401769	Jacques
+T2382	Person 402326 402333	Jacques
+T2383	Person 402351 402359	Eyssette
+T2384	Location 403000 403005	Mont-
+T2385	Person 404264 404272	Louis XV
+T2386	Location 404375 404384	Pierrotte
+T2387	Location 404714 404718	tete
+T2388	Location 405153 405158	Paris
+T2389	Person 405423 405433	Irma Borel
+T2390	Location 405471 405483	Coucou-Blanc
+T2391	Person 406023 406034	PETIT CHOSE
+T2392	Location 406055 406065	Huit-a-Dix
+T2393	Location 406351 406353	Eh
+T2394	Person 406592 406599	Jacques
+T2395	Location 407225 407238	rue Bonaparte
+T2396	Location 407244 407256	Coucou-Blanc
+T2397	Person 408620 408627	Jacques
+T2398	Location 408656 408667	Hacqueville
+T2399	Person 408865 408879	Jacques jusqu'
+T2400	Person 408967 408973	Daniel
+T2401	Person 409471 409478	Jacques
+T2402	Location 409542 409552	Langlumeau
+T2403	Location 409557 409563	Josias
+T2404	Person 409630 409646	Jacques; Jacques
+T2405	Person 409648 409655	Jacques
+T2406	Organization 409666 409674	Jacquesl
+T2407	Person 410398 410405	Jacques
+T2408	Person 410484 410501	Camille Pierrotte
+T2409	Person 410929 410936	Jacques
+T2410	Person 410962 410969	Camille
+T2411	Person 411237 411248	PETIT CHOSE
+T2412	Person 411416 411428	ta Pierrotte
+T2413	Location 411459 411464	sucre
+T2414	Person 411507 411514	Pacheco
+T2415	Location 411992 412033	Tolocototignan l Tolocototignan lYIII  TT
+T2416	Hour 412077 412088	neuf heures
+T2417	Location 412101 412113	Montparnasse
+T2418	Person 412240 412250	Irma Borel
+T2419	Person 413065 413077	sieur Daniel
+T2420	Person 413089 413095	Daniel
+T2421	Location 413176 413179	Qu'
+T2422	Person 413290 413301	PETIT CHOSE
+T2423	Organization 413439 413447	Jacquesl
+T2424	Person 413542 413549	Jacques
+T2425	Person 413616 413626	Ohl Daniel
+T2426	Person 413807 413814	Emmene-
+T2427	Person 413826 413833	Jacques
+T2428	Person 413835 413842	Jacques
+T2429	Person 413998 414010	mere Jacques
+T2430	Location 414113 414118	Paris
+T2431	Location 414153 414160	Palerme
+T2432	Location 414179 414188	Pierrotte
+T2433	Person 414330 414336	Daniel
+T2434	Person 414352 414359	Jacques
+T2435	Person 414665 414674	mon frere
+T2436	Location 414716 414722	Est-ce
+T2437	Location 415425 415426	K
+T2438	Location 415442 415444	Ci
+T2439	Location 415464 415465	L
+T2440	Location 415473 415476	Y-N
+T2441	Location 415531 415536	Paris
+T2442	Location 415548 415561	rue Bonaparte
+T2443	Location 415563 415566	Mon
+T2444	Location 415992 415997	Paris
+T2445	Location 416041 416053	Coucou-Blanc
+T2446	Person 416127 416133	Daniel
+T2447	Person 416292 416299	Jacques
+T2448	Person 416560 416566	Daniel
+T2449	Person 416714 416721	Jacques
+T2450	Location 416939 416945	Alsace
+T2451	Location 417487 417491	tete
+T2452	Person 417579 417585	Daniel
+T2453	Location 417832 417836	tete
+T2454	Person 417910 417938	PETIT COSE monsieur Eyssette
+T2455	Location 418608 418617	Pierrotte
+T2456	Person 418706 418715	Lalouette
+T2457	Person 418717 418724	Jacques
+T2458	Person 419013 419023	Pierrottel
+T2459	Location 419080 419089	Pierrotte
+T2460	Location 419421 419430	Pierrotte
+T2461	Person 419440 419446	Ariane
+T2462	Person 419456 419460	Nina
+T2463	Person 419508 419517	Lalouette
+T2464	Location 419684 419690	Boheme
+T2465	Location 419932 419941	Pierrotte
+T2466	Person 419950 419962	mere Jacques
+T2467	Location 420061 420070	Pierrotte
+T2468	Person 420266 420277	zrg Jacques
+T2469	Location 420306 420315	Pierrotte
+T2470	Location 420380 420387	Cevenol
+T2471	Person 420457 420464	Jacques
+T2472	Location 420558 420565	Cevenol
+T2473	Person 420603 420610	Jacques
+T2474	Location 420682 420694	Mademoiselle
+T2475	Person 420829 420836	Jacques
+T2476	Location 420912 420919	Cevenol
+T2477	Location 420952 420957	Adieu
+T2478	Location 420959 420968	Pierrotte
+T2479	Location 420981 420990	Pierrotte
+T2480	Person 421128 421134	Daniel
+T2481	Person 421266 421273	Jacques
+T2482	Location 421362 421369	Cevenol
+T2483	Person 421558 421565	Jacques
+T2484	Location 421838 421847	Pierrotte
+T2485	Person 421849 421856	Jacques
+T2486	Person 421991 421997	Daniel
+T2487	Location 422434 422447	rue Bonaparte
+T2488	Product 422758 422772	l'abbe Germane
+T2489	Organization 422811 422835	cloches de Saint-Germain
+T2490	Person 422928 422934	Daniel
+T2491	Person 423859 423865	Daniel
+T2492	Person 423928 423940	mere Jacques
+T2493	Person 424050 424059	z Jacques
+T2494	Location 424222 424232	Providence
+T2495	Person 424281 424291	Jacques la
+T2496	Location 424380 424392	Montparnasse
+T2497	Location 424947 424960	Saint-Germain
+T2498	Organization 425322 425334	hotel Pilois
+T2499	Location 425336 425349	rue des Dames
+T2500	Person 425413 425419	Pilois
+T2501	Organization 425604 425616	hotel Pilois
+T2502	Person 425663 425670	Jacques
+T2503	Location 425725 425736	Hacqueville
+T2504	Location 425791 425798	Marsala
+T2505	Person 426360 426367	Jacques
+T2506	Person 426485 426491	Daniel
+T2507	Person 426519 426531	MAP Eyssette
+T2508	Location 426537 426541	tete
+T2509	Person 426750 426756	Pilois
+T2510	Person 426971 426977	Pilois
+T2511	Person 427202 427210	Ahl tres
+T2512	Person 427316 427322	Pilois
+T2513	Location 427383 427388	Mont-
+T2514	Person 427554 427566	mere Jacques
+T2515	Person 427601 427625	PETIT CHOSE Montparnasse
+T2516	Location 427775 427777	Eh
+T2517	Location 428438 428444	Alsace
+T2518	Location 428513 428525	Montparnasse
+T2519	Person 428591 428605	Mee Irma Borel
+T2520	Person 428607 428623	Desiree Levrault
+T2521	Location 428625 428631	Guigne
+T2522	Location 428650 428655	Amour
+T2523	Location 428659 428667	Pruneaux
+T2524	Person 428700 428706	Daniel
+T2525	Person 428708 428715	Antonin
+T2526	Location 428852 428862	Luxembourg
+T2527	Hour 429302 429313	neuf heures
+T2528	Person 429838 429860	Irma Borel.L'ENLvEMENT
+T2529	Person 429934 429948	Mee Irma Borel
+T2530	Person 429970 429976	Daniel
+T2531	Person 430128 430135	LE REVE
+T2532	Location 430138 430145	Regarde
+T2533	Person 430152 430158	Daniel
+T2534	Person 430170 430182	mere Jacques
+T2535	Organization 430224 430236	hotel Pilois
+T2536	Location 430379 430383	pate
+T2537	Person 430899 430905	Pilois
+T2538	Organization 430939 430963	clocher de Saint-Germain
+T2539	Person 431079 431082	Ohl
+T2540	Person 431359 431370	PETIT CHOSE
+T2541	Person 431412 431426	Voyonsl Daniel
+T2542	Location 431442 431444	Tu
+T2543	Location 431600 431602	Tu
+T2544	Person 431706 431716	Jacques tu
+T2545	Location 431730 431737	Voyonsl
+T2546	Person 432186 432196	Jacques me
+T2547	Person 432237 432243	-tu la
+T2548	Person 432245 432255	Daniel  C'
+T2549	Person 432377 432389	Nonl Jacques
+T2550	Person 432618 432622	Bahl
+T2551	Location 433010 433014	pate
+T2552	Person 433039 433046	Jacques
+T2553	Location 433133 433139	Est-ce
+T2554	Location 433169 433175	Est-ce
+T2555	Organization 433272 433280	Jacquesl
+T2556	Person 433488 433495	Jacques
+T2557	Location 433741 433744	Mon
+T2558	Location 434108 434110	I'
+T2559	Person 434135 434142	Jacques
+T2560	Organization 434192 434201	Qu'est-ce
+T2561	Person 434283 434290	Jacques
+T2562	Location 434483 434485	Tu
+T2563	Person 434495 434502	Jacques
+T2564	Location 434504 434510	Est-ce
+T2565	Person 434908 434915	Jacques
+T2566	Person 435572 435579	Jacques
+T2567	Location 435819 435823	Ouil
+T2568	Person 435850 435857	Jacques
+T2569	Person 435962 435977	Daniel Eyssette
+T2570	Person 436142 436153	PETIT CHOSE
+T2571	Location 436156 436163	Bonjour
+T2572	Person 436165 436175	Daniell As
+T2573	Location 436190 436193	Moi
+T2574	Person 436447 436451	Dieu
+T2575	Organization 436475 436483	Jacquesl
+T2576	Location 436802 436810	Pardieul
+T2577	Location 437059 437064	Paris
+T2578	Person 437174 437188	Allonsl Daniel
+T2579	Person 437209 437216	Jacques
+T2580	Location 437699 437701	Tu
+T2581	Person 437774 437786	Nonl Jacques
+T2582	Person 438751 438754	Ohl
+T2583	Person 438837 438849	mere Jacques
+T2584	Organization 438904 438916	hotel Pilois
+T2585	Product 438985 439001	avant mon depart
+T2586	Location 439052 439061	Pierrotte
+T2587	Person 439161 439168	Jacques
+T2588	Location 439340 439352	Montparnasse
+T2589	Person 439382 439389	mon ame
+T2590	Location 439924 439930	Est-ce
+T2591	Location 440497 440501	tete
+T2592	Organization 441029 441054	PETIT CHOSE l'air sauveur
+T2593	Location 441196 441199	Moi
+T2594	Person 441360 441364	Dieu
+T2595	Person 441421 441428	Jacques
+T2596	Person 441828 441835	Jacques
+T2597	Person 442420 442427	Jacques
+T2598	Location 442492 442496	tete
+T2599	Location 442745 442747	Tu
+T2600	Person 443198 443205	Jacques
+T2601	Location 443515 443527	Coucou-Blanc
+T2602	Location 443745 443757	Coucou-Blanc
+T2603	Location 443782 443794	Coucou-Blanc
+T2604	Person 444052 444059	Jacques
+T2605	Location 444178 444181	Moi
+T2606	Person 444348 444355	Jacques
+T2607	Location 444492 444501	Pierrotte
+T2608	Location 444907 444909	Tu
+T2609	Person 445297 445301	Dieu
+T2610	Location 445344 445354	Huit-h-Dix
+T2611	Organization 445483 445495	Coucou-Blanc
+T2612	Location 445849 445859	Montmartre
+T2613	Hour 445897 445917	sept heures du matin
+T2614	Person 446056 446063	Jacques
+T2615	Location 446074 446078	tete
+T2616	Person 446131 446142	PETIT CHOSE
+T2617	Location 447725 447729	Inde
+T2618	Organization 448032 448044	hotel Pilois
+T2619	Person 448278 448289	Me Eyssette
+T2620	Person 448327 448335	Eyssette
+T2621	Person 448368 448376	Baptiste
+T2622	Person 448381 448389	Eyssette
+T2623	Location 448489 448493	Lyon
+T2624	Location 448630 448633	Moi
+T2625	Person 448684 448692	Eyssette
+T2626	Organization 448697 448709	hotel Pilois
+T2627	Person 448726 448733	Jacques
+T2628	Person 448972 448980	Eyssette
+T2629	Person 449938 449944	Pilois
+T2630	Person 450181 450193	Daniell Puis
+T2631	Person 450323 450334	PETIT CHOSE
+T2632	Person 450547 450553	Pilois
+T2633	Organization 450861 450873	hotel Pilois
+T2634	Person 450990 450999	mon frere
+T2635	Person 451235 451242	Jacques
+T2636	Person 451432 451438	Pilois
+T2637	Organization 451561 451574	hotel Piloisl
+T2638	Person 451900 451906	Pilois
+T2639	Person 452106 452114	Eyssette
+T2640	Location 452537 452546	La-dessus
+T2641	Person 453033 453040	Jacques
+T2642	Person 453192 453200	mon Dieu
+T2643	Location 453267 453269	Tu
+T2644	Person 453327 453339	mere Jacques
+T2645	Person 453691 453697	Daniel
+T2646	Location 453701 453703	Tu
+T2647	Location 453989 453993	Nice
+T2648	Location 454291 454303	Saint-Pierre
+T2649	Location 454502 454510	Sarlande
+T2650	Person 454660 454677	Jacquesl Jacquesl
+T2651	Person 454690 454695	De la
+T2652	Person 454797 454803	Pilois
+T2653	Person 454937 454944	Jacques
+T2654	Location 454982 454989	Bonjour
+T2655	Person 454991 455001	Pierrottel
+T2656	Organization 455049 455060	PETIT CHOSE
+T2657	Person 455151 455157	Daniel
+T2658	Location 455195 455204	Pierrotte
+T2659	Location 455222 455226	tete
+T2660	Location 455331 455334	Moi
+T2661	Location 455384 455386	I'
+T2662	Location 455427 455433	Pilois
+T2663	Location 455653 455659	Est-ce
+T2664	Person 455828 455835	Jacques
+T2665	Location 455839 455848	Pierrotte
+T2666	Location 455903 455910	Cevenol
+T2667	Location 455955 455958	Oui
+T2668	Person 455969 455976	Jacques
+T2669	Location 455980 455983	Oui
+T2670	Person 455994 456001	Jacques
+T2671	Person 456060 456070	Jacques m'
+T2672	Location 456118 456127	Pierrotte
+T2673	Location 456131 456137	Daniel
+T2674	Person 456139 456148	mon cheri
+T2675	Location 456315 456324	Pierrotte
+T2676	Location 456333 456342	Pierrotte
+T2677	Person 456404 456407	Ohl
+T2678	Person 456422 456429	Jacques
+T2679	Person 456533 456545	mere Jacques
+T2680	Location 456732 456741	Pierrotte
+T2681	Product 456850 456864	l'abbe Germane
+T2682	Person 457387 457395	Eyssette
+T2683	Location 458682 458686	tete
+T2684	Person 458844 458851	Jacques
+T2685	Person 458869 458876	Jacques
+T2686	Person 458929 458932	Ohl
+T2687	Location 459141 459147	Christ
+T2688	Location 459235 459238	Moi
+T2689	Location 459743 459744	O
+T2690	Person 459748 459759	PETIT CHOSE
+T2691	Location 459760 459768	Sarlande
+T2692	Product 459770 459793	l'abbe Germane lui-meme
+T2693	Product 460044 460058	l'abbe Germane
+T2694	Location 460094 460099	Paris
+T2695	Location 460277 460289	Saint-Pierre
+T2696	Location 460292 460302	Montmartre
+T2697	Person 460331 460343	mere Jacques
+T2698	Product 460414 460428	l'abbe Germane
+T2699	Location 460448 460453	Paris
+T2700	Person 460811 460827	Jacques Eyssette
+T2701	Location 460831 460834	Oui
+T2702	Organization 460858 460866	Eyssette
+T2703	Organization 460971 460983	hotel Pilois
+T2704	Person 461045 461052	Jacques
+T2705	Location 461687 461692	Paris
+T2706	Location 461739 461743	tete
+T2707	Location 461755 461764	Pierrotte
+T2708	Product 461768 461782	l'abbe Germane
+T2709	Location 461841 461850	Pierrotte
+T2710	Person 462228 462231	R =
+T2711	Location 462286 462288	MI
+T2712	Person 462469 462473	Viot
+T2713	Location 462512 462520	Sarlande
+T2714	Location 462564 462568	tete
+T2715	Person 462728 462732	Viot
+T2716	Person 463344 463348	Viot
+T2717	Location 463353 463357	tete
+T2718	Location 463583 463592	Pierrotte
+T2719	Location 463624 463634	Montmartre
+T2720	Location 463638 463647	Pierrotte
+T2721	Location 463932 463936	tete
+T2722	Location 464025 464029	tete
+T2723	Location 464071 464077	Saumon
+T2724	Person 464097 464106	Lalouette
+T2725	Person 464206 464220	chez Pierrotte
+T2726	Location 464327 464331	tete
+T2727	Location 464357 464366	Pierrotte
+T2728	Person 464640 464651	FIN DU REVE
+T2729	Location 464728 464734	Saumon
+T2730	Person 465311 465331	Lalouettel Pierrotte
+T2731	Person 465835 465844	Lalouette
+T2732	Person 466086 466097	PETIT CHOSE
+T2733	Location 466443 466447	tete
+T2734	Location 467372 467373	O
+T2735	Person 467383 467391	mon Dieu
+T2736	Organization 467396 467405	Qu'est-ce
+T2737	Person 468089 468092	Ohl
+T2738	Organization 468134 468146	hotel Pilois
+T2739	Person 468159 468166	Jacques
+T2740	Person 468195 468209	chez Pierrotte
+T2741	Person 468538 468543	De la
+T2742	Location 468886 468893	Bonjour
+T2743	Organization 468895 468903	Camillel
+T2744	Person 468906 468923	Camille Pierrotte
+T2745	Location 469118 469125	Bonjour
+T2746	Location 469127 469135	Camillel
+T2747	Person 469160 469163	Ohl
+T2748	Location 469214 469218	tete
+T2749	Location 469273 469279	Est-ce
+T2750	Person 469306 469323	Camille Pierrotte
+T2751	Person 469365 469372	Daniell
+T2752	Person 469454 469471	Camille Pierrotte
+T2753	Person 469665 469672	Camille
+T2754	Person 469676 469679	Ohl
+T2755	Person 469685 469691	Daniel
+T2756	Location 469706 469712	Est-ce
+T2757	Location 469912 469916	tete
+T2758	Location 469965 469974	Pierrotte
+T2759	Person 470129 470148	docteur Broum-Broum
+T2760	Location 470354 470363	Pierrotte
+T2761	Organization 470367 470376	Qu'est-ce
+T2762	Location 470464 470473	Pierrotte
+T2763	Person 470917 470928	PETIT CHOSE
+T2764	Person 471050 471069	docteur Broum-Broum
+T2765	Person 471137 471144	Camille
+T2766	Location 471186 471195	Pierrotte
+T2767	Person 471345 471352	Camille
+T2768	Person 471440 471447	Camille
+T2769	Person 471565 471571	Daniel
+T2770	Location 471664 471671	Voyonsl
+T2771	Organization 471919 471927	Camillel
+T2772	Location 472032 472037	MIais
+T2773	Person 472225 472240	Ohl nonl Daniel
+T2774	Person 472308 472314	Tribou
+T2775	Person 472339 472345	Tribou
+T2776	Organization 472593 472604	Dormez-bien
+T2777	Location 472607 472616	La-dessus
+T2778	Person 472618 472635	Camille Pierrotte
+T2779	Location 472925 472935	Montmartre
+T2780	Location 473004 473014	Providence
+T2781	Person 473080 473091	FIN DU REVE
+T2782	Person 473226 473243	Camille Pierrotte
+T2783	Person 473648 473659	Merel Merel
+T2784	Person 473924 473939	Daniell Daniell
+T2785	Person 474066 474074	Eyssette
+T2786	Person 474521 474534	mere Eyssette
+T2787	Location 474771 474777	Est-ce
+T2788	Location 474821 474823	Eh
+T2789	Person 475038 475046	Eyssette
+T2790	Person 475389 475400	PETIT CHOSE
+T2791	Person 475863 475872	Lalouette
+T2792	Person 475901 475909	Eyssette
+T2793	Location 476188 476197	Pierrotte
+T2794	Person 476436 476453	Camille Pierrotte
+T2795	Person 476579 476585	Tribou
+T2796	Location 476644 476651	Cevenol
+T2797	Person 477077 477091	Mlle Pierrotte
+T2798	Location 477111 477117	Est-ce
+T2799	Location 477927 477929	I-
+T2800	Product 478064 478071	IH s L-
+T2801	Location 478116 478124	II l-- d
+T2802	Location 478134 478135	W
+T2803	Location 478420 478427	Cevenol
+T2804	Location 478525 478529	aube
+T2805	Person 478591 478601	Pierrottel
+T2806	Person 478611 478632	Pierrotteln Pierrotte
+T2807	Location 478764 478773	Pierrotte
+T2808	Location 478928 478935	Cevenol
+T2809	Person 478969 478976	Daniell
+T2810	Person 479042 479049	Jacques
+T2811	Location 479053 479057	Ouil
+T2812	Location 479067 479076	Pierrotte
+T2813	Person 479372 479375	Ohl
+T2814	Location 479393 479402	Pierrotte
+T2815	Location 480013 480022	Pierrotte
+T2816	Location 480074 480078	tete
+T2817	Person 480179 480192	Dam l ecoutez
+T2818	Person 480203 480209	Daniel
+T2819	Location 480269 480272	Moi
+T2820	Organization 480399 480407	Camillel
+T2821	Organization 480408 480416	Camillel
+T2822	Person 480417 480434	Camille Pierrotte
+T2823	Person 480642 480653	PETIT CHOSE
+T2824	Location 480680 480687	Cevenol
+T2825	Person 480698 480704	Daniel
+T2826	Person 480864 480881	Camille Pierrotte
+T2827	Location 480976 480980	Ouil
+T2828	Location 481204 481213	Pierrotte
+T2829	Person 481453 481462	mon Dieul
+T2830	Location 481564 481566	Eh
+T2831	Person 481574 481587	Ahl Pierrotte
+T2832	Location 482025 482030	MIais
+T2833	Person 482084 482093	Lalouette
+T2834	Location 482866 482878	Montparnasse
+T2835	Location 482891 482895	Muse
+T2836	Person 482917 482932	Daniel Eyssette
+T2837	Location 483144 483150	Saumon
+T2838	Location 483233 483242	Pierrotte
+T2839	Person 483665 483671	Daniel
+T2840	Person 484110 484119	Lalouette
+T2841	Location 484347 484355	Touraine
+T2842	Person 484627 484642	MIlle Pierrotte
+T2843	Location 484806 484810	tete
+T2844	Person 485020 485032	Me Lalouette
+T2845	Person 485100 485109	Pierrotte
+T2846	Person 485121 485130	Pierrotte
+T2847	Person 485307 485318	PETIT CHOSE
+T2848	Location 485429 485434	Chine
+T2849	Location 485604 485608	tete
+T2850	Person 485765 485774	Pierrotte
+T2851	Person 485833 485840	Camille
+T2852	Organization 486018 486027	Ohl papal
+T2853	Organization 486032 486055	Ohl monsieur Pierrottel
+T2854	Organization 486058 486068	OQu'est-ce
+T2855	Organization 486082 486091	Qu'est-ce
+T2856	Location 486158 486167	Pierrotte
+T2857	Person 486204 486212	Eyssette
+T2858	Person 486371 486377	Daniel
+T2859	Location 486568 486575	Voyonsl
+T2860	Person 486723 486745	PORCELAINE ET CRISTAUX
+T2861	Organization 486755 486773	Maison Lalouette 1

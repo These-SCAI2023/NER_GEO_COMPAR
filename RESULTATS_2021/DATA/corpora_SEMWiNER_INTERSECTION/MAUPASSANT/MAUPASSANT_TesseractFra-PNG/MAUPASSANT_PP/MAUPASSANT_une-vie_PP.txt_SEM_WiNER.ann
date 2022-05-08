@@ -1,0 +1,1494 @@
+T1	Person 3 9	Jeanne
+T2	Person 531 537	Jeanne
+T3	Date 1160 1165	2 mai
+T4	Person 1253 1259	Jeanne
+T5	Organization 1331 1352	Le Perthuis des Vauds
+T6	Location 1435 1440	J. -J
+T7	Person 3286 3294	Hollande
+T8	Location 4438 4443	Rouen
+T9	Location 4571 4576	Paris
+T10	Location 4705 4712	Peuples
+T11	Location 4768 4773	Yport
+T12	Person 5346 5352	Jeanne
+T13	Location 5578 5582	Caux
+T14	Person 5758 5764	Jeanne
+T15	Location 5782 5789	Rosalie
+T16	Person 6212 6227	madame Adélaïde
+T17	Person 6268 6276	Adélaïde
+T18	Person 6500 6506	Jeanne
+T19	Location 6510 6517	Rosalie
+T20	Location 6576 6584	Ludivine
+T21	Person 6743 6748	Simon
+T22	Person 7006 7011	Simon
+T23	Location 7467 7475	Riboudet
+T24	Location 7963 7970	Rosalie
+T25	Person 8058 8064	Jeanne
+T26	Location 9660 9667	Peuples
+T27	Person 10626 10632	Jeanne
+T28	Person 11506 11512	Jeanne
+T29	Person 12091 12097	Jeanne
+T30	Person 12804 12810	Jeanne
+T31	Location 12859 12866	Rosalie
+T32	Person 13026 13034	mon Dieu
+T33	Person 13137 13143	Jeanne
+T34	Location 13999 14007	Fontaine
+T35	Person 14013 14019	Jeanne
+T36	Location 14045 14052	plaisir
+T37	Location 14152 14158	Renard
+T38	Location 14578 14584	Jeanne
+T39	Person 15606 15612	Jeanne
+T40	Person 16639 16645	Jeanne
+T41	Location 16867 16873	Pyrame
+T42	Location 16880 16886	Thysbé
+T43	Person 17368 17377	Louis XIV
+T44	Person 17452 17460	Louis XV
+T45	Hour 17964 17975	onze heures
+T46	Person 18036 18042	Jeanne
+T47	Location 18412 18418	Pyrame
+T48	Location 18425 18431	Thysbé
+T49	Person 18477 18483	Jeanne
+T50	Location 19870 19879	Normandie
+T51	Location 20014 20020	Martin
+T52	Person 20313 20319	Jeanne
+T53	Person 21423 21429	Jeanne
+T54	Person 24884 24890	Jeanne
+T55	Person 25339 25345	Jeanne
+T56	Location 26605 26610	Havre
+T57	Location 26613 26619	Fécamp
+T58	Person 27194 27200	Jeanne
+T59	Person 27290 27296	Jeanne
+T60	Person 27834 27842	Adélaïde
+T61	Location 27936 27941	Yport
+T62	Location 27990 27998	Étouvent
+T63	Location 28021 28028	Peuples
+T64	Location 28236 28241	Yport
+T65	Person 28792 28798	Jeanne
+T66	Person 29779 29785	Jeanne
+T67	Location 29844 29851	Peuples
+T68	Location 29999 30007	Lastique
+T69	Person 30009 30026	Joséphin Lastique
+T70	Person 30138 30144	Jeanne
+T71	Location 30433 30439	grasse
+T72	Person 30487 30493	Jeanne
+T73	Person 32642 32648	Jeanne
+T74	Location 33320 33325	Yport
+T75	Location 34101 34107	Fécamp
+T76	Location 34731 34738	Rosalie
+T77	Location 35654 35661	Rosalie
+T78	Location 36256 36262	Jeanne
+T79	Location 36268 36275	Rosalie
+T80	Person 36763 36769	Jeanne
+T81	Location 37677 37685	Béranger
+T82	Location 37833 37840	Peuples
+T83	Person 38031 38043	Walter Scott
+T84	Location 38481 38488	Rosalie
+T85	Person 38755 38761	Jeanne
+T86	Location 38783 38790	Rosalie
+T87	Person 39346 39352	Jeanne
+T88	Person 40062 40072	abbé Picot
+T89	Person 40218 40224	Jeanne
+T90	Location 40851 40856	parla
+T91	Person 41030 41036	Jeanne
+T92	Person 41943 41952	de Lamare
+T93	Person 42072 42081	de Lamare
+T94	Location 42087 42091	Eure
+T95	Person 42159 42173	Jean de Lamare
+T96	Person 42207 42215	Adélaïde
+T97	Location 42479 42487	Étouvent
+T98	Location 43054 43059	parla
+T99	Person 44015 44021	Jeanne
+T100	Person 44425 44444	mademoiselle Jeanne
+T101	Person 44492 44501	de Lamare
+T102	Person 45122 45135	dame hautaine
+T103	Person 45460 45469	de Lamare
+T104	Location 45826 45831	parla
+T105	Location 46027 46033	Jeanne
+T106	Person 46191 46200	de Lamare
+T107	Location 46687 46695	Varfleur
+T108	Person 46712 46719	Gontran
+T109	Location 46752 46759	Coursil
+T110	Person 46863 46871	Crisange
+T111	Person 46883 46891	Crisange
+T112	Person 46995 47003	Crisange
+T113	Location 47134 47140	Eretry
+T114	Location 47342 47350	Auvergne
+T115	Person 48352 48361	de Lamare
+T116	Location 48628 48637	Coutelier
+T117	Location 48717 48727	Briseville
+T118	Person 48802 48814	de Fourville
+T119	Location 48940 48949	Vrillette
+T120	Person 49144 49150	Jeanne
+T121	Person 49598 49604	Jeanne
+T122	Person 49895 49901	Jeanne
+T123	Location 49985 49990	Yport
+T124	Location 50062 50070	Lastique
+T125	Person 50318 50324	Jeanne
+T126	Person 50403 50412	de Lamare
+T127	Person 50529 50535	Jeanne
+T128	Location 50739 50747	Lastique
+T129	Location 50952 50960	Lastique
+T130	Location 51844 51850	Là-bas
+T131	Location 51915 51921	Fécamp
+T132	Person 52122 52128	Jeanne
+T133	Location 52372 52380	Lastique
+T134	Person 53023 53029	Jeanne
+T135	Person 53991 53997	Jeanne
+T136	Person 54561 54567	Jeanne
+T137	Location 54765 54773	Lastique
+T138	Location 55142 55150	Lastique
+T139	Person 55799 55805	Jeanne
+T140	Person 55989 55995	Jeanne
+T141	Person 56646 56652	Jeanne
+T142	Person 58155 58165	Dieu roses
+T143	Person 58494 58510	Jeanne attendrie
+T144	Location 59413 59436	Chambre-aux-Demoiselles
+T145	Hour 59537 59548	cinq heures
+T146	Person 60052 60058	Jeanne
+T147	Location 60581 60587	Italie
+T148	Location 60597 60602	Grèce
+T149	Location 60617 60622	Grèce
+T150	Location 60630 60635	Corse
+T151	Location 60694 60700	Suisse
+T152	Location 60796 60801	Corse
+T153	Location 60859 60864	Grèce
+T154	Location 61084 61094	Angleterre
+T155	Location 61255 61263	équateur
+T156	Location 61467 61473	France
+T157	Location 61690 61697	Athènes
+T158	Location 62604 62612	Lastique
+T159	Person 62680 62686	Jeanne
+T160	Person 62897 62903	Jeanne
+T161	Location 63960 63970	Providence
+T162	Location 65279 65285	Fécamp
+T163	Location 65309 65317	Ludivine
+T164	Person 65454 65463	de Lamare
+T165	Person 65947 65953	Jeanne
+T166	Person 66309 66317	Adélaïde
+T167	Location 66370 66377	Rosalie
+T168	Person 66425 66434	de Lamare
+T169	Location 66647 66653	Jeanne
+T170	Person 66745 66753	Ludivine
+T171	Location 66903 66908	Yport
+T172	Location 67184 67190	Jeanne
+T173	Person 67981 67987	JEANNE
+T174	Location 68040 68048	Lastique
+T175	Person 70774 70780	Jeanne
+T176	Location 71667 71674	Peuples
+T177	Location 71857 71862	Yport
+T178	Location 71876 71883	Peuples
+T179	Person 72287 72293	Jeanne
+T180	Person 72498 72504	Julien
+T181	Person 72805 72811	Jeanne
+T182	Person 72815 72821	Julien
+T183	Person 73199 73205	Jeanne
+T184	Person 73284 73293	de Lamare
+T185	Location 73922 73925	toi
+T186	Location 74010 74013	toi
+T187	Person 74508 74514	Jeanne
+T188	Date 75242 75249	15 août
+T189	Person 75330 75336	Jeanne
+T190	Location 75403 75408	Corse
+T191	Location 75462 75468	Italie
+T192	Person 75873 75884	tante Lison
+T193	Location 75963 75973	Versailles
+T194	Person 77306 77310	Lise
+T195	Person 77448 77452	Lise
+T196	Location 77467 77472	Lison
+T197	Person 77497 77503	Jeanne
+T198	Person 77526 77537	tante Lison
+T199	Location 77943 77948	Lison
+T200	Person 78053 78057	Lise
+T201	Person 78564 78568	Lise
+T202	Location 78578 78583	Lison
+T203	Person 78760 78776	Jeanne elle-même
+T204	Organization 78932 78948	La bonne Rosalie
+T205	Person 79061 79072	tante Lison
+T206	Location 79452 79457	Lison
+T207	Person 79801 79812	tante Lison
+T208	Location 80935 80943	Adélaïde
+T209	Person 81063 81068	Lison
+T210	Person 81501 81512	tante Lison
+T211	Person 81884 81890	Jeanne
+T212	Person 82502 82507	Lison
+T213	Location 82540 82545	Lison
+T214	Person 82811 82822	tante Lison
+T215	Person 83247 83253	Jeanne
+T216	Person 83395 83406	tante Lison
+T217	Person 83518 83529	tante Lison
+T218	Person 83777 83788	tante Lison
+T219	Person 83944 83950	Jeanne
+T220	Person 84639 84645	Jeanne
+T221	Person 84753 84764	tante Lison
+T222	Person 85038 85044	Jeanne
+T223	Location 85146 85151	Lison
+T224	Person 85453 85459	Jeanne
+T225	Person 85496 85502	Julien
+T226	Person 85720 85731	tante Lison
+T227	Person 85866 85872	Jeanne
+T228	Location 87094 87101	Attendu
+T229	Location 87433 87440	Peuples
+T230	Location 87555 87560	Yport
+T231	Person 87718 87729	tante Lison
+T232	Person 87745 87755	abbé Picot
+T233	Person 88102 88108	Jeanne
+T234	Person 88112 88118	Julien
+T235	Location 88517 88522	Yport
+T236	Person 89013 89017	Dieu
+T237	Person 89160 89166	Julien
+T238	Person 90616 90622	Julien
+T239	Person 90901 90907	Julien
+T240	Hour 91527 91538	neuf heures
+T241	Date 92931 92941	fête saine
+T242	Location 93248 93255	Ganache
+T243	Person 93302 93312	abbé Picot
+T244	Location 93384 93388	Cana
+T245	Location 93477 93484	Ganache
+T246	Location 93492 93499	Ganache
+T247	Person 93700 93708	Adélaïde
+T248	Person 93941 93947	Jeanne
+T249	Organization 94457 94465	Mignonne
+T250	Person 95617 95625	Adélaïde
+T251	Location 95652 95658	Julien
+T252	Location 96151 96157	Jeanne
+T253	Person 96300 96311	Tante Lison
+T254	Person 96390 96396	Julien
+T255	Person 96539 96547	Adélaïde
+T256	Person 96748 96754	Jeanne
+T257	Location 96801 96808	Rosalie
+T258	Person 96989 96995	Jeanne
+T259	Location 97832 97839	Rosalie
+T260	Person 97875 97881	Jeanne
+T261	Person 98514 98520	Julien
+T262	Location 99989 99996	Soudain
+T263	Person 101079 101085	Jeanne
+T264	Person 103956 103962	Julien
+T265	Person 104733 104739	Julien
+T266	Person 105183 105189	Jeanne
+T267	Location 105606 105613	Rosalie
+T268	Organization 105652 105659	Tu sais
+T269	Location 106080 106089	Marseille
+T270	Person 106126 106132	Jeanne
+T271	Location 106169 106175	Julien
+T272	Person 106636 106645	Jeanne la
+T273	Person 106709 106715	Julien
+T274	Location 107031 107040	Marseille
+T275	Location 107062 107071	Roi-Louis
+T276	Location 107104 107110	Naples
+T277	Location 107126 107133	Ajaccio
+T278	Location 107157 107162	Corse
+T279	Location 107168 107173	Corse
+T280	Person 107257 107263	Jeanne
+T281	Location 107661 107669	Lastique
+T282	Location 107994 108001	Soudain
+T283	Person 108150 108156	Jeanne
+T284	Location 108225 108231	Julien
+T285	Person 108893 108899	Jeanne
+T286	Person 109179 109185	Jeanne
+T287	Location 109534 109551	Afrique invisible
+T288	Location 109555 109562	Afrique
+T289	Person 109966 109972	Julien
+T290	Person 110005 110011	Jeanne
+T291	Location 110927 110932	Corse
+T292	Location 111401 111407	Jeanne
+T293	Location 111568 111573	Corse
+T294	Location 111741 111754	Sainte-Hélène
+T295	Location 111883 111888	Corse
+T296	Person 111978 111984	Jeanne
+T297	Person 112108 112114	Julien
+T298	Location 112924 112933	Roi-Louis
+T299	Person 112964 112970	Julien
+T300	Location 113504 113510	Jeanne
+T301	Person 114145 114151	Jeanne
+T302	Location 114198 114204	Julien
+T303	Location 114421 114424	toi
+T304	Person 114608 114614	Julien
+T305	Person 115164 115170	Julien
+T306	Location 115232 115237	Corse
+T307	Person 115342 115348	Julien
+T308	Person 115507 115513	Jeanne
+T309	Location 115740 115746	Julien
+T310	Person 117888 117894	Jeanne
+T311	Person 117898 117904	Julien
+T312	Person 118200 118206	Jeanne
+T313	Person 119444 119450	Jeanne
+T314	Location 119620 119626	Sagone
+T315	Location 119660 119667	Cargèse
+T316	Person 119910 119916	Julien
+T317	Location 120046 120051	Piana
+T318	Person 120145 120151	Jeanne
+T319	Person 120210 120216	Julien
+T320	Person 120429 120433	Dieu
+T321	Person 121250 121254	Dieu
+T322	Person 121269 121275	Jeanne
+T323	Person 121332 121338	Julien
+T324	Person 121605 121620	Jeanne balbutia
+T325	Person 121630 121636	Julien
+T326	Organization 121794 121802	Qu'as-tu
+T327	Location 122515 122518	Ota
+T328	Person 122559 122565	Julien
+T329	Person 123122 123128	Jeanne
+T330	Person 123423 123429	Jeanne
+T331	Person 123905 123911	Jeanne
+T332	Person 123941 123947	Julien
+T333	Location 124548 124555	Soudain
+T334	Person 124557 124563	Jeanne
+T335	Location 124691 124697	Julien
+T336	Person 124920 124926	Jeanne
+T337	Person 125094 125100	Julien
+T338	Location 125534 125539	Évisa
+T339	Person 125583 125599	Paoli Palabretti
+T340	Location 125885 125892	italien
+T341	Location 125898 125905	plaisir
+T342	Person 126128 126134	Jeanne
+T343	Person 126154 126160	Julien
+T344	Person 126434 126444	Palabretti
+T345	Location 126758 126765	Soudain
+T346	Person 126836 126848	Jean Rinaldi
+T347	Person 126861 126873	Mathieu Lori
+T348	Location 126903 126907	Jean
+T349	Person 126915 126922	Mathieu
+T350	Person 126950 126954	Jean
+T351	Location 126979 126989	Albertacce
+T352	Person 127004 127008	Jean
+T353	Location 127062 127066	Jean
+T354	Person 127083 127087	Jean
+T355	Person 127159 127176	Paulina Sinacoupi
+T356	Person 127186 127190	Jean
+T357	Person 127218 127225	Mathieu
+T358	Location 127241 127244	toi
+T359	Person 127274 127281	Mathieu
+T360	Person 127352 127356	Jean
+T361	Person 127559 127563	Jean
+T362	Person 127717 127723	Jeanne
+T363	Person 127755 127771	Paoli Palabretti
+T364	Person 127904 127923	Philippi Palabretti
+T365	Person 127939 127945	Jeanne
+T366	Location 127992 128005	Corse placide
+T367	Person 128134 128148	Nicolas Morali
+T368	Location 128184 128189	Niolo
+T369	Location 128439 128444	Corse
+T370	Person 128536 128542	Jeanne
+T371	Person 128588 128594	Julien
+T372	Location 129212 129217	Paris
+T373	Location 129325 129330	Corse
+T374	Person 129470 129476	Jeanne
+T375	Person 130212 130218	Jeanne
+T376	Person 130511 130517	Julien
+T377	Person 130759 130765	Jeanne
+T378	Person 130851 130857	Julien
+T379	Location 130911 130924	Couche-dehors
+T380	Location 131200 131205	Damas
+T381	Location 131229 131232	Ota
+T382	Location 131249 131255	Bastia
+T383	Person 131283 131289	Julien
+T384	Location 131364 131370	Jeanne
+T385	Location 131598 131606	Livourne
+T386	Location 131619 131627	Florence
+T387	Location 131629 131634	Gênes
+T388	Location 131703 131712	Marseille
+T389	Location 131766 131773	Peuples
+T390	Date 131787 131797	15 octobre
+T391	Person 131800 131806	Jeanne
+T392	Location 131885 131894	Normandie
+T393	Person 131915 131921	Julien
+T394	Location 132252 132257	Paris
+T395	Location 132314 132321	Peuples
+T396	Person 132327 132333	Jeanne
+T397	Location 132491 132496	Corse
+T398	Location 132499 132504	Évisa
+T399	Location 132548 132554	Julien
+T400	Location 133417 133424	Peuples
+T401	Person 133611 133617	Jeanne
+T402	Location 133823 133829	Jeanne
+T403	Location 133990 133997	Rosalie
+T404	Person 134161 134167	Jeanne
+T405	Person 137464 137470	Jeanne
+T406	Person 137706 137712	Julien
+T407	Location 138066 138071	Corse
+T408	Location 138094 138097	Ota
+T409	Person 138732 138738	Julien
+T410	Person 139097 139103	Julien
+T411	Person 139720 139726	Jeanne
+T412	Location 140353 140358	parla
+T413	Person 140366 140372	Julien
+T414	Person 141177 141183	Jeanne
+T415	Person 141930 141936	Jeanne
+T416	Person 142308 142314	Julien
+T417	Person 143659 143665	Jeanne
+T418	Location 143744 143750	Martin
+T419	Location 144851 144858	plaisir
+T420	Person 145100 145106	Julien
+T421	Person 146123 146129	Jeanne
+T422	Person 146902 146908	Julien
+T423	Location 147162 147167	Rouen
+T424	Location 147230 147237	Peuples
+T425	Person 147391 147397	Julien
+T426	Location 147435 147445	Briseville
+T427	Location 147451 147460	Coutelier
+T428	Location 147468 147477	Fourville
+T429	Person 147746 147752	Julien
+T430	Person 147850 147859	de Lamare
+T431	Organization 147896 147917	Le Perthuis des Vauds
+T432	Location 148025 148031	Bolbec
+T433	Person 148761 148767	Julien
+T434	Person 148891 148907	Jeanne elle-même
+T435	Person 150250 150256	Julien
+T436	Person 150441 150446	Simon
+T437	Hour 150877 150888	onze heures
+T438	Person 151084 151090	Jeanne
+T439	Person 151094 151100	Julien
+T440	Person 151300 151306	Julien
+T441	Location 151694 151700	Marius
+T442	Location 151789 151795	Martin
+T443	Location 152061 152067	Martin
+T444	Location 152151 152157	Marius
+T445	Person 152197 152202	Simon
+T446	Person 152253 152259	Julien
+T447	Person 152673 152679	Jeanne
+T448	Location 152825 152831	Marius
+T449	Person 153575 153598	Re-regarde Ma-Ma-Marius
+T450	Person 153616 153624	Mon Dieu
+T451	Person 153839 153845	Julien
+T452	Organization 153873 153882	Qu'est-ce
+T453	Person 153948 153954	Jeanne
+T454	Location 154205 154211	Marius
+T455	Person 154325 154337	Alors Julien
+T456	Person 154774 154780	Jeanne
+T457	Person 154908 154914	Julien
+T458	Location 156302 156308	Marius
+T459	Person 157378 157384	Julien
+T460	Person 157412 157418	Jeanne
+T461	Location 157611 157621	Briseville
+T462	Location 158621 158631	Briseville
+T463	Person 158701 158707	Jeanne
+T464	Person 158743 158749	Julien
+T465	Location 159039 159044	parla
+T466	Person 159066 159072	Jeanne
+T467	Location 159201 159211	Briseville
+T468	Location 159334 159340	France
+T469	Person 159688 159698	Jeanne des
+T470	Person 159801 159807	Marius
+T471	Person 159914 159920	Julien
+T472	Location 160036 160043	Peuples
+T473	Person 160090 160096	Jeanne
+T474	Location 160173 160179	Julien
+T475	Location 160251 160261	Briseville
+T476	Person 160289 160295	Jeanne
+T477	Person 160586 160592	Jeanne
+T478	Location 160695 160702	Peuples
+T479	Person 161030 161040	Briseville
+T480	Person 161112 161122	abbé Pelle
+T481	Location 161170 161179	Normandie
+T482	Person 161364 161370	Julien
+T483	Person 161417 161423	Jeanne
+T484	Person 161852 161858	Marius
+T485	Person 161940 161946	Julien
+T486	Person 162293 162299	Jeanne
+T487	Person 162438 162445	Jacques
+T488	Person 162628 162634	Julien
+T489	Person 162835 162841	Julien
+T490	Organization 162868 162890	Laissez-moi tranquille
+T491	Person 163437 163443	Julien
+T492	Person 163510 163516	Jeanne
+T493	Person 163534 163542	Adélaïde
+T494	Person 163718 163724	Jeanne
+T495	Location 163739 163749	Briseville
+T496	Location 163917 163923	Marius
+T497	Event 164100 164109	Noël vint
+T498	Location 164330 164337	Peuples
+T499	Date 164341 164350	9 janvier
+T500	Person 164353 164359	Jeanne
+T501	Person 164386 164392	Julien
+T502	Location 164488 164493	Rouen
+T503	Person 164602 164608	Jeanne
+T504	Location 164655 164660	Yport
+T505	Location 164708 164713	Corse
+T506	Location 165024 165027	Ota
+T507	Location 165565 165571	Fécamp
+T508	Location 165781 165787	Perret
+T509	Person 166656 166662	Jeanne
+T510	Location 167145 167157	Méditerranée
+T511	Location 167195 167207	Méditerranée
+T512	Person 167426 167432	Jeanne
+T513	Location 167531 167543	Méditerranée
+T514	Person 168228 168234	Jeanne
+T515	Person 168700 168706	Jeanne
+T516	Person 168710 168716	Julien
+T517	Person 168828 168834	Julien
+T518	Person 169397 169403	Julien
+T519	Person 169662 169668	Jeanne
+T520	Location 169701 169708	Peuples
+T521	Person 170233 170239	Julien
+T522	Person 170580 170586	Jeanne
+T523	Person 170799 170805	Julien
+T524	Person 170835 170840	Simon
+T525	Location 171025 171032	Rosalie
+T526	Person 171226 171232	Jeanne
+T527	Person 172056 172062	Julien
+T528	Person 172385 172391	Jeanne
+T529	Person 172856 172862	Jeanne
+T530	Location 172928 172935	Rosalie
+T531	Location 172993 173000	Soudain
+T532	Organization 173090 173099	Qu'est-ce
+T533	Person 173217 173223	Jeanne
+T534	Location 173338 173345	Rosalie
+T535	Location 173427 173434	Rosalie
+T536	Person 173715 173721	Jeanne
+T537	Organization 173735 173744	Qu'est-ce
+T538	Person 174375 174381	Jeanne
+T539	Person 174454 174460	Julien
+T540	Person 174462 174468	Julien
+T541	Organization 174499 174508	Qu'est-ce
+T542	Location 174576 174583	Rosalie
+T543	Person 174592 174598	Julien
+T544	Person 174971 174990	Envoie-moi Ludivine
+T545	Person 175002 175007	Simon
+T546	Person 175012 175018	Jeanne
+T547	Person 175430 175436	Julien
+T548	Person 175449 175455	Jeanne
+T549	Person 175649 175655	Julien
+T550	Organization 175830 175839	Qu'est-ce
+T551	Person 176101 176107	Jeanne
+T552	Location 176447 176454	Rosalie
+T553	Person 176488 176494	Julien
+T554	Person 176634 176640	Jeanne
+T555	Person 176834 176840	Julien
+T556	Person 177111 177117	Jeanne
+T557	Person 177264 177270	Julien
+T558	Organization 177383 177392	Qu'est-ce
+T559	Location 177410 177413	toi
+T560	Person 177816 177835	Alors Julien éclata
+T561	Location 178189 178196	Rosalie
+T562	Person 178441 178447	Jeanne
+T563	Location 178682 178689	Rosalie
+T564	Person 178772 178781	Jeanne la
+T565	Person 179023 179029	Jeanne
+T566	Person 179455 179461	Jeanne
+T567	Location 179705 179712	Rosalie
+T568	Person 179811 179817	Julien
+T569	Person 179995 180001	Jeanne
+T570	Location 180126 180133	Peuples
+T571	Person 180135 180141	Julien
+T572	Location 180189 180192	toi
+T573	Person 180309 180315	Jeanne
+T574	Location 180434 180441	Rosalie
+T575	Person 180673 180682	Jeanne l'
+T576	Location 180908 180911	toi
+T577	Location 180916 180923	Rosalie
+T578	Person 181036 181042	Jeanne
+T579	Person 181293 181299	Julien
+T580	Location 181469 181476	Rosalie
+T581	Person 181605 181611	Jeanne
+T582	Location 181618 181624	Julien
+T583	Location 181648 181655	Rosalie
+T584	Person 181802 181808	Julien
+T585	Location 182519 182526	Rosalie
+T586	Person 182699 182705	Jeanne
+T587	Person 182744 182750	Julien
+T588	Person 183870 183876	Jeanne
+T589	Person 184363 184369	Julien
+T590	Person 184639 184645	Jeanne
+T591	Location 185086 185091	parla
+T592	Person 185139 185145	Julien
+T593	Person 185427 185433	Jeanne
+T594	Location 186363 186370	Rosalie
+T595	Person 186547 186553	Jeanne
+T596	Location 186679 186686	Rosalie
+T597	Person 187071 187077	Julien
+T598	Location 187309 187316	Rosalie
+T599	Person 187517 187523	Julien
+T600	Person 187548 187554	Jeanne
+T601	Person 188126 188132	Julien
+T602	Person 188278 188284	Jeanne
+T603	Person 188621 188627	Jeanne
+T604	Person 189453 189459	Jeanne
+T605	Location 190222 190230	Lastique
+T606	Location 190374 190381	Peuples
+T607	Person 190708 190714	Julien
+T608	Location 191102 191109	Soudain
+T609	Person 191367 191373	Julien
+T610	Person 191385 191390	Simon
+T611	Location 191402 191408	Marius
+T612	Person 192218 192224	Jeanne
+T613	Person 192553 192559	Jeanne
+T614	Location 193683 193689	Jeanne
+T615	Person 193991 193997	Julien
+T616	Person 194259 194265	Julien
+T617	Person 194391 194402	Tante Lison
+T618	Person 194715 194721	Jeanne
+T619	Person 194733 194739	Jeanne
+T620	Person 195311 195322	tante Lison
+T621	Person 195388 195394	Julien
+T622	Location 195445 195452	Rosalie
+T623	Location 195552 195557	Rouen
+T624	Person 195958 195971	Jeanne chérie
+T625	Person 196086 196092	Julien
+T626	Location 196393 196400	Rosalie
+T627	Person 196529 196535	Jeanne
+T628	Person 196726 196732	Julien
+T629	Location 196734 196741	Rosalie
+T630	Location 196971 196978	Rosalie
+T631	Location 196994 197000	Julien
+T632	Location 197055 197060	Rouen
+T633	Person 197145 197151	Jeanne
+T634	Person 197520 197535	Jeanne aussitôt
+T635	Location 197629 197635	Julien
+T636	Location 198207 198214	Rosalie
+T637	Person 198536 198542	Julien
+T638	Person 198722 198728	Julien
+T639	Location 198764 198768	jura
+T640	Person 198775 198779	Dieu
+T641	Person 198837 198843	Jeanne
+T642	Person 199329 199335	Julien
+T643	Person 199362 199375	Jeanne connut
+T644	Location 199603 199610	Rosalie
+T645	Person 199684 199690	Jeanne
+T646	Person 199851 199865	Jeanne soudain
+T647	Location 199938 199945	Rosalie
+T648	Person 200025 200036	Calmez-vous
+T649	Person 200482 200488	Julien
+T650	Location 200846 200853	Rosalie
+T651	Person 200972 200978	Julien
+T652	Location 201820 201827	Rosalie
+T653	Person 202049 202055	Jeanne
+T654	Location 202648 202655	Rosalie
+T655	Location 202903 202913	Madeleines
+T656	Location 203042 203047	parla
+T657	Person 203187 203193	Jeanne
+T658	Person 203296 203302	Julien
+T659	Location 203332 203339	Rosalie
+T660	Location 203528 203535	Rosalie
+T661	Person 203538 203544	Jeanne
+T662	Location 203621 203628	Rosalie
+T663	Person 203668 203674	Jeanne
+T664	Person 203840 203846	Jeanne
+T665	Organization 204004 204013	Qu'est-ce
+T666	Location 204107 204114	Rosalie
+T667	Person 204554 204560	Jeanne
+T668	Location 204624 204631	Rosalie
+T669	Location 204737 204744	Rosalie
+T670	Person 204764 204770	Jeanne
+T671	Person 205343 205349	Jeanne
+T672	Location 205397 205404	Peuples
+T673	Location 205605 205612	Rosalie
+T674	Person 205642 205648	Jeanne
+T675	Person 205857 205861	Dieu
+T676	Location 206080 206083	toi
+T677	Location 206184 206191	Rosalie
+T678	Person 207162 207168	Julien
+T679	Person 208607 208613	Julien
+T680	Person 208954 208960	Jeanne
+T681	Location 209084 209091	Rosalie
+T682	Location 209596 209603	Rosalie
+T683	Person 209677 209683	Julien
+T684	Location 209739 209746	Rosalie
+T685	Person 210135 210141	Jeanne
+T686	Person 211230 211234	Dieu
+T687	Person 211442 211448	Julien
+T688	Person 211934 211940	Jeanne
+T689	Person 212328 212334	Julien
+T690	Person 212354 212360	Jeanne
+T691	Location 212867 212875	Barville
+T692	Location 213234 213242	Barville
+T693	Person 213570 213581	tante Lison
+T694	Person 213694 213707	VIII  Rosalie
+T695	Person 213734 213740	Jeanne
+T696	Location 213828 213835	plaisir
+T697	Location 214503 214510	Rosalie
+T698	Location 214695 214701	Jeanne
+T699	Person 214751 214762	tante Lison
+T700	Person 214984 214990	Julien
+T701	Location 215162 215171	Fourville
+T702	Person 215176 215182	Julien
+T703	Location 215310 215320	Briseville
+T704	Person 215494 215500	Julien
+T705	Person 215541 215547	Jeanne
+T706	Location 215583 215592	Fourville
+T707	Person 215735 215741	Jeanne
+T708	Person 216113 216122	de Lamare
+T709	Location 216357 216364	plaisir
+T710	Person 216485 216491	Jeanne
+T711	Person 216574 216586	de Fourville
+T712	Person 216880 216886	Julien
+T713	Person 216894 216911	Jeanne stupéfaite
+T714	Location 217216 217221	parla
+T715	Location 217484 217493	Fourville
+T716	Person 217712 217718	Jeanne
+T717	Person 218183 218189	Julien
+T718	Person 218299 218305	Jeanne
+T719	Location 218562 218572	Briseville
+T720	Person 218961 218975	Jeanne soudain
+T721	Person 219679 219684	Simon
+T722	Person 219923 219929	Jeanne
+T723	Person 220349 220355	Julien
+T724	Location 221087 221095	Ludivine
+T725	Person 221100 221111	tante Lison
+T726	Person 221438 221444	Jeanne
+T727	Location 221534 221541	Rosalie
+T728	Person 221783 221787	Dieu
+T729	Location 222173 222179	Julien
+T730	Person 225660 225666	Julien
+T731	Person 226636 226642	Julien
+T732	Location 226682 226691	Fourville
+T733	Person 226849 226860	tante Lison
+T734	Location 226898 226915	Pierre-Simon-Paul
+T735	Person 226918 226922	Paul
+T736	Person 226995 227006	tante Lison
+T737	Person 227430 227436	Julien
+T738	Person 227454 227460	Jeanne
+T739	Person 227743 227749	Julien
+T740	Person 227828 227834	Jeanne
+T741	Person 227908 227912	Dieu
+T742	Person 228412 228418	Jeanne
+T743	Organization 228473 228482	Qu'est-ce
+T744	Person 228503 228515	Alors Julien
+T745	Person 228657 228671	marier Rosalie
+T746	Location 228695 228703	Barville
+T747	Person 228922 228928	Jeanne
+T748	Person 229338 229344	Julien
+T749	Person 230011 230023	Alors Julien
+T750	Person 230504 230510	Jeanne
+T751	Person 231049 231055	Jeanne
+T752	Person 231302 231308	Jeanne
+T753	Person 231654 231660	Julien
+T754	Person 232373 232385	Désiré Lecoq
+T755	Location 232976 232983	Rosalie
+T756	Person 232988 232994	Jeanne
+T757	Location 233618 233625	Rosalie
+T758	Person 234128 234134	Julien
+T759	Organization 234158 234167	Qu'est-ce
+T760	Person 234186 234192	Julien
+T761	Person 234205 234211	Julien
+T762	Location 234714 234722	Barville
+T763	Location 235270 235276	Julien
+T764	Location 236343 236351	Ludivine
+T765	Location 236557 236563	Julien
+T766	Person 236831 236843	Désiré Lecoq
+T767	Person 236932 236938	Julien
+T768	Location 237010 237017	Peuples
+T769	Person 237019 237025	Jeanne
+T770	Person 237077 237081	Paul
+T771	Person 237141 237151	IX  Jeanne
+T772	Location 237238 237247	Fourville
+T773	Location 237291 237300	Coutelier
+T774	Person 237303 237309	Julien
+T775	Location 237959 237968	Vrillette
+T776	Person 238240 238250	Louis XIII
+T777	Person 238402 238408	Julien
+T778	Person 238422 238428	Jeanne
+T779	Location 238812 238818	Là-bas
+T780	Location 238941 238947	Fécamp
+T781	Person 239629 239635	Jeanne
+T782	Person 239759 239765	Julien
+T783	Person 240126 240132	Jeanne
+T784	Location 240547 240553	Madère
+T785	Person 240648 240654	Jeanne
+T786	Person 240772 240778	Julien
+T787	Person 240933 240937	Paul
+T788	Person 241411 241417	Jeanne
+T789	Person 241577 241583	Julien
+T790	Location 242061 242068	plaisir
+T791	Person 242294 242300	Jeanne
+T792	Person 242526 242532	Julien
+T793	Organization 242705 242713	Qu'as-tu
+T794	Person 243191 243197	Jeanne
+T795	Person 243201 243207	Julien
+T796	Person 243236 243248	de Fourville
+T797	Organization 244425 244435	comte cria
+T798	Location 244440 244448	Gilberte
+T799	Person 244680 244692	de Fourville
+T800	Person 244918 244924	Jeanne
+T801	Person 244928 244934	Julien
+T802	Person 245027 245033	Jeanne
+T803	Person 245105 245111	Julien
+T804	Location 245249 245258	Coutelier
+T805	Location 245337 245344	Reminil
+T806	Location 245371 245375	Cany
+T807	Person 245403 245412	Louis XIV
+T808	Location 245695 245701	Sèvres
+T809	Location 245839 245849	Varneville
+T810	Location 245867 245876	Coutelier
+T811	Person 245911 245917	Jeanne
+T812	Person 245921 245927	Julien
+T813	Location 246591 246597	Jeanne
+T814	Person 246601 246607	Julien
+T815	Person 246857 246863	Julien
+T816	Location 246925 246934	Fourville
+T817	Person 246954 246960	Jeanne
+T818	Person 247103 247109	Jeanne
+T819	Person 247164 247168	Paul
+T820	Person 247173 247179	Julien
+T821	Location 247833 247842	Fourville
+T822	Person 247910 247914	Paul
+T823	Location 248301 248305	Mars
+T824	Location 248350 248358	Gilberte
+T825	Person 248429 248435	Jeanne
+T826	Person 248723 248729	Julien
+T827	Person 248750 248756	Jeanne
+T828	Location 249204 249212	Gilberte
+T829	Location 249381 249387	Jeanne
+T830	Person 249587 249593	Julien
+T831	Location 249892 249899	Soudain
+T832	Location 249970 249978	Gilberte
+T833	Location 250438 250444	grasse
+T834	Person 250516 250522	Julien
+T835	Person 251035 251041	Jeanne
+T836	Person 251228 251240	Alors Julien
+T837	Person 251808 251814	Jeanne
+T838	Location 251996 252003	Peuples
+T839	Person 252034 252040	Jeanne
+T840	Location 252312 252318	Jeanne
+T841	Location 252373 252381	Gilberte
+T842	Person 252529 252535	Julien
+T843	Person 253111 253117	Jeanne
+T844	Person 253473 253479	Julien
+T845	Person 254483 254489	Julien
+T846	Location 254580 254586	Martin
+T847	Person 254967 254973	Jeanne
+T848	Location 255694 255702	Gilberte
+T849	Location 255709 255715	Julien
+T850	Person 256518 256524	Jeanne
+T851	Location 256874 256881	Peuples
+T852	Person 257090 257096	Julien
+T853	Location 257229 257237	Gilberte
+T854	Location 257626 257632	Julien
+T855	Person 258011 258015	Paul
+T856	Person 258216 258222	Julien
+T857	Person 258575 258579	Paul
+T858	Date 258685 258691	20 mai
+T859	Location 259657 259663	Martin
+T860	Person 260132 260138	Jeanne
+T861	Location 260565 260573	Gilberte
+T862	Person 260895 260901	Julien
+T863	Person 261408 261414	Julien
+T864	Location 261516 261524	Fontaine
+T865	Person 261529 261535	Jeanne
+T866	Person 262513 262519	Jeanne
+T867	Organization 262751 262760	Qu'est-ce
+T868	Person 262985 262991	Julien
+T869	Person 263075 263081	Jeanne
+T870	Location 264136 264150	relire Corinne
+T871	Location 264173 264182	Lamartine
+T872	Person 264605 264611	Jeanne
+T873	Organization 264704 264712	Qu'as-tu
+T874	Person 265165 265171	Jeanne
+T875	Person 265381 265387	Jeanne
+T876	Person 265889 265895	Jeanne
+T877	Location 265920 265926	Julien
+T878	Location 265945 265953	Gilberte
+T879	Person 266065 266071	Jeanne
+T880	Person 266093 266097	Paul
+T881	Location 267240 267246	Marius
+T882	Person 267959 267965	Jeanne
+T883	Location 268248 268255	Cologne
+T884	Person 268365 268381	Joseph Couillard
+T885	Person 268415 268420	Simon
+T886	Location 268424 268432	Ludivine
+T887	Person 268445 268455	abbé Picot
+T888	Person 268669 268675	Jeanne
+T889	Person 269169 269185	Joseph Couillard
+T890	Person 269419 269425	Jeanne
+T891	Person 269646 269652	Jeanne
+T892	Person 270517 270523	Jeanne
+T893	Person 270565 270571	Julien
+T894	Person 271254 271260	Julien
+T895	Person 271545 271551	Jeanne
+T896	Location 271678 271683	parla
+T897	Person 271886 271892	Jeanne
+T898	Person 271997 272003	Julien
+T899	Person 272339 272345	Julien
+T900	Person 272388 272398	abbé Picot
+T901	Person 272624 272630	Jeanne
+T902	Location 272873 272878	Rouen
+T903	Person 273391 273397	Jeanne
+T904	Person 273480 273486	Julien
+T905	Person 273852 273858	Julien
+T906	Location 273897 273903	Jeanne
+T907	Person 274191 274197	Jeanne
+T908	Person 274869 274878	Jeanne la
+T909	Person 275527 275542	madame Adélaïde
+T910	Person 276958 276964	Jeanne
+T911	Person 277263 277269	Jeanne
+T912	Location 277822 277828	Jeanne
+T913	Location 278027 278034	Rosalie
+T914	Location 278036 278044	Gilberte
+T915	Person 278773 278777	Dieu
+T916	Person 278977 278983	Jeanne
+T917	Location 279829 279836	plaisir
+T918	Person 280917 280925	Adélaïde
+T919	Location 281494 281500	Jeanne
+T920	Organization 282368 282389	Le Perthuis des Vauds
+T921	Person 282806 282812	Jeanne
+T922	Person 283213 283217	Paul
+T923	Location 283220 283228	Ennemare
+T924	Person 283313 283317	Paul
+T925	Person 283388 283394	Jeanne
+T926	Person 285815 285821	Jeanne
+T927	Location 285880 285887	Peuples
+T928	Person 286311 286317	Julien
+T929	Person 286892 286898	Jeanne
+T930	Location 286939 286947	Gilberte
+T931	Person 287220 287226	Jeanne
+T932	Location 287264 287273	Coutelier
+T933	Location 287294 287304	Briseville
+T934	Person 287353 287364	tante Lison
+T935	Person 287476 287482	Julien
+T936	Location 287556 287561	parla
+T937	Person 287744 287755	Tante Lison
+T938	Person 287771 287779	Gilberte
+T939	Person 287807 287813	Jeanne
+T940	Person 287971 287983	de Fourville
+T941	Person 288950 288956	Jeanne
+T942	Person 289492 289496	Paul
+T943	Person 289511 289517	Jeanne
+T944	Event 289970 289988	affaire de Rosalie
+T945	Location 290013 290019	Julien
+T946	Person 290105 290111	Julien
+T947	Person 290629 290633	Paul
+T948	Person 290936 290942	Jeanne
+T949	Person 291084 291094	abbé Picot
+T950	Location 294142 294148	Jeanne
+T951	Person 294845 294851	Julien
+T952	Person 295175 295184	Julien la
+T953	Person 295755 295761	Jeanne
+T954	Person 295872 295878	Julien
+T955	Person 296025 296031	Jeanne
+T956	Location 296209 296215	Julien
+T957	Person 298341 298351	abbé Picot
+T958	Location 299979 299985	Julien
+T959	Location 300591 300599	Gilberte
+T960	Person 300681 300687	Julien
+T961	Person 301636 301646	abbé Picot
+T962	Person 301787 301799	abbé Tolbiac
+T963	Location 301984 301994	Goderville
+T964	Person 301997 302003	Jeanne
+T965	Person 302154 302158	Paul
+T966	Location 302207 302215	Étouvent
+T967	Person 302237 302247	abbé Picot
+T968	Location 302745 302770	Notre-Dame du Gros-Ventre
+T969	Person 303095 303105	abbé Picot
+T970	Location 303681 303687	grasse
+T971	Person 304082 304092	abbé Picot
+T972	Person 304339 304345	Jeanne
+T973	Person 304393 304405	abbé Tolbiac
+T974	Location 304417 304422	parla
+T975	Person 304929 304935	Jeanne
+T976	Person 305207 305217	abbé Picot
+T977	Person 305939 305943	Dieu
+T978	Person 306033 306042	Jeanne l'
+T979	Organization 306233 306251	Christ consolateur
+T980	Location 307838 307845	granges
+T981	Location 308864 308870	Christ
+T982	Person 309262 309268	Julien
+T983	Location 309515 309524	Fourville
+T984	Person 310066 310072	Jeanne
+T985	Person 310134 310146	abbé Tolbiac
+T986	Person 310821 310836	Dieu panthéiste
+T987	Person 310885 310889	Dieu
+T988	Person 310967 310971	Dieu
+T989	Person 311135 311139	Dieu
+T990	Person 311738 311747	Universel
+T991	Person 311858 311864	Jeanne
+T992	Location 312235 312249	Anti-physiques
+T993	Location 312516 312522	Julien
+T994	Location 312529 312537	Gilberte
+T995	Person 312612 312618	Jeanne
+T996	Location 313048 313053	parla
+T997	Location 313328 313334	Jeanne
+T998	Location 313641 313646	parla
+T999	Person 313929 313941	de Fourville
+T1000	Person 315212 315216	Dieu
+T1001	Person 315368 315380	de Fourville
+T1002	Person 316079 316085	Julien
+T1003	Person 316748 316754	Jeanne
+T1004	Person 317596 317608	abbé Tolbiac
+T1005	Person 318482 318488	Jeanne
+T1006	Person 318678 318689	Le Perthuis
+T1007	Person 319100 319106	Jeanne
+T1008	Person 319243 319248	Simon
+T1009	Person 319649 319655	Jeanne
+T1010	Person 320114 320120	Julien
+T1011	Person 320303 320307	Dieu
+T1012	Person 320360 320366	Julien
+T1013	Person 320432 320444	abbé Tolbiac
+T1014	Location 320588 320596	Gilberte
+T1015	Person 320600 320606	Julien
+T1016	Location 321375 321383	Vaucotte
+T1017	Person 321760 321772	abbé Tolbiac
+T1018	Person 321878 321884	Julien
+T1019	Location 322068 322077	Vrillette
+T1020	Location 322143 322151	Étouvent
+T1021	Person 322316 322322	Jeanne
+T1022	Person 322456 322468	de Fourville
+T1023	Person 322974 322980	Jeanne
+T1024	Person 323530 323536	Jeanne
+T1025	Person 323905 323911	Jeanne
+T1026	Location 324649 324655	Là-bas
+T1027	Location 324679 324687	Vaucotte
+T1028	Location 329915 329921	Julien
+T1029	Person 329953 329974	de Fourville chancela
+T1030	Person 331314 331326	de Fourville
+T1031	Location 331621 331628	Peuples
+T1032	Person 331630 331636	Jeanne
+T1033	Organization 331912 331919	Tu sais
+T1034	Location 332123 332129	Julien
+T1035	Person 332207 332218	tante Lison
+T1036	Location 332376 332383	Peuples
+T1037	Person 332718 332729	tante Lison
+T1038	Location 332776 332783	Peuples
+T1039	Person 333027 333033	Julien
+T1040	Location 333736 333741	Corse
+T1041	Person 333914 333920	Jeanne
+T1042	Person 334473 334479	Jeanne
+T1043	Person 334583 334594	tante Lison
+T1044	Location 335082 335087	Rouen
+T1045	Person 335200 335204	Paul
+T1046	Location 335344 335351	Peuples
+T1047	Location 335728 335734	Poulet
+T1048	Location 335791 335797	Poulet
+T1049	Location 336166 336172	Poulet
+T1050	Person 336347 336353	Jeanne
+T1051	Person 336400 336408	Ludivine
+T1052	Person 336498 336502	Paul
+T1053	Person 336763 336767	Paul
+T1054	Person 336954 336960	Jeanne
+T1055	Person 337004 337015	tante Lison
+T1056	Location 337234 337244	Briseville
+T1057	Location 337252 337261	Coutelier
+T1058	Person 337334 337340	Jeanne
+T1059	Location 337469 337475	Julien
+T1060	Person 337522 337526	Dieu
+T1061	Person 337570 337582	abbé Tolbiac
+T1062	Organization 337666 337679	Esprit du Mal
+T1063	Organization 337683 337709	Esprit d'Éternelle Révolte
+T1064	Location 337722 337728	Erreur
+T1065	Location 337735 337743	Mensonge
+T1066	Organization 337747 337764	Esprit d'Iniquité
+T1067	Location 337778 337788	Corruption
+T1068	Person 338983 338995	Malin Esprit
+T1069	Person 339444 339456	abbé Tolbiac
+T1070	Person 339623 339629	Jeanne
+T1071	Person 339693 339704	tante Lison
+T1072	Person 339978 339982	Paul
+T1073	Person 340019 340023	Dieu
+T1074	Person 340204 340208	Dieu
+T1075	Location 340315 340321	Poulet
+T1076	Location 340394 340400	Poulet
+T1077	Person 340424 340428	Dieu
+T1078	Person 340848 340863	Jeanne aussitôt
+T1079	Person 341377 341381	Lise
+T1080	Person 341406 341412	Jeanne
+T1081	Location 341814 341824	Briseville
+T1082	Person 341903 341907	Paul
+T1083	Person 341945 341951	Jeanne
+T1084	Person 342072 342076	Lise
+T1085	Location 342152 342158	Poulet
+T1086	Person 342509 342521	abbé Tolbiac
+T1087	Location 342551 342556	Lison
+T1088	Location 342698 342702	jura
+T1089	Person 343007 343013	Jeanne
+T1090	Location 343062 343072	Briseville
+T1091	Location 343191 343200	Coutelier
+T1092	Person 343586 343592	Jeanne
+T1093	Person 343764 343768	Dieu
+T1094	Person 343895 343901	Jeanne
+T1095	Person 343961 343965	Dieu
+T1096	Person 344061 344065	Dieu
+T1097	Person 344135 344141	Jeanne
+T1098	Person 344163 344167	Dieu
+T1099	Person 344465 344471	Jeanne
+T1100	Person 344538 344542	Dieu
+T1101	Person 344572 344576	Dieu
+T1102	Location 344693 344699	Poulet
+T1103	Location 344825 344831	Pâques
+T1104	Person 345370 345374	Paul
+T1105	Location 345675 345681	Poulet
+T1106	Location 345725 345731	Poulet
+T1107	Location 346321 346328	Laitues
+T1108	Location 346330 346338	Romaines
+T1109	Location 346340 346349	Chicorées
+T1110	Location 346351 346368	Barbes-de-capucin
+T1111	Location 346370 346377	Royales
+T1112	Location 346799 346805	Poulet
+T1113	Organization 347056 347078	baron parla du collège
+T1114	Person 347084 347099	Jeanne aussitôt
+T1115	Person 347120 347131	Tante Lison
+T1116	Location 347909 347915	Poulet
+T1117	Location 348147 348152	parla
+T1118	Person 348171 348177	Jeanne
+T1119	Organization 348542 348551	Qu'est-ce
+T1120	Person 348681 348687	Jeanne
+T1121	Person 349008 349014	Poulet
+T1122	Location 349316 349321	Havre
+T1123	Person 349765 349771	Jeanne
+T1124	Person 349782 349793	tante Lison
+T1125	Location 350297 350303	Poulet
+T1126	Person 350953 350959	Jeanne
+T1127	Person 350963 350969	Poulet
+T1128	Person 350996 351007	Tante Lison
+T1129	Location 351271 351278	Peuples
+T1130	Person 351341 351347	Jeanne
+T1131	Location 351429 351437	Le Havre
+T1132	Location 351439 351445	Poulet
+T1133	Person 351622 351628	Jeanne
+T1134	Location 352249 352256	Peuples
+T1135	Location 352654 352659	Yport
+T1136	Person 353079 353090	tante Lison
+T1137	Location 353194 353200	Poulet
+T1138	Location 353530 353537	Peuples
+T1139	Person 353695 353701	Jeanne
+T1140	Person 354252 354258	Jeanne
+T1141	Location 354262 354267	Lison
+T1142	Person 354359 354363	Paul
+T1143	Location 354494 354500	Poulet
+T1144	Location 354824 354830	Poulet
+T1145	Person 354980 354984	Paul
+T1146	Location 355081 355088	plaisir
+T1147	Location 355268 355276	Le Havre
+T1148	Person 355446 355453	Sais-tu
+T1149	Location 355513 355520	Peuples
+T1150	Organization 355663 355676	Nouveau Monde
+T1151	Location 355722 355728	Poulet
+T1152	Location 356043 356049	Poulet
+T1153	Location 356061 356067	Poulet
+T1154	Person 356445 356449	Paul
+T1155	Person 356600 356606	Jeanne
+T1156	Location 356785 356794	Allemagne
+T1157	Organization 357083 357092	Qu'est-ce
+T1158	Person 357499 357503	Paul
+T1159	Person 357676 357682	Jeanne
+T1160	Location 358311 358319	Le Havre
+T1161	Person 358384 358388	Paul
+T1162	Person 358461 358467	Jeanne
+T1163	Location 358921 358928	Peuples
+T1164	Person 358992 358998	Jeanne
+T1165	Person 359038 359042	Paul
+T1166	Location 359477 359482	Yport
+T1167	Person 359507 359513	Jeanne
+T1168	Location 359623 359628	Havre
+T1169	Person 359730 359736	Jeanne
+T1170	Location 359958 359963	Yport
+T1171	Person 360114 360118	Paul
+T1172	Location 360175 360180	Havre
+T1173	Person 360390 360394	Paul
+T1174	Location 360400 360407	Peuples
+T1175	Location 360520 360530	Angleterre
+T1176	Person 360705 360711	Jeanne
+T1177	Person 360844 360856	abbé Tolbiac
+T1178	Person 360880 360884	Dieu
+T1179	Person 361468 361472	Dieu
+T1180	Person 361997 362001	Dieu
+T1181	Organization 362149 362166	Divine Mansuétude
+T1182	Organization 362345 362359	Ma chère maman
+T1183	Location 362395 362402	Londres
+T1184	Person 362979 362990	tante Lison
+T1185	Person 363042 363056	Paul de LAMARE
+T1186	Person 363311 363322	Tante Lison
+T1187	Person 363420 363426	Jeanne
+T1188	Person 363509 363513	Paul
+T1189	Location 363768 363774	Jeanne
+T1190	Person 363971 363975	Paul
+T1191	Person 364498 364504	Julien
+T1192	Person 364506 364512	Jeanne
+T1193	Location 364627 364632	Paris
+T1194	Person 364634 364638	Paul
+T1195	Location 364930 364937	Peuples
+T1196	Person 365080 365086	Jeanne
+T1197	Person 365272 365276	Paul
+T1198	Location 365318 365323	Paris
+T1199	Person 365458 365464	Jeanne
+T1200	Person 365468 365473	Lison
+T1201	Location 366157 366167	Providence
+T1202	Location 366458 366466	Le Havre
+T1203	Location 366565 366569	Paul
+T1204	Person 366781 366787	Jeanne
+T1205	Location 366821 366826	Paris
+T1206	Location 366918 366925	Londres
+T1207	Person 367009 367022	Paul Delamare
+T1208	Location 367026 367029	Cie
+T1209	Person 367448 367454	Jeanne
+T1210	Location 367551 367556	Havre
+T1211	Location 367782 367789	Peuples
+T1212	Person 367997 368003	Jeanne
+T1213	Location 368088 368095	Peuples
+T1214	Person 368186 368198	abbé Tolbiac
+T1215	Person 368353 368357	Paul
+T1216	Location 368449 368459	Angleterre
+T1217	Location 368626 368632	France
+T1218	Person 368666 368672	Jeanne
+T1219	Person 368783 368794	tante Lison
+T1220	Person 368945 368951	Jeanne
+T1221	Person 368977 368981	Dieu
+T1222	Location 369001 369004	toi
+T1223	Person 369009 369018	Jeanne la
+T1224	Person 369303 369309	Jeanne
+T1225	Person 370259 370268	Jeanne la
+T1226	Person 370996 371002	Jeanne
+T1227	Person 371234 371240	Jeanne
+T1228	Person 371469 371475	Jeanne
+T1229	Person 371660 371666	Jeanne
+T1230	Person 371732 371738	Jeanne
+T1231	Location 371751 371758	Rosalie
+T1232	Location 371963 371970	Rosalie
+T1233	Location 372320 372327	Rosalie
+T1234	Person 372420 372426	Jeanne
+T1235	Person 372591 372597	Jeanne
+T1236	Location 372755 372762	Rosalie
+T1237	Person 372920 372933	madame Jeanne
+T1238	Person 373079 373085	Jeanne
+T1239	Location 373143 373150	Rosalie
+T1240	Person 373500 373506	Jeanne
+T1241	Person 373974 373980	Jeanne
+T1242	Location 374064 374071	Rosalie
+T1243	Person 374202 374208	Jeanne
+T1244	Location 374392 374395	toi
+T1245	Person 374522 374528	Jeanne
+T1246	Location 374679 374686	Rosalie
+T1247	Person 375306 375312	Jeanne
+T1248	Person 376163 376169	Jeanne
+T1249	Location 376417 376424	Rosalie
+T1250	Person 376733 376745	XII  Rosalie
+T1251	Person 376829 376835	Jeanne
+T1252	Person 377136 377142	Jeanne
+T1253	Location 377174 377181	Rosalie
+T1254	Person 377363 377369	Jeanne
+T1255	Location 377465 377472	Rosalie
+T1256	Location 377501 377507	Fécamp
+T1257	Person 377871 377877	Jeanne
+T1258	Location 377997 378004	Rosalie
+T1259	Person 378057 378061	Paul
+T1260	Person 378101 378107	Jeanne
+T1261	Person 378280 378293	madame Jeanne
+T1262	Location 378478 378485	Peuples
+T1263	Person 378492 378498	Jeanne
+T1264	Location 378550 378557	Peuples
+T1265	Location 378609 378616	Rosalie
+T1266	Location 378785 378792	Peuples
+T1267	Location 378903 378916	Saint-Léonard
+T1268	Person 379410 379414	Paul
+T1269	Person 379492 379498	Jeanne
+T1270	Person 380036 380042	Jeanne
+T1271	Location 380098 380105	Peuples
+T1272	Location 380201 380208	Rosalie
+T1273	Person 380520 380526	Jeanne
+T1274	Person 380659 380663	Paul
+T1275	Location 380738 380745	Rosalie
+T1276	Organization 380768 380777	Qu'est-ce
+T1277	Person 380883 380889	Jeanne
+T1278	Location 380997 381000	toi
+T1279	Location 381056 381063	Peuples
+T1280	Person 381202 381208	JEANNE
+T1281	Person 381250 381258	Jeoffrin
+T1282	Location 381476 381486	Goderville
+T1283	Location 381510 381523	Montivilliers
+T1284	Location 381543 381553	Batteville
+T1285	Person 381952 381964	de Fourville
+T1286	Person 381999 382005	Julien
+T1287	Location 382138 382145	Rosalie
+T1288	Person 382341 382354	madame Jeanne
+T1289	Person 382581 382587	Julien
+T1290	Person 382601 382605	Paul
+T1291	Location 382897 382903	Julien
+T1292	Location 385823 385828	Chine
+T1293	Location 386543 386550	plaisir
+T1294	Person 386553 386559	Jeanne
+T1295	Location 387103 387110	Rosalie
+T1296	Person 387188 387194	Jeanne
+T1297	Person 387317 387323	Julien
+T1298	Person 387325 387336	Denis Lecoq
+T1299	Location 387396 387403	Rosalie
+T1300	Person 387526 387532	Jeanne
+T1301	Location 388273 388280	Rosalie
+T1302	Person 388452 388458	Jeanne
+T1303	Person 389434 389440	Jeanne
+T1304	Person 389481 389487	Julien
+T1305	Person 389806 389811	Simon
+T1306	Person 389815 389823	Ludivine
+T1307	Person 389929 389935	Jeanne
+T1308	Location 390081 390087	Marius
+T1309	Person 390416 390422	Jeanne
+T1310	Location 390568 390575	Rosalie
+T1311	Location 390714 390719	Rouen
+T1312	Location 391103 391110	Rosalie
+T1313	Location 391349 391355	Jeanne
+T1314	Person 391500 391505	Denis
+T1315	Person 391814 391826	abbé Tolbiac
+T1316	Person 392064 392070	Jeanne
+T1317	Location 392126 392133	Rosalie
+T1318	Location 392519 392526	Rosalie
+T1319	Person 392675 392689	Jeanne soudain
+T1320	Person 392762 392767	Denis
+T1321	Location 392818 392825	Rosalie
+T1322	Location 393653 393657	Caux
+T1323	Person 393775 393781	Jeanne
+T1324	Location 393826 393833	Rosalie
+T1325	Location 393915 393925	Goderville
+T1326	Person 394369 394375	Jeanne
+T1327	Location 394553 394560	plaisir
+T1328	Location 394897 394903	Poulet
+T1329	Location 394936 394943	Rosalie
+T1330	Person 395041 395047	Jeanne
+T1331	Location 395192 395198	Fécamp
+T1332	Location 395270 395277	Peuples
+T1333	Location 395366 395373	plaisir
+T1334	Location 395461 395471	Goderville
+T1335	Person 395504 395508	Paul
+T1336	Location 395595 395602	Rosalie
+T1337	Person 395728 395734	Jeanne
+T1338	Person 396077 396083	Jeanne
+T1339	Location 396220 396227	Rosalie
+T1340	Person 396431 396437	Jeanne
+T1341	Location 396475 396485	Batteville
+T1342	Location 396675 396683	Verneuil
+T1343	Location 397384 397391	Peuples
+T1344	Person 398495 398501	Jeanne
+T1345	Person 399092 399098	Jeanne
+T1346	Person 400243 400249	Jeanne
+T1347	Location 400299 400306	Peuples
+T1348	Person 400392 400403	tante Lison
+T1349	Person 400476 400484	Adélaïde
+T1350	Location 400576 400580	Paul
+T1351	Location 401845 401851	Poulet
+T1352	Location 402234 402237	toi
+T1353	Location 402372 402375	toi
+T1354	Location 402505 402511	Poulet
+T1355	Person 402604 402610	JEANNE
+T1356	Organization 402656 402670	Ma chère maman
+T1357	Person 403905 403919	PAUL DE LAMARE
+T1358	Person 403924 403930	Jeanne
+T1359	Person 404316 404320	Paul
+T1360	Location 404418 404425	Rosalie
+T1361	Person 404433 404448	Jeanne balbutia
+T1362	Person 404557 404561	Paul
+T1363	Person 404602 404608	Jeanne
+T1364	Person 404819 404823	Paul
+T1365	Location 404980 404987	Rosalie
+T1366	Location 405300 405305	Paris
+T1367	Person 405348 405357	Jeanne la
+T1368	Location 405415 405425	Goderville
+T1369	Person 405547 405561	maître Roussel
+T1370	Person 405678 405684	Jeanne
+T1371	Location 405724 405729	Paris
+T1372	Location 405964 405969	parla
+T1373	Location 406094 406103	Normandie
+T1374	Location 406287 406292	Paris
+T1375	Location 406296 406304	Le Havre
+T1376	Person 406311 406317	Jeanne
+T1377	Person 406430 406434	Paul
+T1378	Person 406615 406629	père Malandain
+T1379	Person 406807 406811	Paul
+T1380	Person 406827 406833	Jeanne
+T1381	Location 406894 406901	Rosalie
+T1382	Person 407223 407227	Paul
+T1383	Person 407310 407321	Denis Lecoq
+T1384	Location 407373 407380	Rosalie
+T1385	Person 407998 408021	Jeanne embrassa Rosalie
+T1386	Location 408067 408074	Rosalie
+T1387	Person 408356 408362	Jeanne
+T1388	Location 408710 408715	Paris
+T1389	Person 408754 408760	Jeanne
+T1390	Person 409020 409027	Roussel
+T1391	Person 409117 409124	Roussel
+T1392	Person 409130 409136	Jeanne
+T1393	Location 409177 409187	Goderville
+T1394	Location 409766 409772	Julien
+T1395	Location 409802 409807	Paris
+T1396	Hour 410827 410847	deux heures du matin
+T1397	Person 410941 410947	Jeanne
+T1398	Person 411077 411081	Paul
+T1399	Location 411154 411168	rue du Sauvage
+T1400	Location 411259 411266	Rosalie
+T1401	Location 411862 411867	Seine
+T1402	Location 411949 411963	rue du Sauvage
+T1403	Location 412115 412121	Poulet
+T1404	Person 412310 412324	Paul de Lamare
+T1405	Person 412974 412980	Jeanne
+T1406	Location 413216 413222	Poulet
+T1407	Location 413800 413809	Normandie
+T1408	Location 413811 413823	rue du Havre
+T1409	Person 415673 415679	Jeanne
+T1410	Person 415818 415822	Paul
+T1411	Location 416180 416187	Rosalie
+T1412	Location 416241 416251	Goderville
+T1413	Person 417027 417031	Paul
+T1414	Hour 417264 417275	neuf heures
+T1415	Person 417486 417490	Paul
+T1416	Location 417706 417720	rue du Sauvage
+T1417	Location 418092 418099	Rosalie
+T1418	Location 418772 418779	Rosalie
+T1419	Organization 418792 418805	Madame Jeanne
+T1420	Person 418872 418876	Paul
+T1421	Location 418981 418988	ROSALIE
+T1422	Person 418996 419002	Jeanne
+T1423	Location 419017 419027	Batteville
+T1424	Location 419575 419582	Rosalie
+T1425	Person 419633 419646	madame Jeanne
+T1426	Location 420041 420046	Corse
+T1427	Person 420286 420297	Jean Ravoli
+T1428	Person 420411 420415	Paul
+T1429	Location 420503 420509	grasse
+T1430	Person 420520 420531	tante Lison
+T1431	Location 420747 420753	Poulet
+T1432	Location 420765 420771	Poulet
+T1433	Location 421399 421406	Rosalie
+T1434	Person 421468 421474	Jeanne
+T1435	Location 422006 422013	Rosalie
+T1436	Location 422473 422480	Rosalie
+T1437	Location 423264 423271	Rosalie
+T1438	Organization 423286 423295	Qu'est-ce
+T1439	Person 423589 423595	Jeanne
+T1440	Location 423680 423687	Rosalie
+T1441	Location 423832 423840	Amérique
+T1442	Location 423847 423855	Amérique
+T1443	Person 424192 424198	Jeanne
+T1444	Location 424952 424959	Soudain
+T1445	Location 425018 425025	Peuples
+T1446	Location 425114 425119	Rouen
+T1447	Location 426069 426076	Peuples
+T1448	Location 429489 429496	Rosalie
+T1449	Person 429632 429638	Jeanne
+T1450	Person 429859 429864	Denis
+T1451	Location 429918 429925	Peuples
+T1452	Person 429958 429964	Jeanne
+T1453	Location 430267 430275	Étouvent
+T1454	Person 430277 430283	Jeanne
+T1455	Location 430601 430608	Rosalie
+T1456	Location 430673 430679	Jeanne
+T1457	Person 431442 431448	Julien
+T1458	Person 431706 431712	Jeanne
+T1459	Person 433680 433686	Jeanne
+T1460	Location 434421 434427	Poulet
+T1461	Person 434702 434713	tante Lison
+T1462	Person 434911 434917	Jeanne
+T1463	Location 435081 435088	Rosalie
+T1464	Organization 435093 435106	Madame Jeanne
+T1465	Person 435108 435121	madame Jeanne
+T1466	Location 435713 435723	Batteville
+T1467	Person 435945 435949	Paul
+T1468	Organization 436001 436015	Ma chère maman
+T1469	Location 436092 436097	Paris
+T1470	Person 436648 436654	Jeanne
+T1471	Location 436715 436722	Rosalie
+T1472	Location 436851 436858	Rosalie
+T1473	Location 436867 436872	parla
+T1474	Person 436960 436966	Jeanne
+T1475	Location 437093 437103	Goderville
+T1476	Person 437155 437159	Paul
+T1477	Person 437203 437209	Jeanne
+T1478	Location 437724 437729	Paris
+T1479	Person 437745 437751	Jeanne
+T1480	Location 437886 437893	Rosalie
+T1481	Location 438033 438051	gare de Beuzeville
+T1482	Person 438587 438593	Jeanne
+T1483	Location 438790 438797	Rosalie
+T1484	Person 439096 439111	Jeanne balbutia
+T1485	Location 439129 439136	Rosalie
+T1486	Person 439285 439294	Jeanne la
+T1487	Location 439379 439386	Rosalie
+T1488	Person 439401 439405	Paul
+T1489	Person 439478 439484	Jeanne
+T1490	Person 439495 439500	Paul…
+T1491	Person 439859 439865	Jeanne
+T1492	Person 440392 440398	Jeanne
+T1493	Location 440492 440499	Rosalie
+T1494	Person 440550 440563	madame Jeanne

@@ -1,0 +1,803 @@
+T1	Person 421 426	Colas
+T2	Person 636 641	Colas
+T3	Person 696 720	ulcﬂxumtwmlﬂ E‘HJMLHWNHH
+T4	Person 741 753	MARIE-CLAIRE
+T5	Person 848 853	Colas
+T6	Person 1131 1136	Colas
+T7	Person 1425 1430	Colas
+T8	Person 1479 1482	s ’
+T9	Person 1859 1864	Colas
+T10	Location 2288 2291	Vin
+T11	Location 2384 2391	Brabant
+T12	Location 2467 2470	Vin
+T13	Person 2613 2625	MARIE-CLAIRE
+T14	Person 2869 2874	Colas
+T15	Location 4061 4066	Paris
+T16	Location 4269 4275	France
+T17	Person 4564 4566	IO
+T18	Person 4567 4579	MARIE-CLAIRE
+T19	Person 4725 4730	Colas
+T20	Person 4938 4953	Sceur Gabrielle
+T21	Person 5089 5104	Soeur Gabrielle
+T22	Person 6059 6074	sceur Gabrielle
+T23	Organization 6279 6295	MARIE-CLAIRE I I
+T24	Person 6316 6319	s ’
+T25	Person 6328 6335	Ismérie
+T26	Person 6476 6479	s ’
+T27	Location 6488 6505	sceur Marie-Aimee
+T28	Location 6631 6640	Augustine
+T29	Location 6775 6784	Augustine
+T30	Location 6978 6987	Augustine
+T31	Location 7664 7673	Augustine
+T32	Person 8045 8057	MARIE-CLAIRE
+T33	Location 8218 8227	Augustine
+T34	Location 8485 8494	Augustine
+T35	Person 8536 8547	Marie-Aimee
+T36	Person 8590 8597	Ma Smut
+T37	Location 8661 8672	Marie-Aimée
+T38	Location 9427 9432	sucre
+T39	Person 9593 9601	ma Soeur
+T40	Person 9805 9817	MARIE-CLAIRE
+T41	Person 10180 10183	s ’
+T42	Location 10410 10421	Marie-Aimée
+T43	Location 10449 10456	Ismérie
+T44	Person 10460 10472	Marie Renaud
+T45	Person 10666 10673	Ismérie
+T46	Person 10725 10741	smut Marie-Aimee
+T47	Person 10815 10824	Gabrielle
+T48	Person 10968 10977	Gabrielle
+T49	Person 11062 11067	Aimée
+T50	Location 11192 11203	Marie—Aimee
+T51	Person 11313 11322	Gabrielle
+T52	Location 11397 11406	Gabrielle
+T53	Person 11646 11651	Aimée
+T54	Person 11712 11719	Ismérie
+T55	Person 11884 11899	scrur Gabrielle
+T56	Person 12158 12170	Marie- Aimée
+T57	Person 12190 12202	Bonne Esther
+T58	Location 12531 12536	sucre
+T59	Location 12648 12652	Sien
+T60	Person 12824 12837	Bonne Justine
+T61	Person 12895 12906	Bonne Néron
+T62	Person 13070 13081	Marie-Aimee
+T63	Person 13383 13395	MARIE-CLAIRE
+T64	Person 14359 14371	Bonne Esther
+T65	Person 14810 14822	Bonne Esther
+T66	Person 15268 15280	MARIE-CLAIRE
+T67	Person 15319 15331	Bonne Esther
+T68	Person 15865 15877	Bonne Esther
+T69	Person 16258 16270	Bonne Esther
+T70	Person 16507 16515	Mon Dieu
+T71	Person 16521 16525	Dieu
+T72	Person 16529 16536	Ismérie
+T73	Person 16876 16888	Bonne Esther
+T74	Person 17150 17162	MARIE-CLAIRE
+T75	Person 17752 17764	Bonne Esther
+T76	Person 17882 17898	smut Marie-Aimee
+T77	Organization 18291 18318	chambre de sowr Marie-Aimée
+T78	Person 18321 18333	Marie Renaud
+T79	Person 18337 18344	Ismérie
+T80	Location 18412 18423	Marie-Aimée
+T81	Person 18612 18629	Scrur Marie-Aimee
+T82	Person 18903 18918	MARIE-CLAIRE 19
+T83	Person 19329 19336	Ismérie
+T84	Person 19365 19376	Marie-Aimee
+T85	Person 19554 19570	Smut Marie-Aimee
+T86	Person 19596 19603	Ismérie
+T87	Person 19616 19623	Ismérie
+T88	Location 19657 19668	Marie-Aimée
+T89	Organization 19735 19747	Marie- Aimée
+T90	Person 19872 19879	Ismérie
+T91	Person 20015 20031	Smut Marie-Aimee
+T92	Location 20093 20100	Ismérie
+T93	Person 20190 20201	Marie-Aimee
+T94	Person 20492 20499	Ismérie
+T95	Person 20625 20628	s ’
+T96	Person 20858 20870	MARIE-CLAIRE
+T97	Person 20878 20895	soeur Marie-Aimee
+T98	Person 21029 21036	Ismérie
+T99	Person 21164 21176	Marie- Aimée
+T100	Person 21181 21188	Ismérie
+T101	Person 21315 21327	Marie Renaud
+T102	Person 21415 21422	Ismérie
+T103	Person 21449 21461	Marie Renaud
+T104	Location 22473 22482	Madeleine
+T105	Person 22723 22735	MARIE-CLAIRE
+T106	Person 22792 22804	Marie Renaud
+T107	Person 22842 22853	Bonne Néron
+T108	Person 23229 23240	Bonne Néron
+T109	Location 23266 23275	Madeleine
+T110	Person 23445 23456	Bonne Néron
+T111	Person 23652 23663	Bonne Néron
+T112	Location 23752 23761	Madeleine
+T113	Person 24104 24121	satur Marie-Aimee
+T114	Person 24155 24167	Marie Renaud
+T115	Person 24647 24659	MARIE-CLAIRE
+T116	Person 24666 24677	Marie-Aimee
+T117	Person 24951 24959	Mon Dieu
+T118	Location 25017 25023	Vierge
+T119	Location 25066 25070	Mere
+T120	Person 25240 25252	Marie- Aimee
+T121	Location 25607 25616	Madeleine
+T122	Person 25796 25807	Marie-Aimee
+T123	Person 25928 25944	smut Marie-Aimee
+T124	Person 26119 26130	Bonne Néron
+T125	Person 26174 26185	Bonne Néron
+T126	Location 26316 26319	Oui
+T127	Person 26371 26382	Marie-Aimee
+T128	Person 26419 26434	MARIE-CLAIRE 23
+T129	Location 26799 26816	sceur Marie-Aimee
+T130	Location 26968 26977	Madeleine
+T131	Location 27046 27057	Marie-Aimée
+T132	Person 27272 27288	Smut Marie-Aimée
+T133	Location 27351 27360	Madeleine
+T134	Person 27418 27435	satur Marie-Aimee
+T135	Person 27560 27572	Marie Renaud
+T136	Person 27613 27625	Marie Renaud
+T137	Location 27672 27683	Marie—Aimee
+T138	Location 27736 27745	Madeleine
+T139	Person 27792 27803	Bonne Néron
+T140	Person 27874 27885	Marie-Aimee
+T141	Location 28143 28160	A -‘__ Hm-o- fa.-
+T142	Person 28165 28177	MARIE-CLAIRE
+T143	Person 28430 28446	smut Marie-Aimee
+T144	Person 28571 28587	Smut Marie-Aimee
+T145	Person 29526 29533	Ismérie
+T146	Person 29620 29627	Ismérie
+T147	Person 29898 29909	Marie-Aimee
+T148	Person 30082 30097	MARIE-CLAIRE 25
+T149	Location 30286 30298	Marie- Aimée
+T150	Location 31300 31317	sceur Marie-Aimee
+T151	Location 31488 31505	sceur Marie-Aimee
+T152	Person 32043 32055	MARIE-CLAIRE
+T153	Location 32122 32131	Madeleine
+T154	Person 32234 32250	smut Marie-Aimee
+T155	Location 32346 32355	Madeleine
+T156	Person 33111 33128	Sceur Marie-Aimee
+T157	Person 33274 33283	Madeleine
+T158	Person 33399 33416	Strut Marie-Aimee
+T159	Location 33420 33429	Madeleine
+T160	Location 33477 33491	Madeleine cria
+T161	Person 33545 33561	Smut Marie-Aimee
+T162	Person 33813 33825	MARIE-CLAIRE
+T163	Person 33910 33926	Smut Marie-Aimee
+T164	Person 34250 34266	smut Marie-Aimee
+T165	Location 34617 34626	Madeleine
+T166	Person 34644 34660	smut Marie-Aimee
+T167	Person 34761 34777	smut Marie-Aimee
+T168	Person 34846 34859	Bonne Justine
+T169	Person 35045 35061	smut Marie-Aimee
+T170	Person 35208 35224	smut Marie-Aimee
+T171	Person 35584 35600	smut Marie-Aimee
+T172	Person 35738 35750	MARIE-CLAIRE
+T173	Location 35974 35983	Madeleine
+T174	Person 36022 36039	soeur Marie-Aimée
+T175	Person 36471 36482	Marie-Aimee
+T176	Person 36571 36583	Marie-Claire
+T177	Person 36585 36592	Ismérie
+T178	Person 36779 36796	satur Marie-Aimee
+T179	Person 36825 36832	Ismérie
+T180	Person 37114 37125	Marie-Aimee
+T181	Person 37532 37544	MARIE-CLAIRE
+T182	Location 37675 37686	Marie—Aimee
+T183	Location 37912 37923	Marie-Aimee
+T184	Person 37986 37997	Marie-Aimee
+T185	Location 38086 38095	Madeleine
+T186	Person 38319 38330	Marie-Aimee
+T187	Person 39442 39454	MARIE-CLAIRE
+T188	Person 39583 39600	Sceur Marie-Aimee
+T189	Location 39817 39826	Madeleine
+T190	Person 39980 39986	Sophie
+T191	Person 40559 40576	satur Marie-Aimee
+T192	Person 41037 41048	Marie-Aimee
+T193	Person 41145 41149	Dieu
+T194	Person 41211 41223	MARIE-CLAIRE
+T195	Location 41402 41411	Madeleine
+T196	Person 41561 41572	Marie-Aimee
+T197	Person 42183 42200	soeur Marie-Aimee
+T198	Location 42442 42445	Ml'
+T199	Person 42612 42625	Bonne Justine
+T200	Person 42816 42829	Bonne Justine
+T201	Person 42876 42893	Scrur Marie-Aimee
+T202	Person 43230 43242	Marie Renaud
+T203	Person 43291 43306	MARIE-CLAIRE 33
+T204	Person 43378 43385	Ismérie
+T205	Location 43881 43890	Madeleine
+T206	Person 44245 44257	Marie- Aimée
+T207	Person 44599 44606	Colette
+T208	Person 44821 44834	Bonne Iustine
+T209	Person 44883 44890	Colette
+T210	Organization 45299 45303	13th
+T211	Person 45659 45666	Colette
+T212	Location 45668 45670	CU
+T213	Person 45711 45714	s ’
+T214	Person 45810 45824	Roxane Justine
+T215	Person 45896 45903	Colette
+T216	Person 46812 46815	s ’
+T217	Person 47146 47161	MARIE-CLAIRE 33
+T218	Person 47173 47185	Marie-Claire
+T219	Person 47208 47215	Colette
+T220	Person 47217 47230	Bonne Justine
+T221	Location 47308 47317	Madeleine
+T222	Person 47390 47407	satur Marie-Aimee
+T223	Date 47478 47497	13 récréaﬁon suimte
+T224	Person 47990 47997	ma Mére
+T225	Location 48068 48071	Oui
+T226	Person 48171 48178	Ismérie
+T227	Location 48192 48196	Mere
+T228	Location 48217 48225	Colette§
+T229	Person 48359 48366	Colette
+T230	Location 48454 48466	MARIE-CLAIRE
+T231	Person 48662 48679	soeur Marie-Aimee
+T232	Person 49220 49224	Nina
+T233	Location 49730 49736	Vierge
+T234	Person 49765 49772	Colette
+T235	Person 50240 50252	MARIE-CLAIRE
+T236	Person 50288 50294	Sophie
+T237	Person 50342 50349	Colette
+T238	Person 50455 50462	Colette
+T239	Location 50739 50745	Vierge
+T240	Person 50828 50835	Te Deum
+T241	Location 51029 51035	Vierge
+T242	Person 51138 51145	Colette
+T243	Person 51210 51221	Marie-Aimee
+T244	Person 51360 51367	Colette
+T245	Location 51633 51639	Vierge
+T246	Person 51787 51794	Colette
+T247	Person 51911 51918	Colette
+T248	Location 51928 51931	AWA
+T249	Person 51960 51972	MARIE-CLAIRE
+T250	Person 51986 51993	Colette
+T251	Organization 52185 52187	Ge
+T252	Person 52651 52658	Te Deum
+T253	Person 53076 53083	Colette
+T254	Person 53277 53283	Sophie
+T255	Location 53410 53416	Celene
+T256	Person 53468 53473	Aimée
+T257	Person 53988 53991	s ’
+T258	Person 54487 54498	tie Colette
+T259	Person 54543 54559	Smut Marie-Aimée
+T260	Person 54955 54979	MadevAiméet téponﬁta -~—
+T261	Person 55250 55262	MARIE-CLAIRE
+T262	Location 55478 55485	Colette
+T263	Person 55494 55501	Colette
+T264	Person 55953 55969	Smut Marie-Aimee
+T265	Location 56041 56050	Madeleine
+T266	Location 56714 56723	Madeleine
+T267	Person 56773 56785	MARIE-CLAIRE
+T268	Person 56841 56848	Colette
+T269	Location 57300 57309	Madeleine
+T270	Location 57455 57466	Marie-Aimée
+T271	Location 58085 58094	Madeleine
+T272	Location 58183 58200	sceur Marie-Aimee
+T273	Person 58286 58299	Bonne Justine
+T274	Person 58399 58416	scrur Marie-Aimee
+T275	Person 58454 58467	Bonne Justine
+T276	Person 58482 58494	MARIE-CLAIRE
+T277	Person 58692 58701	Madeleine
+T278	Person 58729 58735	Renaud
+T279	Person 58746 58758	Marie Renaud
+T280	Person 58915 58938	Mane— AiméevetTMadeldne
+T281	Person 59302 59319	scrur Marie-Aimee
+T282	Location 59523 59534	Marie—Aimee
+T283	Location 59547 59554	Wurwdit
+T284	Person 60259 60283	Mlle Maximilienne aussi-
+T285	Person 60358 60370	MARIE-CLAIRE
+T286	Location 60380 60384	Rome
+T287	Person 60392 60403	Marie-Aimee
+T288	Person 60444 60461	Mlle Maximilienne
+T289	Person 60831 60848	Mlle Maximilienne
+T290	Organization 60907 60919	Marie- Aimée
+T291	Person 61828 61845	Mlle Maximilienne
+T292	Person 61879 61896	Mlle Maximilienne
+T293	Location 61977 61984	Sologne
+T294	Person 62035 62050	MARIE-CLAIRE 45
+T295	Location 62192 62196	Mere
+T296	Location 62753 62757	Mere
+T297	Location 62935 62939	Mere
+T298	Organization 63459 63469	Saint-Jean
+T299	Location 63620 63631	Marie-Aimée
+T300	Organization 64096 64120	vachm st is scignscai ls
+T301	Person 64130 64147	Soeur Marie—Aimee
+T302	Person 65088 65103	MARIE-CLAIRE 47
+T303	Location 65177 65186	Madeleine
+T304	Person 65297 65300	s ’
+T305	Location 65397 65406	Madeleine
+T306	Location 65673 65682	Madeleine
+T307	Location 65849 65866	sceur Marie-Aimee
+T308	Person 65923 65935	Marie Renaud
+T309	Location 66038 66042	tete
+T310	Location 66621 66638	sceur Marie-Aimee
+T311	Person 66875 66887	MARIE-CLAIRE
+T312	Person 67036 67052	smut Marie-Aimee
+T313	Location 67154 67158	Rome
+T314	Person 67252 67268	smut Marie-Aimee
+T315	Organization 67620 67630	Saint-Jean
+T316	Person 67672 67688	smut Marie-Aimee
+T317	Person 68422 68438	smut Marie-Aimee
+T318	Person 68777 68792	MARIE-CLAIRE 49
+T319	Person 68875 68881	Sophie
+T320	Location 69019 69031	Orgueilleuse
+T321	Location 69085 69097	Orgueilleuse
+T322	Person 69290 69306	Smut Marie-Aimee
+T323	Location 69383 69387	Béte
+T324	Person 69639 69646	Colette
+T325	Person 69689 69706	Mlle Maidmilienne
+T326	Person 70229 70235	Agathe
+T327	Person 70793 70799	Agathe
+T328	Person 70836 70838	SO
+T329	Person 70839 70851	MARIE-CLAIRE
+T330	Person 71294 71301	—— Béte
+T331	Person 71324 71337	Arthur Divain
+T332	Person 71500 71516	Scar Marie-Aimée
+T333	Person 71672 71689	Sceur Marie-Aimee
+T334	Person 72179 72187	mon Dieu
+T335	Organization 73010 73020	Saint-Jean
+T336	Person 73087 73099	MARIE-CLAIRE
+T337	Person 73253 73260	Bibiche
+T338	Location 73433 73445	Villevieille
+T339	Person 73496 73521	maitre Sylvain ct Pauline
+T340	Person 75002 75009	Bibiche
+T341	Person 75051 75063	MARIE-CLAIRE
+T342	Person 75079 75086	Bibiche
+T343	Person 75101 75109	Castille
+T344	Person 75327 75334	Bibiche
+T345	Location 75353 75361	Castille
+T346	Person 75435 75443	Castille
+T347	Person 75774 75777	s ’
+T348	Location 75923 75927	tete
+T349	Person 76453 76460	Martine
+T350	Location 76528 76531	Vin
+T351	Person 76814 76821	Sylvain
+T352	Person 77155 77162	Bibiche
+T353	Person 77209 77221	MARIE-CLAIRE
+T354	Person 77492 77500	Castille
+T355	Person 77713 77730	soeur Marie-Aimee
+T356	Location 79056 79061	MARE-
+T357	Location 79605 79622	sceur Marie-Aimee
+T358	Person 80113 80127	maitre Sylvain
+T359	Location 80881 80893	MARIE-CLAIRE
+T360	Person 81048 81064	smut Marie-Aimee
+T361	Person 83025 83037	MARIE-CLAIRE
+T362	Person 85149 85161	MARIE-CLAIRE
+T363	Product 87522 87531	ava's re-
+T364	Person 87807 87814	Sylvain
+T365	Location 88153 88164	Marie-Aimée
+T366	Person 88260 88276	smut Marie-Aimee
+T367	Person 88640 88651	Man'e-Aimée
+T368	Person 88834 88846	MARIE-CLAIRE
+T369	Person 90190 90204	maitre Sylvain
+T370	Location 90877 90888	Marie-Aimée
+T371	Location 90918 90929	Marie-Aimée
+T372	Person 91081 91098	maitre Sylvain me
+T373	Location 91276 91282	Eugéne
+T374	Location 91592 91604	MARIE-CLAIRE
+T375	Person 91773 91780	Martine
+T376	Organization 91848 91858	ls Communs
+T377	Location 92124 92127	Vin
+T378	Person 92241 92269	MMms'Wim-mémeslesplmgmmkaogs
+T379	Person 92772 92786	maitre Sylvain
+T380	Location 92962 92969	Blanche
+T381	Person 93326 93338	MARIE-CLAIRE
+T382	Location 93504 93511	Sologne
+T383	Person 95128 95140	MARIE-CLAIRE
+T384	Person 96374 96381	Sylvain
+T385	Person 96829 96835	Eugene
+T386	Person 97579 97585	Eugene
+T387	Location 98226 98233	Sologne
+T388	Person 98407 98414	Bibiche
+T389	Location 98444 98450	Martin
+T390	Person 98594 98601	Martine
+T391	Person 99141 99153	MARIE-CLAIRE
+T392	Person 101406 101414	Castille
+T393	Person 101466 101474	Castille
+T394	Person 102318 102326	Castille
+T395	Person 102483 102497	maitre Sylvain
+T396	Person 102777 102783	Eugene
+T397	Person 102837 102844	Bibiche
+T398	Person 102907 102915	Castille
+T399	Location 102997 103004	Martina
+T400	Person 103161 103173	MARIE-CLAIRE
+T401	Location 103251 103258	Martine
+T402	Person 103489 103496	Martine
+T403	Person 103581 103595	maitre Sylvain
+T404	Location 103720 103728	Max-tine
+T405	Person 104145 104151	Eugene
+T406	Person 104504 104516	Quand Eugene
+T407	Person 105046 105058	MARIE-CLAIRE
+T408	Person 106005 106019	maitre Sylvain
+T409	Location 107601 107610	Madeleine
+T410	Location 107806 107815	Madeleine
+T411	Person 108478 108488	Sylvain me
+T412	Person 109108 109120	MARIE-CLAIRE
+T413	Person 109277 109284	Martine
+T414	Person 109467 109474	Bibiche
+T415	Organization 109812 109822	Saint-Jean
+T416	Person 109892 109898	Eugene
+T417	Person 110162 110169	Martine
+T418	Person 110843 110856	prier Martine
+T419	Location 111213 111220	Martina
+T420	Person 111895 111909	Martine vienne
+T421	Person 111947 111953	Eugene
+T422	Location 112312 112318	Eugéne
+T423	Date 113054 113063	11 5211th
+T424	Person 113285 113301	Martina accourut
+T425	Location 114280 114288	porte Ie
+T426	Location 114477 114481	tete
+T427	Person 116082 116088	Eugene
+T428	Location 116396 116402	Eugéne
+T429	Person 116825 116839	maitre Sylvain
+T430	Location 117427 117433	Eugéne
+T431	Person 117492 117504	MARIE-CLAIRE
+T432	Person 117752 117762	Pauline me
+T433	Location 118498 118507	Télémaque
+T434	Person 118794 118808	allai demander
+T435	Person 119240 119246	Eugene
+T436	Person 119381 119387	Eugene
+T437	Person 119532 119542	Pauline me
+T438	Person 119558 119572	maitre Sylvain
+T439	Person 119691 119698	Bibiche
+T440	Person 119728 119735	Pauline
+T441	Person 120120 120126	Eugene
+T442	Person 120412 120419	Bibiche
+T443	Person 120658 120665	Bibiche
+T444	Location 121506 121515	Télémaque
+T445	Location 121578 121582	Ciel
+T446	Location 121584 121593	Télémaque
+T447	Person 121671 121678	Bibiche
+T448	Person 121919 121922	s ’
+T449	Person 122021 122028	Bibiche
+T450	Person 122359 122373	maitre Sylvain
+T451	Person 122718 122725	Pauline
+T452	Person 122760 122770	Pauline me
+T453	Person 122928 122931	s ’
+T454	Person 123106 123121	MARIE-CLAIRE 79
+T455	Person 123583 123597	maitre Sylvain
+T456	Person 123881 123888	Sylvain
+T457	Person 124234 124240	Eugene
+T458	Person 124241 124244	s ’
+T459	Person 124540 124546	Eugene
+T460	Person 124632 124646	maitre Sylvain
+T461	Person 124722 124728	Eugene
+T462	Location 124864 124871	Martina
+T463	Person 124881 124888	Sylvain
+T464	Person 124987 124999	MARIE-CLAIRE
+T465	Person 125510 125517	Pauline
+T466	Person 125755 125761	Eugene
+T467	Location 126254 126261	Colette
+T468	Person 126264 126270	Eugene
+T469	Person 126931 126938	Pauline
+T470	Person 126970 126977	Pauline
+T471	Location 127219 127230	Marie-Aimee
+T472	Person 127567 127574	Sylvain
+T473	Person 128065 128072	Pauline
+T474	Person 128110 128116	Eugene
+T475	Person 128480 128483	Ti-
+T476	Person 128535 128542	Pauline
+T477	Person 128971 128978	Tirande
+T478	Person 129209 129216	Pauline
+T479	Person 129319 129326	Tirande
+T480	Person 129429 129436	Tirande
+T481	Person 129551 129560	Tirande s
+T482	Person 129658 129665	Pauline
+T483	Person 129710 129723	moment Eugene
+T484	Person 129896 129903	Tirande
+T485	Person 130135 130142	Pauline
+T486	Person 130153 130159	Eugene
+T487	Person 130183 130190	Tirande
+T488	Person 130193 130199	Eugene
+T489	Person 130425 130434	Pauline s
+T490	Person 130496 130503	Tirande
+T491	Person 130520 130534	maitre Sylvain
+T492	Person 130573 130580	Pauline
+T493	Person 130843 130850	Pauline
+T494	Location 130865 130871	Eugéne
+T495	Person 130920 130927	Pauline
+T496	Person 131166 131179	Bonne Justine
+T497	Organization 131231 131245	retrouvais Eug
+T498	Person 131507 131514	Pauline
+T499	Person 131596 131607	Eugene com-
+T500	Person 131671 131678	Bibiche
+T501	Person 131825 131831	Eugene
+T502	Person 131911 131918	Pauline
+T503	Person 132007 132013	Eugene
+T504	Location 132318 132324	Eugene
+T505	Person 132398 132408	Eugene en-
+T506	Person 132506 132515	Pauline s
+T507	Location 132674 132679	Adieu
+T508	Person 132768 132784	Sylvain eﬂt vécu
+T509	Person 132824 132831	Martine
+T510	Person 132899 132909	Eugene Ota
+T511	Location 132987 132992	Adieu
+T512	Person 133165 133171	Eugene
+T513	Organization 133263 133276	§ \ S E. ‘\ f
+T514	Date 133290 133293	§ 9
+T515	Person 133511 133519	Alphonse
+T516	Person 133557 133565	Alphonse
+T517	Location 133604 133610	Eugéne
+T518	Person 134077 134085	Alphonse
+T519	Person 134447 134457	Al- phonse
+T520	Person 134494 134501	Tirande
+T521	Person 134645 134652	Pauline
+T522	Person 134656 134662	Eugene
+T523	Person 134815 134828	Jean le Rouge
+T524	Person 135052 135065	Jean le Rouge
+T525	Location 135122 135134	Villevieille
+T526	Person 135177 135184	Sylvain
+T527	Person 135218 135224	Eugene
+T528	Person 135348 135356	Alphonse
+T529	Person 135441 135454	Jean le Rouge
+T530	Location 135638 135643	Spa-h
+T531	Person 135864 135868	Jean
+T532	Person 135924 135937	Jean le Rouge
+T533	Person 136272 136276	Jean
+T534	Person 136280 136285	Rouge
+T535	Location 136882 136886	Noel
+T536	Person 137250 137254	Jean
+T537	Person 137258 137263	Rouge
+T538	Person 137519 137523	Jean
+T539	Person 137849 137853	Jean
+T540	Person 137960 137964	Jean
+T541	Person 138734 138738	Jean
+T542	Person 138742 138747	Rouge
+T543	Person 139313 139321	Alphonse
+T544	Person 139439 139446	Tirande
+T545	Person 139540 139548	Alphonse
+T546	Person 139670 139685	MARIE-CLAIRE 89
+T547	Person 139832 139840	Alphonse
+T548	Location 139981 139986	Rouge
+T549	Person 140030 140044	maitre Sylvain
+T550	Person 140203 140211	Alphonse
+T551	Person 140426 140430	Jean
+T552	Person 140434 140439	Rouge
+T553	Location 140505 140517	Villevieille
+T554	Person 140580 140593	Aussitét Jean
+T555	Person 140613 140618	Rouge
+T556	Product 140974 140986	servante s ’
+T557	Person 140995 141000	Adele
+T558	Person 141228 141236	Alphonse
+T559	Location 141465 141477	MARIE-CLAIRE
+T560	Location 141667 141671	tete
+T561	Person 142458 142466	Alphonse
+T562	Person 142672 142680	Alphonse
+T563	Person 143255 143263	Alphonse
+T564	Person 143279 143286	Deslois
+T565	Person 143389 143401	MARIE-CLAIRE
+T566	Location 143439 143451	Villevieille
+T567	Location 143669 143678	Gué Perdu
+T568	Person 143685 143693	Alphonse
+T569	Person 143810 143818	Alphonse
+T570	Organization 144739 144746	Gué Per
+T571	Person 145283 145290	Deslois
+T572	Person 145680 145688	Alphonse
+T573	Person 145827 145834	Deslois
+T574	Person 146455 146462	Deslois
+T575	Person 146801 146804	s ’
+T576	Person 147288 147296	Alphonse
+T577	Location 147351 147363	Villevieille
+T578	Person 147394 147402	Alphonse
+T579	Person 147418 147425	Pauline
+T580	Location 147851 147860	Gué Petdu
+T581	Location 148061 148067	Piques
+T582	Person 148069 148074	Adele
+T583	Person 148122 148130	Alphonse
+T584	Person 148463 148479	smut Marie-Aimee
+T585	Person 148500 148506	Sophie
+T586	Person 148971 148978	Colette
+T587	Person 149071 149089	smut Marie-Aimee s
+T588	Person 149173 149189	smut Marie-Aimee
+T589	Person 149226 149234	Alphonse
+T590	Location 149273 149281	Imam-cum
+T591	Person 149715 149718	s ’
+T592	Person 149732 149735	s ’
+T593	Person 150309 150315	Eugene
+T594	Person 150786 150797	Marie-Aimee
+T595	Person 151535 151548	Jean le Rouge
+T596	Person 151595 151606	Alphonse 11
+T597	Person 151780 151788	Alphonse
+T598	Organization 152023 152033	Gué- Perdu
+T599	Person 152117 152124	Deslois
+T600	Person 152297 152302	Adele
+T601	Location 152382 152387	Paris
+T602	Person 152461 152469	Alphonse
+T603	Person 152581 152587	Eugene
+T604	Person 152609 152612	s ’
+T605	Person 152856 152864	Alphonse
+T606	Person 152959 152967	Alphonse
+T607	Person 153027 153032	Henri
+T608	Person 153203 153208	Adele
+T609	Person 153222 153230	Alphonse
+T610	Person 153406 153411	leois
+T611	Person 153534 153545	Marie-Aimee
+T612	Person 153770 153781	Henri leois
+T613	Person 154581 154589	Alphonse
+T614	Location 154670 154682	Villevieille
+T615	Person 155499 155512	Jean 16 Rouge
+T616	Person 155738 155751	Jean le Rouge
+T617	Location 156800 156812	Villevieille
+T618	Location 157045 157054	Gué Perdu
+T619	Person 157081 157091	Al- phonse
+T620	Person 157493 157506	Henri Deslois
+T621	Person 157557 157572	MARIE-CLAIRE 99
+T622	Person 157701 157714	Henri Deslois
+T623	Person 158697 158710	Henri Deslois
+T624	Person 159345 159358	Henri Deslois
+T625	Person 159437 159439	00
+T626	Person 159440 159452	MARIE-CLAIRE
+T627	Organization 160030 160045	Hen- ri Deslois
+T628	Location 160453 160468	Sainte—Montagne
+T629	Person 160868 160881	Henri Deslois
+T630	Person 161064 161080	smut Marie-Aimee
+T631	Person 161160 161173	Henri Deslois
+T632	Person 161196 161200	Jean
+T633	Person 161204 161209	Rouge
+T634	Person 161275 161287	MARIE-CLAIRE
+T635	Person 161438 161451	Henri Deslois
+T636	Person 161592 161605	Henri Deslois
+T637	Location 161664 161681	sceur Marie-Aimee
+T638	Person 161705 161711	Eugene
+T639	Person 162230 162243	Henri Dailois
+T640	Person 162541 162554	Henri Deslois
+T641	Location 162823 162829	Iterre
+T642	Person 162938 162950	MARIE-CLAIRE
+T643	Person 163447 163460	Henri Deslois
+T644	Person 163621 163626	Adele
+T645	Person 163751 163764	Henri Deslois
+T646	Location 163774 163786	Villevieille
+T647	Person 164082 164090	Alphonse
+T648	Person 164108 164116	Alphonse
+T649	Person 164368 164381	Henri Deslois
+T650	Person 164423 164431	Alphonse
+T651	Person 164504 164517	Henri Deslois
+T652	Person 164547 164555	Alphonse
+T653	Person 164839 164852	Henri Deslois
+T654	Person 164911 164919	Alphonse
+T655	Person 165083 165096	Henri Deslois
+T656	Person 165304 165312	Alphonse
+T657	Person 165474 165487	Henri Deslois
+T658	Person 165579 165583	Jean
+T659	Location 165587 165592	Rouge
+T660	Person 165598 165606	Alphonse
+T661	Person 166226 166239	Henri Deslois
+T662	Product 166271 166297	i1 revint pres de moi pour
+T663	Person 166475 166487	MARIE-CLAIRE
+T664	Person 166537 166544	Deslois
+T665	Person 166632 166643	Alphonse 13
+T666	Person 166729 166737	Alphonse
+T667	Person 167134 167142	Alphonse
+T668	Person 167470 167477	Doslois
+T669	Person 167798 167802	Des-
+T670	Person 167978 167986	Alphonse
+T671	Person 168065 168072	Deslois
+T672	Person 168110 168122	MARIE-CLAIRE
+T673	Person 168386 168394	Alphonse
+T674	Person 168565 168572	Deslois
+T675	Person 168674 168685	Marie-Aimee
+T676	Location 169781 169793	MARIE-CLAIRE
+T677	Person 170091 170098	Deslois
+T678	Person 170214 170222	Alphonse
+T679	Person 170717 170733	smut Marie-Aimee
+T680	Person 170806 170818	Henri Dmlois
+T681	Location 170998 171010	Villevieille
+T682	Person 171158 171171	Henri Deslois
+T683	Person 171570 171577	Doslois
+T684	Person 171604 171616	MARIE-CLAIRE
+T685	Person 172070 172083	Henri Deslois
+T686	Location 172708 172718	Orphelinat
+T687	Location 172819 172823	Bel-
+T688	Location 172824 172827	Ell
+T689	Location 173030 173041	Marie-Aimée
+T690	Organization 173102 173119	Strut Marie-Aimée
+T691	Person 173137 173149	MARIE-CLAIRE
+T692	Location 173646 173650	Bel-
+T693	Location 173651 173654	Bil
+T694	Person 174017 174033	Smut Marie-Aimee
+T695	Person 174721 174722	O
+T696	Person 174723 174735	MARIE-CLAIRE
+T697	Person 174848 174865	soeur Marie-Aimee
+T698	Person 174922 174934	Marie- Aimée
+T699	Person 175633 175656	satur Désirée-des-Anges
+T700	Location 176132 176136	Bel-
+T701	Organization 176570 176586	MARIE-CLAIRE I I
+T702	Organization 176772 176801	chambre cle soeur Marie-Aimee
+T703	Organization 177225 177229	Bel-
+T704	Location 177230 177233	Ell
+T705	Person 177574 177586	Marie-Claire
+T706	Person 178322 178334	Véronique la
+T707	Location 178391 178408	sceur Marie-Aimee
+T708	Person 178458 178470	MARIE-CLAIRE
+T709	Person 178489 178499	Melanie me
+T710	Person 178809 178816	Melanie
+T711	Person 178820 178832	Véronique la
+T712	Person 178950 178959	Véronique
+T713	Person 179165 179172	Melanie
+T714	Person 179523 179546	Satur Désirée-des—Anges
+T715	Person 180332 180348	MARIE-CLAIRE 113
+T716	Person 180362 180383	smur Désirée-des-Angs
+T717	Person 180924 180936	Désirée Joly
+T718	Person 180939 180951	Désirée Joly
+T719	Person 181215 181226	Marie-Aimee
+T720	Location 181356 181373	Désirée-des-Anges
+T721	Location 181447 181450	Oui
+T722	Location 181634 181651	Désirée-des-Anges
+T723	Person 181675 181687	Désirée Joly
+T724	Person 181886 181904	Désirée-des- Anges
+T725	Person 182146 182158	MARIE-CLAIRE
+T726	Location 183767 183773	Vierge
+T727	Organization 184087 184120	i’en- tendis la respiration mince
+T728	Organization 184142 184160	Desiree- des-Anges
+T729	Person 184200 184212	MARIE-CLAIRE
+T730	Person 184302 184312	Melanie me
+T731	Person 185065 185077	Véronique la
+T732	Location 185776 185788	MARIE-CLAIRE
+T733	Person 186009 186016	Melanie
+T734	Person 186672 186681	Véronique
+T735	Person 187019 187037	Desiree- des-Anges
+T736	Location 187170 187187	Désirée-des—Anges
+T737	Person 187312 187339	Satur Désirée-des—Anges s ’
+T738	Person 187492 187496	Jean
+T739	Location 187500 187505	Rouge
+T740	Organization 187622 187639	MARIE-CLAIRE I 17
+T741	Location 187671 187680	Gué Perdu
+T742	Location 187832 187841	Gué Perdu
+T743	Location 187869 187881	Villevieille
+T744	Person 188149 188162	Henri Deslois
+T745	Location 188697 188714	Désirée-des-Anges
+T746	Location 188727 188734	Melanie
+T747	Person 188812 188821	Méla- nie
+T748	Person 188884 188907	sceur Désirée-des-Anges
+T749	Person 189025 189038	Jean le Rouge
+T750	Location 189124 189141	Désirée-des-Anges
+T751	Person 189192 189195	s ’
+T752	Location 189489 189501	Jésus-Christ
+T753	Person 189655 189667	MARIE-CLAIRE
+T754	Person 189707 189720	Jean le Rouge
+T755	Location 189742 189751	Gué Perdu
+T756	Location 190033 190050	Désirée-des—Anges
+T757	Person 190478 190487	Véronique
+T758	Location 190539 190550	Marie—Aimee
+T759	Person 190683 190692	Veronique
+T760	Person 190727 190734	Melanie
+T761	Person 190846 190863	satur Marie-Aimee
+T762	Organization 190967 190979	MARIE-CLAIRE
+T763	Person 191281 191288	Melanie
+T764	Person 191405 191416	Marie-Aimee
+T765	Person 191771 191782	Marie-Aimee
+T766	Person 191839 191851	Marie- Aimée
+T767	Person 192894 192906	MARIE-CLAIRE
+T768	Person 194158 194162	Dieu
+T769	Location 194313 194317	Bel-
+T770	Location 194318 194321	Bil
+T771	Person 194438 194456	Désirée- des-Anges
+T772	Person 194555 194572	soeur Marie-Aimée
+T773	Person 194617 194629	MARIE-CLAIRE
+T774	Person 194670 194692	Smut Désirée-des-Anges
+T775	Location 195015 195032	Désirée-des-Anges
+T776	Person 196301 196313	MARIE-CLAIRE
+T777	Organization 196491 196507	Désirée-des— Aug
+T778	Person 197018 197030	Désirée Joly
+T779	Person 197177 197200	sceur Désirée-des-Anges
+T780	Person 198218 198230	MARIE-CLAIRE
+T781	Hour 198255 198266	cinq heures
+T782	Location 198312 198329	Désirée-des-Anges
+T783	Location 198467 198484	Désirée-des-Anges
+T784	Location 198562 198579	Désirée-des-Anges
+T785	Person 198947 198969	Smut Désirée-des-Anges
+T786	Person 198982 198991	Véronique
+T787	Person 199201 199208	Melanie
+T788	Person 199653 199660	Melanie
+T789	Person 199783 199806	sceur Désirée-des-Anges
+T790	Person 199972 199984	MARIE-CLAIRE
+T791	Location 200158 200162	Mere
+T792	Person 200246 200253	Colette
+T793	Person 200337 200347	Melanie me
+T794	Person 200398 200405	Colette
+T795	Person 200461 200468	Ismérie
+T796	Person 200504 200515	Marie-Aimee
+T797	Person 200518 200525	Melanie
+T798	Location 201614 201619	Paris
+T799	Location 201662 201667	Paris
+T800	Location 201801 201813	MARIE-CLAIRE
+T801	Location 201908 201913	Paris
+T802	Location 201968 201971	Oui
+T803	Person 202413 202426	Henri Deslois

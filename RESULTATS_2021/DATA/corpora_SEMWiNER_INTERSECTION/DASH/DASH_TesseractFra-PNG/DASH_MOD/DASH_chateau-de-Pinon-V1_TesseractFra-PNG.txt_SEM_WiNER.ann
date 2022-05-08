@@ -1,0 +1,2549 @@
+T1	Location 172 188	rue Saint-Honoré
+T2	Location 374 387	Saint-Gabriel
+T3	Person 401 417	CHATEAU DE PINON
+T4	Person 897 906	de Lameth
+T5	Location 945 947	La
+T6	Location 1279 1281	La
+T7	Person 1332 1348	CHATEAU DE PINON
+T8	Location 1450 1452	Eh
+T9	Person 1459 1466	Louison
+T10	Location 1686 1691	Paris
+T11	Location 1735 1740	Bussy
+T12	Person 2129 2145	CHATEAU DE PINON
+T13	Location 2175 2182	Sissone
+T14	Location 2226 2238	Bussy-Lameth
+T15	Person 2353 2361	comte m'
+T16	Organization 2657 2660	Oui
+T17	Location 2831 2840	Henrietie
+T18	Person 2876 2885	Henriette
+T19	Person 3059 3075	CHATEAU DE PENON
+T20	Person 3359 3368	Henriette
+T21	Location 3855 3860	Pinon
+T22	Person 3871 3880	de Lameth
+T23	Person 3990 4006	CHATEAU DE PINON
+T24	Location 4207 4212	Paris
+T25	Location 4401 4409	Picardie
+T26	Person 4430 4435	votre
+T27	Location 4648 4660	Bussy-Lameth
+T28	Person 4673 4678	votre
+T29	Location 4729 4734	Roucy
+T30	Location 4819 4824	Paris
+T31	Person 4878 4894	CHATEAU DÉ PINON
+T32	Location 5060 5069	Henriette
+T33	Person 5130 5135	votre
+T34	Person 5229 5234	votre
+T35	Location 5510 5522	Mademoiselle
+T36	Location 5526 5531	Roucy
+T37	Location 5802 5809	CHATEAU
+T38	Location 5813 5820	PINON.-
+T39	Person 5864 5873	de Lameth
+T40	Location 5875 5877	Eh
+T41	Person 5999 6002	Mon
+T42	Location 6297 6304	Sissone
+T43	Person 6451 6456	Bussy
+T44	Person 6464 6469	Bussy
+T45	Person 6762 6778	CHATEAU DE PINON
+T46	Person 7026 7033	Louison
+T47	Organization 7272 7286	comte de Roucy
+T48	Person 7381 7390	de Lameth
+T49	Location 7393 7395	La
+T50	Location 7449 7454	Roucy
+T51	Person 7739 7747	DE PINON
+T52	Person 8153 8160	Louison
+T53	Location 8325 8330	Bussy
+T54	Person 8358 8363	votre
+T55	Person 8409 8416	Louison
+T56	Location 8452 8454	Eh
+T57	Person 8475 8483	mon Dieu
+T58	Person 8580 8596	CHATEAU DÉ PINON
+T59	Person 8746 8755	de Lameth
+T60	Person 9034 9043	Henriette
+T61	Location 9187 9192	Paris
+T62	Location 9214 9216	Oh
+T63	Person 9426 9442	CHATEAU DE PINON
+T64	Location 9591 9600	Bussy-La-
+T65	Organization 9616 9630	comte de Roucy
+T66	Person 9674 9683	Henriette
+T67	Person 9959 9966	Rou- Cy
+T68	Person 10305 10321	CHATEAU DE PINON
+T69	Location 10730 10742	Bussy-Lameth
+T70	Person 10875 10888	Bussy- Lameth
+T71	Person 11254 11270	CHATEAU DE PINON
+T72	Person 11647 11656	de Lameth
+T73	Person 11758 11763	votre
+T74	Location 11791 11796	Roucy
+T75	Person 12065 12081	CHATEAU DE PINON
+T76	Person 12269 12278	Sis- sone
+T77	Location 12280 12282	Eh
+T78	Location 12349 12354	Paris
+T79	Location 12612 12624	Bussy-Lameth
+T80	Location 12629 12636	Sissone
+T81	Location 12640 12645	Pinon
+T82	Person 12844 12859	Louison Beaupré
+T83	Person 12955 12962	Louison
+T84	Location 12984 12992	Monsieur
+T85	Person 13009 13025	CHATEAU DE PINON
+T86	Location 13204 13209	Paris
+T87	Organization 13254 13268	comte de Roucy
+T88	Location 13273 13275	Eh
+T89	Location 13295 13302	Sissone
+T90	Location 13306 13311	Pinon
+T91	Location 13354 13359	Voilà
+T92	Location 13530 13542	Bussy-Lameth
+T93	Location 13593 13598	Paris
+T94	Person 13790 13806	CHATEAU DE PINON
+T95	Person 13851 13856	votre
+T96	Person 13924 13939	Louison Beaupré
+T97	Location 13943 13952	Champagne
+T98	Location 13998 14000	Eh
+T99	Person 14027 14032	votre
+T100	Location 14056 14062	Madame
+T101	Location 14126 14136	Versailles
+T102	Location 14175 14181	Madame
+T103	Person 14555 14571	CHATEAU DE PINON
+T104	Person 14616 14622	Chardu
+T105	Location 14640 14644	Laon
+T106	Location 14744 14746	La
+T107	Location 14762 14771	Henriette
+T108	Organization 15078 15092	comte de Roucy
+T109	Location 15141 15153	Bussy-Lameth
+T110	Person 15374 15390	CHATEAU DE PINON
+T111	Person 15702 15707	votre
+T112	Location 15772 15776	Pmon
+T113	Location 15845 15850	Roucy
+T114	Person 16017 16022	votre
+T115	Location 16082 16094	Bussy-Lameth
+T116	Person 16238 16254	CHATEAU DE PINON
+T117	Person 16259 16267	Bon Dieu
+T118	Person 16291 16298	Louison
+T119	Person 16309 16314	votre
+T120	Person 16493 16500	Louison
+T121	Location 16622 16627	Roucy
+T122	Person 16800 16807	Louison
+T123	Location 16867 16872	Roucy
+T124	Location 16931 16936	Tours
+T125	Location 16972 16976	Hon-
+T126	Location 16990 16996	Venise
+T127	Person 17035 17051	CHATEAU DE PINON
+T128	Location 17342 17349	Sissone
+T129	Location 17414 17420	France
+T130	Person 17568 17577	de Lameth
+T131	Person 17870 17879	Henriette
+T132	Person 17894 17910	CHATEAU DE PINON
+T133	Location 17938 17940	La
+T134	Location 18115 18125	Versailles
+T135	Location 18234 18240	France
+T136	Location 18393 18397	Pons
+T137	Location 18410 18420	Heudicourt
+T138	Location 18501 18510	Montespan
+T139	Location 18811 18813	La
+T140	Person 18854 18870	CHATEAU DE PINON
+T141	Location 19122 19132	Heudicourt
+T142	Person 19228 19237	Henriette
+T143	Location 19284 19288	Mon-
+T144	Location 19398 19403	Roucy
+T145	Person 19407 19416	Sis- sone
+T146	Location 19419 19425	Madame
+T147	Person 19544 19553	Henriette
+T148	Location 19610 19616	Madame
+T149	Person 19694 19710	CHATEAU DE PINON
+T150	Person 19761 19770	Henriette
+T151	Location 19891 19900	merveille
+T152	Location 19910 19916	Madame
+T153	Location 19919 19929	Heudicourt
+T154	Organization 20194 20203	Madame de
+T155	Location 20204 20213	Montespan
+T156	Location 20479 20491	Mademoiselle
+T157	Organization 20525 20528	Oui
+T158	Person 20630 20646	CHATEAU DE PINON
+T159	Person 20765 20769	Dieu
+T160	Organization 20883 20892	Madame de
+T161	Location 20893 20902	Montespan
+T162	Location 21117 21132	Tonnay-Charente
+T163	Location 21164 21173	Montespan
+T164	Location 21224 21236	Mademoiselle
+T165	Location 21240 21245	Roucy
+T166	Location 21262 21265	Ma-
+T167	Location 21351 21363	Mademoiselle
+T168	Person 21381 21397	CHATEAU DE PINON
+T169	Location 21432 21442	Versailles
+T170	Location 21512 21520	Vallière
+T171	Person 21564 21573	Henriette
+T172	Person 21638 21647	de Lameth
+T173	Location 22026 22031	Roucy
+T174	Location 22073 22079	Madame
+T175	Location 22098 22106	Monsieur
+T176	Location 22114 22121	Orléans
+T177	Person 22135 22144	Louis XIV
+T178	Person 22279 22295	CHATEAU DE PINON
+T179	Location 22432 22438	Madame
+T180	Location 22489 22497	Vallière
+T181	Person 22620 22629	Henriette
+T182	Person 22934 22943	de Lameth
+T183	Location 23207 23209	Eh
+T184	Person 23243 23259	CHATEAU DE PINON
+T185	Location 23510 23516	Madame
+T186	Location 23734 23741	Navarre
+T187	Location 23806 23808	Eh
+T188	Location 23877 23883	Madame
+T189	Location 23965 23969	Pons
+T190	Person 23999 24004	votre
+T191	Person 24051 24065	Charles Amani-
+T192	Person 24074 24090	CHATEAU DE PINON
+T193	Location 24109 24115	Albret
+T194	Location 24136 24140	Pons
+T195	Location 24152 24160	Mortagne
+T196	Location 24172 24179	Mossant
+T197	Location 24190 24207	Vorray de Gerderé
+T198	Location 24252 24258	Albret
+T199	Person 24313 24321	Henri IV
+T200	Location 24675 24678	Ma-
+T201	Location 24837 24843	Madame
+T202	Person 24972 24988	CHATEAU DE PINON
+T203	Person 25040 25048	Henri IV
+T204	Person 25283 25292	Henriette
+T205	Location 25471 25480	Rochefort
+T206	Location 25543 25552	Henriette
+T207	Location 25687 25692	Cossé
+T208	Person 25796 25812	CHATEAU DE PINON
+T209	Location 25969 25973	Pons
+T210	Location 25989 25994	Roucy
+T211	Location 26055 26064	Bussy-La-
+T212	Location 26099 26104	Pinon
+T213	Location 26127 26134	Sissone
+T214	Location 26279 26288	Rochefort
+T215	Location 26329 26338	Henriette
+T216	Location 26560 26566	Albret
+T217	Location 26617 26622	Roucy
+T218	Person 26693 26709	CHATEAU DE PINON
+T219	Location 26855 26859	Pons
+T220	Location 27048 27057	Navailles
+T221	Location 27118 27124	Madame
+T222	Location 27248 27253	Cossé
+T223	Person 27471 27487	CHATEAU DE PINON
+T224	Location 27499 27508	Rochefort
+T225	Location 27642 27649	Navarre
+T226	Location 27681 27683	La
+T227	Person 27704 27713	Henriette
+T228	Person 27834 27843	Henriette
+T229	Location 27892 27894	Oh
+T230	Location 28001 28007	Madame
+T231	Location 28062 28067	Cossé
+T232	Person 28154 28163	Henriette
+T233	Person 28254 28270	CHATEAU DE PINON
+T234	Person 28391 28403	Bussy-Lameth
+T235	Location 28704 28706	Oh
+T236	Location 28794 28800	Madame
+T237	Location 29032 29037	Tours
+T238	Location 29106 29108	La
+T239	Date 29109 29130	fête parut magnifique
+T240	Person 29158 29174	CHATEAU DE PINON
+T241	Location 29187 29196	Montespan
+T242	Location 29221 29231	Lavallière
+T243	Location 29318 29320	La
+T244	Location 29399 29411	Mademoiselle
+T245	Location 29453 29459	Madame
+T246	Location 29526 29531	Diane
+T247	Person 29597 29612	Henriette resta
+T248	Location 29783 29790	Lafarre
+T249	Location 29840 29847	Lafarre
+T250	Person 30057 30073	CHATEAU DE PINON
+T251	Person 30204 30209	votre
+T252	Person 30317 30326	Henriette
+T253	Person 30373 30380	Lejeune
+T254	Person 30641 30650	Henriette
+T255	Location 30665 30672	Navarre
+T256	Location 30804 30813	Rochefort
+T257	Location 30964 30971	CHATEAU
+T258	Person 30972 30980	LE PINON
+T259	Person 31063 31067	Dieu
+T260	Location 31118 31124	Albret
+T261	Location 31152 31159	Lafarre
+T262	Location 31225 31237	Mademoiselle
+T263	Location 31241 31246	Roucy
+T264	Location 31422 31428	Albret
+T265	Location 31443 31455	Bussy-Lameth
+T266	Location 31555 31561	Madame
+T267	Person 31622 31630	Al- bret
+T268	Location 31697 31706	Allemagne
+T269	Person 31760 31776	CHATEAU DE PINON
+T270	Location 31839 31848	Montespan
+T271	Location 32013 32019	Madame
+T272	Location 32222 32228	Madame
+T273	Location 32453 32462	Henriette
+T274	Location 32468 32480	Mademoiselle
+T275	Person 32516 32532	CHATEAU DE PINON
+T276	Location 32570 32576	Madame
+T277	Person 32615 32624	Henriette
+T278	Person 32791 32800	Henriette
+T279	Location 32834 32843	Rochefort
+T280	Person 32876 32881	votre
+T281	Location 32993 32999	Madame
+T282	Location 33118 33120	La
+T283	Person 33143 33152	Henriette
+T284	Location 33233 33239	Albret
+T285	Location 33383 33390	CHATEAU
+T286	Person 33391 33399	DE PINOX
+T287	Location 33481 33493	Bussy-Lameth
+T288	Location 33952 33958	Albret
+T289	Location 33997 34009	Mademoiselle
+T290	Person 34039 34052	Royale Madame
+T291	Person 34200 34206	Royale
+T292	Person 34265 34281	CHATEAU DE PINON
+T293	Person 34389 34394	votre
+T294	Location 34486 34496	Heudicourt
+T295	Location 34596 34608	Mademoiselle
+T296	Person 34800 34808	D'ALBRET
+T297	Person 34823 34832	Henriette
+T298	Location 34868 34877	Rochefort
+T299	Location 34936 34940	Pons
+T300	Location 34961 34968	Navarre
+T301	Location 35000 35005	Cossé
+T302	Person 35092 35108	CHATEAU DE PINON
+T303	Location 35322 35327	Voilà
+T304	Location 35377 35379	Oh
+T305	Person 35381 35389	mon Dieu
+T306	Person 35425 35434	Henriette
+T307	Person 35458 35465	Voiture
+T308	Location 35611 35620	Rochetort
+T309	Location 35724 35729	Roucy
+T310	Location 35785 35789	Pons
+T311	Person 35791 35800	Henriette
+T312	Person 35840 35846	Albret
+T313	Person 35962 35978	CHATEAU DB PINON
+T314	Location 36052 36062	Heudicourt
+T315	Location 36252 36258	Albret
+T316	Location 36387 36397	Heudicourt
+T317	Person 36526 36535	de Lameth
+T318	Location 36749 36755	Madame
+T319	Location 36808 36814	Madame
+T320	Person 36830 36846	CHATEAU DÉ PINON
+T321	Location 37157 37169	Mademoiselle
+T322	Location 37185 37195	Heudicourt
+T323	Location 37297 37301	Pons
+T324	Location 37495 37505	Versailles
+T325	Person 37584 37593	Henriette
+T326	Person 37735 37751	CHATEAU DE PINON
+T327	Location 38022 38028	Madame
+T328	Location 38226 38235	Henrietie
+T329	Location 38354 38361	Montes-
+T330	Person 38367 38376	Louis XIV
+T331	Location 38400 38414	Roucy adorable
+T332	Organization 38501 38510	Madame de
+T333	Location 38511 38520	Montespan
+T334	Location 38681 38687	Madame
+T335	Person 38696 38712	CHATEAU DE PINON
+T336	Location 38721 38731	Heudicourt
+T337	Person 38892 38901	Henriette
+T338	Location 39007 39009	La
+T339	Person 39049 39058	Louis XIV
+T340	Person 39237 39244	Al bret
+T341	Person 39283 39291	|  Roucy
+T342	Location 39346 39358	Mademoiselle
+T343	Person 39539 39544	votre
+T344	Person 39559 39575	CHATEAU DE PINON
+T345	Location 39591 39599	Monsieur
+T346	Person 39747 39756	Henriette
+T347	Location 39937 39942	Ludre
+T348	Person 40100 40108	Al- bret
+T349	Person 40266 40275	Louis XIV
+T350	Location 40365 40367	La
+T351	Person 40382 40398	CHATEAU DE PINON
+T352	Location 40404 40412	Vallière
+T353	Location 40484 40493	Montespan
+T354	Location 40741 40747	Albret
+T355	Location 40883 40885	La
+T356	Location 41135 41140	Roucy
+T357	Organization 41256 41270	comte de Roucy
+T358	Location 41288 41295	Sissone
+T359	Location 41310 41322	Bussy-Lameth
+T360	Location 41335 41340	Paris
+T361	Person 41361 41377	CHATEAU DE PINON
+T362	Location 41433 41439	Albret
+T363	Location 41541 41550	Henriette
+T364	Location 41740 41752	Mademoiselle
+T365	Location 42061 42069	Monsieur
+T366	Location 42251 42252	L
+T367	Person 42264 42280	CHATEAU DE PINON
+T368	Person 42370 42373	Mon
+T369	Person 42593 42602	Henriette
+T370	Person 42706 42715	Henriette
+T371	Person 43144 43160	CHATEAU DE PINON
+T372	Location 43264 43270	Albret
+T373	Location 43274 43276	La
+T374	Location 43557 43569	Mademoiselle
+T375	Location 43573 43578	Roucy
+T376	Location 43801 43814	Fontainebleau
+T377	Organization 43816 43825	Madame de
+T378	Location 43826 43833	Montes-
+T379	Person 43888 43904	CHATEAU DE PINON
+T380	Location 43937 43943	Lauzun
+T381	Location 44147 44153	Madame
+T382	Location 44178 44188	Heudicourt
+T383	Organization 44193 44196	Oui
+T384	Location 44268 44274	Madame
+T385	Location 44408 44414	Madame
+T386	Person 44749 44765	CHATEAU DE PINON
+T387	Location 44783 44792	Navailles
+T388	Location 44822 44824	La
+T389	Location 45038 45047	Montespan
+T390	Location 45169 45171	La
+T391	Location 45484 45490	Madame
+T392	Location 45565 45568	Na-
+T393	Person 45646 45662	CHATEAU DE PINON
+T394	Location 45667 45669	La
+T395	Location 45710 45719	Navailles
+T396	Location 45738 45747	Montespan
+T397	Location 45812 45820	Vallière
+T398	Location 45833 45839	Madame
+T399	Person 45904 45908	Dieu
+T400	Location 46000 46005	Roucy
+T401	Location 46226 46232	Albret
+T402	Location 46257 46261	Pons
+T403	Location 46300 46302	La
+T404	Location 46303 46311	Vallière
+T405	Location 46341 46350	Rochefort
+T406	Person 46413 46429	CHATEAU DE PINON
+T407	Location 46437 46446	Montespan
+T408	Organization 46506 46509	Oui
+T409	Location 46511 46523	Mademoiselle
+T410	Person 46525 46541	reprit Henriette
+T411	Person 46634 46639	votre
+T412	Location 46670 46687	Mothe-Houdancourt
+T413	Location 46837 46840	Ma-
+T414	Location 46863 46869	Madame
+T415	Location 46885 46894	Navailles
+T416	Person 47019 47036	Henriette emporta
+T417	Location 47150 47156	Albret
+T418	Location 47324 47332	Picardie
+T419	Location 47334 47338	Laon
+T420	Location 47340 47345	Pinon
+T421	Location 47347 47354	Sissone
+T422	Person 47407 47423	CHATEAU DE PINON
+T423	Person 47448 47457	madame Ja
+T424	Location 47660 47666	Albret
+T425	Person 47704 47713	Bussy-La-
+T426	Location 47824 47833	Henriette
+T427	Location 47868 47881	Fontainebleau
+T428	Location 48026 48031	Roucy
+T429	Location 48056 48065	Montespan
+T430	Location 48123 48129	Lauzun
+T431	Person 48136 48145	Louis XIV
+T432	Location 48266 48272	Lauzun
+T433	Location 48283 48291	Pignerol
+T434	Location 48296 48305	Henriette
+T435	Person 48342 48358	CHATEAU DE PINON
+T436	Organization 48380 48408	Cour de France dans.le vieux
+T437	Person 48420 48430	François 1
+T438	Location 48614 48623	Henriette
+T439	Person 48999 49026	Bussy-Lameth étaientretour-
+T440	Location 49034 49042	Picardie
+T441	Person 49274 49280	Albret
+T442	Person 49323 49339	CHATEAU DE PINON
+T443	Person 49356 49365	Henriette
+T444	Location 49404 49413	merveille
+T445	Person 50046 50055	Henriette
+T446	Person 50200 50216	CHATEAU DF PINON
+T447	Location 50263 50271	Monsieur
+T448	Person 50605 50610	votre
+T449	Location 50801 50809	Monsieur
+T450	Person 50883 50888	votre
+T451	Person 50985 51001	CHATEAU DE PINON
+T452	Person 51020 51025	votre
+T453	Person 51211 51216	votre
+T454	Location 51298 51307	Nommez-le
+T455	Location 51407 51409	Oh
+T456	Person 51411 51419	mon Dieu
+T457	Location 51560 51568	Monsieur
+T458	Organization 51667 51680	ge pp ee Emme
+T459	Person 51711 51719	DE PINON
+T460	Location 51726 51728	Oh
+T461	Location 51983 51985	Oh
+T462	Person 52313 52322	de Lameth
+T463	Person 52453 52469	CHATEAU DE PINON
+T464	Person 52521 52530	de Lameth
+T465	Person 52683 52691	mon Dieu
+T466	Location 52830 52838	Monsieur
+T467	Person 53184 53189	votre
+T468	Person 53205 53221	CHATEAU DE PINON
+T469	Location 53709 53711	Oh
+T470	Organization 53915 53934	Madame de Navailles
+T471	Person 53990 54006	CHATEAU DE PINON
+T472	Person 54093 54102	Henriette
+T473	Location 54352 54358	Albret
+T474	Location 54612 54617	Roucy
+T475	Location 54762 54771	Henriette
+T476	Person 54970 54986	CHATEAU DE PINON
+T477	Person 55062 55071	Henriette
+T478	Person 55085 55094	Loui- son
+T479	Person 55095 55102	Beaupré
+T480	Location 55172 55182	Heudicourt
+T481	Location 55591 55600	Navailles
+T482	Location 55632 55641	Henriette
+T483	Location 55762 55768	Albret
+T484	Person 55909 55925	CHATEAU DE PINON
+T485	Location 56031 56037	Albret
+T486	Location 56116 56125	Navailles
+T487	Location 56370 56379	Charlotte
+T488	Person 56711 56717	Lauzun
+T489	Location 56769 56778	Lavallère
+T490	Person 56788 56804	CHATEAU DE PINON
+T491	Location 57143 57152	Henrietie
+T492	Location 57169 57171	La
+T493	Location 57283 57285	Eh
+T494	Location 57335 57340	Roucy
+T495	Location 57384 57394	Heudicourt
+T496	Person 57427 57439	Bussy-Lameth
+T497	Location 57513 57519	Albret
+T498	Person 57636 57641	d’AI-
+T499	Person 57707 57723	CHATEAU DÉ PINON
+T500	Location 57774 57783	Richelieu
+T501	Location 57953 57962	Henriette
+T502	Location 58093 58100	Espagne
+T503	Organization 58144 58158	comte de Roucy
+T504	Location 58196 58198	La
+T505	Location 58371 58376	Roucy
+T506	Location 58504 58512	Monsieur
+T507	Person 58539 58555	CHATEAU DE PINON
+T508	Organization 58563 58566	Oui
+T509	Location 58568 58580	Mademoiselle
+T510	Person 58627 58632	votre
+T511	Location 58742 58747	Bussy
+T512	Location 58770 58778	Monsieur
+T513	Person 58780 58798	répliqua Henriette
+T514	Location 58976 58988	Mademoiselle
+T515	Location 59094 59102	Monsieur
+T516	Location 59157 59162	Roucy
+T517	Person 59226 59235	Henriette
+T518	Location 59358 59366	Monsieur
+T519	Person 59392 59408	CHATEAU DE PINON
+T520	Person 59609 59618	de Lameth
+T521	Person 59635 59640	votre
+T522	Location 59786 59798	Bussy-Lameth
+T523	Person 59979 59984	votre
+T524	Location 60303 60315	Mademoiselle
+T525	Person 60328 60344	CHATEAU DE PINON
+T526	Person 60573 60578	votre
+T527	Person 60625 60630	votre
+T528	Location 60748 60756	Monsieur
+T529	Person 60771 60780	de Lameth
+T530	Location 60789 60794	Roucy
+T531	Person 60814 60819	votre
+T532	Location 60835 60837	Oh
+T533	Organization 61037 61042	Tenez
+T534	Person 61123 61139	CHATEAU DE PINON
+T535	Location 61338 61346	Monsieur
+T536	Location 61607 61612	Roucy
+T537	Person 61678 61683	Bussy
+T538	Person 61896 61912	CHATEAU DE PINON
+T539	Person 61934 61939	Roucy
+T540	Location 61992 62000	Monsieur
+T541	Person 62150 62154	Dieu
+T542	Person 62208 62217	Henriette
+T543	Person 62799 62815	CHATEAU DE PINON
+T544	Location 63416 63426	Heudicourt
+T545	Location 63491 63500	Montespan
+T546	Location 63527 63539	Mademoiselle
+T547	Location 63543 63548	Roucy
+T548	Location 63631 63638	Dangeau
+T549	Location 63657 63666	Richelieu
+T550	Person 63684 63692	DE PINON
+T551	Person 63869 63874	votre
+T552	Person 63903 63908	votre
+T553	Location 64095 64105	Heudicourt
+T554	Location 64133 64142	Henriette
+T555	Person 64522 64538	CHATEAU DE PINON
+T556	Person 64736 64751	Henriette resta
+T557	Location 65068 65075	Sissone
+T558	Person 65084 65100	CHATEAU DE PINON
+T559	Person 65116 65125	Henriette
+T560	Location 65224 65236	Bussy-Lameth
+T561	Location 65532 65540	Monsieur
+T562	Person 65620 65627	Louison
+T563	Person 65644 65651	Louison
+T564	Location 65744 65748	Sis-
+T565	Organization 65789 65792	Oui
+T566	Person 65823 65828	votre
+T567	Location 65856 65863	CHATEAU
+T568	Person 65864 65872	DE PINOX
+T569	Person 65884 65893	de Lameth
+T570	Organization 65948 65951	Oui
+T571	Location 65953 65961	Monsieur
+T572	Person 66064 66073	Henriette
+T573	Organization 66088 66091	Oui
+T574	Location 66093 66101	Monsieur
+T575	Person 66221 66230	de Lameth
+T576	Person 66463 66471	Al- bret
+T577	Location 66550 66562	Mademoiselle
+T578	Location 66616 66624	Monsieur
+T579	Person 66673 66689	CHATEAU DE PINON
+T580	Location 66815 66817	Eh
+T581	Person 66838 66843	votre
+T582	Person 66885 66890	votre
+T583	Person 66995 67004	de Lameth
+T584	Person 67087 67092	votre
+T585	Person 67249 67258	de Lameth
+T586	Person 67280 67295	Louison Beaupré
+T587	Person 67454 67470	CHATEAU DE PINON
+T588	Location 67514 67519	Adieu
+T589	Location 67521 67533	Mademoiselle
+T590	Organization 67606 67620	comte de Roucy
+T591	Person 67818 67827	Henriette
+T592	Person 68280 68296	CHATEAU DE PINON
+T593	Person 68309 68324	Louison Bcaupré
+T594	Location 68357 68362	Adieu
+T595	Person 68422 68440	Henriette DE Roucy
+T596	Person 68457 68464	Louison
+T597	Person 68621 68630	de Lameth
+T598	Person 68671 68677	Joguet
+T599	Person 68908 68917	Henriette
+T600	Location 68942 68944	La
+T601	Person 69004 69020	CHATEAU DE PINON
+T602	Person 69085 69092	Louison
+T603	Person 69097 69117	Mademoiselle Louison
+T604	Location 69165 69177	Mademoiselle
+T605	Location 69324 69329	Voilà
+T606	Person 69393 69402	Loui- son
+T607	Person 69587 69596	Henriette
+T608	Organization 69614 69628	comte de Roucy
+T609	Location 69738 69745	Sissone
+T610	Person 69872 69888	CHATEAU DE PINON
+T611	Location 70348 70350	Oh
+T612	Person 70438 70443	votre
+T613	Person 70732 70735	Mon
+T614	Person 70781 70797	CHATEAU DE PINON
+T615	Person 71106 71115	de Lameth
+T616	Location 71294 71299	Roucy
+T617	Location 71304 71306	La
+T618	Person 71554 71570	CHATEAU DE PINON
+T619	Person 71793 71806	Madame Joguet
+T620	Person 71922 71931	Henriette
+T621	Location 72038 72040	Eh
+T622	Person 72059 72075	comment trouvez-
+T623	Location 72126 72134	Monsieur
+T624	Location 72311 72313	Oh
+T625	Person 72368 72384	CHATEAU DE PINON
+T626	Person 72392 72395	Mon
+T627	Person 72643 72648	votre
+T628	Person 72686 72695	de Lameth
+T629	Person 72863 72872	de Lameth
+T630	Person 73229 73245	CHATEAU DE PINON
+T631	Location 73264 73266	Eh
+T632	Person 73526 73539	Madame Joguet
+T633	Person 73626 73635	Henriette
+T634	Person 73742 73749	Louison
+T635	Person 74062 74078	CHATEAU DE PINON
+T636	Person 74117 74126	Henriette
+T637	Person 74306 74313	Louison
+T638	Person 74347 74354	Louison
+T639	Location 74387 74396	Corneille
+T640	Location 74477 74483	Madame
+T641	Organization 74498 74501	Oui
+T642	Person 74525 74532	Louison
+T643	Location 74673 74679	Madame
+T644	Person 74728 74741	madame Joguet
+T645	Person 74744 74751	Louison
+T646	Person 74795 74811	CHATEAU DE PINON
+T647	Location 75061 75064	Ma-
+T648	Person 75107 75120	Madame Joguet
+T649	Person 75161 75168	Louison
+T650	Location 75197 75202	Roucy
+T651	Location 75255 75261	Albret
+T652	Person 75587 75603	CHATEAU DE PINON
+T653	Person 75702 75715	madame Joguet
+T654	Location 75764 75776	Mademoiselle
+T655	Person 75934 75954	Mademoiselle Louison
+T656	Person 76269 76278	Charlotte
+T657	Location 76324 76333	Charlotte
+T658	Person 76364 76380	CHATEAU DE PINON
+T659	Location 76737 76739	Oh
+T660	Person 76741 76749	mon Dieu
+T661	Person 77105 77110	votre
+T662	Person 77201 77208	Louison
+T663	Location 77286 77290	A TE
+T664	Person 77297 77313	CHATEAU DE PINON
+T665	Person 77363 77382	repritmadame Joguet
+T666	Location 77423 77425	La
+T667	Organization 77452 77455	Oui
+T668	Location 77457 77464	Louison
+T669	Location 77491 77496	Roucy
+T670	Location 77569 77581	Mademoiselle
+T671	Organization 77795 77798	Oui
+T672	Location 77800 77812	Mademoiselle
+T673	Location 77852 77864	Mademoiselle
+T674	Person 77938 77954	CHATEAU DE PINON
+T675	Organization 78021 78034	Madame Joguel
+T676	Person 78084 78087	Mon
+T677	Location 78170 78172	Eh
+T678	Person 78174 78182	mon Dieu
+T679	Location 78184 78196	Mademoiselle
+T680	Person 78269 78282	madame Joguet
+T681	Location 78348 78354	Madame
+T682	Person 78376 78389	madame Joguet
+T683	Person 78417 78430	Madame Joguet
+T684	Person 78530 78539	Henriette
+T685	Person 78697 78713	CHATEAU DE PINON
+T686	Person 78775 78782	Louison
+T687	Person 78993 79006	madame Joguet
+T688	Person 79038 79047	Henriette
+T689	Person 79140 79147	Louison
+T690	Location 79165 79177	Mademoiselle
+T691	Location 79306 79318	Mademoiselle
+T692	Person 79448 79457	Henriette
+T693	Person 79480 79496	CHATEAU DE PINON
+T694	Location 79501 79503	La
+T695	Location 79613 79616	Oui
+T696	Location 79625 79629	Rhin
+T697	Location 79649 79658	Champagne
+T698	Location 79662 79669	Navarre
+T699	Location 79676 79685	Normandie
+T700	Organization 79811 79814	Oui
+T701	Location 79816 79828	Mademoiselle
+T702	Person 79871 79879	mon Dieu
+T703	Person 80037 80040	Mon
+T704	Person 80160 80176	CHATEAU DE PINON
+T705	Location 80349 80358	Henriette
+T706	Person 80480 80487	Louison
+T707	Person 80534 80539	Bussy
+T708	Person 80735 80738	Mon
+T709	Person 80982 80996	Henriette com-
+T710	Person 81006 81022	CHATEAU DE PINON
+T711	Location 81271 81279	Monsieur
+T712	Person 81394 81399	votre
+T713	Person 81469 81473	Dieu
+T714	Person 81478 81481	Mon
+T715	Location 81580 81585	Paris
+T716	Location 81603 81609	Albret
+T717	Location 81658 81665	Artagan
+T718	Location 81691 81700	Henriette
+T719	Person 81764 81780	CHATEAU DE PINON
+T720	Location 82008 82010	Oh
+T721	Person 82012 82020	mon Dieu
+T722	Person 82023 82031	mon Dieu
+T723	Location 82093 82105	Bussy-Lameth
+T724	Location 82153 82165	Mademoiselle
+T725	Person 82482 82485	Mon
+T726	Person 82510 82519	Henriette
+T727	Person 82532 82548	CHATEAU DE PINON
+T728	Location 82743 82745	La
+T729	Location 82820 82822	La
+T730	Person 82852 82861	Henriette
+T731	Location 82870 82872	Eh
+T732	Location 82966 82970	Laon
+T733	Person 83118 83127	Henriette
+T734	Person 83132 83135	Mon
+T735	Location 83265 83277	Mademoiselle
+T736	Location 83281 83286	Roucy
+T737	Location 83312 83316	Laon
+T738	Location 83320 83325	PINON
+T739	Location 83417 83419	La
+T740	Location 83430 83442	Mademoiselle
+T741	Location 83446 83451	Roucy
+T742	Person 83743 83759	CHATEAU DE PINON
+T743	Organization 83844 83851	Abbesse
+T744	Organization 84065 84079	comte de Roucy
+T745	Person 84230 84238	Mon Dieu
+T746	Person 84240 84247	Louison
+T747	Location 84348 84360	Mademoiselle
+T748	Person 84589 84605	CHATEAU DE PINON
+T749	Person 84784 84793	de Lameth
+T750	Location 84877 84879	Oh
+T751	Location 85131 85141	Versailles
+T752	Location 85191 85198	Louison
+T753	Person 85336 85352	CHATEAU DE PINON
+T754	Organization 85556 85563	Abbesse
+T755	Organization 85605 85619	comte de Roucy
+T756	Location 85687 85696	Henriette
+T757	Location 85772 85780	Monsieur
+T758	Organization 85935 85942	Abbesse
+T759	Location 86030 86035	Choi-
+T760	Person 86073 86082	de Lameth
+T761	Person 86089 86105	CHATEAU DE PINON
+T762	Person 86249 86254	votre
+T763	Person 86272 86285	Louison Beau-
+T764	Person 86454 86469	Henriette resta
+T765	Person 86567 86570	Mon
+T766	Location 86627 86632	Bussy
+T767	Location 86651 86662	Louison P 3
+T768	Location 86676 86688	Mademoiselle
+T769	Person 86962 86970	DE PINON
+T770	Person 87105 87114	Henriette
+T771	Person 87297 87304	Louison
+T772	Person 87842 87858	CHATEAU DE PINON
+T773	Location 88020 88023	toi
+T774	Person 88036 88043	Louison
+T775	Location 88070 88075	Pinon
+T776	Location 88267 88273	Madame
+T777	Person 88304 88311	Louison
+T778	Location 88362 88374	Mademoiselle
+T779	Person 88449 88456	Louison
+T780	Person 88481 88490	de Lameth
+T781	Location 88501 88513	Mademoiselle
+T782	Person 88550 88566	CHATEAU DE PINON
+T783	Location 88711 88717	Albret
+T784	Person 88768 88775	Louison
+T785	Location 88962 88964	Oh
+T786	Location 88995 88997	Eh
+T787	Location 88999 89011	Mademoiselle
+T788	Person 89030 89039	de Lameth
+T789	Organization 89246 89255	PARAIT TP
+T790	Organization 89259 89294	ESA NNAEREN EP PTE PTT LA TPE TN TR
+T791	Organization 89301 89320	LS DORE me HT RS at
+T792	Person 89325 89341	CHATEAU DE PINON
+T793	Person 89347 89354	Louison
+T794	Location 89714 89716	La
+T795	Person 89774 89777	Mon
+T796	Person 90256 90272	CHATEAU DE PINON
+T797	Person 90338 90347	de Lameth
+T798	Person 90391 90409	HENRIETTE DE Roucy
+T799	Location 90424 90436	Mademoiselle
+T800	Person 90446 90453	Louison
+T801	Organization 90518 90532	comte de Roucy
+T802	Location 90575 90582	Sissone
+T803	Location 90641 90648	Louison
+T804	Location 90805 90810	Pinon
+T805	Location 90813 90815	La
+T806	Person 90825 90834	Henriette
+T807	Location 90968 90972	Laon
+T808	Organization 91013 91024	ES VE SES S
+T809	Person 91029 91045	CHATEAU DE PINON
+T810	Person 91205 91214	de Lameth
+T811	Location 91295 91307	Mademoiselle
+T812	Person 91316 91323	Louison
+T813	Person 91375 91384	Henriette
+T814	Location 91498 91503	Roucy
+T815	Person 91744 91751	Louison
+T816	Person 91922 91938	CHATEAU DE PINON
+T817	Organization 92121 92124	Oui
+T818	Location 92126 92138	Mademoiselle
+T819	Person 92149 92156	Louison
+T820	Location 92215 92224	merveille
+T821	Location 92377 92382	Voilà
+T822	Person 92424 92431	Louison
+T823	Location 92438 92450	Mademoiselle
+T824	Person 92545 92550	votre
+T825	Location 92619 92626	Abbesse
+T826	Location 92683 92695	Mademoiselle
+T827	Location 92699 92704	Roucy
+T828	Person 92760 92776	CHATEAU DE PINON
+T829	Location 93093 93100	Flandre
+T830	Organization 93288 93302	comte de Roucy
+T831	Location 93328 93336	Picardie
+T832	Location 93404 93418	Louis-le-Grand
+T833	Location 93547 93549	La
+T834	Person 93600 93609	de Lameth
+T835	Person 93695 93712	CHATEAU DÆ PINONK
+T836	Person 93811 93820	de Lameth
+T837	Location 93887 93892	Pinon
+T838	Location 93924 93929	Bussy
+T839	Location 93961 93967	Madame
+T840	Organization 94338 94354	Madame de Lameth
+T841	Person 94531 94547	CHATEAU DE PINON
+T842	Location 94617 94623	Albret
+T843	Location 94803 94811	Monsieur
+T844	Person 94830 94839	de Lameth
+T845	Location 94879 94884	Pinon
+T846	Location 94886 94888	La
+T847	Location 95002 95008	landes
+T848	Person 95326 95331	votre
+T849	Location 95357 95360	La-
+T850	Person 95377 95382	votre
+T851	Person 95407 95423	CHATEAU DE PINON
+T852	Person 95426 95435	Henriette
+T853	Location 95501 95506	Pinon
+T854	Location 95619 95624	Coucy
+T855	Person 95639 95648	Raoul Fer
+T856	Location 95734 95739	Pinon
+T857	Location 95748 95754	Robert
+T858	Person 95801 95816	Robert de Pinon
+T859	Person 95834 95839	Raoul
+T860	Location 95869 95886	Saint-Jean-d'Acre
+T861	Location 96036 96045	Prémoniré
+T862	Person 96051 96056	Pinon
+T863	Person 96093 96099	Robert
+T864	Location 96122 96127	Dreux
+T865	Location 96145 96158	Louis-le-Gros
+T866	Location 96202 96207	Pinon
+T867	Person 96210 96227	Thomas de Vervins
+T868	Person 96292 96298	Robert
+T869	Location 96325 96330	Roucy
+T870	Location 96337 96344	CHATEAU
+T871	Person 96345 96353	DE BINON
+T872	Person 96377 96386	Henriette
+T873	Location 96407 96412	Bussy
+T874	Person 96473 96479	Robert
+T875	Location 96492 96500	Bouvines
+T876	Location 96524 96530	France
+T877	Location 96619 96624	Pinon
+T878	Location 96649 96654	Coucy
+T879	Person 96682 96692	Robert ITT
+T880	Person 96745 96751	Jeanne
+T881	Person 96763 96784	Guillaume de Ponthieu
+T882	Person 96827 96833	Jeanne
+T883	Location 96878 96883	Pinon
+T884	Location 96903 96908	Dreux
+T885	Location 96912 96921	Crèvecœur
+T886	Location 96945 96964	Coucy racheta Pinon
+T887	Person 96968 96987	Jeanne de Ponthieux
+T888	Date 97016 97025	24 décem-
+T889	Location 97044 97051	Orléans
+T890	Location 97073 97078	Coucy
+T891	Location 97094 97102	Soissons
+T892	Location 97156 97165	Bourgogne
+T893	Location 97183 97190	Orléans
+T894	Person 97271 97287	CHATEAU DE PINON
+T895	Location 97384 97386	La
+T896	Person 97412 97425	Robert de Bar
+T897	Location 97454 97459	Couey
+T898	Person 97541 97550	de Lameth
+T899	Location 97562 97568	Lameth
+T900	Location 97615 97629	Marie de Coucy
+T901	Location 97706 97712	Lameth
+T902	Location 97806 97811	Pinon
+T903	Location 97822 97825	La-
+T904	Person 97883 97893	Christophe
+T905	Location 98003 98008	Pinon
+T906	Location 98010 98015	Bussy
+T907	Location 98020 98025	Aixin
+T908	Location 98027 98039	Lanissecourt
+T909	Location 98041 98046	Clany
+T910	Location 98069 98073	Laon
+T911	Location 98079 98095	Ansizy-le-Châtel
+T912	Location 98165 98175	Bayencourt
+T913	Person 98202 98218	CHATEAU DE PINON
+T914	Person 98287 98308	Antoine de Bayencourt
+T915	Location 98341 98347	Quincy
+T916	Person 98350 98357	Charles
+T917	Person 98358 98367	de Lameth
+T918	Person 98382 98392	Christophe
+T919	Location 98414 98419	Coucy
+T920	Person 98477 98485	Henri IV
+T921	Person 98503 98510	Charles
+T922	Person 98516 98521	Louis
+T923	Person 98528 98536	François
+T924	Location 98587 98592	Bussy
+T925	Location 98595 98601	Lameth
+T926	Location 98636 98640	Laon
+T927	Location 98673 98678	Bussy
+T928	Location 98713 98723	Hennecourt
+T929	Location 98776 98780	Retz
+T930	Location 98877 98889	Bussy-Lameth
+T931	Person 98925 98934	Henriette
+T932	Location 98989 98993	Laon
+T933	Location 98996 99001	Pinon
+T934	Person 99040 99056	CHATEAU DE PINON
+T935	Location 99085 99091	Madame
+T936	Location 99256 99260	tra-
+T937	Person 99274 99279	votre
+T938	Location 99320 99325	Bussy
+T939	Location 99329 99347	Clermont d'Amboise
+T940	Location 99469 99475	Madame
+T941	Location 99548 99554	Madame
+T942	Location 99713 99721	Monsieur
+T943	Person 99801 99817	CHATEAU DE PINON
+T944	Location 99891 99893	La
+T945	Location 99952 99963	Bussy d’Am-
+T946	Organization 99993 100009	Madame de Lameth
+T947	Person 100264 100273	Henriette
+T948	Location 100418 100420	La
+T949	Organization 100568 100584	Madame de Lameth
+T950	Person 100712 100728	CHATEAU DE PINON
+T951	Location 100820 100827	Sissone
+T952	Person 100909 100918	Henriette
+T953	Location 101294 101298	Pmon
+T954	Location 101362 101370	Picardie
+T955	Person 101660 101676	CHATEAU DE PINON
+T956	Location 101804 101816	Bussy-Lameth
+T957	Location 101921 101926	Pinon
+T958	Person 102014 102023	Henriette
+T959	Person 102366 102375	Henriette
+T960	Person 102487 102496	de Lameth
+T961	Person 102556 102572	CHATEAU DË PINON
+T962	Person 102574 102589	Louison Beaupré
+T963	Location 102640 102642	Eh
+T964	Location 102649 102655	Madame
+T965	Person 102664 102671	Louison
+T966	Location 102715 102719	Laon
+T967	Person 102737 102744	Louison
+T968	Person 102784 102789	votre
+T969	Person 102812 102825	mon beau-père
+T970	Person 102955 102960	votre
+T971	Person 102968 102977	Henriette
+T972	Location 103021 103026	Anizy
+T973	Location 103066 103071	Pinon
+T974	Location 103102 103106	Laon
+T975	Location 103122 103129	Estrées
+T976	Person 103208 103217	de Lameth
+T977	Person 103373 103389	CHATEAU DE PINON
+T978	Location 103392 103397	Anizy
+T979	Person 103496 103506	saint Rémi
+T980	Location 103526 103530	Laon
+T981	Location 103559 103564	Anizy
+T982	Location 103673 103680	Bourbon
+T983	Person 103861 103869	François
+T984	Location 103917 103921	Laon
+T985	Location 103987 103992	Pinon
+T986	Location 104071 104078	Estrées
+T987	Location 104103 104108	Bussy
+T988	Location 104213 104218	Roucy
+T989	Person 104304 104320	CHATEAU DE PINON
+T990	Person 104406 104415	de Lameth
+T991	Location 104523 104532	Henriette
+T992	Location 104549 104555	Albret
+T993	Location 104626 104634	Picardie
+T994	Location 104903 104909	Estrée
+T995	Location 104936 104941	Anizy
+T996	Person 105045 105050	Pinon
+T997	Location 105126 105135	Prémontré
+T998	Person 105277 105285	DE PINON
+T999	Person 105310 105319	de Lameth
+T1000	Location 105371 105373	La
+T1001	Location 105483 105494	Monseigneur
+T1002	Person 105507 105516	de Lameth
+T1003	Person 105531 105536	votre
+T1004	Location 105871 105873	Eh
+T1005	Location 105928 105932	Aniy
+T1006	Person 105991 105996	votre
+T1007	Person 106007 106023	CHATEAU DE PINON
+T1008	Location 106449 106458	merveille
+T1009	Location 106482 106490	Monsieur
+T1010	Location 106634 106640	Madame
+T1011	Person 106846 106862	CHATEAU DE PINON
+T1012	Location 107036 107045	merveille
+T1013	Person 107119 107124	votre
+T1014	Location 107152 107158	Madame
+T1015	Location 107179 107184	Bussy
+T1016	Location 107255 107263	Monsieur
+T1017	Person 107360 107365	votre
+T1018	Location 107495 107503	Monsieur
+T1019	Location 107525 107531	Madame
+T1020	Person 107648 107664	CHATEAU DE PINON
+T1021	Location 107747 107753	Madame
+T1022	Person 107852 107855	Mon
+T1023	Location 108110 108112	La
+T1024	Person 108249 108256	Louison
+T1025	Location 108277 108281	tra-
+T1026	Person 108563 108579	CHATEAU DE PINON
+T1027	Person 108817 108826	de Lameth
+T1028	Person 108870 108879	Henriette
+T1029	Person 109190 109197	Louison
+T1030	Location 109357 109363	Madame
+T1031	Location 109403 109410	CHATEAU
+T1032	Person 109411 109419	DE PINOK
+T1033	Location 109531 109537	Madame
+T1034	Location 109656 109661	Voilà
+T1035	Location 109683 109685	Oh
+T1036	Person 109689 109696	Louison
+T1037	Location 109762 109768	Madame
+T1038	Organization 109799 109802	Oui
+T1039	Location 109941 109943	P.
+T1040	Person 110225 110241	CHATEAU DE PINON
+T1041	Location 110247 110249	Eh
+T1042	Location 110251 110257	Madame
+T1043	Location 110412 110414	La
+T1044	Person 110452 110459	Louison
+T1045	Organization 110674 110690	Madame de Lameth
+T1046	Person 110840 110847	Louison
+T1047	Location 110914 110920	Madame
+T1048	Person 111105 111121	CHATEAU DE PINON
+T1049	Location 111173 111179	Madame
+T1050	Location 111397 111404	Louison
+T1051	Person 111579 111587	mon Dieu
+T1052	Person 111597 111604	Louison
+T1053	Location 111658 111661	Ma-
+T1054	Location 111671 111672	L
+T1055	Person 111676 111685	Qu'est-ce
+T1056	Location 111843 111854	Monseigneur
+T1057	Location 111868 111874	Albret
+T1058	Location 111876 111879	Ma-
+T1059	Person 111889 111905	CHATEAU DE PINON
+T1060	Person 111994 112003	Henriette
+T1061	Person 112544 112561	murmura Henriette
+T1062	Location 112654 112660	Madame
+T1063	Person 112732 112748	CHATEAU DE PINON
+T1064	Person 112834 112841	Louison
+T1065	Location 113386 113388	La
+T1066	Person 113473 113482	Loui- son
+T1067	Person 113483 113490	Beaupré
+T1068	Person 113544 113560	CHATEAU DE PINON
+T1069	Location 113667 113670	Ma-
+T1070	Location 113864 113866	La
+T1071	Person 114045 114053	Mon Dieu
+T1072	Person 114072 114079	Louison
+T1073	Person 114333 114349	CHATEAU DE PINON
+T1074	Person 114720 114727	Louison
+T1075	Organization 114795 114798	Oui
+T1076	Location 114916 114921	Voilà
+T1077	Person 114968 114973	Bussy
+T1078	Person 115097 115113	CHATEAU DE PINON
+T1079	Location 115296 115302	Madame
+T1080	Location 115341 115347	Madame
+T1081	Location 115368 115373	Bussy
+T1082	Person 115399 115406	Louison
+T1083	Location 115458 115465	Louison
+T1084	Person 115527 115531	Dieu
+T1085	Person 115735 115744	de Lameth
+T1086	Person 116013 116029	CHATEAU DE PINON
+T1087	Location 116127 116129	Oh
+T1088	Person 116131 116138	Louison
+T1089	Location 116196 116202	Madame
+T1090	Location 116270 116281	Monseigneur
+T1091	Location 116284 116290	Albret
+T1092	Person 116365 116372	Louison
+T1093	Location 116403 116409	Madame
+T1094	Location 116686 116692	Madame
+T1095	Organization 116697 116700	Oui
+T1096	Person 116702 116709	Louison
+T1097	Location 116820 116826	Madame
+T1098	Person 116837 116853	CHATEAU DE PINON
+T1099	Location 116858 116865	Dis-moi
+T1100	Location 116867 116874	Louison
+T1101	Location 116910 116919	Montespan
+T1102	Location 116947 116953	Madame
+T1103	Location 117075 117085	Versailles
+T1104	Location 117169 117175	Madame
+T1105	Location 117197 117202	Anizy
+T1106	Organization 117252 117255	Oui
+T1107	Location 117257 117263	Madame
+T1108	Location 117265 117274	Deschamps
+T1109	Location 117299 117304	Coucy
+T1110	Person 117365 117376	Cœur de Roy
+T1111	Person 117480 117489	Deschamps
+T1112	Location 117598 117605	CHATEAU
+T1113	Person 117606 117615	DE PINONX
+T1114	Location 117666 117671	Corcy
+T1115	Location 117765 117770	Coucy
+T1116	Organization 117786 117789	Oui
+T1117	Location 117791 117797	Madame
+T1118	Organization 117874 117877	Oui
+T1119	Location 117879 117885	Madame
+T1120	Location 117919 117921	La
+T1121	Location 118077 118079	La
+T1122	Person 118247 118268	Louison admirablement
+T1123	Person 118339 118355	CHATEAU DE PINON
+T1124	Location 118372 118379	Lamethr
+T1125	Location 118416 118418	Eh
+T1126	Location 118425 118433	Monsieur
+T1127	Location 118565 118570	Voilà
+T1128	Location 118633 118638	Bussy
+T1129	Person 119099 119108	Henriette
+T1130	Person 119123 119139	CHATEAU DE PINON
+T1131	Location 119323 119328	Pinon
+T1132	Location 119331 119336	Anizy
+T1133	Organization 119394 119410	Madame de Lameth
+T1134	Person 120061 120077	CHATEAU DE PINON
+T1135	Location 120485 120492	Fiesque
+T1136	Location 120695 120698	toi
+T1137	Person 120831 120840	de Lameth
+T1138	Organization 120993 121002	Madame de
+T1139	Location 121003 121006	La-
+T1140	Location 121084 121095	Monseigneur
+T1141	Person 121340 121356	CHATEAU DE PINON
+T1142	Location 121371 121375	Laon
+T1143	Location 121458 121469	Monseigneur
+T1144	Location 121489 121496	Estrées
+T1145	Person 121804 121809	votre
+T1146	Location 122103 122109	Madame
+T1147	Person 122115 122120	votre
+T1148	Location 122161 122166	Bussy
+T1149	Person 122173 122189	CHATEAU DE PINON
+T1150	Person 122384 122393	Henriette
+T1151	Person 122404 122413	Henriette
+T1152	Location 122528 122539	Monseigneur
+T1153	Person 122556 122561	Bussy
+T1154	Organization 122563 122579	Madame de Lameth
+T1155	Location 122915 122920	Pinon
+T1156	Location 123040 123051	Monseigneur
+T1157	Person 123128 123144	CHATEAU DE PINON
+T1158	Location 123203 123210	Fiesque
+T1159	Location 123245 123252	Fiesque
+T1160	Location 123284 123295	Monseigneur
+T1161	Person 123307 123312	Bussy
+T1162	Location 123364 123375	Monseigneur
+T1163	Location 123467 123478	Monseigneur
+T1164	Location 123566 123572	Madame
+T1165	Location 123748 123754	Madame
+T1166	Person 123932 123948	CHATEAU DE PINON
+T1167	Location 124090 124101	Monseigneur
+T1168	Person 124219 124228	Henriette
+T1169	Location 124279 124287	Monsieur
+T1170	Location 124313 124324	Monseigneur
+T1171	Location 124562 124573	Monseigneur
+T1172	Location 124632 124637	Bussy
+T1173	Location 124667 124673	Lameth
+T1174	Person 124698 124703	votre
+T1175	Location 124710 124718	Monsieur
+T1176	Person 124760 124776	CHATEAU DE PINON
+T1177	Location 124909 124915	Madame
+T1178	Person 125095 125100	votre
+T1179	Location 125162 125170	Monsieur
+T1180	Person 125206 125215	Henriette
+T1181	Location 125287 125293	Madame
+T1182	Location 125355 125361	Madame
+T1183	Person 125496 125512	CHATEAU DE PINON
+T1184	Location 125521 125523	Eh
+T1185	Location 125534 125540	Madame
+T1186	Person 125631 125636	votre
+T1187	Location 125741 125747	Madame
+T1188	Person 125799 125804	votre
+T1189	Location 126003 126005	Eh
+T1190	Person 126007 126015	mon Dieu
+T1191	Location 126017 126025	Monsieur
+T1192	Person 126347 126363	CHATEAU DE PINON
+T1193	Person 126747 126756	de Lameth
+T1194	Location 126987 126995	Monsieur
+T1195	Person 127234 127250	CHATEAU DE PINON
+T1196	Location 127559 127561	La
+T1197	Person 127717 127732	Louison Beaupré
+T1198	Person 127839 127846	Louison
+T1199	Location 127875 127881	Madame
+T1200	Location 127938 127945	Estrées
+T1201	Person 127969 127978	Loui- son
+T1202	Person 128002 128009	Louison
+T1203	Person 128027 128043	CHATEAU DÉ PINON
+T1204	Person 128060 128067	Louison
+T1205	Location 128181 128183	Oh
+T1206	Person 128276 128280	Dieu
+T1207	Location 128307 128309	Oh
+T1208	Person 128367 128376	Qu'est-ce
+T1209	Person 128388 128396	mon Dieu
+T1210	Location 128402 128410	Monsieur
+T1211	Location 128428 128430	Eh
+T1212	Location 128440 128442	Eh
+T1213	Organization 128485 128488	Oui
+T1214	Location 128490 128496	Madame
+T1215	Location 128586 128588	Oh
+T1216	Person 128590 128598	mon Dieu
+T1217	Person 128606 128622	CHATEAU DK PINON
+T1218	Location 128631 128633	La
+T1219	Person 128770 128776	Rémond
+T1220	Location 128809 128815	Madame
+T1221	Person 128903 128909	Rémond
+T1222	Location 128912 128922	Versailles
+T1223	Location 128964 128970	Madame
+T1224	Location 129102 129104	Oh
+T1225	Person 129150 129157	Louison
+T1226	Person 129295 129302	Louison
+T1227	Person 129399 129415	CHATEAU DE PINON
+T1228	Person 129452 129458	Rémond
+T1229	Location 129484 129490	Madame
+T1230	Person 129740 129746	Rémond
+T1231	Location 129819 129821	La
+T1232	Location 129832 129838	Madame
+T1233	Location 130010 130013	Na-
+T1234	Location 130162 130170	Artagnan
+T1235	Person 130303 130319	CHATEAU DE PINON
+T1236	Location 130397 130398	L
+T1237	Person 130433 130441	Artagnan
+T1238	Person 130583 130593	d’Artagnan
+T1239	Location 130605 130614	Montespan
+T1240	Hour 130727 130746	vingt-quatre heures
+T1241	Location 130954 130960	Albret
+T1242	Organization 130968 130977	Madame de
+T1243	Location 130978 130987	Montespan
+T1244	Organization 130993 131002	Madame de
+T1245	Location 131003 131012	Montespan
+T1246	Person 131040 131056	CHATEAU DE PINON
+T1247	Location 131062 131070	Monsieur
+T1248	Location 131082 131091	Montespan
+T1249	Location 131202 131210	Monsieur
+T1250	Location 131359 131371	Mademoiselle
+T1251	Location 131375 131380	Roucy
+T1252	Location 131419 131427	Monsieur
+T1253	Location 131485 131493	Monsieur
+T1254	Location 131525 131533	Monsieur
+T1255	Location 131540 131542	Eh
+T1256	Location 131544 131552	Monsieur
+T1257	Person 131723 131731	Artagnan
+T1258	Location 131756 131763	CHATEAU
+T1259	Location 131768 131773	PINON
+T1260	Person 131886 131895	de Lameth
+T1261	Location 131915 131921	Madame
+T1262	Location 132076 132082	Madame
+T1263	Person 132129 132147	continua Henriette
+T1264	Location 132175 132181	Albret
+T1265	Location 132241 132247	Madame
+T1266	Location 132279 132281	Oh
+T1267	Location 132310 132316	Madame
+T1268	Location 132447 132452	Roucy
+T1269	Person 132586 132602	CHATEAU DE PINON
+T1270	Person 132610 132616	Albret
+T1271	Person 132726 132732	Rémond
+T1272	Person 132784 132789	votre
+T1273	Person 132836 132841	votre
+T1274	Person 132920 132925	votre
+T1275	Location 133297 133300	La-
+T1276	Location 133339 133343	Ver-
+T1277	Location 133481 133489	Bouillon
+T1278	Person 133499 133515	CHATEAU DE PINON
+T1279	Location 133549 133554	Bussy
+T1280	Person 133653 133658	votre
+T1281	Location 134027 134029	La
+T1282	Organization 134147 134150	Oui
+T1283	Location 134152 134158	Madame
+T1284	Location 134206 134208	Oh
+T1285	Person 134258 134274	CHATEAU DE PINON
+T1286	Person 134321 134328	Louison
+T1287	Location 134381 134387	Madame
+T1288	Person 134500 134507	Louison
+T1289	Location 134557 134563	Madame
+T1290	Location 134703 134709	Madame
+T1291	Person 134729 134735	Rémond
+T1292	Person 134927 134933	Albert
+T1293	Location 134949 134958	merveille
+T1294	Person 134977 134993	CHATEAU DE PINON
+T1295	Person 135156 135161	votre
+T1296	Location 135319 135326	Estrées
+T1297	Location 135608 135614	Madame
+T1298	Person 135616 135622	Rémond
+T1299	Person 135692 135708	CHATEAU DE PINON
+T1300	Location 135830 135836	Madame
+T1301	Location 135890 135897	Fiesque
+T1302	Location 135936 135940	Rhin
+T1303	Location 136010 136016	Madame
+T1304	Location 136099 136105	Madame
+T1305	Location 136165 136167	Eh
+T1306	Location 136174 136180	Madame
+T1307	Location 136197 136203	Rémond
+T1308	Person 136280 136283	Mon
+T1309	Person 136393 136409	CHATEAU DE PINON
+T1310	Location 136419 136421	La
+T1311	Person 136437 136446	de Lameth
+T1312	Person 136567 136574	Louison
+T1313	Location 136621 136627	Albret
+T1314	Location 136632 136634	Oh
+T1315	Location 136636 136642	Madame
+T1316	Location 136754 136756	La
+T1317	Organization 136822 136838	Madame de Lameth
+T1318	Person 136960 136967	Louison
+T1319	Person 137108 137115	Louison
+T1320	Location 137164 137170	Madame
+T1321	Person 137262 137268	Joguet
+T1322	Person 137292 137300	DE PINON
+T1323	Location 137328 137340	Bussy-Lameth
+T1324	Location 137402 137408	Madame
+T1325	Location 137516 137521	Bussy
+T1326	Person 137804 137810	Rémond
+T1327	Location 137820 137826	Madame
+T1328	Person 137932 137939	Louison
+T1329	Person 137975 137991	CHATEAU DE PINON
+T1330	Location 138055 138057	La
+T1331	Person 138147 138155	comte m'
+T1332	Location 138179 138185	Madame
+T1333	Person 138483 138489	Joguet
+T1334	Location 138535 138537	La
+T1335	Person 138590 138597	Louison
+T1336	Location 138635 138637	Oh
+T1337	Location 138708 138714	Madame
+T1338	Person 138725 138741	CHATEAU DE PINON
+T1339	Person 138746 138753	Louison
+T1340	Location 138886 138888	Oh
+T1341	Person 138890 138897	Louison
+T1342	Organization 138925 138941	Madame de Lameth
+T1343	Location 139294 139296	La
+T1344	Organization 139297 139306	pas- sion
+T1345	Person 139419 139426	Louison
+T1346	Person 139635 139651	CHATEAU DE PINON
+T1347	Person 139744 139751	Louison
+T1348	Location 139792 139795	Al-
+T1349	Location 139825 139827	Oh
+T1350	Person 139996 140003	Louison
+T1351	Location 140138 140144	Madame
+T1352	Location 140280 140282	Oh
+T1353	Person 140284 140292	mon Dieu
+T1354	Person 140449 140465	CHATEAU DE PINON
+T1355	Person 140482 140491	Henriette
+T1356	Person 140704 140713	Henriette
+T1357	Person 140755 140760	votre
+T1358	Person 141013 141016	Mon
+T1359	Person 141313 141329	CHATEAU DE PINON
+T1360	Location 141913 141918	Anizy
+T1361	Person 142118 142127	Henriette
+T1362	Person 142221 142237	CHATEAU DE PINON
+T1363	Person 142455 142464	Henriette
+T1364	Location 142532 142533	G
+T1365	Location 142785 142791	ALBrer
+T1366	Person 142814 142821	Louison
+T1367	Location 142918 142920	Oh
+T1368	Location 142927 142933	Madame
+T1369	Location 142995 143001	Albret
+T1370	Organization 143016 143018	LR
+T1371	Person 143023 143030	TEE TAN
+T1372	Person 143037 143044	TD RATE
+T1373	Location 143071 143078	CHATEAU
+T1374	Person 143079 143087	DE PINOK
+T1375	Location 143277 143283	Madame
+T1376	Location 143459 143465	Madame
+T1377	Person 143627 143632	votre
+T1378	Person 143643 143646	Mon
+T1379	Person 143801 143808	Louison
+T1380	Location 143847 143849	Eh
+T1381	Location 143851 143857	Madame
+T1382	Person 143906 143914	DE PINON
+T1383	Person 144102 144109	Louison
+T1384	Location 144117 144123	Madame
+T1385	Location 144190 144197	Fiesque
+T1386	Location 144411 144419	Monsieur
+T1387	Location 144432 144437	Bussy
+T1388	Person 144492 144498	Joguet
+T1389	Location 144533 144535	Oh
+T1390	Location 144551 144557	Madame
+T1391	Location 144582 144584	Eh
+T1392	Person 144611 144620	Henriette
+T1393	Organization 144630 144646	NUE PME TETE ANT
+T1394	Person 144657 144666	TRANS PET
+T1395	Location 144669 144675	RE RAT
+T1396	Organization 144679 144699	ge RAR TT RTS RAT TT
+T1397	Person 144704 144720	CHATEAU DE PENON
+T1398	Location 145154 145160	Madame
+T1399	Person 145210 145213	Mon
+T1400	Person 145389 145397	Bussy Le
+T1401	Person 145530 145546	CHATEAU DE PINON
+T1402	Person 145589 145597	AI- bret
+T1403	Location 145627 145633	Madame
+T1404	Location 145742 145748	Madame
+T1405	Person 145793 145800	Louison
+T1406	Location 145884 145889	Anizy
+T1407	Person 145931 145938	Louison
+T1408	Person 146140 146149	de Lameth
+T1409	Location 146345 146351	Madame
+T1410	Person 146396 146404	DE PINON
+T1411	Person 146536 146542	Joguet
+T1412	Person 146637 146642	votre
+T1413	Person 146917 146923	SET HO
+T1414	Location 146932 146936	Yoüs
+T1415	Person 147007 147016	de Lameth
+T1416	Location 147044 147049	Bussy
+T1417	Location 147137 147141	Leds
+T1418	Person 147199 147215	CHATEAU DE PINON
+T1419	Person 147263 147269	Joguet
+T1420	Location 147320 147326	Madame
+T1421	Person 147434 147441	Louison
+T1422	Location 147484 147489	Anizy
+T1423	Person 147626 147635	Qu'est-ce
+T1424	Location 147704 147710	Madame
+T1425	Person 147771 147778	Louison
+T1426	Location 147801 147803	Eh
+T1427	Location 147916 147921	Anizy
+T1428	Person 147927 147933	Joguet
+T1429	Person 148009 148025	CHATEAU DE PINON
+T1430	Person 148314 148322	Al- bret
+T1431	Person 148492 148506	Veille Louison
+T1432	Person 148605 148618	mon Henrielte
+T1433	Person 148789 148796	Charles
+T1434	Person 148896 148912	CHATEAU DE PINON
+T1435	Person 148941 148948	Charles
+T1436	Person 149049 149054	votre
+T1437	Location 149284 149286	Oh
+T1438	Location 149288 149294	Madame
+T1439	Location 149456 149459	Ja-
+T1440	Organization 149509 149512	Oui
+T1441	Person 149533 149541	mon tour
+T1442	Person 149659 149675	CHATEAU DE PINON
+T1443	Organization 149937 149942	Tenez
+T1444	Location 150155 150161	Madame
+T1445	Person 150163 150182	interrompit Louison
+T1446	Location 150222 150227	Adieu
+T1447	Person 150229 150236	Charles
+T1448	Location 150355 150360	Adieu
+T1449	Person 150484 150500	CHATEAU DE PINON
+T1450	Location 150767 150770	Ma-
+T1451	Location 150838 150846	Monsieur
+T1452	Location 151016 151018	La
+T1453	Location 151035 151040	Corey
+T1454	Location 151084 151089	Coucy
+T1455	Organization 151120 151123	Oui
+T1456	Location 151145 151152	Estrées
+T1457	Person 151195 151200	votre
+T1458	Person 151260 151266	PA TSI
+T1459	Location 151272 151289	A NAS RAGE Zrérue
+T1460	Person 151293 151302	PEL TE Se
+T1461	Organization 151306 151329	CENT PRE POLP RNQT LTPP
+T1462	Person 151334 151341	NET EEE
+T1463	Person 151348 151355	RSS SEE
+T1464	Person 151374 151390	CHATEAU DE PINON
+T1465	Location 151887 151893	Madame
+T1466	Location 152027 152033	Madame
+T1467	Location 152036 152042	Madame
+T1468	Location 152047 152049	Eh
+T1469	Location 152056 152064	Monsieur
+T1470	Person 152218 152226	DE PINON
+T1471	Location 152236 152242	Madame
+T1472	Location 152343 152352	Henriette
+T1473	Person 152368 152373	votre
+T1474	Person 152512 152521	de Lameth
+T1475	Person 152718 152725	Louison
+T1476	Location 152929 152935	Madame
+T1477	Person 153070 153086	CHATEAU DE PINON
+T1478	Location 153095 153101	Madame
+T1479	Person 153134 153137	LEE
+T1480	Organization 153202 153211	Madame de
+T1481	Location 153212 153217	Corey
+T1482	Location 153273 153284	Monseigneur
+T1483	Person 153334 153343	de Lameth
+T1484	Location 153517 153520	Ma-
+T1485	Location 153564 153573	merveille
+T1486	Location 153578 153589	Monseigneur
+T1487	Person 153592 153597	votre
+T1488	Person 153756 153772	CHATEAU DE PINON
+T1489	Location 153869 153875	Madame
+T1490	Organization 153889 153898	Madame de
+T1491	Location 153900 153905	Corcy
+T1492	Location 153954 153960	Madame
+T1493	Location 153981 153986	Bussy
+T1494	Location 154085 154093	Monsieur
+T1495	Location 154126 154128	La
+T1496	Location 154214 154217	La-
+T1497	Person 154515 154531	CHATEAU DE PINON
+T1498	Location 154642 154647	Voilà
+T1499	Location 154666 154677	Monseigneur
+T1500	Organization 154747 154762	Madame de Corcy
+T1501	Person 154816 154825	de Lameth
+T1502	Location 154878 154884	Madame
+T1503	Location 154916 154921	Corcy
+T1504	Organization 154976 154979	Oui
+T1505	Location 155030 155035	Anizy
+T1506	Person 155166 155175	Henriette
+T1507	Location 155223 155224	L
+T1508	Person 155237 155253	CHATEAU DE PINON
+T1509	Location 155272 155278	Madame
+T1510	Organization 155457 155472	Madame de Corcy
+T1511	Location 155547 155553	Madame
+T1512	Person 155575 155580	votre
+T1513	Location 155694 155699	Pinon
+T1514	Location 155806 155811	Coucy
+T1515	Organization 155817 155826	mon oncle
+T1516	Person 155992 156008	CHATEAU DE PINON
+T1517	Location 156151 156156	Bussy
+T1518	Person 156198 156207	Henriette
+T1519	Location 156225 156227	Oh
+T1520	Person 156229 156237	mon Dieu
+T1521	Location 156391 156402	Monseigneur
+T1522	Person 156474 156483	de Lameth
+T1523	Location 156683 156689	Madame
+T1524	Location 156846 156853	CHATEAU
+T1525	Person 156854 156862	DE PINOX
+T1526	Location 156985 156987	La
+T1527	Person 157200 157209	Henriette
+T1528	Organization 157302 157317	Madame de Corcy
+T1529	Location 157342 157348	Madame
+T1530	Person 157483 157488	votre
+T1531	Person 157625 157634	de Lameth
+T1532	Organization 157668 157683	Madame de Corcy
+T1533	Person 157712 157728	CHATEAU DE PINON
+T1534	Person 157735 157753	continua Henriette
+T1535	Location 157766 157771	Coucy
+T1536	Location 157889 157891	La
+T1537	Location 157980 157985	Pinon
+T1538	Location 157987 157989	La
+T1539	Person 158175 158181	Joguet
+T1540	Organization 158339 158354	Madame de Corcy
+T1541	Location 158538 158543	Corcy
+T1542	Location 158552 158561	Henriette
+T1543	Location 158619 158626	CHATEAU
+T1544	Person 158627 158635	DE BINON
+T1545	Person 158813 158818	votre
+T1546	Location 158836 158838	Oh
+T1547	Person 158941 158946	votre
+T1548	Location 159334 159339	Corcy
+T1549	Person 159425 159434	dé Laméth
+T1550	Person 159467 159483	CHATEAU DE PINON
+T1551	Location 159557 159559	La
+T1552	Location 159649 159656	Louison
+T1553	Location 159658 159665	Pichard
+T1554	Location 159796 159802	Madame
+T1555	Location 159853 159856	Jo-
+T1556	Person 159891 159900	de Lameth
+T1557	Location 159970 159975	Corcy
+T1558	Location 160227 160232	Coucy
+T1559	Person 160266 160282	CHATEAU DE PINON
+T1560	Location 160309 160311	Eh
+T1561	Organization 160367 160381	DEUX GABRIELLE
+T1562	Person 160413 160422	Henriette
+T1563	Person 160494 160503	de Lameth
+T1564	Person 160755 160771	CHATEAU DE PINON
+T1565	Person 160872 160881	de Lameth
+T1566	Location 160896 160905	Bourgogne
+T1567	Organization 161018 161034	Madame de Lameth
+T1568	Location 161305 161311	Joguet
+T1569	Person 161399 161414	Henriette resta
+T1570	Person 161537 161544	Louison
+T1571	Location 161600 161606	Madame
+T1572	Person 161639 161655	CHATEAU DE PINON
+T1573	Location 161742 161748	Joguet
+T1574	Location 161879 161884	Corcy
+T1575	Person 161889 161896	Lambert
+T1576	Person 161987 161993	Joguet
+T1577	Location 162129 162135	Albret
+T1578	Person 162285 162291	Joguet
+T1579	Location 162337 162342	Coucy
+T1580	Person 162425 162441	CHATEAU DE PINON
+T1581	Location 162458 162464	Madame
+T1582	Organization 162564 162579	Madame de Corcy
+T1583	Location 162632 162641	Deschamps
+T1584	Location 162668 162673	Coucy
+T1585	Location 162765 162774	merveille
+T1586	Location 162810 162815	Corcy
+T1587	Person 162878 162887	de Lameth
+T1588	Person 163126 163142	CHATEAU DE PINON
+T1589	Location 163153 163159	Madame
+T1590	Location 163211 163213	Oh
+T1591	Person 163395 163401	Joguet
+T1592	Organization 163504 163519	Madame de Corcy
+T1593	Location 163822 163824	La
+T1594	Location 163832 163838	Madame
+T1595	Person 163954 163970	CHATEAU DE PINON
+T1596	Location 164063 164069	France
+T1597	Person 164262 164268	Rémond
+T1598	Location 164693 164700	Louison
+T1599	Person 164783 164799	CHATEAU DE PINON
+T1600	Location 164871 164877	Madame
+T1601	Location 164902 164904	La
+T1602	Location 164959 164968	Deschamps
+T1603	Location 165099 165104	Corey
+T1604	Location 165144 165150	France
+T1605	Location 165346 165354	Monsieur
+T1606	Organization 165370 165373	Oui
+T1607	Person 165620 165636	CHATEAU DE PINON
+T1608	Location 165860 165862	Oh
+T1609	Person 166025 166030	Bussy
+T1610	Person 166161 166167	Albret
+T1611	Person 166289 166294	votre
+T1612	Person 166414 166430	CHATEAU DE PINON
+T1613	Location 166452 166457	Coucy
+T1614	Organization 166549 166557	Mon Dieu
+T1615	Location 166601 166606	Voilà
+T1616	Person 166707 166714	Mazarin
+T1617	Location 166721 166726	Coucy
+T1618	Organization 166804 166813	mon oncle
+T1619	Person 166852 166861	de Lameth
+T1620	Person 166915 166920	votre
+T1621	Person 167207 167223	CHATEAU DE PINON
+T1622	Location 167425 167435	Providence
+T1623	Location 167626 167631	Coucy
+T1624	Person 167683 167697	Enguerrand VII
+T1625	Location 167711 167717	France
+T1626	Location 167960 167965	Coucy
+T1627	Person 168050 168066	CHATEAU DE PINON
+T1628	Location 168105 168113	Monsieur
+T1629	Location 168122 168129	Orléans
+T1630	Person 168180 168191	Cœur-de-Roy
+T1631	Organization 168223 168226	Oui
+T1632	Location 168228 168234	Madame
+T1633	Organization 168289 168298	mon oncle
+T1634	Location 168329 168334	Coucy
+T1635	Location 168793 168799	Madame
+T1636	Person 168837 168853	CHATEAU DE PINON
+T1637	Organization 169050 169053	Oui
+T1638	Location 169152 169157	Corcy
+T1639	Organization 169160 169176	Madame de Lameth
+T1640	Person 169213 169220	Louison
+T1641	Person 169236 169243	Louison
+T1642	Location 169276 169282	France
+T1643	Person 169424 169431	Louison
+T1644	Location 169506 169508	La
+T1645	Person 169650 169666	CHATEAU DE PINON
+T1646	Location 169895 169897	Oh
+T1647	Location 169949 169955	Madame
+T1648	Location 169976 169981	Corcy
+T1649	Person 170005 170014	de Lameth
+T1650	Person 170029 170036	Louison
+T1651	Location 170309 170315	Madame
+T1652	Location 170350 170355	Anizy
+T1653	Location 170456 170462	Madame
+T1654	Person 170492 170500	DE PINON
+T1655	Location 170544 170552	Monsieur
+T1656	Location 170636 170645	Bussy-La-
+T1657	Person 170737 170742	votre
+T1658	Person 170777 170785	Al- bret
+T1659	Location 170808 170814	Albret
+T1660	Location 170831 170837	Madame
+T1661	Person 170889 170903	Marie Jourdieu
+T1662	Location 170934 170939	Voilà
+T1663	Location 170959 170964	Corcy
+T1664	Location 171026 171031	Voilà
+T1665	Person 171097 171110	mon beau-père
+T1666	Person 171355 171371	CHATEAU DE PINON
+T1667	Location 171471 171479	Monsieur
+T1668	Person 171480 171489	de Lameth
+T1669	Person 171664 171673	Qu'est-ce
+T1670	Location 171788 171794	Madame
+T1671	Organization 171826 171829	Oui
+T1672	Location 171997 172003	Rémond
+T1673	Organization 172008 172011	Oui
+T1674	Location 172013 172019	Madame
+T1675	Person 172155 172171	CHATEAU DE PINON
+T1676	Location 172230 172236	Madame
+T1677	Location 172343 172351	Monsieur
+T1678	Location 172442 172448	Madame
+T1679	Organization 172464 172473	mon oncle
+T1680	Location 172642 172644	La
+T1681	Person 172766 172773	Louison
+T1682	Organization 172859 172868	Madame de
+T1683	Location 172869 172874	Corey
+T1684	Person 173021 173037	CHATEAU DE PINON
+T1685	Person 173046 173059	Mon Henriette
+T1686	Person 173079 173086	Charles
+T1687	Organization 173090 173105	Madame de Corcy
+T1688	Location 173175 173177	Oh
+T1689	Location 173238 173244	Albret
+T1690	Location 173438 173446	Monsieur
+T1691	Person 173450 173465	Chère Henriette
+T1692	Location 173706 173710	Mon-
+T1693	Person 173728 173744	CHATEAU DE PINON
+T1694	Location 173830 173832	La
+T1695	Location 173833 173841	Vallière
+T1696	Location 173977 173979	Oh
+T1697	Person 173989 173996	Charles
+T1698	Person 174324 174340	CHATEAU DE PINON
+T1699	Person 174374 174385	Taisez-vous
+T1700	Location 174388 174396	Monsieur
+T1701	Location 174555 174557	Oh
+T1702	Person 174666 174670	LT J
+T1703	Location 174810 174812	Eh
+T1704	Person 174899 174915	CHATEAU DE PINON
+T1705	Location 174990 174992	Oh
+T1706	Location 175400 175402	Oh
+T1707	Organization 175483 175486	Oui
+T1708	Person 175676 175692	CHATEAU DE PINON
+T1709	Location 176319 176321	La
+T1710	Person 176672 176680	DE PINON
+T1711	Person 176866 176875	de Lameth
+T1712	Location 177326 177332	Albret
+T1713	Location 177334 177336	La
+T1714	Organization 177400 177403	TOP
+T1715	Organization 177630 177637	RTE TPE
+T1716	Person 177641 177651	BOT CN APR
+T1717	Organization 177663 177675	PVR Te Ms Me
+T1718	Organization 177680 177722	ERNE RARE PTS RETENUE EE TS ART ER DEP MOT
+T1719	Person 177758 177766	DE PINON
+T1720	Location 177923 177928	Voilà
+T1721	Person 178032 178042	Albret ré-
+T1722	Person 178057 178066	de Lameth
+T1723	Person 178199 178208	Henriette
+T1724	Location 178320 178325	L Amy
+T1725	Location 178539 178550	LS Marchons
+T1726	Person 178602 178618	CHATEAU DE PINON
+T1727	Person 178823 178832	Henriette
+T1728	Person 179141 179146	votre
+T1729	Person 179147 179155	Henri IV
+T1730	Person 179204 179211	Charles
+T1731	Person 179369 179377	Henri IŸ
+T1732	Person 179385 179394	Henriette
+T1733	Person 179453 179456	Mon
+T1734	Person 179494 179509	Jeanne d’Albret
+T1735	Person 179572 179588	CHATEAU DE PINON
+T1736	Organization 179756 179759	Oui
+T1737	Person 179851 179859	Henri IV
+T1738	Person 179865 179877	ma Gabrielle
+T1739	Person 180196 180200	June
+T1740	Organization 180261 180264	Oui
+T1741	Person 180282 180298	CHATEAU DE PINON
+T1742	Location 180302 180304	Eh
+T1743	Location 180367 180372	Fayel
+T1744	Location 180377 180379	Oh
+T1745	Organization 180467 180470	Oui
+T1746	Location 180615 180617	Oh
+T1747	Person 180637 180644	Charles
+T1748	Person 180734 180743	Henriette
+T1749	Location 180759 180777	Gabrielle de Vergy
+T1750	Location 180783 180785	Oh
+T1751	Location 180976 180979	Ga-
+T1752	Person 181033 181049	CHATEAU DE PINON
+T1753	Person 181158 181166	Henri IV
+T1754	Person 181359 181368	Henriette
+T1755	Person 181493 181501	Henri IV
+T1756	Person 181739 181748	de Lameth
+T1757	Person 181828 181844	CHATEAU DE PINON
+T1758	Person 181920 181927	Charles
+T1759	Location 182152 182160	Soissons
+T1760	Person 182286 182290	Dieu
+T1761	Person 182305 182312	Charles
+T1762	Location 182316 182318	La
+T1763	Location 182485 182487	Oh
+T1764	Person 182557 182573	CHATEAU DE PINON
+T1765	Person 182594 182601	Charles
+T1766	Person 182609 182622	Mon Henriette
+T1767	Location 182741 182746	Voilà
+T1768	Person 182822 182831	Henriette
+T1769	Location 182837 182839	Eh
+T1770	Person 182856 182863	Charles
+T1771	Location 183030 183034	tra-
+T1772	Location 183072 183077	Voilà
+T1773	Location 183087 183093	Madame
+T1774	Location 183109 183114	Corcy
+T1775	Person 183217 183233	CHATEAU DE PINON
+T1776	Location 183493 183495	Oh
+T1777	Person 183575 183580	votre
+T1778	Organization 183594 183603	mon oncle
+T1779	Location 183720 183726	Madame
+T1780	Person 183731 183734	Mon
+T1781	Person 183802 183815	mon beau-père
+T1782	Person 183839 183844	Bussy
+T1783	Location 183907 183914	CHATEAU
+T1784	Person 183915 183923	DE PINOK
+T1785	Location 183930 183932	La
+T1786	Location 184043 184048	Corcy
+T1787	Location 184052 184059	Louison
+T1788	Person 184193 184199	Albret
+T1789	Organization 184268 184284	Madame de Lameth
+T1790	Location 184304 184309	Coucy
+T1791	Location 184395 184397	La
+T1792	Person 184487 184494	Charles
+T1793	Organization 184701 184709	Cerbères
+T1794	Location 184791 184792	L
+T1795	Person 184794 184810	CHATEAU DE PINON
+T1796	Location 184924 184929	Pinon
+T1797	Person 185017 185022	votre
+T1798	Location 185102 185104	La
+T1799	Person 185166 185172	Joguet
+T1800	Location 185206 185213	Sissone
+T1801	Organization 185253 185267	comte de Roucy
+T1802	Location 185296 185309	Saint-Quentin
+T1803	Person 185343 185352	de Lameth
+T1804	Location 185390 185395	Roucy
+T1805	Person 185511 185517	Joguet
+T1806	Person 185569 185576	Louison
+T1807	Person 185580 185587	Lambert
+T1808	Person 185618 185626	DE PINON
+T1809	Hour 185718 185737	vingt-quatre heures
+T1810	Location 185808 185815	Louison
+T1811	Person 185932 185939	Lambert
+T1812	Person 186333 186340	Charles
+T1813	Person 186377 186383	Joguet
+T1814	Person 186462 186478	CHATEAU DE PINON
+T1815	Person 186483 186486	Mon
+T1816	Location 186506 186512	Madame
+T1817	Location 186723 186729	Madame
+T1818	Location 186780 186797	Villers-Cotterets
+T1819	Location 186932 186938	Madame
+T1820	Location 186985 186990	Bussy
+T1821	Person 187133 187142	Henriette
+T1822	Person 187231 187247	CHATEAU DE PINON
+T1823	Location 187278 187285	Louison
+T1824	Location 187302 187308	Madame
+T1825	Location 187341 187343	Oh
+T1826	Location 187384 187390	Madame
+T1827	Person 187442 187451	de Lameth
+T1828	Person 187548 187553	Bussy
+T1829	Person 187563 187569	Joguet
+T1830	Location 187584 187601	Villers-Cotierets
+T1831	Location 187625 187633	Monsieur
+T1832	Person 187707 187720	Mon Henriette
+T1833	Person 187867 187883	CHATEAU DE PINON
+T1834	Location 188062 188067	Bussy
+T1835	Person 188103 188112	de Lameth
+T1836	Person 188295 188304	Henriette
+T1837	Person 188395 188401	Joguet
+T1838	Location 188452 188457	Bussy
+T1839	Location 188591 188596	Bussy
+T1840	Person 188770 188786	CHATEAU DE PINON
+T1841	Location 188874 188880	Madame
+T1842	Location 188886 188893	Louison
+T1843	Location 188951 188956	Bussy
+T1844	Person 188965 188974	de Lameth
+T1845	Person 189214 189217	Mon
+T1846	Location 189307 189313	Madame
+T1847	Person 189423 189432	de Lameth
+T1848	Person 189495 189504	de Lameth
+T1849	Person 189552 189568	CHATEAU DE PINON
+T1850	Person 189591 189598	Louison
+T1851	Person 189652 189670	Tranquil- lise-toi
+T1852	Location 189952 189960	Monsieur
+T1853	Person 190171 190176	Bussy
+T1854	Location 190219 190225	Madame
+T1855	Person 190268 190277	Henriette
+T1856	Person 190361 190377	CHATEAU DE PINON
+T1857	Location 190766 190768	La
+T1858	Person 190854 190878	de Lameth la suivi- rent
+T1859	Person 191051 191056	Bussy
+T1860	Location 191079 191085	Madame
+T1861	Location 191140 191148	Monsieur
+T1862	Person 191207 191216	de Lameth
+T1863	Location 191247 191248	L
+T1864	Person 191261 191277	CHATEAU DE PINON
+T1865	Person 191359 191368	Henriette
+T1866	Location 191528 191536	Monsieur
+T1867	Person 191626 191638	Bussy conti-
+T1868	Location 191785 191791	Madame
+T1869	Location 191819 191821	La
+T1870	Location 191830 191838	Monsieur
+T1871	Person 192060 192076	CHATEAU DE PINON
+T1872	Location 192114 192122	Monsieur
+T1873	Location 192145 192150	Coucy
+T1874	Person 192165 192170	votre
+T1875	Location 192378 192384	Albret
+T1876	Person 192390 192395	votre
+T1877	Location 192432 192437	Corcy
+T1878	Location 192524 192529	Pinon
+T1879	Person 192549 192554	votre
+T1880	Person 192577 192582	votre
+T1881	Location 192721 192727	Madame
+T1882	Person 192745 192749	Dieu
+T1883	Location 192780 192788	Monsieur
+T1884	Location 192848 192854	Albret
+T1885	Location 192859 192866	Ecoutez
+T1886	Person 192868 192877	Henriette
+T1887	Person 193008 193024	CHATEAU DE PINON
+T1888	Location 193341 193349	Monsieur
+T1889	Location 193578 193586	Monsieur
+T1890	Person 193755 193758	Mon
+T1891	Person 193873 193889	CHATEAU DE PINON
+T1892	Location 193909 193914	Bussy
+T1893	Person 194072 194078	Joguet
+T1894	Person 194089 194095	Joguet
+T1895	Location 194224 194232	Monsieur
+T1896	Person 194315 194324	de Lameth
+T1897	Location 194391 194399	Monsieur
+T1898	Location 194465 194474	Henriette
+T1899	Location 194476 194485	Henriette
+T1900	Person 194707 194723	CHATEAU DE PINON
+T1901	Location 194839 194847	Monsieur
+T1902	Person 194971 194976	votre
+T1903	Location 195050 195055	Bussy
+T1904	Location 195607 195615	Monsieur
+T1905	Person 195623 195639	CHATEAU DE PINON
+T1906	Location 195844 195850	Albret
+T1907	Person 196010 196015	votre
+T1908	Person 196137 196144	Al bret
+T1909	Person 196464 196469	votre
+T1910	Person 196504 196509	votre
+T1911	Person 196635 196651	CHATEAU DE PINON
+T1912	Person 196720 196729	de Lameth
+T1913	Person 196843 196848	votre
+T1914	Person 196862 196865	Mon
+T1915	Location 196928 196934	Madame
+T1916	Person 197222 197227	votre
+T1917	Person 197352 197357	votre
+T1918	Person 197392 197401	de Lameth
+T1919	Person 197445 197458	Louison Beau-
+T1920	Person 197464 197480	CHATEAU DE PINON
+T1921	Location 197794 197802	Monsieur
+T1922	Person 197920 197925	votre
+T1923	Location 198050 198054	Mon-
+T1924	Location 198100 198106	Albret
+T1925	Location 198242 198249	Lametbh
+T1926	Person 198400 198416	CHATEAU DE PINON
+T1927	Person 198556 198564	Al- bret
+T1928	Person 199071 199082	Taisez-vous
+T1929	Location 199084 199090	Madame
+T1930	Location 199112 199117	Bussy
+T1931	Person 199154 199157	Mon
+T1932	Location 199210 199216	Albret
+T1933	Person 199309 199325	CHATEAU DE PINON
+T1934	Person 199474 199482	mon Dieu
+T1935	Location 199519 199525	Madame
+T1936	Person 199560 199563	Mon
+T1937	Location 199686 199692	Madame
+T1938	Location 199741 199749	Monsieur
+T1939	Location 199766 199773	Sissone
+T1940	Person 199849 199854	votre
+T1941	Person 199956 199961	votre
+T1942	Location 199970 199976	Madame
+T1943	Location 200139 200143	tra-
+T1944	Person 200153 200169	CHATEAU DE PINON
+T1945	Person 200190 200195	votre
+T1946	Location 200677 200685	Monsieur
+T1947	Person 200763 200770	ON VOUS
+T1948	Location 200919 200923	Sis-
+T1949	Person 200979 200995	CHATEAU DE PINON
+T1950	Person 201093 201109	Quelle hardiesse
+T1951	Person 201111 201119	mon Dieu
+T1952	Location 201168 201173	Bussy
+T1953	Location 201608 201613	Pinon
+T1954	Person 201845 201861	CHATEAU DE PINON
+T1955	Person 201962 201971	de Lameth
+T1956	Location 202077 202083	Albret
+T1957	Location 202282 202287	Bussy
+T1958	Location 202469 202475	Madame
+T1959	Person 202520 202525	votre
+T1960	Person 202555 202560	votre
+T1961	Location 202686 202692	Madame
+T1962	Person 202727 202743	CHATEAU DF PINON
+T1963	Person 202775 202780	votre
+T1964	Location 202876 202878	Eh
+T1965	Person 203197 203202	votre
+T1966	Location 203273 203275	Eh
+T1967	Person 203302 203307	votre
+T1968	Location 203393 203401	Monsieur
+T1969	Person 203406 203409	Mon
+T1970	Person 203431 203440	de Lameth
+T1971	Location 203497 203499	Oh
+T1972	Person 203535 203551	CHATEAU DE PINON
+T1973	Location 203615 203617	La
+T1974	Location 203665 203673	Monsieur
+T1975	Location 204005 204010	Adieu
+T1976	Person 204101 204104	Mon
+T1977	Location 204225 204227	Oh
+T1978	Person 204229 204237	mon Dieu
+T1979	Person 204273 204278	Bussy
+T1980	Person 204337 204344	Louison
+T1981	Location 204492 204498	Albret
+T1982	Person 204541 204550	de Lameth
+T1983	Person 204636 204642	Joguet
+T1984	Person 204685 204701	CHATEAU DE PINON
+T1985	Person 204787 204790	Mon
+T1986	Person 204839 204846	Louison
+T1987	Location 205253 205259	Lameth
+T1988	Person 205318 205327	Henriette
+T1989	Location 205356 205361	Couëy
+T1990	Location 205379 205384	Gorey
+T1991	Location 205453 205460	CHATEAU
+T1992	Person 205461 205469	DE BINON
+T1993	Person 205546 205553	Lambert
+T1994	Location 205597 205602	Corcy
+T1995	Person 206129 206145	CHATEAU DE PINON
+T1996	Location 206272 206277	Coucy
+T1997	Person 206375 206381	Quatre
+T1998	Location 206602 206607	Corcy
+T1999	Person 206734 206750	CHATEAU DE PINON
+T2000	Person 206814 206821	Louison
+T2001	Location 206908 206914	Madame
+T2002	Location 206917 206923	Madame
+T2003	Location 207129 207135	Madame
+T2004	Location 207374 207379	Corcy
+T2005	Location 207460 207467	CHATEAU
+T2006	Person 207468 207476	RE PISON
+T2007	Organization 207530 207546	Madame de Lameth
+T2008	Location 207758 207763	Couey
+T2009	Location 207789 207795	Albret
+T2010	Person 207826 207832	Rémond
+T2011	Person 207987 207993	Rémond
+T2012	Location 208104 208110	Albret
+T2013	Location 208137 208145	Monsieur
+T2014	Person 208179 208197	Qu'allons-nousfare
+T2015	Person 208210 208217	Louison
+T2016	Person 208270 208286	CHATEAU DE PINON
+T2017	Location 208344 208351	Sissone
+T2018	Location 208368 208374	Madame
+T2019	Location 208398 208404	Madame
+T2020	Location 208739 208745	Madame
+T2021	Person 208961 208977	CHATEAU DE PINON
+T2022	Person 209039 209045	Joguet
+T2023	Location 209058 209064	Madame
+T2024	Location 209066 209068	Oh
+T2025	Person 209131 209138	Louison
+T2026	Location 209213 209218	Corcy
+T2027	Person 209231 209240	de Lameth
+T2028	Location 209410 209415	Corcy
+T2029	Person 209680 209687	Lambert
+T2030	Person 209694 209710	CHATEAU DE PINON
+T2031	Location 209785 209792	Lambert
+T2032	Person 209878 209887	de Lameth
+T2033	Location 209938 209943	Corcy
+T2034	Location 209985 209992	Lambert
+T2035	Person 210076 210083	Lambert
+T2036	Location 210091 210098	Pichard
+T2037	Location 210187 210196	Lameth.se
+T2038	Organization 210358 210373	Madame de Corcy
+T2039	Location 210410 210415	Pinon
+T2040	Person 210596 210612	CHATEAU DE PINON
+T2041	Person 210615 210624	Henriette
+T2042	Person 210848 210855	Lambert
+T2043	Location 211352 211354	La
+T2044	Person 211539 211555	CHATEAU DE PINON
+T2045	Location 211561 211565	Laon
+T2046	Organization 211699 211708	Madame de
+T2047	Person 211709 211714	Corey
+T2048	Person 211757 211766	de Lameth
+T2049	Location 211855 211864	Henriette
+T2050	Location 212059 212064	Corcy
+T2051	Person 212279 212288	de Lameth
+T2052	Person 212507 212523	CHATEAU DE PINON
+T2053	Location 212917 212925	Monsieur
+T2054	Person 213271 213276	Bussy
+T2055	Person 213449 213457	DE PINON
+T2056	Location 213552 213554	La
+T2057	Location 213848 213850	La
+T2058	Location 213960 213966	Songea
+T2059	Location 214044 214051	Louison
+T2060	Location 214220 214225	Coucy
+T2061	Location 214234 214243	Henriette
+T2062	Location 214305 214312	Flandre
+T2063	Person 214346 214355	Schomberg
+T2064	Person 214411 214419	DÉ PINON
+T2065	Person 215201 215209	DE BINON
+T2066	Location 215237 215240	toi
+T2067	Person 215297 215318	Nôoûs Hotis Sauvefons
+T2068	Location 215333 215341	Sis- One
+T2069	Location 215438 215444	Madame
+T2070	Location 215450 215452	Oh
+T2071	Location 215598 215603	Corcy
+T2072	Person 215706 215714	Mon Dieu
+T2073	Location 215805 215811	Madame
+T2074	Person 215813 215829	répliqua Louison
+T2075	Person 215861 215868	Lambert
+T2076	Organization 215904 215909	Tenez
+T2077	Person 215937 215953	CHATEAU DE PINON
+T2078	Location 216025 216030	Coucy
+T2079	Person 216040 216044	Dieu
+T2080	Person 216060 216067	Louison
+T2081	Person 216107 216114	Lambert
+T2082	Location 216167 216173	Madame
+T2083	Person 216319 216328	de Lameth
+T2084	Location 216378 216383	Corcy
+T2085	Person 216653 216669	CHATEAU DE PINON
+T2086	Location 216710 216715	Corcy
+T2087	Person 216945 216950	votre
+T2088	Person 217246 217254	Mon Dieu
+T2089	Location 217380 217385	Corcy
+T2090	Person 217463 217479	CHATEAU DE PINON
+T2091	Location 217488 217493	Bussy
+T2092	Person 217543 217552	de Lameth
+T2093	Person 217621 217626	votre
+T2094	Location 217709 217717	Monsieur
+T2095	Person 217726 217729	Roy
+T2096	Person 217888 217893	votre
+T2097	Location 217930 217936	Madame
+T2098	Person 217974 217993	interrompit Louison
+T2099	Person 218329 218345	CHATEAU DE PINON
+T2100	Location 218394 218401	Sissone
+T2101	Location 218478 218480	Oh
+T2102	Location 218540 218547	Louison
+T2103	Location 218918 218921	La-
+T2104	Person 219138 219154	CHATEAU DE PINON
+T2105	Location 219173 219178	Corcy
+T2106	Organization 219228 219243	Madame de Corcy
+T2107	Person 219417 219426	Henriette
+T2108	Location 219638 219644	Madame
+T2109	Location 219664 219673	merveille
+T2110	Location 219710 219712	Eh
+T2111	Location 219822 219828	Madame
+T2112	Location 219888 219893	Corcy
+T2113	Person 219969 219977	DE PINON
+T2114	Location 220299 220306	Lambert
+T2115	Organization 220419 220434	Madame de Corcy
+T2116	Organization 220477 220480	Oui
+T2117	Location 220482 220488	Madame
+T2118	Location 220569 220575	Madame
+T2119	Person 220639 220646	Lambert
+T2120	Person 220695 220703	DE PINON
+T2121	Person 220935 220944	de Lameth
+T2122	Location 221066 221072	Madame
+T2123	Location 221179 221187	Monsieur
+T2124	Location 221234 221243	merveille
+T2125	Location 221296 221304	Monsieur
+T2126	Organization 221385 221394	Madame de
+T2127	Location 221395 221400	Corey
+T2128	Product 221402 221420	per- mettez-le moi
+T2129	Person 221428 221431	Mon
+T2130	Location 221461 221466	Bussy
+T2131	Person 221511 221527	CHATEAU DE PINON
+T2132	Person 221532 221543	Eh Monsieur
+T2133	Person 221730 221739	Henriette
+T2134	Person 221767 221772	votre
+T2135	Person 221878 221883	votre
+T2136	Organization 221932 221948	Madame de Lameth
+T2137	Location 222378 222384	Madame
+T2138	Person 222426 222442	CHATEAU DE PINON
+T2139	Person 222520 222525	votre
+T2140	Person 222584 222589	votre
+T2141	Person 222658 222664	Albret
+T2142	Person 222740 222745	votre
+T2143	Location 222821 222823	La
+T2144	Person 222884 222893	Henriette
+T2145	Person 222996 223001	votre
+T2146	Person 223233 223242	Henriette
+T2147	Person 223333 223349	CHATEAU DE PINON
+T2148	Person 223433 223448	de Lameth resta
+T2149	Location 223576 223578	Oh
+T2150	Location 223618 223626	Monsieur
+T2151	Person 223739 223742	Mon
+T2152	Person 224127 224143	CHATEAU DE PINON
+T2153	Location 224370 224378	Monsieur
+T2154	Person 224384 224393	Henriette
+T2155	Person 224395 224404	Henriette
+T2156	Organization 224451 224454	Oui
+T2157	Person 224483 224488	votre
+T2158	Person 224498 224503	votre
+T2159	Location 224903 224908	Corcy
+T2160	Location 224913 224915	Oh
+T2161	Person 224936 224945	Henriette
+T2162	Person 225006 225022	CHATEAU DE PINON
+T2163	Organization 225025 225040	Madame de Corcy
+T2164	Location 225087 225092	Anizy
+T2165	Location 225094 225096	La
+T2166	Person 225177 225185	Mon Dieu
+T2167	Person 225191 225198	Louison
+T2168	Location 225220 225225	Corcy
+T2169	Location 225252 225258	Madame
+T2170	Person 225318 225323	votre
+T2171	Person 225453 225458	Bussy
+T2172	Location 225482 225484	Oh
+T2173	Location 225486 225492	Madame
+T2174	Location 225494 225500	Madame
+T2175	Organization 225560 225568	Al- bret
+T2176	Organization 225844 225846	AS
+T2177	Location 225851 225858	CHATEAU
+T2178	Person 225859 225867	DE PINOK
+T2179	Person 225975 225984	Qu'est-ce
+T2180	Location 226008 226015	Lambert
+T2181	Location 226034 226043	Chavignon
+T2182	Location 226075 226081	Madame
+T2183	Location 226414 226416	La
+T2184	Person 226459 226465	Joguet
+T2185	Person 226499 226506	Lambert
+T2186	Location 226556 226562	Lameth
+T2187	Person 226601 226617	CHATEAU DE PINON
+T2188	Location 226737 226750	Croïx-Blanche
+T2189	Location 226819 226827	Lamibeït
+T2190	Location 226847 226850	Noñ
+T2191	Location 226905 226907	Eh
+T2192	Person 226933 226940	Lambert
+T2193	Organization 226956 226963	Piéhard
+T2194	Location 227027 227034	Pichard
+T2195	Location 227251 227258	Lambert
+T2196	Location 227400 227408	R pe N E
+T2197	Person 227418 227434	CHATEAU DE PINON
+T2198	Location 227509 227511	La
+T2199	Person 227581 227590	de Lameth
+T2200	Location 227637 227644	Chaïlés
+T2201	Person 227647 227657	Ama- tiéux
+T2202	Location 227661 227667	Albret
+T2203	Person 227788 227795	Larneth
+T2204	Location 227965 227969	Mon-
+T2205	Location 228109 228111	Oh
+T2206	Person 228122 228138	CHATEAU DE PINON
+T2207	Location 228371 228379	Monsieur
+T2208	Location 228487 228493	Albret
+T2209	Location 228866 228871	Noyon
+T2210	Location 228880 228884	Laon
+T2211	Person 229090 229098	DE PINOX
+T2212	Location 229117 229122	Adieu
+T2213	Person 229186 229193	Lambert
+T2214	Person 229209 229218	de Lameth
+T2215	Location 229280 229286	Albret
+T2216	Person 229436 229443	Lambert
+T2217	Organization 229638 229641	Oui
+T2218	Location 229668 229670	Eh
+T2219	Person 229744 229751	Lambert
+T2220	Location 229815 229821	Albret
+T2221	Person 229855 229866	serai Jibre
+T2222	Location 229899 229905	Sis- I
+T2223	Person 229922 229938	CHATEAU DE PINON
+T2224	Location 230114 230119	Pinon
+T2225	Person 230397 230404	Louison
+T2226	Location 230454 230460	Madame
+T2227	Person 230674 230690	CHATEAU DE PINON
+T2228	Location 231093 231099	Madame
+T2229	Person 231106 231113	Louison
+T2230	Person 231148 231157	Henriette
+T2231	Person 231273 231282	Qu'est-ce
+T2232	Location 231307 231312	Corcy
+T2233	Person 231356 231365	de Lameth
+T2234	Location 231419 231423	Laon
+T2235	Person 231425 231441	répliqua Louison
+T2236	Person 231442 231449	Beaupré
+T2237	Person 231462 231478	CHATEAU DE PINON
+T2238	Person 231486 231490	Dieu
+T2239	Location 231573 231577	SOIT
+T2240	Location 231730 231735	Corcy
+T2241	Person 231864 231873	de Lameth
+T2242	Person 231905 231910	Bussy
+T2243	Person 231941 231957	CHATEAU DE PINON
+T2244	Person 232150 232156	Joguet
+T2245	Location 232504 232516	Bussy-Lameth
+T2246	Location 232653 232658	Corcy
+T2247	Person 232691 232702	Cœur-de-Roy
+T2248	Location 232808 232812	Laon
+T2249	Person 232853 232869	CHATEAU DE PINON
+T2250	Person 232876 232880	Dieu
+T2251	Location 232927 232932	Coucy
+T2252	Location 233073 233081	Monsieur
+T2253	Location 233139 233145	Madame
+T2254	Person 233153 233158	votre
+T2255	Location 233253 233256	Ma-
+T2256	Location 233293 233298	Corcy
+T2257	Location 233319 233327	Monsieur
+T2258	Organization 233329 233338	mon oncle
+T2259	Person 233473 233490	Dubois de Courval
+T2260	Location 233546 233555	Moyenbrie
+T2261	Organization 233577 233586	mon oncle
+T2262	Location 233629 233635	Madame
+T2263	Person 233656 233672	CHATEAU DE PINON
+T2264	Person 233764 233772	Mon Dieu
+T2265	Location 233774 233782	Monsieur
+T2266	Person 233784 233802	répliqua Henriette
+T2267	Location 233835 233844	Chicaneau
+T2268	Location 233916 233922	Madame
+T2269	Location 234026 234037	Bussy d'Am-
+T2270	Location 234131 234136	Bussy
+T2271	Location 234148 234156	Monsieur
+T2272	Person 234290 234299	de Lameth
+T2273	Person 234421 234426	votre
+T2274	Person 234438 234454	CHATEAU DE PINON
+T2275	Location 234465 234473	Monsieur
+T2276	Location 234655 234660	Bussy
+T2277	Person 234724 234729	votre
+T2278	Location 234736 234742	Madame
+T2279	Location 234792 234794	La
+T2280	Person 234894 234905	Cœur-de-Roy
+T2281	Location 234935 234941	Madame
+T2282	Location 234975 234983	Monsieur
+T2283	Person 235077 235080	Mon
+T2284	Person 235200 235205	Bussy
+T2285	Location 235207 235213	Madame
+T2286	Location 235243 235261	CHATEAU .DE -PINON
+T2287	Person 235539 235544	votre
+T2288	Location 235554 235557	Ma-
+T2289	Organization 235567 235570	Oui
+T2290	Person 235680 235685	votre
+T2291	Location 235795 235801	Albret
+T2292	Location 235876 235882	Madame
+T2293	Person 235900 235907	Louison
+T2294	Person 235966 235982	CHATEAU DE PINON
+T2295	Person 236023 236030	Lambert
+T2296	Location 236033 236042	Chavignon
+T2297	Person 236119 236126	Louison
+T2298	Person 236161 236170	Henriette
+T2299	Person 236218 236225	Lambert
+T2300	Location 236393 236399	Madame
+T2301	Location 236642 236648	Albret
+T2302	Location 236759 236766	CHATEAU
+T2303	Location 236770 236775	PIFON
+T2304	Location 236829 236834	Corcy
+T2305	Location 236993 236999	Albret
+T2306	Location 237040 237049	Chavignon
+T2307	Person 237151 237157	Rémond
+T2308	Location 237426 237433	Lambert
+T2309	Location 237455 237464	Henriette
+T2310	Person 237624 237631	Lambert
+T2311	Location 237654 237660	Madame
+T2312	Person 237698 237714	CHATEAU DE PINON
+T2313	Person 237785 237794	de Lameth
+T2314	Location 237801 237809	SOISSONS
+T2315	Location 238013 238018	Anizy
+T2316	Location 238066 238074	Monsieur
+T2317	Location 238104 238106	La
+T2318	Location 238322 238324	La
+T2319	Location 238425 238430	Voilà
+T2320	Person 238557 238564	Lambert
+T2321	Person 238616 238632	CHATEAU DE PINON
+T2322	Location 238689 238698	Chavignon
+T2323	Location 238738 238750	Bussy-Lameth
+T2324	Location 238879 238881	Eh
+T2325	Location 238905 238907	Eh
+T2326	Location 239157 239162	Anizy
+T2327	Person 239343 239359	CHATEAU DE PINON
+T2328	Person 239476 239487	Cœur-de-Roy
+T2329	Person 239554 239563	Or- léans
+T2330	Location 239621 239630	Deschamps
+T2331	Person 239778 239787	de Lameth
+T2332	Location 239882 239887	Corcy
+T2333	Person 239908 239915	Beaupré
+T2334	Location 239917 239919	La
+T2335	Person 239943 239954	Cœur-de-Roy
+T2336	Person 240068 240077	de Lameth
+T2337	Location 240090 240098	Monsieur
+T2338	Location 240222 240227	Bussy
+T2339	Location 240243 240248	Pinon
+T2340	Location 240306 240313	CHATEAU
+T2341	Person 240315 240323	DE PINON
+T2342	Person 240376 240387	Cœur-de-Roy
+T2343	Location 240444 240446	La
+T2344	Location 240698 240706	Monsieur
+T2345	Person 241229 241245	CHATEAU DE PINON
+T2346	Location 241426 241431	Coucy
+T2347	Location 241433 241441	Monsieur
+T2348	Location 241468 241474	Madame
+T2349	Location 241761 241766	Coucy
+T2350	Location 241833 241841	Monsieur
+T2351	Person 241963 241972	Henriette
+T2352	Location 242061 242067	Madame
+T2353	Location 242111 242116	Bussy
+T2354	Person 242155 242171	CHATEAU DE PINON
+T2355	Organization 242309 242324	Madame de Corcy
+T2356	Person 242444 242447	Roy
+T2357	Person 242536 242545	de Lameth
+T2358	Location 242591 242595	Laon
+T2359	Location 242856 242864	Monsieur
+T2360	Person 242889 242894	votre
+T2361	Person 242934 242950	CHATEAU DE PINON
+T2362	Location 243085 243090	Corcy
+T2363	Person 243131 243134	Mon
+T2364	Location 243206 243212	Madame
+T2365	Person 243302 243307	votre
+T2366	Location 243430 243436	Madame
+T2367	Location 243475 243483	Monsieur
+T2368	Person 243515 243521	Joguet
+T2369	Person 243561 243570	de Lameth
+T2370	Location 243588 243599	Cœur-de-Roy
+T2371	Location 243639 243641	La
+T2372	Person 243662 243671	Henriette
+T2373	Person 243693 243709	CHATEAU DE PINON
+T2374	Organization 243856 243859	Oui
+T2375	Location 243918 243924	Madame
+T2376	Person 243937 243942	votre
+T2377	Location 243950 243952	La
+T2378	Location 244062 244070	Monsieur
+T2379	Organization 244129 244144	Madame de Corcy
+T2380	Location 244250 244256	Madame
+T2381	Person 244326 244331	votre
+T2382	Location 244447 244452	Corcy
+T2383	Person 244517 244533	CHATEAU DE PINON
+T2384	Person 244564 244575	Cœur-de-Roy
+T2385	Person 244719 244726	Louison
+T2386	Person 244762 244768	Joguet
+T2387	Location 245004 245010	Madame
+T2388	Person 245027 245035	mon Dieu
+T2389	Person 245055 245064	de Lameth
+T2390	Person 245105 245112	Louison
+T2391	Location 245168 245174	Albret
+T2392	Organization 245198 245213	Madame de Corcy
+T2393	Location 245244 245247	toi
+T2394	Person 245370 245386	CHATEAU DE PINON
+T2395	Location 245429 245431	La
+T2396	Location 245743 245749	Madame
+T2397	Location 245751 245757	Madame
+T2398	Person 245805 245812	Louison
+T2399	Location 245850 245858	Picardie
+T2400	Person 246254 246270	CHATEAU DE PINON
+T2401	Location 246351 246356	Corcy
+T2402	Location 246404 246410	Madame
+T2403	Person 246417 246430	Mon beau-père
+T2404	Person 246434 246439	votre
+T2405	Person 246496 246505	de Lameth
+T2406	Person 246923 246932	Henriette
+T2407	Location 247065 247070	Corcy
+T2408	Person 247116 247122	312 LE
+T2409	Person 247124 247140	CHATEAU DE PINON
+T2410	Person 247166 247173	Louison
+T2411	Person 247340 247351	Cœur-de-Roy
+T2412	Person 247370 247379	Loui- son
+T2413	Person 247447 247452	Bussy
+T2414	Person 247479 247486	Louison
+T2415	Location 247640 247645	Corcy
+T2416	Person 247731 247736	votre
+T2417	Location 247789 247797	Monsieur
+T2418	Person 248020 248036	CHATEAU DE PINON
+T2419	Location 248116 248122	Albret
+T2420	Location 248200 248204	Laon
+T2421	Person 248287 248291	Dieu
+T2422	Person 248414 248423	Loui- son
+T2423	Location 248788 248794	Madame
+T2424	Person 248854 248870	CHATEAU DÉ PINON
+T2425	Person 248973 248982	Henriette
+T2426	Person 249017 249024	Lambert
+T2427	Location 249050 249055	Anizy
+T2428	Location 249231 249233	La
+T2429	Location 249466 249471	Anisy
+T2430	Location 249663 249672	Chavignon
+T2431	Person 249695 249711	CHATEAU DE PINON
+T2432	Location 249802 249807	Anizy
+T2433	Person 250024 250031	Lambert
+T2434	Person 250091 250097	Albret
+T2435	Location 250151 250160	Chavignon
+T2436	Location 250202 250206	Laon
+T2437	Location 250395 250397	Oh
+T2438	Person 250404 250408	Dieu
+T2439	Person 250502 250518	CHATEAU DE PINON
+T2440	Person 250740 250746	Rémond
+T2441	Location 250844 250851	Sissone
+T2442	Location 250888 250893	Anizy
+T2443	Person 251081 251088	Lambert
+T2444	Location 251380 251387	CHATEAU
+T2445	Person 251388 251396	LE PINON
+T2446	Person 251696 251705	Henriette
+T2447	Location 251785 251790	Corcy
+T2448	Person 252197 252204	Lambert
+T2449	Person 252261 252277	CHATEAU DE PINON
+T2450	Person 252440 252449	de Lameth
+T2451	Location 252562 252568	Albret
+T2452	Person 253130 253146	CHATEAU DE PINON
+T2453	Location 253155 253157	La
+T2454	Location 253410 253416	Madame
+T2455	Location 253548 253556	Monsieur
+T2456	Person 253829 253836	Lambert
+T2457	Person 253998 254004	Joguet
+T2458	Location 254008 254011	La-
+T2459	Location 254013 254019	france
+T2460	Person 254072 254088	CHATEAU DE PINON
+T2461	Person 254138 254145	Lambert
+T2462	Location 254159 254166	Pichard
+T2463	Location 254180 254187	Ani- zy
+T2464	Person 254940 254956	CHATEAU DE PINON
+T2465	Person 255263 255269	Joguet
+T2466	Location 255417 255426	Henriette
+T2467	Location 255664 255670	Albret
+T2468	Location 255837 255838	L
+T2469	Person 255851 255867	CHATEAU DE PINON
+T2470	Person 256190 256199	Henriette
+T2471	Person 256255 256262	Lambert
+T2472	Person 256419 256425	Joguet
+T2473	Location 256520 256527	Louison
+T2474	Location 256561 256567	Madame
+T2475	Person 256641 256648	Louison
+T2476	Person 256667 256683	CHATEAU DE PINON
+T2477	Person 256690 256697	Louison
+T2478	Location 256721 256726	Corcy
+T2479	Person 256731 256740	Henriette
+T2480	Person 256789 256796	Louison
+T2481	Location 256893 256899	Madame
+T2482	Person 256993 257000	Louison
+T2483	Location 257055 257061	Madame
+T2484	Location 257083 257085	La
+T2485	Person 257319 257326	Louison
+T2486	Location 257338 257340	Eh
+T2487	Location 257395 257401	Madame
+T2488	Location 257428 257435	CHATEAU
+T2489	Location 257539 257544	Corcy
+T2490	Person 257781 257790	de Lameth
+T2491	Person 258221 258232	Cœur-de-Roy
+T2492	Organization 258302 258330	Madame de Corcy heurta quel-
+T2493	Person 258336 258352	CHATEAU DE PINON
+T2494	Location 258434 258440	Albret
+T2495	Person 258457 258474	murmura Henriette
+T2496	Location 258525 258531	Madame
+T2497	Location 258650 258656	France
+T2498	Location 258658 258666	Monsieur
+T2499	Person 258688 258699	Taisez-vous
+T2500	Person 258728 258732	Dieu
+T2501	Location 258765 258770	Corcy
+T2502	Location 258902 258910	Monsieur
+T2503	Person 259147 259163	CHATEAU DE PINON
+T2504	Person 259212 259218	Joguet
+T2505	Person 259294 259300	Joguet
+T2506	Person 259311 259315	Dieu
+T2507	Location 259651 259657	Madame
+T2508	Location 259760 259771	Cœur-de-Roy
+T2509	Location 259824 259829	Corcy
+T2510	Location 259836 259843	Louison
+T2511	Person 259887 259889	d’
+T2512	Location 259889 259892	AI-
+T2513	Person 259948 259964	CHATEAU DE PINON
+T2514	Location 260001 260003	La
+T2515	Person 260026 260035	de Lameth
+T2516	Location 260095 260107	Découvrez-le
+T2517	Location 260120 260127	Pichard
+T2518	Location 260317 260324	Pichard
+T2519	Organization 260347 260350	Oui
+T2520	Person 260414 260418	Dieu
+T2521	Location 260508 260513	Voilà
+T2522	Location 260637 260640	La-
+T2523	Person 260662 260678	CHATEAU DE PINON
+T2524	Person 261108 261117	Louis XIV
+T2525	Person 261197 261206	de Lameth
+T2526	Person 261494 261510	CHATEAU DE PINON
+T2527	Organization 261735 261750	Madame de Corcy
+T2528	Person 261754 261769	Louison Beaupré
+T2529	Person 261914 261921	Louison
+T2530	Person 261923 261939	reprit Henriette
+T2531	Person 261988 261995	Louison
+T2532	Person 262356 262372	CHATEAU DE PINON
+T2533	Person 262641 262652	Cœur-de-Roy
+T2534	Location 263129 263135	Joguet
+T2535	Person 263270 263286	CHATEAU DE PINON
+T2536	Person 263365 263369	Dieu
+T2537	Organization 263403 263419	Madame de Lameth
+T2538	Location 263615 263626	Cœur-de-Roy
+T2539	Location 263641 263646	Corey
+T2540	Location 263653 263660	Louison
+T2541	Person 263768 263775	Louison
+T2542	Person 263973 263982	Henriette
+T2543	Location 263986 263993	Sissone
+T2544	Location 264076 264077	L
+T2545	Location 264182 264189	CHATEAU
+T2546	Person 264331 264339	Mon Dieu
+T2547	Person 264341 264349	mon Dieu
+T2548	Person 264437 264451	PREMIER VOLUME
+T2549	Person 264457 264467	DRE PET TT

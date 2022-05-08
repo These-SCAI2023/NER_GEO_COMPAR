@@ -1,0 +1,1457 @@
+T1	Location 28 38	Hermosillo
+T2	Location 94 109	Amérique du Sud
+T3	Organization 196 209	Nouveau Monde
+T4	Organization 380 393	Nouveau Monde
+T5	Location 422 430	Amérique
+T6	Location 633 637	quoi
+T7	Location 847 855	Amérique
+T8	Organization 1540 1554	Europe entière
+T9	Location 1799 1819	Amérique méridionale
+T10	Person 2283 2287	Dieu
+T11	Person 2542 2555	Charles Quint
+T12	Location 2793 2799	Sonora
+T13	Location 3229 3241	sierra Madre
+T14	Location 3257 3267	Californie
+T15	Location 3273 3285	sierra Madre
+T16	Location 3296 3303	Durango
+T17	Location 3462 3469	Durango
+T18	Location 3476 3487	Guadalajara
+T19	Location 3531 3540	Pacifique
+T20	Location 3609 3615	Sonora
+T21	Location 4110 4122	sierra Madre
+T22	Location 4149 4158	Comanches
+T23	Location 4160 4167	Pawnees
+T24	Location 4169 4174	Pimas
+T25	Location 4176 4182	Opatas
+T26	Location 4462 4468	Sonora
+T27	Location 4476 4483	Guaymas
+T28	Location 4485 4495	Hermosillo
+T29	Location 4499 4505	Arispe
+T30	Location 4508 4518	Hermosillo
+T31	Location 4536 4541	Pitic
+T32	Location 4574 4590	Raousset-Boulbon
+T33	Location 4652 4661	Pacifique
+T34	Date 5284 5299	17 janvier 1817
+T35	Location 5443 5453	Hermosillo
+T36	Location 5535 5542	Leperos
+T37	Location 5547 5557	Gambusinos
+T38	Location 5695 5709	rue du Rosaire
+T39	Location 5744 5751	Mexique
+T40	Person 7577 7583	Rafaël
+T41	Person 7862 7867	Bravo
+T42	Person 7912 7919	Cornejo
+T43	Person 7969 7976	Cornejo
+T44	Person 8352 8359	Cornejo
+T45	Person 9119 9125	Rafaël
+T46	Person 9246 9250	Dieu
+T47	Person 9343 9349	Rafaël
+T48	Person 10354 10373	don Inigo tormentos
+T49	Location 10374 10383	Albaceyte
+T50	Location 10490 10497	Espagne
+T51	Person 10927 10941	Pauvre Cornejo
+T52	Person 11468 11474	Rafaël
+T53	Person 11492 11501	don Ramon
+T54	Person 11614 11620	Rafaël
+T55	Person 11701 11708	Cornejo
+T56	Person 11827 11833	Rafaël
+T57	Person 11863 11870	Aguilar
+T58	Person 12353 12360	Cornejo
+T59	Person 12430 12436	Rafaël
+T60	Person 13262 13271	Don Inigo
+T61	Location 13454 13463	Albaceyte
+T62	Person 13477 13486	don Ramon
+T63	Location 13487 13495	Garillas
+T64	Location 13758 13765	Cornejo
+T65	Person 14166 14175	don Ramon
+T66	Location 14176 14184	Garillas
+T67	Location 14305 14315	Hermosillo
+T68	Location 14400 14407	Milagro
+T69	Location 14569 14574	Pérou
+T70	Location 15561 15568	Milagro
+T71	Location 16451 16458	Cordoue
+T72	Location 19115 19121	Panama
+T73	Person 19973 19982	don Ramon
+T74	Location 19983 19991	Garillas
+T75	Location 19995 20003	Saavedra
+T76	Location 20039 20046	Milagro
+T77	Person 20076 20094	Don Ramon Garillas
+T78	Location 20186 20192	Cortez
+T79	Location 20215 20222	Mexique
+T80	Person 20671 20677	Rafaël
+T81	Person 20763 20772	don Ramon
+T82	Person 20779 20792	doña Jesusita
+T83	Person 21139 21152	Doña Jesusita
+T84	Person 21637 21646	don Ramon
+T85	Person 21872 21885	Doña Jesusita
+T86	Person 22591 22600	don Ramon
+T87	Person 22796 22800	Dieu
+T88	Person 23509 23519	nô Eusébio
+T89	Person 23950 23960	nô Eusébio
+T90	Person 23971 23980	don Ramon
+T91	Person 24095 24111	Votre Seigneurie
+T92	Person 24548 24558	nô Eusébio
+T93	Person 24731 24741	nô Eusébio
+T94	Person 24753 24762	don Ramon
+T95	Person 24862 24871	don Ramon
+T96	Person 25157 25166	don Ramon
+T97	Person 26545 26554	don Ramon
+T98	Person 26853 26862	don Ramon
+T99	Person 27110 27116	Rafaël
+T100	Person 27134 27143	don Ramon
+T101	Location 27336 27346	Hermosillo
+T102	Person 27591 27600	Don Ramon
+T103	Person 27785 27798	doña Jesusita
+T104	Person 28109 28115	Rafaël
+T105	Person 28446 28455	don Inigo
+T106	Location 28468 28477	Albaceyte
+T107	Location 28538 28548	Hermosillo
+T108	Person 28630 28636	Rafaël
+T109	Location 29098 29105	Milagro
+T110	Location 29203 29208	pasto
+T111	Person 29608 29618	Nô Eusébio
+T112	Person 29869 29879	nô Eusébio
+T113	Person 29895 29904	don Ramon
+T114	Person 30270 30279	don Inigo
+T115	Location 30282 30291	Albaceyte
+T116	Location 30496 30502	Rafaël
+T117	Person 30528 30538	nô Eusébio
+T118	Person 30590 30599	don Inigo
+T119	Person 30686 30695	don Ramon
+T120	Person 31505 31514	Don Ramon
+T121	Person 31718 31737	don Inigo Albaceyte
+T122	Person 31741 31750	don Ramon
+T123	Person 31876 31886	Nô Eusébio
+T124	Person 31892 31901	don Ramon
+T125	Location 32013 32023	Hermosillo
+T126	Person 32152 32161	don Ramon
+T127	Person 32278 32287	don Inigo
+T128	Person 32811 32820	don Ramon
+T129	Person 33655 33664	don Ramon
+T130	Person 33802 33811	don Inigo
+T131	Person 34046 34055	don Ramon
+T132	Person 34269 34278	don Ramon
+T133	Location 34403 34408	Adieu
+T134	Person 34410 34429	don Inigo Albaceyte
+T135	Person 34748 34758	Nô Eusébio
+T136	Location 35111 35115	quoi
+T137	Person 35415 35428	doña Jesusita
+T138	Location 35477 35483	Rafaël
+T139	Person 35638 35647	Don Ramon
+T140	Person 36105 36123	Don Ramon Garillas
+T141	Person 36221 36230	don Ramon
+T142	Location 36343 36349	Rafaël
+T143	Person 37322 37331	Don Ramon
+T144	Location 37828 37838	Hermosillo
+T145	Person 38157 38161	Dieu
+T146	Person 38205 38214	don Ramon
+T147	Person 38380 38386	Rafaël
+T148	Person 38886 38899	Doña Jesusita
+T149	Person 39240 39246	Rafaël
+T150	Person 39414 39420	Rafaël
+T151	Person 39722 39731	Don Ramon
+T152	Person 39938 39944	Rafaël
+T153	Person 40043 40056	doña Jesusita
+T154	Person 40121 40130	don Ramon
+T155	Person 40407 40417	Nô Eusébio
+T156	Person 40445 40453	Mon Dieu
+T157	Person 40456 40464	mon Dieu
+T158	Person 40640 40649	Don Ramon
+T159	Person 40745 40749	Dieu
+T160	Person 40831 40840	don Ramon
+T161	Person 41013 41023	Don Rafaël
+T162	Person 41303 41316	doña Jesusita
+T163	Person 41395 41401	Rafaël
+T164	Person 41687 41696	don Ramon
+T165	Person 41948 41954	Rafaël
+T166	Person 42272 42281	Don Ramon
+T167	Person 42383 42396	Doña Jesusita
+T168	Person 42488 42494	Rafaël
+T169	Person 42497 42503	Rafaël
+T170	Person 43031 43041	nô Eusébio
+T171	Person 43535 43544	don Ramon
+T172	Person 44874 44883	Don Ramon
+T173	Person 45144 45153	Don Ramon
+T174	Person 45463 45472	Don Ramon
+T175	Person 45850 45859	don Ramon
+T176	Person 46366 46375	Don Ramon
+T177	Location 47266 47276	Providence
+T178	Person 47412 47421	don Ramon
+T179	Person 47607 47613	Rafaël
+T180	Person 48169 48178	don Ramon
+T181	Person 48741 48750	don Ramon
+T182	Person 48863 48876	doña Jesusita
+T183	Person 49083 49096	Doña Jesusita
+T184	Person 49149 49158	Don Ramon
+T185	Person 49420 49433	Doña Jesusita
+T186	Person 49467 49476	Don Ramon
+T187	Person 50168 50177	Don Ramon
+T188	Person 50743 50752	Don Ramon
+T189	Person 50777 50785	Jesusita
+T190	Person 51312 51325	Doña Jesusita
+T191	Person 51519 51528	don Ramon
+T192	Person 51902 51911	don Ramon
+T193	Person 52098 52107	don Ramon
+T194	Person 52182 52186	Dieu
+T195	Person 52281 52290	Don Ramon
+T196	Person 52416 52429	Doña Jesusita
+T197	Person 52486 52494	mon Dieu
+T198	Person 52556 52566	nô Eusébio
+T199	Person 52899 52909	Nô Eusébio
+T200	Location 53059 53065	Rafaël
+T201	Person 53134 53144	nô Eusébio
+T202	Person 53148 53161	doña Jesusita
+T203	Person 53377 53390	doña Jesusita
+T204	Person 53413 53419	Rafaël
+T205	Person 53594 53600	Rafaël
+T206	Person 53681 53691	nô Eusébio
+T207	Person 53748 53761	doña Jesusita
+T208	Person 53888 53898	Nô Eusébio
+T209	Location 53990 53997	Milagro
+T210	Person 54000 54013	Doña Jesusita
+T211	Person 54017 54027	nô Eusébio
+T212	Person 54052 54061	Don Ramon
+T213	Person 54323 54336	doña Jesusita
+T214	Person 54502 54511	Don Ramon
+T215	Person 54550 54558	Mon Dieu
+T216	Location 54867 54873	Rafaël
+T217	Person 54892 54902	nô Eusébio
+T218	Location 54927 54937	Cœur-Loyal
+T219	Location 54970 54980	États-Unis
+T220	Location 55032 55043	Mississippi
+T221	Location 55150 55155	Blanc
+T222	Location 55174 55180	Indien
+T223	Location 55470 55478	Arkansas
+T224	Location 55493 55498	Rouge
+T225	Location 55708 55716	Amérique
+T226	Location 56140 56147	Pawnees
+T227	Location 56189 56198	Comanches
+T228	Location 57116 57126	Providence
+T229	Location 57777 57781	Lune
+T230	Location 57987 57992	Blanc
+T231	Location 61221 61226	pasto
+T232	Person 64521 64530	Belhumeur
+T233	Person 64720 64729	Belhumeur
+T234	Organization 64907 64912	Bon !
+T235	Location 65058 65067	Comanches
+T236	Person 65094 65098	Dieu
+T237	Person 65170 65179	Belhumeur
+T238	Location 65233 65242	Comanches
+T239	Person 65533 65542	Belhumeur
+T240	Location 65625 65635	Cœur-Loyal
+T241	Person 65832 65841	Belhumeur
+T242	Organization 65880 65892	Tête-d'Aigle
+T243	Location 65906 65916	Cœur-Loyal
+T244	Person 65964 65976	Dieu veuille
+T245	Location 66225 66234	Belhumeur
+T246	Person 66574 66583	Belhumeur
+T247	Location 66679 66689	Cœur-Loyal
+T248	Person 66743 66752	Belhumeur
+T249	Location 66973 66983	Cœur-Loyal
+T250	Person 67122 67140	répondit Belhumeur
+T251	Location 67276 67285	Comanches
+T252	Location 67597 67607	Cœur-Loyal
+T253	Location 68701 68711	Cœur-Loyal
+T254	Location 68916 68924	Arkansas
+T255	Location 69458 69468	Cœur-Loyal
+T256	Location 70045 70055	Cœur-Loyal
+T257	Location 70717 70729	Peaux-Rouges
+T258	Location 70817 70827	Cœur-Loyal
+T259	Location 71104 71113	Comanches
+T260	Location 71290 71300	Cœur-Loyal
+T261	Location 71458 71464	Blancs
+T262	Location 71537 71546	Comanches
+T263	Location 71773 71785	Peaux-Rouges
+T264	Location 71841 71851	Cœur-Loyal
+T265	Organization 71882 71894	Tête-d'Aigle
+T266	Location 72032 72040	Arkansas
+T267	Location 72142 72148	Blancs
+T268	Location 72328 72338	Cœur-Loyal
+T269	Location 72393 72402	Comanches
+T270	Location 72562 72572	Cœur-Loyal
+T271	Location 72875 72885	Cœur-Loyal
+T272	Organization 73009 73024	Parti du Canada
+T273	Location 73117 73126	Comanches
+T274	Location 73480 73490	Cœur-Loyal
+T275	Location 73976 73986	Cœur-Loyal
+T276	Person 74340 74344	Dieu
+T277	Location 74435 74445	Cœur-Loyal
+T278	Location 75116 75125	Comanches
+T279	Location 75142 75150	Canadien
+T280	Location 75212 75222	Cœur-Loyal
+T281	Person 75699 75703	Dieu
+T282	Location 75799 75803	quoi
+T283	Location 75865 75875	Cœur-Loyal
+T284	Person 76027 76034	Comment
+T285	Person 76069 76078	Belhumeur
+T286	Person 76123 76137	Georges Talbot
+T287	Person 76265 76274	Belhumeur
+T288	Location 76539 76547	Canadien
+T289	Location 76688 76698	Cœur-Loyal
+T290	Person 76702 76711	Belhumeur
+T291	Person 76895 76899	Dieu
+T292	Location 77657 77667	Cœur-Loyal
+T293	Person 77816 77825	Belhumeur
+T294	Location 78035 78043	Canadien
+T295	Organization 78330 78342	Tête-d'Aigle
+T296	Location 78475 78481	Indien
+T297	Location 78816 78828	Peaux-Rouges
+T298	Location 79158 79170	Tête-d'Aigle
+T299	Location 80244 80253	Comanches
+T300	Location 80482 80494	Tête-d'Aigle
+T301	Location 80893 80903	Cœur-Loyal
+T302	Location 81137 81146	Comanches
+T303	Person 81627 81636	Belhumeur
+T304	Location 81734 81743	Comanches
+T305	Location 81997 82009	Vert-de-gris
+T306	Location 82183 82193	Cœur-Loyal
+T307	Location 82544 82554	Cœur-Loyal
+T308	Person 82811 82820	Belhumeur
+T309	Location 83097 83105	Canadien
+T310	Location 83502 83514	Peaux-Rouges
+T311	Person 83538 83547	Belhumeur
+T312	Person 83788 83797	Belhumeur
+T313	Location 83806 83816	Cœur-Loyal
+T314	Person 84666 84675	Belhumeur
+T315	Location 84684 84694	Cœur-Loyal
+T316	Person 85162 85170	Mon Dieu
+T317	Person 85177 85186	Belhumeur
+T318	Location 86465 86471	Europe
+T319	Location 86541 86547	Blancs
+T320	Location 86674 86684	Cœur-Loyal
+T321	Person 86788 86797	Belhumeur
+T322	Person 87356 87365	Belhumeur
+T323	Person 87384 87391	Comment
+T324	Location 87407 87417	Cœur-Loyal
+T325	Person 87475 87484	Belhumeur
+T326	Person 88136 88145	Belhumeur
+T327	Location 88501 88510	Belhumeur
+T328	Location 88720 88732	Vert-de-gris
+T329	Location 89124 89143	États-Unis lui-même
+T330	Location 89146 89156	Cœur-Loyal
+T331	Location 89419 89428	Belhumeur
+T332	Location 90046 90058	Vert-de-gris
+T333	Location 90768 90777	Comanches
+T334	Person 91752 91761	Belhumeur
+T335	Location 92027 92033	Indien
+T336	Person 92123 92132	Belhumeur
+T337	Location 92426 92434	Canadien
+T338	Person 92561 92570	Belhumeur
+T339	Location 92704 92714	Cœur-Loyal
+T340	Location 92831 92837	Indien
+T341	Location 93244 93253	Comanches
+T342	Location 93411 93420	Comanches
+T343	Person 94501 94518	capitaine Aguilar
+T344	Location 94774 94784	Chimborazo
+T345	Person 95337 95354	capitaine Aguilar
+T346	Person 95817 95840	Jérôme-Boniface Durieux
+T347	Location 95894 95901	Mexique
+T348	Location 96373 96380	Jupiter
+T349	Location 96895 96899	quoi
+T350	Person 97183 97191	doña Luz
+T351	Person 98314 98322	Doña Luz
+T352	Person 98326 98334	Bermudez
+T353	Person 100374 100382	doña Luz
+T354	Person 100500 100517	capitaine Aguilar
+T355	Location 100535 100542	Jupiter
+T356	Person 100597 100602	Phébé
+T357	Location 100787 100794	Jupiter
+T358	Person 100798 100803	Phébé
+T359	Location 101715 101725	Guadeloupe
+T360	Person 102036 102040	Dieu
+T361	Person 102226 102234	doña Luz
+T362	Person 102239 102246	Comment
+T363	Location 102314 102320	Linnée
+T364	Location 102477 102481	quoi
+T365	Location 102539 102543	quoi
+T366	Person 102607 102615	Doña Luz
+T367	Location 102884 102891	Jupiter
+T368	Location 103516 103525	Babillard
+T369	Location 103913 103919	manche
+T370	Location 104655 104664	Babillard
+T371	Person 105153 105161	Doña Luz
+T372	Location 105538 105547	Babillard
+T373	Location 105865 105874	Babillard
+T374	Location 105886 105895	Comanches
+T375	Location 105900 105910	Cœur-Loyal
+T376	Person 105914 105930	Belhumeur cachés
+T377	Location 105994 106003	Comanches
+T378	Location 106876 106888	Tête-d'Aigle
+T379	Organization 107083 107095	Tête-d'Aigle
+T380	Location 107105 107111	Indien
+T381	Location 107134 107143	Comanches
+T382	Location 108753 108763	Cœur-Loyal
+T383	Person 108837 108855	répondit Belhumeur
+T384	Location 109087 109096	Comanches
+T385	Person 109119 109128	Belhumeur
+T386	Organization 109446 109458	Tête-d'Aigle
+T387	Location 110235 110245	Cœur-Loyal
+T388	Location 110495 110505	Cœur-Loyal
+T389	Location 110543 110549	Indien
+T390	Organization 110885 110897	Tête-d'Aigle
+T391	Location 110959 110965	Indien
+T392	Person 111107 111115	mon Dieu
+T393	Location 111183 111189	Indien
+T394	Person 111316 111325	Mon frère
+T395	Location 111378 111384	Indien
+T396	Person 111656 111665	Belhumeur
+T397	Person 111954 111963	Belhumeur
+T398	Location 112008 112018	Cœur-Loyal
+T399	Location 112058 112062	quoi
+T400	Location 112128 112132	quoi
+T401	Person 112289 112307	répondit Belhumeur
+T402	Location 112627 112636	Comanches
+T403	Location 113631 113641	Cœur-Loyal
+T404	Location 113670 113679	Belhumeur
+T405	Location 113784 113793	Comanches
+T406	Location 113986 113995	Comanches
+T407	Location 114122 114134	Tête-d'Aigle
+T408	Location 114312 114322	Cœur-Loyal
+T409	Location 114589 114599	Cœur-Loyal
+T410	Location 115509 115515	Europe
+T411	Organization 116131 116143	Tête-d'Aigle
+T412	Location 116301 116310	Comanches
+T413	Person 116548 116557	Belhumeur
+T414	Location 116740 116752	Peaux-Rouges
+T415	Person 116854 116863	Belhumeur
+T416	Location 116989 116999	Cœur-Loyal
+T417	Location 117332 117342	Cœur-Loyal
+T418	Person 117784 117793	Belhumeur
+T419	Location 117799 117808	Comanches
+T420	Location 117954 117964	Cœur-Loyal
+T421	Location 117992 118000	Canadien
+T422	Location 118042 118052	Cœur-Loyal
+T423	Location 118534 118546	Tête-d'Aigle
+T424	Location 119526 119538	Peaux-Rouges
+T425	Location 119642 119651	Comanches
+T426	Location 119844 119856	Tête-d'Aigle
+T427	Location 120136 120146	Cœur-Loyal
+T428	Location 120433 120445	Tête-d'Aigle
+T429	Organization 121141 121153	Tête-d'Aigle
+T430	Location 121279 121289	Cœur-Loyal
+T431	Location 121783 121793	Cœur-Loyal
+T432	Person 125255 125263	Doña Luz
+T433	Person 125547 125551	Dieu
+T434	Location 125581 125590	Babillard
+T435	Location 126453 126462	Babillard
+T436	Person 127509 127517	Doña Luz
+T437	Person 130745 130753	Doña Luz
+T438	Person 131703 131712	Belhumeur
+T439	Location 131735 131745	Cœur-Loyal
+T440	Person 131902 131910	Doña Luz
+T441	Location 132055 132065	Cœur-Loyal
+T442	Location 132126 132136	États-Unis
+T443	Location 132153 132163	Angleterre
+T444	Location 132313 132329	Amérique du Nord
+T445	Location 133168 133178	États-Unis
+T446	Location 133780 133790	États-Unis
+T447	Location 133974 133979	Malte
+T448	Location 134055 134060	Alger
+T449	Location 134067 134074	Tripoli
+T450	Location 134138 134148	États-Unis
+T451	Person 134316 134320	Dieu
+T452	Person 134354 134358	Dieu
+T453	Location 135187 135193	Blancs
+T454	Location 135208 135214	Rouges
+T455	Location 135219 135226	Cuivrés
+T456	Location 135310 135318	Syracuse
+T457	Location 135320 135324	Rome
+T458	Location 137894 137905	Blancs-Yeux
+T459	Location 138205 138216	Blancs-Yeux
+T460	Person 138274 138286	Dieu veuille
+T461	Location 138399 138411	Peaux-Rouges
+T462	Location 138627 138636	Comanches
+T463	Location 138760 138771	Blancs-Yeux
+T464	Location 139239 139250	Blancs-Yeux
+T465	Location 139441 139453	Peaux-Rouges
+T466	Location 140533 140540	Serpent
+T467	Location 140612 140624	Tête-d'Aigle
+T468	Hour 141062 141073	onze heures
+T469	Location 141237 141249	Tête-d'Aigle
+T470	Location 141914 141925	Blancs-Yeux
+T471	Location 142022 142028	Blancs
+T472	Person 142086 142095	Mon frère
+T473	Location 142315 142318	Och
+T474	Location 142664 142670	Indien
+T475	Location 142935 142944	Comanches
+T476	Location 143683 143692	Comanches
+T477	Person 144248 144255	Comment
+T478	Location 145033 145042	Comanches
+T479	Location 145103 145115	Peaux-Rouges
+T480	Person 145811 145831	chasseur Blancs-Yeux
+T481	Location 146475 146487	Peaux-Rouges
+T482	Location 147179 147189	États-Unis
+T483	Location 147657 147668	Blancs-Yeux
+T484	Location 148543 148549	Blancs
+T485	Location 148689 148695	Blancs
+T486	Person 150576 150579	Bon
+T487	Location 150718 150727	Comanches
+T488	Location 151578 151590	Tête-d'Aigle
+T489	Location 151840 151852	Tête-d'Aigle
+T490	Organization 152527 152539	Tête-d'Aigle
+T491	Location 153002 153008	Indien
+T492	Location 153057 153060	Coq
+T493	Location 153144 153156	Peaux-Rouges
+T494	Location 153341 153347	Indien
+T495	Person 153549 153553	Dieu
+T496	Person 153628 153632	Dieu
+T497	Location 153728 153740	Peaux-Rouges
+T498	Location 154195 154204	Comanches
+T499	Location 154879 154888	Comanches
+T500	Location 155150 155162	Tête-d'Aigle
+T501	Location 155303 155312	Comanches
+T502	Location 156139 156149	Cœur-Loyal
+T503	Person 156161 156170	Belhumeur
+T504	Location 156207 156217	Cœur-Loyal
+T505	Person 156612 156621	Belhumeur
+T506	Person 156775 156779	Dieu
+T507	Person 157297 157306	Belhumeur
+T508	Person 158327 158336	Belhumeur
+T509	Location 159123 159133	Cœur-Loyal
+T510	Person 159221 159239	répondit Belhumeur
+T511	Location 159377 159387	Cœur-Loyal
+T512	Person 159493 159502	Belhumeur
+T513	Location 159620 159630	Cœur-Loyal
+T514	Location 160486 160492	Blancs
+T515	Location 160683 160693	Cœur-Loyal
+T516	Person 161044 161053	Belhumeur
+T517	Location 161921 161925	Trim
+T518	Location 162096 162106	Cœur-Loyal
+T519	Person 162425 162434	Belhumeur
+T520	Location 162578 162586	Canadien
+T521	Location 162718 162728	Cœur-Loyal
+T522	Person 162761 162770	Belhumeur
+T523	Location 162888 162900	Peaux-Rouges
+T524	Person 162971 162975	Dieu
+T525	Location 163002 163012	Cœur-Loyal
+T526	Person 163154 163163	Belhumeur
+T527	Person 163505 163514	Belhumeur
+T528	Location 163638 163648	Cœur-Loyal
+T529	Person 163913 163922	Belhumeur
+T530	Person 163927 163939	Dieu veuille
+T531	Person 164917 164926	Belhumeur
+T532	Location 165132 165142	Cœur-Loyal
+T533	Person 165218 165226	Mon Dieu
+T534	Person 165324 165333	Belhumeur
+T535	Location 165820 165829	Belhumeur
+T536	Person 167179 167183	Dieu
+T537	Person 168105 168109	Dieu
+T538	Location 168529 168538	Comanches
+T539	Location 168570 168582	Tête-d'Aigle
+T540	Location 169269 169279	Cœur-Loyal
+T541	Location 169340 169349	Belhumeur
+T542	Location 169383 169395	Tête-d'Aigle
+T543	Location 169625 169634	Comanches
+T544	Location 169910 169922	Peaux-Rouges
+T545	Person 171332 171340	Doña Luz
+T546	Person 171519 171526	Bonjour
+T547	Person 171572 171579	Bonjour
+T548	Person 171833 171837	Dieu
+T549	Person 172308 172312	Dieu
+T550	Person 172890 172898	doña Luz
+T551	Person 172982 172989	Comment
+T552	Person 173581 173590	Belhumeur
+T553	Location 173618 173628	Cœur-Loyal
+T554	Person 173902 173914	Dieu veuille
+T555	Location 174386 174395	Babillard
+T556	Person 174486 174494	doña Luz
+T557	Location 174615 174624	Babillard
+T558	Location 175212 175221	Babillard
+T559	Person 175407 175414	Comment
+T560	Person 176222 176229	Comment
+T561	Person 176250 176259	Belhumeur
+T562	Location 176266 176276	Cœur-Loyal
+T563	Person 176665 176673	doña Luz
+T564	Location 176880 176889	Babillard
+T565	Location 178234 178241	Afrique
+T566	Location 178627 178636	Babillard
+T567	Location 178791 178800	Babillard
+T568	Person 179215 179220	Bravo
+T569	Location 181821 181830	Babillard
+T570	Location 182046 182055	Babillard
+T571	Location 182389 182423	Amérique des fluctuations infinies
+T572	Location 182656 182665	Babillard
+T573	Location 183069 183078	Babillard
+T574	Location 183231 183238	Kennedy
+T575	Location 183356 183363	Kennedy
+T576	Location 183526 183535	Babillard
+T577	Location 183839 183846	Kennedy
+T578	Location 184348 184357	Babillard
+T579	Location 184476 184480	quoi
+T580	Person 184736 184741	Parle
+T581	Person 185167 185186	capitaine Ouaktehno
+T582	Location 185195 185204	Babillard
+T583	Organization 185508 185517	Babillard
+T584	Location 185979 185988	Babillard
+T585	Location 186352 186359	Kennedy
+T586	Location 187015 187024	Babillard
+T587	Location 187400 187404	quoi
+T588	Person 187815 187818	Bon
+T589	Person 188121 188129	doña Luz
+T590	Location 189302 189311	Babillard
+T591	Person 189652 189660	doña Luz
+T592	Location 190498 190507	Babillard
+T593	Location 190762 190769	Kennedy
+T594	Person 190976 190982	Franck
+T595	Location 190988 190995	Kennedy
+T596	Location 191090 191097	Kennedy
+T597	Person 191317 191323	Franck
+T598	Location 191400 191409	Comanches
+T599	Person 191531 191537	Franck
+T600	Person 191579 191585	Franck
+T601	Location 191594 191601	Kennedy
+T602	Location 191669 191676	Buffalo
+T603	Location 191991 192000	Babillard
+T604	Location 192416 192426	États-Unis
+T605	Person 193061 193069	doña Luz
+T606	Person 193267 193284	capitaine Aguilar
+T607	Person 193707 193724	capitaine Aguilar
+T608	Person 193735 193752	capitaine Aguilar
+T609	Person 193896 193904	doña Luz
+T610	Person 194288 194296	doña Luz
+T611	Location 194475 194485	Cœur-Loyal
+T612	Person 196233 196241	Doña Luz
+T613	Person 196317 196325	doña Luz
+T614	Location 196538 196545	Mexique
+T615	Location 197248 197254	Mexico
+T616	Person 197436 197444	doña Luz
+T617	Location 197813 197821	Plateros
+T618	Hour 198138 198149	onze heures
+T619	Location 198195 198201	Merced
+T620	Person 198203 198211	doña Luz
+T621	Person 198490 198501	San Agustin
+T622	Location 198528 198536	Plateros
+T623	Person 200341 200345	Dieu
+T624	Person 200775 200783	Doña Luz
+T625	Person 201415 201423	doña Luz
+T626	Person 201981 201985	Dieu
+T627	Person 202406 202414	doña Luz
+T628	Location 202424 202430	Mexico
+T629	Person 202702 202710	doña Luz
+T630	Location 202788 202796	Plateros
+T631	Location 202927 202937	Cœur-Loyal
+T632	Location 203090 203100	Cœur-Loyal
+T633	Location 203322 203328	Mexico
+T634	Location 203359 203369	Cœur-Loyal
+T635	Person 204315 204323	Doña Luz
+T636	Location 204383 204393	Cœur-Loyal
+T637	Person 204699 204707	doña Luz
+T638	Person 206819 206826	Comment
+T639	Person 208466 208474	doña Luz
+T640	Location 208505 208514	Babillard
+T641	Person 209002 209010	Doña Luz
+T642	Organization 209081 209091	Cœur-Loyal
+T643	Location 209097 209106	Babillard
+T644	Person 209238 209254	maître Babillard
+T645	Person 209326 209333	Comment
+T646	Person 209412 209419	Comment
+T647	Location 209490 209498	Amérique
+T648	Location 209507 209513	Blancs
+T649	Location 209656 209662	Blancs
+T650	Location 209692 209698	Blancs
+T651	Location 209733 209741	Amérique
+T652	Person 210280 210288	doña Luz
+T653	Person 213691 213699	Doña Luz
+T654	Person 214029 214036	Comment
+T655	Person 214175 214183	doña Luz
+T656	Person 215500 215508	Mon Dieu
+T657	Person 215848 215860	Dieu veuille
+T658	Person 216107 216111	Dieu
+T659	Organization 217265 217282	Élan-Noir  Chacun
+T660	Location 217690 217696	Blancs
+T661	Person 219476 219483	Comment
+T662	Location 219794 219798	quoi
+T663	Organization 220346 220355	Élan-Noir
+T664	Organization 220495 220504	Élan-Noir
+T665	Person 222275 222283	doña Luz
+T666	Person 222726 222734	doña Luz
+T667	Organization 222738 222747	Élan-Noir
+T668	Person 223051 223059	Doña Luz
+T669	Location 223306 223312	Mexico
+T670	Location 224577 224581	quoi
+T671	Person 224873 224877	Dieu
+T672	Location 225424 225434	Cœur-Loyal
+T673	Location 225582 225591	Babillard
+T674	Person 225711 225719	Mon Dieu
+T675	Organization 226645 226654	Élan-Noir
+T676	Organization 226659 226668	Élan-Noir
+T677	Organization 226752 226761	Élan-Noir
+T678	Location 226889 226893	quoi
+T679	Person 227285 227293	doña Luz
+T680	Location 227709 227718	Babillard
+T681	Organization 227884 227894	Cœur-Loyal
+T682	Location 228622 228632	Cœur-Loyal
+T683	Organization 229238 229247	Élan-Noir
+T684	Person 230871 230879	Doña Luz
+T685	Person 232566 232574	Doña Luz
+T686	Organization 232758 232767	Élan-Noir
+T687	Location 233112 233124	Peaux-Rouges
+T688	Location 234350 234359	plaisance
+T689	Person 234865 234873	doña Luz
+T690	Organization 235365 235374	Élan-Noir
+T691	Organization 237237 237246	Élan-Noir
+T692	Organization 237795 237804	Élan-Noir
+T693	Organization 237964 237973	Élan-Noir
+T694	Organization 238070 238079	Élan-Noir
+T695	Organization 238715 238724	Élan-Noir
+T696	Person 239250 239258	doña Luz
+T697	Organization 239402 239411	Élan-Noir
+T698	Location 239908 239920	Peaux-Rouges
+T699	Person 240449 240461	Dieu veuille
+T700	Location 240911 240925	vieille Europe
+T701	Person 241383 241387	Dieu
+T702	Location 242089 242095	Québec
+T703	Location 242456 242466	Cœur-Loyal
+T704	Location 242474 242484	Cœur-Loyal
+T705	Person 242580 242588	mon Dieu
+T706	Person 242817 242824	Comment
+T707	Location 242870 242880	Cœur-Loyal
+T708	Person 242979 242983	Dieu
+T709	Person 243312 243320	doña Luz
+T710	Organization 243362 243371	Élan-Noir
+T711	Person 243726 243734	Doña Luz
+T712	Organization 243838 243847	Élan-Noir
+T713	Location 244136 244145	Babillard
+T714	Person 244783 244800	capitaine Aguilar
+T715	Location 245509 245518	Babillard
+T716	Location 246361 246368	Kennedy
+T717	Person 247067 247071	Dieu
+T718	Location 247141 247148	Kennedy
+T719	Person 247298 247303	Parle
+T720	Person 247801 247808	Comment
+T721	Organization 247913 247922	Élan-Noir
+T722	Organization 248308 248317	Élan-Noir
+T723	Person 248700 248705	Bravo
+T724	Person 249223 249230	Comment
+T725	Location 250130 250137	Kennedy
+T726	Location 250173 250182	Babillard
+T727	Person 250687 250694	Comment
+T728	Person 252971 252988	capitaine Aguilar
+T729	Person 253094 253102	doña Luz
+T730	Location 253703 253710	Kennedy
+T731	Location 253728 253737	Babillard
+T732	Person 253919 253923	Dieu
+T733	Person 254119 254136	capitaine Aguilar
+T734	Location 254240 254249	Babillard
+T735	Location 254659 254666	Kennedy
+T736	Person 254725 254733	doña Luz
+T737	Organization 255288 255297	Élan-Noir
+T738	Organization 255589 255598	Élan-Noir
+T739	Location 255791 255795	quoi
+T740	Organization 256191 256200	Élan-Noir
+T741	Organization 256490 256499	Élan-Noir
+T742	Organization 257380 257389	Élan-Noir
+T743	Location 257403 257415	Tête-d'Aigle
+T744	Location 257420 257432	Tête-d'Aigle
+T745	Location 257682 257688	Blancs
+T746	Location 258519 258526	Serpent
+T747	Location 258584 258596	Tête-d'Aigle
+T748	Location 258724 258731	Pawnees
+T749	Location 258739 258744	Sioux
+T750	Location 258808 258820	Tête-d'Aigle
+T751	Location 259327 259336	Comanches
+T752	Location 259818 259827	Comanches
+T753	Organization 260031 260043	Tête-d'Aigle
+T754	Location 260330 260348	Tête-d'Aigle salua
+T755	Location 260514 260520	Indien
+T756	Person 260617 260626	Mon frère
+T757	Location 260656 260668	Peaux-Rouges
+T758	Person 260821 260830	Mon frère
+T759	Organization 260865 260873	Comanche
+T760	Organization 261491 261496	Bon !
+T761	Location 261526 261532	Indien
+T762	Location 262316 262322	Indien
+T763	Person 262478 262487	Mon frère
+T764	Person 262690 262699	Mon frère
+T765	Organization 262725 262733	Comanche
+T766	Organization 263241 263249	Comanche
+T767	Location 263541 263547	Indien
+T768	Person 263730 263733	Bon
+T769	Location 264675 264681	Indien
+T770	Organization 265760 265768	Comanche
+T771	Person 266141 266148	Comment
+T772	Location 266178 266184	Indien
+T773	Organization 266543 266551	Comanche
+T774	Location 266954 266958	quoi
+T775	Organization 267209 267217	Comanche
+T776	Person 267375 267384	Mon frère
+T777	Location 267603 267613	Cœur-Loyal
+T778	Location 267632 267644	Tête-d'Aigle
+T779	Location 267788 267800	Peaux-Rouges
+T780	Location 268187 268197	Cœur-Loyal
+T781	Location 268441 268452	Vieux-Chêne
+T782	Location 268583 268593	Cœur-Loyal
+T783	Location 268899 268905	Indien
+T784	Location 269024 269031	Eusébio
+T785	Person 269490 269494	Dieu
+T786	Location 269500 269512	Tête-d'Aigle
+T787	Person 269568 269578	Nô Eusébio
+T788	Location 269610 269622	Tête-d'Aigle
+T789	Location 269672 269678	Blancs
+T790	Location 269899 269909	Cœur-Loyal
+T791	Location 269913 269922	Belhumeur
+T792	Location 270224 270233	Comanches
+T793	Location 270656 270665	Belhumeur
+T794	Location 271014 271024	Cœur-Loyal
+T795	Person 271028 271037	Belhumeur
+T796	Location 271217 271226	Comanches
+T797	Location 271312 271322	Cœur-Loyal
+T798	Organization 271359 271371	Tête-d'Aigle
+T799	Location 271650 271660	Cœur-Loyal
+T800	Location 272011 272021	Cœur-Loyal
+T801	Organization 272191 272203	Tête-d'Aigle
+T802	Person 272239 272257	répondit Belhumeur
+T803	Person 272317 272324	Comment
+T804	Location 272360 272369	Comanches
+T805	Person 272568 272577	Belhumeur
+T806	Location 272757 272767	Cœur-Loyal
+T807	Location 272967 272975	Canadien
+T808	Location 273068 273072	quoi
+T809	Person 273118 273127	Belhumeur
+T810	Location 273232 273242	Cœur-Loyal
+T811	Organization 273345 273354	Élan-Noir
+T812	Location 273514 273523	Comanches
+T813	Location 274002 274010	Canadien
+T814	Person 274068 274075	Comment
+T815	Location 274166 274176	Cœur-Loyal
+T816	Person 274810 274824	Expliquez-vous
+T817	Person 274826 274835	Belhumeur
+T818	Location 274844 274854	Cœur-Loyal
+T819	Location 274967 274975	Canadien
+T820	Location 275211 275221	Cœur-Loyal
+T821	Person 275288 275297	Belhumeur
+T822	Location 275443 275452	Comanches
+T823	Location 275764 275776	Tête-d'Aigle
+T824	Location 276176 276186	Cœur-Loyal
+T825	Person 276217 276226	Belhumeur
+T826	Location 276285 276297	Tête-d'Aigle
+T827	Location 276524 276534	Cœur-Loyal
+T828	Location 276577 276586	Belhumeur
+T829	Organization 276858 276870	Tête-d'Aigle
+T830	Location 277005 277017	Peaux-Rouges
+T831	Location 277065 277071	Québec
+T832	Location 277479 277489	Cœur-Loyal
+T833	Person 277619 277624	Bravo
+T834	Person 277635 277644	Belhumeur
+T835	Location 277718 277728	Cœur-Loyal
+T836	Person 277746 277763	demanda Belhumeur
+T837	Organization 277936 277945	Élan-Noir
+T838	Person 278083 278092	Belhumeur
+T839	Organization 278323 278332	Élan-Noir
+T840	Person 278426 278434	doña Luz
+T841	Person 278555 278564	Belhumeur
+T842	Location 278596 278606	Cœur-Loyal
+T843	Location 278876 278886	Cœur-Loyal
+T844	Organization 278955 278964	Élan-Noir
+T845	Organization 279262 279271	Élan-Noir
+T846	Person 279281 279290	Belhumeur
+T847	Location 279307 279317	Cœur-Loyal
+T848	Person 279325 279335	nô Eusébio
+T849	Person 279425 279434	Belhumeur
+T850	Person 279716 279726	nô Eusébio
+T851	Location 279765 279775	Cœur-Loyal
+T852	Person 279793 279803	don Rafaël
+T853	Person 279907 279915	mon Dieu
+T854	Person 280079 280089	Don Rafaël
+T855	Person 280129 280137	Mon Dieu
+T856	Person 280140 280148	mon Dieu
+T857	Location 280246 280258	Tête-d'Aigle
+T858	Person 280535 280552	demanda Belhumeur
+T859	Location 280780 280790	Cœur-Loyal
+T860	Location 280985 280994	Belhumeur
+T861	Location 281131 281141	Cœur-Loyal
+T862	Location 281650 281660	Cœur-Loyal
+T863	Person 281775 281783	Mon Dieu
+T864	Person 281786 281794	mon Dieu
+T865	Person 281963 281973	nô Eusébio
+T866	Organization 281978 281990	Tête-d'Aigle
+T867	Location 282717 282729	Tête-d'Aigle
+T868	Location 282754 282764	Cœur-Loyal
+T869	Location 283140 283152	Tête-d'Aigle
+T870	Location 283345 283357	Peaux-Rouges
+T871	Organization 284293 284300	Conseil
+T872	Organization 284455 284467	Tête-d'Aigle
+T873	Person 284470 284480	nô Eusébio
+T874	Person 285397 285401	Dieu
+T875	Location 285919 285925	Soleil
+T876	Organization 285942 285954	Tête-d'Aigle
+T877	Location 286069 286081	Tête-d'Aigle
+T878	Location 286307 286328	Tête-d'Aigle continua
+T879	Location 287174 287180	Soleil
+T880	Organization 287302 287307	Bon !
+T881	Location 287379 287385	Soleil
+T882	Person 287456 287465	Mon frère
+T883	Location 287542 287554	Tête-d'Aigle
+T884	Location 287831 287840	Comanches
+T885	Location 289603 289612	Comanches
+T886	Location 289780 289792	Tête-d'Aigle
+T887	Location 289942 289948	Soleil
+T888	Person 289961 289970	Mon frère
+T889	Location 290109 290115	Blancs
+T890	Location 290332 290338	Soleil
+T891	Location 290502 290511	Comanches
+T892	Organization 290699 290711	Tête-d'Aigle
+T893	Person 292810 292814	Dieu
+T894	Organization 293555 293567	Tête-d'Aigle
+T895	Location 294245 294257	Tête-d'Aigle
+T896	Location 295502 295511	Comanches
+T897	Organization 295640 295652	Tête-d'Aigle
+T898	Location 296935 296944	Comanches
+T899	Organization 297039 297051	Tête-d'Aigle
+T900	Location 297990 297996	Indien
+T901	Location 298145 298149	quoi
+T902	Person 298305 298310	Parle
+T903	Organization 298621 298629	Comanche
+T904	Location 298722 298734	Tête-d'Aigle
+T905	Location 298876 298880	quoi
+T906	Location 300644 300656	Tête-d'Aigle
+T907	Location 301848 301860	Tête-d'Aigle
+T908	Person 302785 302793	Mon Dieu
+T909	Location 303010 303022	Tête-d'Aigle
+T910	Location 303394 303406	Tête-d'Aigle
+T911	Location 304040 304050	Cœur-Loyal
+T912	Person 304096 304104	mon Dieu
+T913	Person 304130 304136	Rafaël
+T914	Location 304448 304458	Cœur-Loyal
+T915	Location 304580 304592	Tête-d'Aigle
+T916	Person 304623 304632	Mon frère
+T917	Person 305074 305080	Rafaël
+T918	Location 305253 305259	Rafaël
+T919	Person 305560 305568	Mon Dieu
+T920	Person 305571 305579	mon Dieu
+T921	Location 305809 305819	Cœur-Loyal
+T922	Person 305897 305907	nô Eusébio
+T923	Location 306168 306178	Cœur-Loyal
+T924	Location 306333 306343	Cœur-Loyal
+T925	Person 306611 306619	mon Dieu
+T926	Location 306929 306948	Tête-d'Aigle sourit
+T927	Person 307387 307396	Belhumeur
+T928	Location 307622 307634	Tête-d'Aigle
+T929	Location 307667 307675	Canadien
+T930	Location 307826 307836	Cœur-Loyal
+T931	Person 307974 307983	Belhumeur
+T932	Location 308226 308238	Tête-d'Aigle
+T933	Person 308335 308353	répondit Belhumeur
+T934	Location 308448 308460	Tête-d'Aigle
+T935	Location 308506 308509	TUE
+T936	Location 308522 308532	Cœur-Loyal
+T937	Location 308807 308815	Canadien
+T938	Location 308893 308905	Tête-d'Aigle
+T939	Location 309127 309136	Comanches
+T940	Location 309460 309472	Peaux-Rouges
+T941	Location 309757 309766	Belhumeur
+T942	Location 309771 309783	Tête-d'Aigle
+T943	Location 310292 310304	Peaux-Rouges
+T944	Location 310653 310674	Tête-d'Aigle continua
+T945	Location 310702 310712	Cœur-Loyal
+T946	Location 310735 310744	Comanches
+T947	Location 310847 310859	Peaux-Rouges
+T948	Location 310864 310874	Cœur-Loyal
+T949	Location 311048 311056	Canadien
+T950	Location 311073 311085	Tête-d'Aigle
+T951	Location 311254 311260	Indien
+T952	Location 311637 311647	Cœur-Loyal
+T953	Location 311666 311672	Soleil
+T954	Person 311741 311750	Belhumeur
+T955	Location 311992 311998	Blancs
+T956	Location 312091 312103	Peaux-Rouges
+T957	Location 312331 312341	Cœur-Loyal
+T958	Location 312876 312886	Cœur-Loyal
+T959	Location 312948 312957	Comanches
+T960	Location 313704 313716	Tête-d'Aigle
+T961	Person 313806 313815	Mon frère
+T962	Location 314114 314123	Belhumeur
+T963	Organization 314176 314188	Tête-d'Aigle
+T964	Location 314238 314248	Cœur-Loyal
+T965	Location 314484 314492	Canadien
+T966	Person 314497 314506	Belhumeur
+T967	Location 314748 314756	Canadien
+T968	Location 315117 315127	Cœur-Loyal
+T969	Location 315260 315268	Canadien
+T970	Location 315551 315561	Cœur-Loyal
+T971	Location 315658 315667	Comanches
+T972	Location 316371 316383	Tête-d'Aigle
+T973	Location 316882 316888	Blancs
+T974	Location 316990 317000	Cœur-Loyal
+T975	Location 317331 317341	Cœur-Loyal
+T976	Location 317439 317448	Comanches
+T977	Location 317761 317768	Serpent
+T978	Location 318019 318029	Cœur-Loyal
+T979	Location 318036 318048	Tête-d'Aigle
+T980	Location 318309 318315	Indien
+T981	Location 318455 318461	Indien
+T982	Organization 318478 318490	Tête-d'Aigle
+T983	Location 318553 318559	Indien
+T984	Location 318589 318599	Cœur-Loyal
+T985	Location 318603 318612	Belhumeur
+T986	Location 318917 318929	Tête-d'Aigle
+T987	Person 319235 319242	Comment
+T988	Location 319524 319536	Tête-d'Aigle
+T989	Location 319543 319553	Cœur-Loyal
+T990	Location 319695 319701	Indien
+T991	Person 319810 319815	Amick
+T992	Organization 319821 319830	Élan-Noir
+T993	Location 319868 319878	Cœur-Loyal
+T994	Location 320092 320102	Cœur-Loyal
+T995	Person 320159 320168	Mon frère
+T996	Organization 320233 320245	Tête-d'Aigle
+T997	Location 320329 320339	Cœur-Loyal
+T998	Location 320397 320406	Belhumeur
+T999	Person 320582 320591	Belhumeur
+T1000	Organization 320641 320653	Tête-d'Aigle
+T1001	Location 320878 320886	Canadien
+T1002	Location 321099 321109	Cœur-Loyal
+T1003	Location 321217 321226	Comanches
+T1004	Location 321630 321636	Callot
+T1005	Person 321655 321668	Salvator Rosa
+T1006	Location 322429 322434	Océan
+T1007	Location 322831 322841	États-Unis
+T1008	Location 322897 322903	France
+T1009	Person 322966 322985	capitaine Ouaktehno
+T1010	Person 325840 325849	Vive Dieu
+T1011	Location 326563 326572	Babillard
+T1012	Location 327306 327315	Babillard
+T1013	Location 327625 327632	Kennedy
+T1014	Person 328883 328891	doña Luz
+T1015	Person 328897 328905	Doña Luz
+T1016	Person 329235 329240	Parle
+T1017	Location 330391 330400	Babillard
+T1018	Location 330606 330613	Kennedy
+T1019	Organization 330742 330747	Bon !
+T1020	Location 330940 330945	Adieu
+T1021	Person 331131 331134	Bon
+T1022	Person 332717 332725	doña Luz
+T1023	Organization 332746 332755	Élan-Noir
+T1024	Organization 333878 333887	Élan-Noir
+T1025	Person 334087 334095	doña Luz
+T1026	Person 334581 334589	Doña Luz
+T1027	Location 335690 335694	quoi
+T1028	Location 335809 335813	quoi
+T1029	Person 336681 336689	Mon Dieu
+T1030	Person 338134 338142	doña Luz
+T1031	Person 338702 338710	doña Luz
+T1032	Person 339633 339650	capitaine Aguilar
+T1033	Location 339716 339723	Mexique
+T1034	Person 341564 341583	capitaine Ouaktehno
+T1035	Person 344563 344580	capitaine Aguilar
+T1036	Person 344741 344760	capitaine Ouaktehno
+T1037	Person 345130 345134	Dieu
+T1038	Person 345358 345375	capitaine Aguilar
+T1039	Organization 346762 346771	Élan-Noir
+T1040	Person 347229 347233	Dieu
+T1041	Location 347567 347571	quoi
+T1042	Person 348356 348363	Comment
+T1043	Organization 348511 348520	Élan-Noir
+T1044	Organization 348748 348757	Élan-Noir
+T1045	Location 350172 350176	quoi
+T1046	Person 350711 350719	mon Dieu
+T1047	Person 351407 351415	Mon Dieu
+T1048	Person 351629 351637	doña Luz
+T1049	Person 351701 351713	Dieu veuille
+T1050	Person 351927 351935	doña Luz
+T1051	Person 351977 351985	doña Luz
+T1052	Location 352226 352235	Babillard
+T1053	Person 352420 352428	doña Luz
+T1054	Location 352744 352753	Babillard
+T1055	Person 352779 352787	doña Luz
+T1056	Organization 352910 352919	Élan-Noir
+T1057	Organization 354017 354026	Élan-Noir
+T1058	Person 354398 354402	Dieu
+T1059	Person 354659 354663	Dieu
+T1060	Person 355570 355573	Bon
+T1061	Organization 355631 355640	Élan-Noir
+T1062	Person 356003 356013	nô Eusébio
+T1063	Location 356058 356068	Cœur-Loyal
+T1064	Location 356502 356512	Cœur-Loyal
+T1065	Location 357659 357669	Cœur-Loyal
+T1066	Organization 357687 357696	Élan-Noir
+T1067	Person 357703 357713	nô Eusébio
+T1068	Person 357913 357917	Dieu
+T1069	Organization 357981 357990	Élan-Noir
+T1070	Location 358049 358061	Peaux-Rouges
+T1071	Location 358146 358155	Comanches
+T1072	Location 358181 358191	Cœur-Loyal
+T1073	Organization 358272 358281	Élan-Noir
+T1074	Organization 358573 358582	Élan-Noir
+T1075	Location 358797 358807	Cœur-Loyal
+T1076	Location 359135 359145	Cœur-Loyal
+T1077	Location 359276 359286	Cœur-Loyal
+T1078	Person 359497 359503	Pardon
+T1079	Organization 359514 359523	Élan-Noir
+T1080	Location 359839 359848	Comanches
+T1081	Organization 359903 359912	Élan-Noir
+T1082	Location 359938 359948	Cœur-Loyal
+T1083	Location 360457 360467	Cœur-Loyal
+T1084	Person 360470 360480	nô Eusébio
+T1085	Organization 360514 360523	Élan-Noir
+T1086	Person 360528 360535	Comment
+T1087	Person 360843 360847	Dieu
+T1088	Location 361093 361105	Vert-de-gris
+T1089	Location 361565 361570	Adieu
+T1090	Person 361587 361597	Nô Eusébio
+T1091	Location 361882 361891	Comanches
+T1092	Location 362148 362158	Cœur-Loyal
+T1093	Organization 362263 362275	Tête-d'Aigle
+T1094	Location 362503 362513	Cœur-Loyal
+T1095	Location 362850 362862	Tête-d'Aigle
+T1096	Location 362973 362982	Comanches
+T1097	Location 363246 363256	Cœur-Loyal
+T1098	Organization 363300 363309	Élan-Noir
+T1099	Location 363363 363375	Tête-d'Aigle
+T1100	Person 363485 363494	Mon frère
+T1101	Location 363768 363778	Cœur-Loyal
+T1102	Organization 363861 363873	Tête-d'Aigle
+T1103	Organization 364321 364345	Wabimdam Kitchée manitoo
+T1104	Location 364530 364542	Tête-d'Aigle
+T1105	Location 364972 364981	Comanches
+T1106	Person 366053 366057	Dieu
+T1107	Location 366834 366844	Cœur-Loyal
+T1108	Location 367428 367440	Tête-d'Aigle
+T1109	Location 367447 367457	Cœur-Loyal
+T1110	Person 367698 367715	capitaine Aguilar
+T1111	Person 368325 368344	capitaine Ouaktehno
+T1112	Location 368576 368585	Babillard
+T1113	Person 368664 368681	capitaine Aguilar
+T1114	Location 369288 369294	Blancs
+T1115	Person 370986 371003	capitaine Aguilar
+T1116	Person 371670 371678	doña Luz
+T1117	Location 371717 371723	Mexico
+T1118	Location 371845 371851	Mexico
+T1119	Person 373814 373831	capitaine Aguilar
+T1120	Person 374146 374154	Doña Luz
+T1121	Person 376750 376754	Dieu
+T1122	Person 377442 377446	Dieu
+T1123	Person 381655 381663	Doña Luz
+T1124	Person 381896 381904	doña Luz
+T1125	Person 382109 382116	Comment
+T1126	Location 383569 383579	Cœur-Loyal
+T1127	Person 383581 383590	Belhumeur
+T1128	Organization 383596 383605	Élan-Noir
+T1129	Location 384730 384740	Cœur-Loyal
+T1130	Organization 384754 384770	éclaireur indien
+T1131	Location 385007 385016	Comanches
+T1132	Location 385149 385161	Tête-d'Aigle
+T1133	Location 385239 385249	Cœur-Loyal
+T1134	Location 385502 385507	Phébé
+T1135	Person 385530 385538	doña Luz
+T1136	Organization 385662 385671	Élan-Noir
+T1137	Location 385820 385830	Cœur-Loyal
+T1138	Location 386093 386103	Cœur-Loyal
+T1139	Location 386344 386354	Cœur-Loyal
+T1140	Person 386532 386549	capitaine Aguilar
+T1141	Location 386857 386867	Cœur-Loyal
+T1142	Person 387334 387342	doña Luz
+T1143	Person 387353 387361	doña Luz
+T1144	Person 387557 387565	doña Luz
+T1145	Person 387807 387811	Dieu
+T1146	Person 388512 388520	Doña Luz
+T1147	Person 389242 389246	Dieu
+T1148	Location 389531 389541	Cœur-Loyal
+T1149	Location 389961 389971	Cœur-Loyal
+T1150	Person 389990 389998	doña Luz
+T1151	Person 390471 390479	doña Luz
+T1152	Person 390766 390775	Belhumeur
+T1153	Location 390787 390797	Cœur-Loyal
+T1154	Person 391909 391917	doña Luz
+T1155	Location 391932 391942	Cœur-Loyal
+T1156	Person 392148 392158	nô Eusébio
+T1157	Organization 392513 392522	Élan-Noir
+T1158	Location 392528 392538	Cœur-Loyal
+T1159	Location 392543 392555	Tête-d'Aigle
+T1160	Person 392559 392568	Belhumeur
+T1161	Person 392949 392953	Dieu
+T1162	Person 392991 393001	nô Eusébio
+T1163	Person 393291 393299	doña Luz
+T1164	Person 393372 393382	nô Eusébio
+T1165	Organization 393485 393495	Cœur-Loyal
+T1166	Location 393537 393541	quoi
+T1167	Location 393577 393590	Pardonnez-moi
+T1168	Person 393866 393874	doña Luz
+T1169	Location 394205 394209	quoi
+T1170	Person 394268 394276	Mon Dieu
+T1171	Person 395500 395508	doña Luz
+T1172	Location 396045 396055	Cœur-Loyal
+T1173	Person 396078 396088	nô Eusébio
+T1174	Person 396177 396185	Doña Luz
+T1175	Person 396653 396657	Dieu
+T1176	Organization 397147 397156	Élan-Noir
+T1177	Person 397217 397225	doña Luz
+T1178	Location 397393 397403	Cœur-Loyal
+T1179	Person 397444 397453	Belhumeur
+T1180	Location 397460 397475	Tête-d'Aigle l'
+T1181	Person 397670 397678	doña Luz
+T1182	Person 398087 398095	doña Luz
+T1183	Person 398739 398747	Doña Luz
+T1184	Person 399484 399492	doña Luz
+T1185	Location 399677 399687	Cœur-Loyal
+T1186	Person 400154 400162	doña Luz
+T1187	Person 400535 400545	nô Eusébio
+T1188	Person 401006 401016	nô Eusébio
+T1189	Location 401621 401631	Cœur-Loyal
+T1190	Person 401880 401899	capitaine Ouaktehno
+T1191	Location 401913 401923	Cœur-Loyal
+T1192	Location 403352 403362	Cœur-Loyal
+T1193	Location 404257 404267	Cœur-Loyal
+T1194	Person 404915 404923	doña Luz
+T1195	Location 404932 404938	Mexico
+T1196	Location 405011 405020	Babillard
+T1197	Person 405194 405203	Belhumeur
+T1198	Location 405765 405775	Cœur-Loyal
+T1199	Location 406446 406456	Cœur-Loyal
+T1200	Person 406836 406849	Dieu lui-même
+T1201	Location 407887 407893	Mexico
+T1202	Location 408107 408117	Cœur-Loyal
+T1203	Location 408198 408204	Mexico
+T1204	Person 408238 408246	doña Luz
+T1205	Location 408292 408302	Cœur-Loyal
+T1206	Person 408610 408618	Doña Luz
+T1207	Person 409413 409421	doña Luz
+T1208	Location 409617 409627	Cœur-Loyal
+T1209	Person 410254 410262	Doña Luz
+T1210	Location 410274 410284	Cœur-Loyal
+T1211	Person 411308 411316	doña Luz
+T1212	Person 411742 411750	doña Luz
+T1213	Location 413815 413825	Cœur-Loyal
+T1214	Location 414419 414429	Cœur-Loyal
+T1215	Person 414435 414443	doña Luz
+T1216	Person 415337 415347	nô Eusébio
+T1217	Location 415426 415436	Cœur-Loyal
+T1218	Person 415484 415488	Dieu
+T1219	Person 415673 415682	Belhumeur
+T1220	Location 416068 416077	Belhumeur
+T1221	Organization 416081 416090	Élan-Noir
+T1222	Organization 416097 416109	Tête-d'Aigle
+T1223	Location 416142 416152	Cœur-Loyal
+T1224	Person 416276 416284	doña Luz
+T1225	Person 416292 416307	Amour  Doña Luz
+T1226	Location 416314 416324	Cœur-Loyal
+T1227	Person 417476 417480	Dieu
+T1228	Location 417585 417595	Cœur-Loyal
+T1229	Location 418486 418496	Cœur-Loyal
+T1230	Location 419242 419252	Cœur-Loyal
+T1231	Location 421319 421329	Cœur-Loyal
+T1232	Person 421344 421353	Belhumeur
+T1233	Person 421840 421848	doña Luz
+T1234	Location 422979 422989	Cœur-Loyal
+T1235	Person 423080 423088	doña Luz
+T1236	Location 424569 424579	Cœur-Loyal
+T1237	Person 425013 425021	doña Luz
+T1238	Location 425027 425037	Cœur-Loyal
+T1239	Location 425588 425598	Cœur-Loyal
+T1240	Person 425662 425670	doña Luz
+T1241	Person 425919 425927	doña Luz
+T1242	Person 426006 426014	doña Luz
+T1243	Location 426346 426356	Cœur-Loyal
+T1244	Location 426567 426577	Cœur-Loyal
+T1245	Person 426942 426946	Dieu
+T1246	Person 427064 427068	Dieu
+T1247	Person 427384 427392	Doña Luz
+T1248	Location 427567 427577	Cœur-Loyal
+T1249	Location 428436 428440	quoi
+T1250	Location 428818 428828	Cœur-Loyal
+T1251	Location 428924 428934	Cœur-Loyal
+T1252	Location 428959 428968	Belhumeur
+T1253	Organization 428974 428983	Élan-Noir
+T1254	Person 429265 429269	Dieu
+T1255	Person 429383 429391	doña Luz
+T1256	Location 429506 429511	Adieu
+T1257	Person 429529 429533	Dieu
+T1258	Person 429777 429785	doña Luz
+T1259	Location 430077 430089	Peaux-Rouges
+T1260	Person 436766 436772	Franck
+T1261	Person 436961 436968	Antonio
+T1262	Location 437241 437249	Gonzalez
+T1263	Person 438866 438873	Comment
+T1264	Person 439616 439621	Bravo
+T1265	Location 440111 440124	Nègre Jupiter
+T1266	Location 440461 440468	Jupiter
+T1267	Person 441654 441660	Franck
+T1268	Location 441990 442000	Cœur-Loyal
+T1269	Person 443971 443978	Comment
+T1270	Person 444721 444725	Dieu
+T1271	Location 445771 445783	Tête-d'Aigle
+T1272	Location 445834 445840	Blancs
+T1273	Location 445972 445975	Och
+T1274	Location 446038 446047	Comanches
+T1275	Location 446239 446251	Tête-d'Aigle
+T1276	Location 446708 446714	Franck
+T1277	Location 448241 448254	Nègre Jupiter
+T1278	Location 449389 449399	Cœur-Loyal
+T1279	Person 452082 452089	Comment
+T1280	Person 453606 453613	Comment
+T1281	Organization 454147 454157	Cœur-Loyal
+T1282	Location 454268 454277	Comanches
+T1283	Location 455141 455153	Peaux-Rouges
+T1284	Location 455505 455515	Cœur-Loyal
+T1285	Location 455520 455532	Tête-d'Aigle
+T1286	Organization 455538 455547	Élan-Noir
+T1287	Person 455572 455581	Belhumeur
+T1288	Location 455685 455691	Soleil
+T1289	Person 455856 455864	doña Luz
+T1290	Person 456730 456738	Doña Luz
+T1291	Location 456794 456804	Cœur-Loyal
+T1292	Person 456819 456829	nô Eusébio
+T1293	Person 456973 456982	Belhumeur
+T1294	Person 457197 457205	Mon Dieu
+T1295	Person 457705 457713	mon Dieu
+T1296	Person 457803 457811	doña Luz
+T1297	Location 457865 457875	Cœur-Loyal
+T1298	Person 457943 457951	mon Dieu
+T1299	Location 458552 458562	Cœur-Loyal
+T1300	Person 458837 458846	Belhumeur
+T1301	Person 459061 459069	Mon Dieu
+T1302	Person 459507 459515	doña Luz
+T1303	Person 459890 459898	Doña Luz
+T1304	Person 460073 460082	Belhumeur
+T1305	Person 460924 460943	capitaine Ouaktehno
+T1306	Location 461405 461414	Comanches
+T1307	Person 462705 462714	Belhumeur
+T1308	Location 463063 463073	Cœur-Loyal
+T1309	Location 463145 463155	Cœur-Loyal
+T1310	Person 463182 463191	Belhumeur
+T1311	Person 464025 464029	Dieu
+T1312	Location 464199 464208	Belhumeur
+T1313	Person 466402 466406	Dieu
+T1314	Location 466597 466607	Cœur-Loyal
+T1315	Location 467098 467108	Cœur-Loyal
+T1316	Location 467122 467131	Comanches
+T1317	Organization 467137 467146	Élan-Noir
+T1318	Location 467247 467259	Tête-d'Aigle
+T1319	Person 467405 467414	Belhumeur
+T1320	Location 467436 467446	Cœur-Loyal
+T1321	Person 468219 468225	Grande
+T1322	Location 468280 468290	Cœur-Loyal
+T1323	Location 468633 468643	Cœur-Loyal
+T1324	Person 468745 468749	Dieu
+T1325	Location 468830 468840	Cœur-Loyal
+T1326	Location 469140 469150	Cœur-Loyal
+T1327	Location 469645 469655	Cœur-Loyal
+T1328	Person 469687 469696	Belhumeur
+T1329	Location 469858 469866	Canadien
+T1330	Location 469962 469974	Tête-d'Aigle
+T1331	Location 470104 470110	Indien
+T1332	Location 470412 470422	Cœur-Loyal
+T1333	Organization 470844 470856	Tête-d'Aigle
+T1334	Location 472235 472247	Tête-d'Aigle
+T1335	Location 472265 472271	manche
+T1336	Person 472469 472475	Franck
+T1337	Location 472548 472558	Cœur-Loyal
+T1338	Person 472606 472615	Belhumeur
+T1339	Organization 472881 472893	Tête-d'Aigle
+T1340	Location 472908 472918	Cœur-Loyal
+T1341	Organization 473241 473250	Élan-Noir
+T1342	Location 473642 473648	Soleil
+T1343	Location 475154 475164	Cœur-Loyal
+T1344	Location 475254 475260	Soleil
+T1345	Location 476095 476107	Tête-d'Aigle
+T1346	Location 476618 476630	Tête-d'Aigle
+T1347	Person 476643 476652	Mon frère
+T1348	Location 476656 476666	Cœur-Loyal
+T1349	Location 476910 476920	Cœur-Loyal
+T1350	Location 477349 477361	Tête-d'Aigle
+T1351	Location 477504 477513	Comanches
+T1352	Person 477990 477996	Franck
+T1353	Location 478111 478121	Cœur-Loyal
+T1354	Location 478306 478312	Blancs
+T1355	Organization 478471 478483	Tête-d'Aigle
+T1356	Person 478541 478547	Franck
+T1357	Location 478552 478562	Cœur-Loyal
+T1358	Location 479136 479145	Comanches
+T1359	Location 479207 479217	Cœur-Loyal
+T1360	Location 480204 480214	Cœur-Loyal
+T1361	Person 480277 480283	Franck
+T1362	Location 480481 480487	manche
+T1363	Location 481036 481046	Cœur-Loyal
+T1364	Location 481924 481936	Tête-d'Aigle
+T1365	Person 482405 482424	capitaine Ouaktehno
+T1366	Location 482953 482963	Cœur-Loyal
+T1367	Location 483973 483980	Mexique
+T1368	Person 484378 484386	Qu'as-tu
+T1369	Person 485253 485257	Dieu
+T1370	Location 485816 485826	Cœur-Loyal
+T1371	Person 485836 485844	doña Luz
+T1372	Location 485892 485902	Cœur-Loyal
+T1373	Person 485995 486004	Belhumeur
+T1374	Person 486133 486140	Comment
+T1375	Location 486581 486591	Cœur-Loyal
+T1376	Person 486825 486833	Doña Luz
+T1377	Person 487006 487011	Parle
+T1378	Person 487075 487079	Dieu
+T1379	Location 487368 487378	Cœur-Loyal
+T1380	Location 487717 487727	Cœur-Loyal
+T1381	Location 487960 487970	Cœur-Loyal
+T1382	Person 489006 489010	Dieu
+T1383	Location 489369 489379	Cœur-Loyal
+T1384	Location 489752 489762	Cœur-Loyal
+T1385	Location 490105 490115	Cœur-Loyal
+T1386	Person 490138 490146	doña Luz
+T1387	Location 490474 490484	Cœur-Loyal
+T1388	Location 490723 490733	Cœur-Loyal
+T1389	Person 492371 492375	Dieu
+T1390	Location 492905 492915	Cœur-Loyal
+T1391	Person 493513 493522	don Ramon
+T1392	Location 493526 493534	Garillas
+T1393	Person 493712 493721	don Ramon
+T1394	Person 493785 493798	doña Jesusita
+T1395	Location 493820 493830	Cœur-Loyal
+T1396	Person 493846 493852	Rafaël
+T1397	Location 494021 494031	Cœur-Loyal
+T1398	Person 494257 494266	don Ramon
+T1399	Person 494272 494285	doña Jesusita
+T1400	Person 494833 494841	doña Luz
+T1401	Person 494953 494966	doña Jesusita
+T1402	Location 495072 495082	Cœur-Loyal
+T1403	Person 495117 495121	Dieu
+T1404	Person 495301 495314	doña Jesusita
+T1405	Location 495341 495347	Rafaël
+T1406	Location 495471 495487	Raousset-Boulbon
+T1407	Location 495552 495558	Sonora
+T1408	Location 495642 495650	Amérique
+T1409	Location 495859 495865	Mexico
+T1410	Organization 496367 496382	océan Pacifique
+T1411	Location 496622 496632	Hermosillo
+T1412	Person 496795 496800	Bravo
+T1413	Location 496854 496861	Mexique
+T1414	Location 497240 497247	Guaymas
+T1415	Location 497738 497748	Hermosillo
+T1416	Location 497989 497997	Amérique
+T1417	Organization 499407 499420	Buenas noches
+T1418	Person 500533 500537	Dieu
+T1419	Location 500737 500741	quoi
+T1420	Person 502365 502374	Belhumeur
+T1421	Organization 502523 502532	Élan-Noir
+T1422	Person 502586 502593	Comment
+T1423	Person 502749 502756	Comment
+T1424	Person 504225 504234	Belhumeur
+T1425	Person 505621 505630	Belhumeur
+T1426	Location 506025 506035	Cœur-Loyal
+T1427	Person 506170 506179	Belhumeur
+T1428	Person 506365 506375	don Rafaël
+T1429	Organization 506460 506469	Élan-Noir
+T1430	Person 506713 506723	don Rafaël
+T1431	Location 506867 506873	Indien
+T1432	Location 507030 507042	Peaux-Rouges
+T1433	Location 507121 507133	Tête-d'Aigle
+T1434	Location 507139 507151	Tête-d'Aigle
+T1435	Location 507207 507213	Indien
+T1436	Location 507365 507373	Amérique
+T1437	Organization 507724 507736	Tête-d'Aigle
+T1438	Person 507864 507871	Comment
+T1439	Person 507926 507936	don Rafaël
+T1440	Person 507941 507950	Mon frère
+T1441	Location 508119 508129	Providence
+T1442	Person 508293 508303	don Rafaël
+T1443	Person 508765 508775	Don Rafaël
+T1444	Person 510149 510159	don Rafaël
+T1445	Person 510271 510283	don Gustavio
+T1446	Location 511836 511849	Pardonnez-moi
+T1447	Person 512055 512065	Don Rafaël
+T1448	Person 512660 512670	don Rafaël
+T1449	Person 512859 512868	Belhumeur
+T1450	Organization 512872 512881	Élan-Noir
+T1451	Location 512886 512898	Tête-d'Aigle
+T1452	Person 513098 513108	don Rafaël
+T1453	Location 513617 513624	Guaymas
+T1454	Location 513691 513703	Tête-d'Aigle
+T1455	Location 513731 513740	Apacheria
+T1456	Location 514043 514052	Comanches
+T1457	Location 514722 514731	Apacheria

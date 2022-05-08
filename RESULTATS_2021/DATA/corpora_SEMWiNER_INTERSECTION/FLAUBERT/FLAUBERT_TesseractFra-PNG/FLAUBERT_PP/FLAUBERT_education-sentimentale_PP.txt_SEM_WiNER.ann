@@ -1,0 +1,5093 @@
+T1	Date 25 42	15 septembre 1840
+T2	Hour 49 68	six heures du matin
+T3	Location 73 91	Ville-de-Montereau
+T4	Location 1009 1020	Saint-Louis
+T5	Location 1025 1029	Cité
+T6	Location 1031 1041	Notre-Dame
+T7	Location 1056 1061	Paris
+T8	Person 1108 1123	Frédéric Moreau
+T9	Location 1172 1188	Nogent-sur-Seine
+T10	Location 1317 1322	Havre
+T11	Location 2209 2214	Seine
+T12	Person 3009 3017	Frédéric
+T13	Location 3776 3782	Russie
+T14	Person 3829 3837	Frédéric
+T15	Person 4071 4079	Frédéric
+T16	Person 4626 4634	Frédéric
+T17	Person 4984 4992	Frédéric
+T18	Person 5122 5136	Jacques Arnoux
+T19	Organization 5155 5169	Art industriel
+T20	Location 5181 5191	Montmartre
+T21	Location 5267 5275	Monsieur
+T22	Organization 5336 5350	Art industriel
+T23	Person 5444 5452	Frédéric
+T24	Person 5574 5588	Jacques Arnoux
+T25	Person 7530 7538	Frédéric
+T26	Person 9558 9566	Frédéric
+T27	Person 10096 10104	Frédéric
+T28	Person 10254 10260	Arnoux
+T29	Person 10305 10316	Mlle Marthe
+T30	Person 10536 10542	Arnoux
+T31	Person 11213 11219	Arnoux
+T32	Person 11415 11421	Arnoux
+T33	Person 11447 11455	Frédéric
+T34	Person 11719 11725	Arnoux
+T35	Person 11790 11798	Frédéric
+T36	Person 12113 12119	Arnoux
+T37	Location 12262 12271	Montereau
+T38	Location 12297 12304	Châlons
+T39	Location 12321 12327	Suisse
+T40	Person 12350 12356	Arnoux
+T41	Person 12615 12623	Frédéric
+T42	Person 13157 13163	Arnoux
+T43	Person 13341 13349	Frédéric
+T44	Person 13394 13400	Arnoux
+T45	Person 14884 14892	Frédéric
+T46	Person 15165 15176	chez Arnoux
+T47	Person 15344 15350	Arnoux
+T48	Person 15638 15646	Frédéric
+T49	Person 15759 15765	Arnoux
+T50	Person 15900 15908	Frédéric
+T51	Location 16425 16429	quoi
+T52	Person 16557 16566	Chambrion
+T53	Person 16612 16619	Isidore
+T54	Location 16655 16659	Bray
+T55	Location 16692 16701	Montereau
+T56	Location 16910 16934	Villeneuve-Saint-Georges
+T57	Location 16936 16941	Ablon
+T58	Location 16943 16952	Châtillon
+T59	Location 16954 16961	Corbeil
+T60	Location 17746 17750	Bray
+T61	Person 17837 17843	Arnoux
+T62	Person 18197 18204	Isidore
+T63	Person 18354 18360	Arnoux
+T64	Person 18419 18425	Arnoux
+T65	Person 18716 18724	Frédéric
+T66	Location 18785 18793	Monsieur
+T67	Person 18818 18829	Mlle Louise
+T68	Person 18875 18884	Qu'est-ce
+T69	Person 18891 18902	Mlle Louise
+T70	Person 18923 18928	Roque
+T71	Person 18975 18983	Frédéric
+T72	Hour 19084 19095	neuf heures
+T73	Location 19108 19121	Saint-Laurent
+T74	Person 19290 19296	Moreau
+T75	Location 20037 20048	Monseigneur
+T76	Person 20106 20112	Moreau
+T77	Organization 20345 20349	Etat
+T78	Location 20402 20406	Sens
+T79	Person 20639 20646	Gamblin
+T80	Person 20693 20701	Lafargel
+T81	Person 20790 20796	Moreau
+T82	Person 20833 20840	Gamblin
+T83	Organization 20994 21004	père Roque
+T84	Organization 21017 21027	père Roque
+T85	Person 21044 21053	Dambreuse
+T86	Location 21094 21102	Fortelle
+T87	Person 21138 21146	Frédéric
+T88	Person 21212 21218	Guizot
+T89	Person 21268 21274	Benoît
+T90	Location 21429 21437	Amérique
+T91	Location 21480 21488	Monsieur
+T92	Person 21710 21716	Moreau
+T93	Person 21989 21998	Qu'est-ce
+T94	Location 22015 22026	Deslauriers
+T95	Person 22090 22096	Moreau
+T96	Person 22169 22177	Frédéric
+T97	Person 22319 22338	Charles Deslauriers
+T98	Location 22416 22422	Nogent
+T99	Location 23177 23182	Dijon
+T100	Location 23226 23232	Troyes
+T101	Location 23303 23307	Sens
+T102	Person 23312 23320	Frédéric
+T103	Person 23451 23459	Frédéric
+T104	Location 23876 23885	Troisième
+T105	Person 24165 24173	Frédéric
+T106	Location 24684 24692	Jouffroy
+T107	Location 24694 24700	Cousin
+T108	Location 24702 24714	Laromiguière
+T109	Location 24716 24727	Malebranche
+T110	Person 24880 24888	Frédéric
+T111	Location 24933 24951	rue des Trois-Rois
+T112	Location 24969 24975	Christ
+T113	Location 25088 25097	Froissart
+T114	Location 25099 25106	Comines
+T115	Location 25108 25127	Pierre de l'Estoile
+T116	Location 25129 25137	Brantôme
+T117	Organization 25292 25304	Walter Scott
+T118	Location 25311 25317	France
+T119	Location 25319 25330	Deslauriers
+T120	Person 25598 25609	saint Louis
+T121	Person 25924 25932	Frédéric
+T122	Location 26001 26006	Paris
+T123	Person 27154 27162	Frédéric
+T124	Person 27320 27326	Moreau
+T125	Location 27627 27638	Deslauriers
+T126	Location 27701 27706	Paris
+T127	Person 27709 27717	Frédéric
+T128	Location 27933 27943	Villenauxe
+T129	Person 28179 28190	Deslauriers
+T130	Location 28203 28209	Troyes
+T131	Location 28396 28400	quoi
+T132	Person 28580 28588	Frédéric
+T133	Person 28871 28879	Frédéric
+T134	Person 28937 28943	Arnoux
+T135	Person 29045 29051	Arnoux
+T136	Location 29111 29122	Deslauriers
+T137	Person 29175 29183	Frédéric
+T138	Location 29312 29319	Werther
+T139	Person 29321 29325	René
+T140	Person 29327 29332	Frank
+T141	Person 29334 29338	Lara
+T142	Person 29340 29345	Lélia
+T143	Location 29639 29650	Deslauriers
+T144	Location 30060 30070	Villenauxe
+T145	Person 30096 30104	Frédéric
+T146	Person 30107 30114	Isidore
+T147	Location 30127 30133	Madame
+T148	Location 30141 30149	Monsieur
+T149	Location 30248 30259	Deslauriers
+T150	Location 30431 30437	Nogent
+T151	Location 30728 30733	Paris
+T152	Location 31074 31085	Deslauriers
+T153	Location 31389 31393	quoi
+T154	Person 31608 31616	Frédéric
+T155	Location 31813 31816	toi
+T156	Person 31828 31836	Frédéric
+T157	Person 32604 32609	Roque
+T158	Person 32616 32624	Frédéric
+T159	Location 32999 33007	Frédéric
+T160	Person 33014 33020	Moreau
+T161	Organization 33059 33069	père Roque
+T162	Person 33197 33206	Dambreuse
+T163	Location 33235 33246	rue d'Anjou
+T164	Location 33258 33269	Deslauriers
+T165	Person 33321 33328	Isidore
+T166	Person 33388 33396	Frédéric
+T167	Location 33414 33420	Madame
+T168	Location 33482 33493	Deslauriers
+T169	Person 33609 33618	Dambreuse
+T170	Person 33914 33922	Frédéric
+T171	Person 33995 34017	Rappelle-toi Rastignac
+T172	Person 34077 34085	Frédéric
+T173	Location 34113 34124	Deslauriers
+T174	Person 34167 34173	Arnoux
+T175	Date 34460 34471	XIIe siècle
+T176	Person 34583 34591	Mirabeau
+T177	Person 34782 34790	Frédéric
+T178	Location 34851 34858	Isidore
+T179	Location 34975 34986	Deslauriers
+T180	Location 35062 35067	Vénus
+T181	Person 35331 35342	Deslauriers
+T182	Person 35355 35370	Frédéric jusqu'
+T183	Location 35388 35398	Hôtel-Dieu
+T184	Person 35498 35506	Frédéric
+T185	Organization 35617 35627	père Roque
+T186	Person 35721 35730	Dambreuse
+T187	Person 35828 35834	Moreau
+T188	Person 35869 35877	Frédéric
+T189	Person 35924 35933	Dambreuse
+T190	Location 35972 35980	Ambreuse
+T191	Location 36385 36389	Aube
+T192	Location 36407 36413	France
+T193	Person 36649 36658	Dambreuse
+T194	Person 36831 36840	Dambreuse
+T195	Person 37111 37120	Dambreuse
+T196	Location 37211 37222	rue d'Anjou
+T197	Person 37918 37926	Frédéric
+T198	Person 38030 38039	Dambreuse
+T199	Organization 38113 38123	père Roque
+T200	Location 38684 38690	Nogent
+T201	Person 38745 38753	Frédéric
+T202	Person 39019 39027	Frédéric
+T203	Location 39084 39097	porte cochère
+T204	Person 39666 39674	Frédéric
+T205	Person 39766 39775	Dambreuse
+T206	Location 39806 39816	Montmartre
+T207	Person 39933 39947	JACQUES ARNOUX
+T208	Location 40017 40028	Deslauriers
+T209	Organization 40279 40293	Art industriel
+T210	Person 40832 40840	Frédéric
+T211	Location 40973 40981	Monsieur
+T212	Hour 41017 41028	cinq heures
+T213	Person 41121 41129	Frédéric
+T214	Location 41266 41285	rue Saint-Hyacinthe
+T215	Organization 41746 41756	Code civil
+T216	Location 41948 41954	Louvre
+T217	Location 42158 42178	tournure d'infirmier
+T218	Person 42477 42494	Baptiste Martinon
+T219	Location 42550 42567	rue Saint-Jacques
+T220	Person 42700 42708	Martinon
+T221	Person 42993 43001	Frédéric
+T222	Person 43083 43091	Martinon
+T223	Location 43215 43225	Luxembourg
+T224	Person 43412 43420	Frédéric
+T225	Location 43486 43490	Cisy
+T226	Person 43590 43594	Cisy
+T227	Location 43704 43714	Notre-Dame
+T228	Person 43910 43918	Frédéric
+T229	Person 44097 44106	Dambreuse
+T230	Organization 44213 44227	Art industriel
+T231	Person 44280 44286	Arnoux
+T232	Person 44372 44380	Frédéric
+T233	Location 44929 44935	Arnoux
+T234	Person 45288 45294	Arnoux
+T235	Location 45491 45505	Champs-Elysées
+T236	Person 46281 46287	Arnoux
+T237	Person 46384 46393	Dambreuse
+T238	Location 46743 46763	place de la Concorde
+T239	Location 46960 46965	Seine
+T240	Location 47139 47154	rue de la Harpe
+T241	Organization 47293 47301	muraille
+T242	Location 48254 48260	Sylvio
+T243	Location 48304 48310	Venise
+T244	Person 48356 48362	Arnoux
+T245	Location 48577 48587	Montmartre
+T246	Location 48734 48745	Deslauriers
+T247	Location 48898 48909	Deslauriers
+T248	Location 48936 48942	Troyes
+T249	Location 48991 48998	Sénécal
+T250	Location 49001 49008	Sénécal
+T251	Person 49138 49146	Frédéric
+T252	Organization 49289 49294	Opéra
+T253	Location 49702 49707	Paris
+T254	Person 49899 49905	Arnoux
+T255	Organization 50237 50242	Odéon
+T256	Organization 50259 50280	Revue des Deux Mondes
+T257	Location 50327 50333	France
+T258	Location 50454 50465	Deslauriers
+T259	Person 50497 50505	Martinon
+T260	Location 50532 50536	Cisy
+T261	Location 50615 50627	Palais-Royal
+T262	Person 50670 50676	Arnoux
+T263	Person 50991 50997	Arnoux
+T264	Person 51159 51165	Arnoux
+T265	Person 51270 51278	Frédéric
+T266	Person 51479 51485	Arnoux
+T267	Person 51695 51703	Frédéric
+T268	Organization 51748 51762	Art industriel
+T269	Person 51878 51884	Arnoux
+T270	Person 51931 51939	Frédéric
+T271	Location 51968 51974	Madame
+T272	Location 51980 51986	Madame
+T273	Person 51999 52007	Frédéric
+T274	Location 52182 52188	Nogent
+T275	Location 52209 52215	Troyes
+T276	Location 52335 52348	quai Napoléon
+T277	Person 52412 52421	Dambreuse
+T278	Person 52466 52472	Arnoux
+T279	Location 52604 52621	rue Saint-Jacques
+T280	Location 52905 52917	rue Soufflot
+T281	Location 52963 52971	Panthéon
+T282	Person 53520 53528	Frédéric
+T283	Person 53653 53663	Louis XIII
+T284	Location 54008 54013	Paris
+T285	Person 54189 54197	Frédéric
+T286	Person 54290 54307	Benjamin Constant
+T287	Person 54558 54575	Frédéric Lemaître
+T288	Person 54581 54595	Robert Macaire
+T289	Location 54772 54775	toi
+T290	Person 55249 55257	Frédéric
+T291	Person 55324 55332	Martinon
+T292	Person 55716 55724	Martinon
+T293	Person 55947 55955	Martinon
+T294	Person 56280 56295	Samuel Rondelot
+T295	Date 56501 56512	XIXe siècle
+T296	Location 56582 56588	France
+T297	Person 56746 56752	Guizot
+T298	Location 56764 56773	Pritchard
+T299	Location 56807 56821	Louis-Philippe
+T300	Person 57427 57435	Martinon
+T301	Person 57514 57522	Frédéric
+T302	Location 57710 57722	Quelques-uns
+T303	Location 57738 57750	Marseillaise
+T304	Location 57787 57795	Béranger
+T305	Location 57847 57855	Voltaire
+T306	Location 58726 58743	rue Saint-Jacques
+T307	Location 59375 59385	Dussardier
+T308	Location 59440 59452	rue de Cléry
+T309	Location 59511 59521	Dussardier
+T310	Location 59525 59537	rue de Cléry
+T311	Location 59638 59651	rue Descartes
+T312	Person 59681 59689	Frédéric
+T313	Location 59829 59836	Pouvoir
+T314	Location 60121 60131	Dussardier
+T315	Person 60450 60458	Frédéric
+T316	Location 60936 60946	Dussardier
+T317	Location 61130 61139	Hussonnet
+T318	Location 61205 61215	Dussardier
+T319	Location 61357 61367	Dussardier
+T320	Person 61462 61470	Frédéric
+T321	Location 61497 61506	Hussonnet
+T322	Location 61630 61640	Dussardier
+T323	Person 61950 61958	Frédéric
+T324	Location 62136 62140	quoi
+T325	Person 62158 62166	Frédéric
+T326	Location 62898 62907	Hussonnet
+T327	Person 62946 62954	Frédéric
+T328	Location 63034 63039	Adieu
+T329	Location 63058 63068	Dussardier
+T330	Location 63334 63344	Luxembourg
+T331	Location 63378 63387	Hussonnet
+T332	Organization 63490 63504	Art industriel
+T333	Person 63514 63528	Jacques Arnoux
+T334	Person 63535 63543	Frédéric
+T335	Location 63658 63667	Hussonnet
+T336	Person 63744 63752	Frédéric
+T337	Location 64003 64012	Hussonnet
+T338	Location 64062 64076	rue de Fleurus
+T339	Location 64129 64135	Arnoux
+T340	Location 64352 64361	Hussonnet
+T341	Location 64638 64645	Bonjour
+T342	Location 64681 64690	Hussonnet
+T343	Person 64777 64788	Frédéric l'
+T344	Location 65016 65029	quai Napoléon
+T345	Location 65076 65085	Hussonnet
+T346	Location 65305 65309	Hugo
+T347	Location 65325 65334	Lamartine
+T348	Person 65685 65693	Frédéric
+T349	Person 65891 65902	chez Arnoux
+T350	Location 65964 65973	Hussonnet
+T351	Location 66306 66316	Montmartre
+T352	Person 66318 66326	Frédéric
+T353	Person 66367 66373	Arnoux
+T354	Location 66793 66798	Vénus
+T355	Person 67165 67179	Jacques Arnoux
+T356	Person 67268 67276	Frédéric
+T357	Location 67326 67335	Hussonnet
+T358	Organization 67462 67476	Art industriel
+T359	Location 67503 67508	Paris
+T360	Person 67637 67651	Anténor Braive
+T361	Person 67681 67694	Jules Burrieu
+T362	Location 67755 67762	Algérie
+T363	Location 67782 67788	Sombaz
+T364	Location 67944 67952	Lovarias
+T365	Person 68025 68032	Dittmer
+T366	Location 68190 68197	Burrieu
+T367	Location 68260 68269	Hussonnet
+T368	Location 68378 68383	Paris
+T369	Person 68390 68396	Arnoux
+T370	Location 68526 68534	Napoléon
+T371	Person 68896 68905	Qu'est-ce
+T372	Person 69027 69035	Murillo…
+T373	Person 69039 69055	Ajoutez Pellerin
+T374	Location 69063 69069	Sombaz
+T375	Person 69155 69161	Arnoux
+T376	Person 69292 69300	Frédéric
+T377	Person 69309 69315	Arnoux
+T378	Person 69383 69389	Arnoux
+T379	Person 69438 69446	Frédéric
+T380	Location 69733 69742	Regimbart
+T381	Person 69747 69756	Qu'est-ce
+T382	Person 69777 69783	Arnoux
+T383	Person 69895 69903	Pellerin
+T384	Location 69931 69942	Michel-Ange
+T385	Location 69946 69957	Shakespeare
+T386	Person 69959 69966	Dittmer
+T387	Person 69980 69986	Arnoux
+T388	Location 70059 70068	Hussonnet
+T389	Person 70162 70168	Arnoux
+T390	Person 70274 70284	père Isaac
+T391	Location 70450 70460	Californie
+T392	Person 70600 70606	Arnoux
+T393	Person 70982 70988	Arnoux
+T394	Location 71126 71135	Regimbart
+T395	Person 71187 71193	Arnoux
+T396	Location 71549 71557	Belgique
+T397	Location 71617 71626	Cherubini
+T398	Person 71679 71687	Pellerin
+T399	Location 72191 72203	Quelques-uns
+T400	Location 72273 72282	Hussonnet
+T401	Person 72384 72390	Arnoux
+T402	Person 72397 72405	Pellerin
+T403	Person 72430 72441	Mlle Vatnaz
+T404	Person 72460 72468	Frédéric
+T405	Person 72649 72660	Mlle Vatnaz
+T406	Person 72670 72676	Arnoux
+T407	Location 72758 72763	Adieu
+T408	Person 72810 72816	Arnoux
+T409	Person 73158 73166	Frédéric
+T410	Person 73178 73186	Pellerin
+T411	Location 73204 73225	faubourg Poissonnière
+T412	Person 73326 73334	Pellerin
+T413	Location 73412 73416	Beau
+T414	Person 74575 74583	Pellerin
+T415	Location 74721 74735	Nabuchodonosor
+T416	Location 74759 74763	Rome
+T417	Person 74775 74783	Frédéric
+T418	Location 74963 74969	Callot
+T419	Location 74974 74983	Rembrandt
+T420	Location 74990 74994	Goya
+T421	Person 75036 75044	Pellerin
+T422	Location 75150 75157	Phidias
+T423	Location 75161 75172	Winckelmann
+T424	Person 75331 75342	Frédéric l'
+T425	Person 75478 75486	Pellerin
+T426	Person 75935 75941	Arnoux
+T427	Person 76026 76034	Frédéric
+T428	Person 76166 76177	Mlle Vatnaz
+T429	Person 76274 76282	Pellerin
+T430	Person 76429 76435	Arnoux
+T431	Person 76455 76463	Frédéric
+T432	Person 76729 76737	Frédéric
+T433	Person 76831 76837	Arnoux
+T434	Location 77219 77228	Regimbart
+T435	Location 77247 77256	Regimbart
+T436	Location 77317 77325	National
+T437	Hour 77748 77768	huit heures du matin
+T438	Location 77800 77810	Montmartre
+T439	Location 77846 77874	rue Notre-Dame-des-Victoires
+T440	Person 78064 78075	chez Arnoux
+T441	Location 78102 78111	Bordelais
+T442	Location 78635 78644	Regimbart
+T443	Person 79000 79006	Arnoux
+T444	Person 79057 79065	Frédéric
+T445	Location 79141 79150	Regimbart
+T446	Location 79219 79234	Bretagne Arnoux
+T447	Person 79270 79278	Frédéric
+T448	Location 79311 79320	Regimbart
+T449	Person 79509 79523	Jacques Arnoux
+T450	Person 80246 80254	Frédéric
+T451	Person 80394 80400	Arnoux
+T452	Location 80462 80471	Allemagne
+T453	Location 80480 80486	Italie
+T454	Location 80507 80512	Paris
+T455	Person 81381 81389	Frédéric
+T456	Location 81629 81638	Hussonnet
+T457	Person 81656 81664	Frédéric
+T458	Location 81773 81782	Hussonnet
+T459	Person 81864 81877	reprit Arnoux
+T460	Person 81951 81959	Frédéric
+T461	Person 82238 82244	Arnoux
+T462	Location 82456 82465	Regimbart
+T463	Location 82540 82549	Regimbart
+T464	Person 82552 82560	Frédéric
+T465	Location 82591 82601	Montmartre
+T466	Location 82939 82948	Regimbart
+T467	Person 83015 83023	Frédéric
+T468	Location 83057 83066	Bordelais
+T469	Location 83209 83217	Pellerin
+T470	Location 83309 83318	Regimbart
+T471	Organization 83365 83379	Art industriel
+T472	Person 83511 83519	Frédéric
+T473	Person 83604 83610	Arnoux
+T474	Person 83615 83624	Qu'est-ce
+T475	Location 83656 83665	Regimbart
+T476	Person 83668 83676	Pellerin
+T477	Location 83984 83990	Arnoux
+T478	Person 84056 84064	Frédéric
+T479	Person 84325 84333	Pellerin
+T480	Organization 84353 84363	juif Isaac
+T481	Person 84394 84400	Arnoux
+T482	Person 84629 84637	Frédéric
+T483	Person 84877 84883	Arnoux
+T484	Person 85096 85104	Frédéric
+T485	Person 85173 85181	Pellerin
+T486	Person 85366 85374	Frédéric
+T487	Location 85416 85422	Arnoux
+T488	Person 85719 85725	Arnoux
+T489	Person 85879 85887	Frédéric
+T490	Person 86068 86074	Arnoux
+T491	Person 86077 86085	Frédéric
+T492	Person 86289 86297	Frédéric
+T493	Person 86479 86485	Arnoux
+T494	Location 86605 86613	Frédéric
+T495	Person 86723 86729	Arnoux
+T496	Person 86845 86856	Deslauriers
+T497	Location 86886 86891	Paris
+T498	Location 87056 87065	Regimbart
+T499	Location 87070 87078	Pellerin
+T500	Location 87082 87091	Hussonnet
+T501	Location 87269 87280	Deslauriers
+T502	Person 87328 87334	Arnoux
+T503	Location 87388 87394	Genève
+T504	Location 87473 87488	rue de Choiseul
+T505	Person 87517 87525	Frédéric
+T506	Person 87836 87844	Frédéric
+T507	Location 87860 87871	Deslauriers
+T508	Person 87948 87957	Qu'est-ce
+T509	Location 87982 87993	Deslauriers
+T510	Person 88047 88055	Frédéric
+T511	Location 88317 88328	Deslauriers
+T512	Location 88617 88620	toi
+T513	Person 88663 88671	Frédéric
+T514	Person 88810 88818	Frédéric
+T515	Location 89012 89020	Bordeaux
+T516	Person 89050 89061	Deslauriers
+T517	Location 89320 89331	Deslauriers
+T518	Location 89520 89531	Deslauriers
+T519	Person 89664 89672	Frédéric
+T520	Location 89753 89761	Monsieur
+T521	Location 89807 89812	Clerc
+T522	Person 89895 89903	Frédéric
+T523	Person 90070 90079	Dambreuse
+T524	Person 90161 90170	Dambreuse
+T525	Person 90186 90192	Arnoux
+T526	Location 90226 90237	Deslauriers
+T527	Person 90310 90318	Frédéric
+T528	Location 90757 90768	Deslauriers
+T529	Location 90785 90802	rue Saint-Jacques
+T530	Person 90851 90859	Frédéric
+T531	Person 91038 91044	Arnoux
+T532	Person 91241 91249	Frédéric
+T533	Person 91382 91393	Mlle Marthe
+T534	Person 91430 91436	Arnoux
+T535	Person 91578 91586	Frédéric
+T536	Location 91650 91659	Montereau
+T537	Person 92704 92710	Arnoux
+T538	Person 92750 92756	Arnoux
+T539	Person 93022 93028	Arnoux
+T540	Person 93038 93046	Frédéric
+T541	Location 93067 93075	Monsieur
+T542	Location 93167 93174	Dittmer
+T543	Location 93176 93184	Lovarias
+T544	Location 93186 93192	Burieu
+T545	Person 93209 93218	Rosenwald
+T546	Person 93229 93245	Théophile Lorris
+T547	Location 93280 93289	Hussonnet
+T548	Person 93335 93355	Pierre-Paul Meinsius
+T549	Person 93535 93541	Arnoux
+T550	Person 93591 93599	Pellerin
+T551	Person 93601 93607	Arnoux
+T552	Organization 93741 93755	Art industriel
+T553	Location 93808 93816	Pellerin
+T554	Hour 93872 93883	huit heures
+T555	Person 93901 93909	Frédéric
+T556	Location 94188 94194	Bohême
+T557	Location 94411 94416	Corse
+T558	Person 94502 94508	Arnoux
+T559	Person 94750 94758	Frédéric
+T560	Person 94802 94809	Dittmer
+T561	Location 94826 94832	Orient
+T562	Person 94894 94903	Rosenwald
+T563	Organization 94916 94921	Opéra
+T564	Location 94998 95007	Hussonnet
+T565	Person 95130 95138	Hollande
+T566	Location 95167 95175	Lovarias
+T567	Location 95179 95186	Burrieu
+T568	Person 95318 95326	Pellerin
+T569	Person 95391 95400	Qu'est-ce
+T570	Location 95520 95531	Michel-Ange
+T571	Location 95956 95965	Bassolier
+T572	Location 96226 96232	Olympe
+T573	Person 96405 96413	Frédéric
+T574	Person 96453 96459	Arnoux
+T575	Person 96966 96972	Arnoux
+T576	Person 96986 96994	Frédéric
+T577	Person 97571 97577	Arnoux
+T578	Person 97579 97587	Frédéric
+T579	Location 97784 97795	Renaissance
+T580	Person 97808 97814	Arnoux
+T581	Person 98016 98022	Arnoux
+T582	Person 98124 98132	Frédéric
+T583	Location 98524 98529	Paris
+T584	Person 98578 98586	Frédéric
+T585	Person 98928 98937	Rosenwald
+T586	Person 98969 98975	Arnoux
+T587	Person 99105 99113	Frédéric
+T588	Person 99991 100000	Rosenwald
+T589	Hour 100115 100126	onze heures
+T590	Person 100162 100168	Arnoux
+T591	Person 100181 100189	Pellerin
+T592	Person 100319 100325	Arnoux
+T593	Location 100363 100370	Dittmer
+T594	Location 100374 100383	Hussonnet
+T595	Location 100452 100460	Frédéric
+T596	Organization 100714 100717	Qu'
+T597	Location 101966 101975	Pont-Neuf
+T598	Person 102647 102653	Arnoux
+T599	Person 103114 103122	Pellerin
+T600	Person 103161 103172	Frédéric l'
+T601	Location 103262 103273	Deslauriers
+T602	Location 103388 103395	Sénécal
+T603	Location 103420 103428	Frédéric
+T604	Location 103718 103725	Rossini
+T605	Location 103728 103735	Sénécal
+T606	Person 103790 103798	Pellerin
+T607	Location 103843 103846	toi
+T608	Person 104012 104023	Louis Blanc
+T609	Location 104102 104110	Pellerin
+T610	Person 104114 104122	Frédéric
+T611	Person 104222 104233	chez Arnoux
+T612	Person 104264 104279	demanda Sénécal
+T613	Person 104332 104340	Pellerin
+T614	Location 104343 104350	Sénécal
+T615	Person 104549 104563	Louis-Philippe
+T616	Location 104640 104647	Nemours
+T617	Location 104674 104683	Joinville
+T618	Person 104909 104917	Pellerin
+T619	Location 105010 105017	Sénécal
+T620	Person 105231 105244	cria Pellerin
+T621	Location 105537 105542	Vénus
+T622	Person 105717 105721	Dieu
+T623	Person 105776 105784	Pellerin
+T624	Location 105897 105904	Sénécal
+T625	Person 106079 106087	Pellerin
+T626	Location 106543 106550	Sénécal
+T627	Person 106592 106606	Jacques Arnoux
+T628	Person 106775 106783	Frédéric
+T629	Location 106922 106929	Sénécal
+T630	Organization 107009 107023	Art industriel
+T631	Person 107025 107031	Arnoux
+T632	Person 107420 107431	Deslauriers
+T633	Person 107462 107468	Arnoux
+T634	Person 107552 107560	Frédéric
+T635	Location 107603 107614	Deslauriers
+T636	Location 107863 107874	Deslauriers
+T637	Person 107921 107929	Frédéric
+T638	Location 108083 108088	Clerc
+T639	Location 109218 109229	Deslauriers
+T640	Person 109455 109463	Frédéric
+T641	Location 109726 109730	quoi
+T642	Location 109828 109839	Deslauriers
+T643	Person 109916 109925	Dambreuse
+T644	Person 110131 110139	Frédéric
+T645	Location 110197 110208	Deslauriers
+T646	Location 110269 110274	Clerc
+T647	Person 110328 110339	chez Arnoux
+T648	Location 110404 110410	Venise
+T649	Location 110423 110429	Naples
+T650	Location 110534 110539	Dreux
+T651	Organization 110605 110619	Art industriel
+T652	Person 110778 110786	Frédéric
+T653	Person 110865 110873	Pellerin
+T654	Person 110888 110896	Pellerin
+T655	Person 111030 111038	Frédéric
+T656	Organization 111389 111397	muraille
+T657	Person 111687 111693	Arnoux
+T658	Location 111863 111869	Madame
+T659	Person 112078 112089	Mlle Marthe
+T660	Person 112139 112145	Arnoux
+T661	Organization 112307 112321	Art industriel
+T662	Location 112414 112423	Regimbart
+T663	Person 112521 112527	Arnoux
+T664	Person 112622 112628	Arnoux
+T665	Person 112760 112768	Frédéric
+T666	Person 112841 112847	Arnoux
+T667	Location 113646 113657	Deslauriers
+T668	Person 113689 113695	Arnoux
+T669	Location 113765 113776	Deslauriers
+T670	Person 113866 113874	Frédéric
+T671	Location 114106 114113	Dittmer
+T672	Person 114118 114126	Frédéric
+T673	Person 114265 114273	Frédéric
+T674	Location 114315 114326	Deslauriers
+T675	Hour 114613 114624	neuf heures
+T676	Location 114969 114978	Hussonnet
+T677	Location 115359 115368	Hussonnet
+T678	Location 115439 115449	Dussardier
+T679	Person 115510 115518	Frédéric
+T680	Person 115773 115781	Martinon
+T681	Location 115807 115821	Louis-Philippe
+T682	Location 115910 115915	Paris
+T683	Location 115940 115949	Pritchard
+T684	Person 115951 115962	lord Guizot
+T685	Person 115979 115987	Martinon
+T686	Person 116411 116420	Dambreuse
+T687	Person 116444 116453	Dambreuse
+T688	Person 116479 116487	Martinon
+T689	Location 116651 116662	Deslauriers
+T690	Person 116787 116795	Pellerin
+T691	Person 117091 117107	objecta Frédéric
+T692	Location 117184 117193	Hussonnet
+T693	Location 117338 117351	Vénus de Milo
+T694	Person 117354 117368	Soyons Gaulois
+T695	Person 117540 117555	père Dussardier
+T696	Location 117561 117571	Dussardier
+T697	Location 117896 117903	Sénécal
+T698	Location 118070 118081	Deslauriers
+T699	Person 118144 118148	Cisy
+T700	Person 118521 118532	Frédéric l'
+T701	Location 118825 118832	Sénécal
+T702	Person 119060 119068	Frédéric
+T703	Location 119141 119150	Regimbart
+T704	Location 119186 119193	Sénécal
+T705	Person 119195 119203	Frédéric
+T706	Location 119243 119249	Arnoux
+T707	Location 119370 119377	Sénécal
+T708	Location 119446 119455	Regimbart
+T709	Location 119571 119575	Rhin
+T710	Person 120173 120180	Marrast
+T711	Location 120192 120200	Voltaire
+T712	Person 120204 120215	Mlle Vatnaz
+T713	Location 120225 120230	Staël
+T714	Location 120257 120264	Pologne
+T715	Location 120300 120309	Regimbart
+T716	Location 120354 120365	Deslauriers
+T717	Location 120374 120381	Citoyen
+T718	Location 120402 120408	Arnoux
+T719	Person 120555 120561	Arnoux
+T720	Person 120732 120743	Frédéric l'
+T721	Organization 120912 120926	Art industriel
+T722	Location 120979 120990	Deslauriers
+T723	Person 121091 121097	Arnoux
+T724	Location 121260 121265	Clerc
+T725	Person 121336 121344	Frédéric
+T726	Person 121572 121580	Frédéric
+T727	Person 121605 121611	Arnoux
+T728	Location 121646 121657	Deslauriers
+T729	Person 121842 121848	Arnoux
+T730	Location 121915 121921	Arnoux
+T731	Person 122013 122019	Arnoux
+T732	Person 122022 122028	Arnoux
+T733	Person 122049 122057	Frédéric
+T734	Person 122134 122140	Arnoux
+T735	Person 122242 122248	Arnoux
+T736	Person 122279 122287	Frédéric
+T737	Location 122422 122433	Deslauriers
+T738	Person 122677 122683	Arnoux
+T739	Location 122718 122727	Balandard
+T740	Person 122791 122799	Frédéric
+T741	Location 122845 122856	Deslauriers
+T742	Location 123072 123083	Deslauriers
+T743	Person 123177 123185	Frédéric
+T744	Person 123331 123339	Frédéric
+T745	Organization 123530 123540	Code civil
+T746	Person 123569 123577	Poncelet
+T747	Person 123590 123601	Deslauriers
+T748	Location 123891 123900	Hussonnet
+T749	Location 123904 123908	Cisy
+T750	Person 123989 123997	Frédéric
+T751	Person 124444 124452	Frédéric
+T752	Person 124819 124827	Frédéric
+T753	Location 124871 124882	Deslauriers
+T754	Location 125178 125187	Hussonnet
+T755	Location 125240 125251	Deslauriers
+T756	Organization 125597 125607	Code civil
+T757	Person 125654 125662	Frédéric
+T758	Person 125980 125991	Frédéric l'
+T759	Person 126300 126308	Frédéric
+T760	Location 126662 126671	Hussonnet
+T761	Person 126741 126749	Martinon
+T762	Location 126798 126817	auréole du triomphe
+T763	Location 127076 127087	Deslauriers
+T764	Person 127179 127187	Frédéric
+T765	Location 127272 127281	Hussonnet
+T766	Location 127432 127438	Arnoux
+T767	Location 127479 127488	Allemagne
+T768	Location 127516 127521	Clerc
+T769	Person 127628 127636	Frédéric
+T770	Location 127747 127753	Arnoux
+T771	Location 128064 128069	Paris
+T772	Person 128761 128767	Moreau
+T773	Person 128907 128915	Frédéric
+T774	Person 129339 129345	Arnoux
+T775	Location 129507 129522	rue de Choiseul
+T776	Person 129782 129790	Frédéric
+T777	Location 129954 129960	roseau
+T778	Organization 129969 129977	muraille
+T779	Person 130199 130205	Arnoux
+T780	Location 130408 130417	Champagne
+T781	Location 130676 130685	Allemagne
+T782	Location 130704 130713	Hussonnet
+T783	Person 130730 130743	reprit Arnoux
+T784	Person 130845 130853	Frédéric
+T785	Location 130981 130987	manche
+T786	Person 131010 131018	Mon Dieu
+T787	Person 131089 131095	Arnoux
+T788	Person 131167 131175	Frédéric
+T789	Person 131450 131456	Arnoux
+T790	Location 131461 131469	Chartres
+T791	Person 131599 131605	Arnoux
+T792	Person 131682 131690	Frédéric
+T793	Person 131940 131946	Arnoux
+T794	Person 132238 132246	Frédéric
+T795	Location 132828 132838	Notre-Dame
+T796	Location 132976 132985	Montereau
+T797	Location 133028 133041	Saint-Gervais
+T798	Location 133043 133054	Saint-Louis
+T799	Location 133056 133066	Saint-Paul
+T800	Person 133382 133388	Arnoux
+T801	Location 134513 134523	Luxembourg
+T802	Location 134954 134962	Bastille
+T803	Location 134974 134983	Madeleine
+T804	Organization 135355 135369	Art industriel
+T805	Person 135412 135418	Arnoux
+T806	Person 135476 135482	Arnoux
+T807	Person 135627 135635	Frédéric
+T808	Location 135675 135681	Arnoux
+T809	Person 135762 135770	Frédéric
+T810	Person 135865 135871	Arnoux
+T811	Person 136181 136192	chez Arnoux
+T812	Location 136216 136225	Regimbart
+T813	Organization 136275 136285	Provençaux
+T814	Location 136291 136298	Citoyen
+T815	Location 136937 136942	Paris
+T816	Location 136991 137000	Regimbart
+T817	Organization 137192 137202	Provençaux
+T818	Organization 137207 137210	Qu'
+T819	Person 137245 137251	Eugène
+T820	Location 137257 137265	Théodore
+T821	Location 137383 137392	Bourgogne
+T822	Location 137510 137516	Arnoux
+T823	Location 137612 137621	Regimbart
+T824	Location 137778 137784	Saumon
+T825	Person 137819 137827	Frédéric
+T826	Person 138111 138119	Frédéric
+T827	Person 138176 138182	Arnoux
+T828	Hour 138255 138266	cinq heures
+T829	Person 138416 138422	Arnoux
+T830	Person 139349 139357	Frédéric
+T831	Location 139579 139585	manche
+T832	Location 139871 139880	Richelieu
+T833	Person 140136 140142	Arnoux
+T834	Location 141219 141224	Paris
+T835	Location 141717 141723	Louvre
+T836	Location 141971 141979	Flandres
+T837	Location 142577 142584	Dittmer
+T838	Location 142624 142632	Lovarias
+T839	Person 142724 142741	Frédéric balbutia
+T840	Location 143284 143290	Arnoux
+T841	Person 143743 143747	Dieu
+T842	Person 144009 144020	Deslauriers
+T843	Person 144078 144086	Frédéric
+T844	Location 144108 144119	Deslauriers
+T845	Person 144374 144382	Frédéric
+T846	Person 144539 144547	Frédéric
+T847	Location 144569 144574	Clerc
+T848	Location 144899 144913	Champs-Elysées
+T849	Location 145105 145114	Regimbart
+T850	Person 145120 145128	Frédéric
+T851	Location 145145 145152	Citoyen
+T852	Location 145154 145165	Deslauriers
+T853	Location 145178 145185	Sénécal
+T854	Location 145212 145221	Hussonnet
+T855	Location 145225 145229	Cisy
+T856	Location 145235 145245	Dussardier
+T857	Location 146414 146429	Amérique du Sud
+T858	Location 146899 146908	Hussonnet
+T859	Location 147132 147143	Deslauriers
+T860	Location 147518 147529	Deslauriers
+T861	Person 147997 148008	Deslauriers
+T862	Location 148148 148152	Cisy
+T863	Location 148156 148166	Dussardier
+T864	Location 148492 148500	Frédéric
+T865	Location 148502 148513	Deslauriers
+T866	Location 148586 148595	Hussonnet
+T867	Location 148815 148824	Hussonnet
+T868	Location 148883 148886	toi
+T869	Location 149051 149060	Andalouse
+T870	Location 149220 149224	Cisy
+T871	Person 149294 149302	Frédéric
+T872	Location 149356 149362	Arnoux
+T873	Person 149455 149466	Mlle Vatnaz
+T874	Person 149490 149496	Arnoux
+T875	Person 149583 149591	Frédéric
+T876	Person 149690 149701	Mlle Vatnaz
+T877	Person 149740 149746	Arnoux
+T878	Person 150206 150212	Arnoux
+T879	Location 150586 150592	Christ
+T880	Location 150948 150953	Paris
+T881	Location 150999 151005	Delmas
+T882	Location 151158 151167	Albanaise
+T883	Person 151196 151211	Frédéric celles
+T884	Person 151482 151493	Mlle Vatnaz
+T885	Person 151718 151724	Arnoux
+T886	Location 151781 151787	Delmas
+T887	Location 151881 151889	Frédéric
+T888	Location 152043 152052	Hussonnet
+T889	Person 152067 152073	Arnoux
+T890	Person 152142 152153	Mlle Vatnaz
+T891	Location 152180 152190	Dussardier
+T892	Person 152327 152335	Frédéric
+T893	Location 152389 152393	Cisy
+T894	Location 152411 152417	manche
+T895	Person 152456 152467	Mlle Vatnaz
+T896	Location 152568 152574	Delmas
+T897	Person 152678 152689	Shakespeare
+T898	Location 152694 152701	Censure
+T899	Location 152716 152722	Peuple
+T900	Person 152763 152778	Alexandre Dumas
+T901	Person 152780 152791	Victor Hugo
+T902	Location 152795 152803	Dumersan
+T903	Person 152805 152811	Arnoux
+T904	Location 153643 153650	Bengale
+T905	Person 153855 153863	Frédéric
+T906	Person 153867 153878	Deslauriers
+T907	Person 153955 153963	Martinon
+T908	Location 154168 154179	Deslauriers
+T909	Location 154233 154237	Cisy
+T910	Location 154243 154253	Dussardier
+T911	Location 154373 154382	Hussonnet
+T912	Person 154586 154605	Appelle-moi Vicomte
+T913	Person 154649 154659	Louis XIII
+T914	Location 154845 154851	France
+T915	Person 154943 154954	Mlle Vatnaz
+T916	Location 154967 154977	Dussardier
+T917	Person 155014 155020	Arnoux
+T918	Location 155068 155076	Frédéric
+T919	Location 155105 155111	Vatnaz
+T920	Person 155199 155207	Frédéric
+T921	Person 155302 155315	reprit Arnoux
+T922	Person 155318 155326	Frédéric
+T923	Person 155639 155647	Frédéric
+T924	Location 155905 155916	Deslauriers
+T925	Person 155987 155995	Frédéric
+T926	Person 156139 156149	ton Arnoux
+T927	Location 156233 156238	Clerc
+T928	Location 156393 156404	Deslauriers
+T929	Person 156586 156594	Frédéric
+T930	Location 156597 156608	Deslauriers
+T931	Location 156839 156845	Rivoli
+T932	Location 156916 156927	Deslauriers
+T933	Location 157032 157050	Place du Carrousel
+T934	Location 157131 157142	Deslauriers
+T935	Location 157314 157322	Châtelet
+T936	Location 157477 157483	Change
+T937	Location 157510 157523	quai Napoléon
+T938	Person 157525 157533	Frédéric
+T939	Location 157554 157565	Deslauriers
+T940	Person 157725 157733	Frédéric
+T941	Location 157857 157868	Deslauriers
+T942	Person 158068 158074	Arnoux
+T943	Location 158462 158468	Arnoux
+T944	Location 158535 158546	Deslauriers
+T945	Location 159188 159196	Concorde
+T946	Person 159841 159849	Frédéric
+T947	Location 160263 160267	quoi
+T948	Hour 160358 160369	huit heures
+T949	Location 160384 160395	Deslauriers
+T950	Person 160522 160526	Cisy
+T951	Location 160543 160553	Dussardier
+T952	Person 160822 160830	Frédéric
+T953	Person 160887 160898	Mlle Vatnaz
+T954	Location 160905 160914	Andalouse
+T955	Person 161166 161174	Frédéric
+T956	Location 161215 161226	Deslauriers
+T957	Location 161294 161299	Clerc
+T958	Person 161468 161483	Clémence Daviou
+T959	Location 161580 161586	roseau
+T960	Location 161642 161647	Clerc
+T961	Person 162047 162055	Frédéric
+T962	Person 162197 162210	chez Barillot
+T963	Person 162251 162259	Frédéric
+T964	Location 162334 162345	Deslauriers
+T965	Location 162400 162415	rue de Choiseul
+T966	Location 162504 162513	Hussonnet
+T967	Location 162528 162534	Arcole
+T968	Person 162586 162594	Frédéric
+T969	Person 162690 162696	Arnoux
+T970	Location 162814 162825	Saint-Cloud
+T971	Person 162994 163002	Frédéric
+T972	Location 163075 163083	Monsieur
+T973	Person 163087 163103	Madame Dambreuse
+T974	Location 163111 163119	Monsieur
+T975	Person 163120 163129	F. Moreau
+T976	Location 163274 163285	Deslauriers
+T977	Person 163369 163377	Frédéric
+T978	Location 163499 163514	rue de Choiseul
+T979	Location 163555 163558	toi
+T980	Location 163584 163589	Clerc
+T981	Person 164331 164340	Dambreuse
+T982	Person 164383 164391	Frédéric
+T983	Location 164409 164413	quoi
+T984	Person 164485 164491	Arnoux
+T985	Location 164650 164656	manche
+T986	Location 164696 164701	Chine
+T987	Location 164905 164916	Deslauriers
+T988	Location 164919 164930	Deslauriers
+T989	Person 164996 165004	Frédéric
+T990	Location 165144 165149	Clerc
+T991	Person 165323 165331	Frédéric
+T992	Location 165389 165400	Deslauriers
+T993	Person 165543 165551	Frédéric
+T994	Person 165640 165649	Dambreuse
+T995	Person 165860 165866	Arnoux
+T996	Person 166307 166315	Frédéric
+T997	Person 166335 166346	Mlle Vatnaz
+T998	Person 166391 166397	Arnoux
+T999	Person 166582 166590	Frédéric
+T1000	Location 166734 166745	Saint-Cloud
+T1001	Person 166991 166999	Frédéric
+T1002	Person 167008 167014	Arnoux
+T1003	Person 167141 167152	Mlle Vatnaz
+T1004	Location 167427 167432	Paris
+T1005	Person 167553 167559	Arnoux
+T1006	Location 167777 167784	cascade
+T1007	Person 167921 167926	Oudry
+T1008	Person 168240 168253	Me Lefaucheux
+T1009	Location 168334 168341	Dittmer
+T1010	Person 168364 168373	Rosenwald
+T1011	Location 168396 168402	Burieu
+T1012	Location 168418 168424	Sombaz
+T1013	Person 168450 168458	Pellerin
+T1014	Location 168556 168565	Hussonnet
+T1015	Person 168601 168609	Frédéric
+T1016	Location 168763 168767	quoi
+T1017	Person 168829 168835	Arnoux
+T1018	Location 169212 169218	Ecosse
+T1019	Location 169372 169380	Boulogne
+T1020	Location 169382 169389	Neuilly
+T1021	Location 169391 169397	Sèvres
+T1022	Location 169399 169405	Meudon
+T1023	Person 169589 169595	Arnoux
+T1024	Hour 169659 169670	neuf heures
+T1025	Location 169759 169762	toi
+T1026	Person 169775 169781	Arnoux
+T1027	Location 169862 169868	Madame
+T1028	Location 170134 170140	Arnoux
+T1029	Person 170179 170187	Pellerin
+T1030	Person 170230 170242	Saül Mathias
+T1031	Location 170247 170254	Londres
+T1032	Person 170367 170375	Frédéric
+T1033	Person 170516 170524	Frédéric
+T1034	Person 170556 170567	Mlle Vatnaz
+T1035	Person 170627 170633	Arnoux
+T1036	Location 170861 170872	Deslauriers
+T1037	Person 170889 170897	Frédéric
+T1038	Person 171102 171110	Frédéric
+T1039	Location 171118 171128	Dussardier
+T1040	Person 171289 171294	Oudry
+T1041	Person 171343 171352	Dambreuse
+T1042	Person 171355 171363	Frédéric
+T1043	Person 171438 171446	Pellerin
+T1044	Location 171574 171583	Rosenwald
+T1045	Location 171587 171593	Burieu
+T1046	Person 171619 171625	Arnoux
+T1047	Person 171653 171658	Oudry
+T1048	Location 171661 171667	Sombaz
+T1049	Location 171799 171804	Oudry
+T1050	Person 172252 172263	Mlle Marthe
+T1051	Person 172428 172434	Arnoux
+T1052	Person 172698 172704	Arnoux
+T1053	Location 172832 172841	Hussonnet
+T1054	Person 172897 172903	Arnoux
+T1055	Person 173170 173175	Oudry
+T1056	Person 173244 173254	Lefaucheux
+T1057	Person 173299 173305	Arnoux
+T1058	Person 173338 173349	Frédéric l'
+T1059	Person 173681 173689	Frédéric
+T1060	Location 175027 175036	Hussonnet
+T1061	Person 175143 175149	Arnoux
+T1062	Person 175684 175697	enleva Marthe
+T1063	Person 175748 175754	Arnoux
+T1064	Person 175798 175806	Frédéric
+T1065	Person 176075 176083	Frédéric
+T1066	Person 176185 176191	Arnoux
+T1067	Person 176311 176317	Marthe
+T1068	Person 176410 176418	Frédéric
+T1069	Person 176622 176628	Arnoux
+T1070	Location 176692 176700	Boulogne
+T1071	Person 176819 176827	Frédéric
+T1072	Person 176848 176854	Arnoux
+T1073	Person 176889 176895	Marthe
+T1074	Location 177088 177095	Auteuil
+T1075	Location 177298 177302	quoi
+T1076	Person 178001 178007	Arnoux
+T1077	Location 178401 178406	Paris
+T1078	Location 178408 178417	Hussonnet
+T1079	Person 178459 178467	Frédéric
+T1080	Location 178560 178575	rue de Choiseul
+T1081	Location 178588 178594	Arnoux
+T1082	Location 179858 179869	Deslauriers
+T1083	Person 180078 180090	Frédéric fût
+T1084	Person 180462 180470	Frédéric
+T1085	Person 180626 180632	Arnoux
+T1086	Location 180669 180677	Chartres
+T1087	Location 180745 180756	Deslauriers
+T1088	Location 180792 180797	Orsay
+T1089	Location 180890 180900	Dussardier
+T1090	Location 180921 180924	toi
+T1091	Location 181007 181011	Cisy
+T1092	Person 181040 181048	Martinon
+T1093	Person 181120 181128	Pellerin
+T1094	Location 181198 181207	Hussonnet
+T1095	Location 181620 181627	Sénécal
+T1096	Location 181820 181829	Regimbart
+T1097	Location 181897 181904	Citoyen
+T1098	Location 182013 182020	Algérie
+T1099	Person 182085 182094	Alexandre
+T1100	Hour 182112 182123	onze heures
+T1101	Person 182165 182173	Frédéric
+T1102	Location 182211 182220	Hussonnet
+T1103	Person 182237 182243	Arnoux
+T1104	Person 182453 182461	Frédéric
+T1105	Location 183204 183209	Paris
+T1106	Location 183717 183722	Pékin
+T1107	Person 184677 184685	Frédéric
+T1108	Person 184858 184867	Dambreuse
+T1109	Location 185042 185047	Clerc
+T1110	Person 185098 185106	Frédéric
+T1111	Location 185255 185260	Paris
+T1112	Person 185267 185276	Dambreuse
+T1113	Person 185652 185660	Frédéric
+T1114	Person 185930 185939	Dambreuse
+T1115	Organization 185976 185986	père Roque
+T1116	Person 185989 185997	Frédéric
+T1117	Location 186050 186061	Deslauriers
+T1118	Location 186087 186092	Clerc
+T1119	Person 186224 186230	Moreau
+T1120	Person 186573 186578	Roque
+T1121	Location 186865 186870	Melun
+T1122	Organization 186973 186983	père Roque
+T1123	Person 187235 187243	Frédéric
+T1124	Person 187704 187713	Prouharam
+T1125	Person 187834 187842	Frédéric
+T1126	Person 188561 188566	Roque
+T1127	Person 188577 188583	Moreau
+T1128	Person 188908 188916	Frédéric
+T1129	Person 189063 189069	Arnoux
+T1130	Person 189226 189232	Arnoux
+T1131	Location 189670 189681	Deslauriers
+T1132	Person 189935 189941	Arnoux
+T1133	Location 190245 190250	Paris
+T1134	Person 190323 190327	Dieu
+T1135	Person 190343 190351	Pellerin
+T1136	Person 190453 190459	Moreau
+T1137	Person 190612 190620	Frédéric
+T1138	Person 191022 191030	mon Dieu
+T1139	Person 191345 191353	Frédéric
+T1140	Person 191385 191394	Prouharam
+T1141	Person 191626 191632	Arnoux
+T1142	Person 191854 191860	Arnoux
+T1143	Location 192197 192202	Paris
+T1144	Person 192242 192248	Arnoux
+T1145	Location 192847 192852	Seine
+T1146	Location 193160 193168	Amérique
+T1147	Location 193189 193195	Orient
+T1148	Location 193280 193291	Deslauriers
+T1149	Person 193462 193470	Frédéric
+T1150	Location 193502 193513	Deslauriers
+T1151	Person 193672 193681	Qu'est-ce
+T1152	Person 193742 193750	Frédéric
+T1153	Location 193753 193764	Deslauriers
+T1154	Location 193801 193808	Sénécal
+T1155	Location 193864 193871	Sénécal
+T1156	Person 193935 193946	chez Arnoux
+T1157	Person 194019 194027	Frédéric
+T1158	Organization 194330 194340	père Roque
+T1159	Person 194505 194513	Frédéric
+T1160	Person 194616 194622	Moreau
+T1161	Person 194695 194704	Dambreuse
+T1162	Location 194784 194793	Champagne
+T1163	Location 195494 195503	Catherine
+T1164	Location 195509 195517	Lorraine
+T1165	Location 195608 195613	Paris
+T1166	Person 195817 195846	Elisabeth-Olympe-Louise Roque
+T1167	Location 195849 195858	Catherine
+T1168	Person 196068 196076	Eléonore
+T1169	Location 196516 196525	Catherine
+T1170	Person 196610 196615	Roque
+T1171	Location 197302 197308	Marthe
+T1172	Person 197334 197342	Frédéric
+T1173	Person 197597 197605	Frédéric
+T1174	Person 198050 198056	Moreau
+T1175	Person 198724 198732	Frédéric
+T1176	Location 199335 199344	Cinq-Mars
+T1177	Location 199457 199467	Letourneur
+T1178	Person 199835 199841	Moreau
+T1179	Person 199977 199983	Moreau
+T1180	Location 200174 200179	Havre
+T1181	Location 200183 200189	Nogent
+T1182	Person 200675 200681	Moreau
+T1183	Person 200943 200951	Frédéric
+T1184	Location 201058 201067	Montereau
+T1185	Person 201132 201138	Arnoux
+T1186	Organization 201252 201262	père Roque
+T1187	Location 201328 201336	Fortelle
+T1188	Person 201346 201355	Dambreuse
+T1189	Person 201383 201394	Frédéric de
+T1190	Person 201481 201489	Frédéric
+T1191	Location 201564 201570	Nogent
+T1192	Location 201701 201707	Louise
+T1193	Person 201726 201734	Eléonore
+T1194	Person 201813 201819	Moreau
+T1195	Person 201956 201964	Frédéric
+T1196	Person 202387 202393	Arnoux
+T1197	Date 202548 202564	12 décembre 1845
+T1198	Hour 202571 202591	neuf heures du matin
+T1199	Person 202707 202715	Frédéric
+T1200	Location 202802 202807	Havre
+T1201	Location 202833 202841	Monsieur
+T1202	Person 202849 202855	Moreau
+T1203	Person 203516 203522	Arnoux
+T1204	Location 204097 204102	Chine
+T1205	Person 204286 204292	Moreau
+T1206	Person 204347 204355	Frédéric
+T1207	Person 204568 204578	Me Benoist
+T1208	Person 204583 204589	Gambin
+T1209	Person 204594 204602	Chambion
+T1210	Person 204632 204640	Frédéric
+T1211	Location 204676 204687	Deslauriers
+T1212	Person 204782 204787	Roque
+T1213	Person 204876 204882	Moreau
+T1214	Location 204937 204943	Troyes
+T1215	Person 205100 205108	Frédéric
+T1216	Location 205231 205236	Paris
+T1217	Location 205246 205250	quoi
+T1218	Person 205278 205284	Moreau
+T1219	Person 205373 205381	Frédéric
+T1220	Organization 205549 205563	Conseil d'Etat
+T1221	Person 205590 205599	Dambreuse
+T1222	Person 205646 205651	Roque
+T1223	Person 205687 205693	Moreau
+T1224	Person 205855 205867	Frédéric fût
+T1225	Person 206152 206160	Eléonore
+T1226	Person 206508 206514	Moreau
+T1227	Person 206555 206563	Frédéric
+T1228	Location 206601 206610	Catherine
+T1229	Person 206822 206827	Roque
+T1230	Location 207165 207171	Louise
+T1231	Person 207248 207256	Frédéric
+T1232	Location 207362 207371	Catherine
+T1233	Location 207522 207526	quoi
+T1234	Location 207739 207744	Adieu
+T1235	Location 208323 208330	Sourdun
+T1236	Location 209579 209586	Mormans
+T1237	Location 209751 209757	Nogent
+T1238	Location 209762 209777	rue de Choiseul
+T1239	Person 209783 209789	Arnoux
+T1240	Location 209886 209895	Charenton
+T1241	Location 209905 209910	Paris
+T1242	Person 210226 210234	Frédéric
+T1243	Location 210485 210489	Ivry
+T1244	Location 210544 210552	Panthéon
+T1245	Location 212765 212770	Seine
+T1246	Person 212850 212861	Frédéric l'
+T1247	Location 212914 212919	Paris
+T1248	Person 213354 213360	Arnoux
+T1249	Location 213526 213539	quai Napoléon
+T1250	Location 213610 213615	Seine
+T1251	Location 213623 213632	Pont-Neuf
+T1252	Location 213656 213662	Louvre
+T1253	Organization 213682 213694	Saint-Honoré
+T1254	Person 213696 213719	Croix des-Petits-Champs
+T1255	Person 213835 213843	Frédéric
+T1256	Location 213923 213933	Montmartre
+T1257	Location 214100 214115	rue de Choiseul
+T1258	Person 214127 214133	Arnoux
+T1259	Person 214198 214209	Frédéric l'
+T1260	Person 214296 214304	Frédéric
+T1261	Location 214371 214379	Commerce
+T1262	Person 214404 214410	Arnoux
+T1263	Person 214424 214438	Jacques Arnoux
+T1264	Person 214465 214473	Pellerin
+T1265	Location 214526 214547	faubourg Poissonnière
+T1266	Location 214708 214717	Hussonnet
+T1267	Location 214822 214836	rue de Fleurus
+T1268	Location 214854 214868	rue de Fleurus
+T1269	Person 214870 214878	Frédéric
+T1270	Person 215212 215218	Arnoux
+T1271	Person 215223 215229	Arnoux
+T1272	Location 215418 215427	Regimbart
+T1273	Location 215521 215549	rue Notre-Dame-des-Victoires
+T1274	Organization 215589 215598	Regimbart
+T1275	Location 215769 215778	Regimbart
+T1276	Person 215791 215799	Frédéric
+T1277	Location 216003 216010	Citoyen
+T1278	Hour 216038 216058	onze heures précises
+T1279	Location 216190 216199	Madeleine
+T1280	Location 216210 216219	Madeleine
+T1281	Location 216223 216230	Gymnase
+T1282	Person 216232 216240	Frédéric
+T1283	Hour 216244 216264	onze heures précises
+T1284	Location 216332 216341	Regimbart
+T1285	Person 216394 216402	Frédéric
+T1286	Location 216604 216611	Citoyen
+T1287	Person 216639 216648	Alexandre
+T1288	Person 216650 216658	Frédéric
+T1289	Location 216788 216804	Sainte-Geneviève
+T1290	Person 216822 216831	Alexandre
+T1291	Person 216954 216963	Regimbart
+T1292	Person 217337 217346	Qu'est-ce
+T1293	Person 217420 217428	Frédéric
+T1294	Location 217495 217502	curaçao
+T1295	Location 217659 217668	Charivari
+T1296	Person 217896 217904	Frédéric
+T1297	Location 218426 218435	Regimbart
+T1298	Person 218438 218449	Frédéric l'
+T1299	Person 218969 218977	Frédéric
+T1300	Person 219074 219083	Alexandre
+T1301	Person 219347 219355	Frédéric
+T1302	Person 219551 219557	Ledoux
+T1303	Person 219577 219583	Ledoux
+T1304	Location 219626 219635	Regimbart
+T1305	Person 219646 219654	Frédéric
+T1306	Person 219725 219741	madame Alexandre
+T1307	Person 219763 219769	Ledoux
+T1308	Person 219930 219938	Frédéric
+T1309	Location 220017 220024	Citoyen
+T1310	Person 220362 220374	café Gascard
+T1311	Person 220376 220389	café Grimbert
+T1312	Person 220391 220403	café Halbout
+T1313	Location 220415 220424	Bordelais
+T1314	Location 220426 220434	Havanais
+T1315	Location 220436 220443	Havrais
+T1316	Product 220482 220494	Mère Morel ;
+T1317	Location 220558 220567	Regimbart
+T1318	Location 220754 220761	Vautier
+T1319	Person 220775 220783	Frédéric
+T1320	Person 220853 220862	Regimbart
+T1321	Person 221092 221101	Regimbart
+T1322	Person 221143 221151	Frédéric
+T1323	Person 221216 221233	chez Bouttevilain
+T1324	Person 221437 221454	chez Bouttevilain
+T1325	Location 221456 221472	rue Saint-Martin
+T1326	Location 221801 221810	Regimbart
+T1327	Person 221956 221967	Frédéric l'
+T1328	Person 222035 222041	Arnoux
+T1329	Location 222086 222095	Regimbart
+T1330	Person 222198 222222	rue Paradis-Poissonnière
+T1331	Location 222238 222245	Citoyen
+T1332	Person 222319 222327	Frédéric
+T1333	Location 222425 222430	Adieu
+T1334	Person 222436 222444	Frédéric
+T1335	Person 222465 222476	chez Arnoux
+T1336	Person 222720 222726	Arnoux
+T1337	Person 222753 222759	Arnoux
+T1338	Location 223003 223009	Arnoux
+T1339	Person 223184 223192	mon Dieu
+T1340	Person 223224 223230	Arnoux
+T1341	Person 223238 223244	Arnoux
+T1342	Person 223435 223443	Frédéric
+T1343	Person 223634 223642	Frédéric
+T1344	Location 223771 223776	Paris
+T1345	Person 224130 224136	Arnoux
+T1346	Person 224384 224398	Alexandre fils
+T1347	Person 224401 224409	Frédéric
+T1348	Person 224526 224532	Arnoux
+T1349	Location 224753 224761	Pellerin
+T1350	Person 224813 224819	Arnoux
+T1351	Person 224951 224957	Arnoux
+T1352	Location 225289 225293	Beau
+T1353	Location 225693 225704	Renaissance
+T1354	Location 225975 225981	Arnoux
+T1355	Person 225993 226001	Frédéric
+T1356	Person 226444 226453	Dambreuse
+T1357	Location 226505 226516	Deslauriers
+T1358	Location 226646 226658	Palais-Royal
+T1359	Person 227109 227120	Deslauriers
+T1360	Organization 227164 227190	les vieilles contestations
+T1361	Location 227769 227776	Pologne
+T1362	Location 227933 227944	Deslauriers
+T1363	Organization 228010 228034	IIIe livre du Code civil
+T1364	Product 228061 228083	montagne d'achoppement
+T1365	Location 228237 228245	Rogérius
+T1366	Location 228247 228253	Balbus
+T1367	Location 228255 228261	Merlin
+T1368	Location 228263 228271	Vazeille
+T1369	Location 228273 228280	Savigny
+T1370	Location 228282 228290	Tropiong
+T1371	Location 228493 228500	Parlote
+T1372	Person 228596 228602	Guizot
+T1373	Location 228816 228823	Sénécal
+T1374	Person 229075 229086	Deslauriers
+T1375	Person 229169 229177	Frédéric
+T1376	Person 229334 229345	Deslauriers
+T1377	Location 229631 229639	Frédéric
+T1378	Person 230165 230173	Frédéric
+T1379	Location 230290 230297	Sénécal
+T1380	Location 230316 230323	Sénécal
+T1381	Person 230334 230342	Frédéric
+T1382	Person 230401 230407	Arnoux
+T1383	Person 230433 230441	Frédéric
+T1384	Person 230516 230522	Arnoux
+T1385	Location 230524 230535	Deslauriers
+T1386	Location 230588 230597	Hussonnet
+T1387	Organization 231255 231258	Qu'
+T1388	Person 231303 231311	Frédéric
+T1389	Location 231473 231484	Deslauriers
+T1390	Person 231908 231916	Frédéric
+T1391	Location 231957 231968	Deslauriers
+T1392	Location 232224 232235	Deslauriers
+T1393	Person 232375 232393	Camille Desmoulins
+T1394	Location 232448 232456	Bastille
+T1395	Location 232763 232773	Barthélémy
+T1396	Organization 232806 232815	Assemblée
+T1397	Person 233041 233049	Frédéric
+T1398	Person 233206 233212	Arnoux
+T1399	Location 233450 233461	Deslauriers
+T1400	Person 233588 233596	Frédéric
+T1401	Location 233881 233886	Havre
+T1402	Person 234014 234023	Dambreuse
+T1403	Hour 234049 234060	huit heures
+T1404	Person 234118 234124	Arnoux
+T1405	Person 234259 234268	Dambreuse
+T1406	Person 234358 234366	Frédéric
+T1407	Person 234383 234389	Arnoux
+T1408	Person 234669 234675	Arnoux
+T1409	Person 234863 234869	Arnoux
+T1410	Location 234889 234901	Palais-Royal
+T1411	Person 235571 235577	Arnoux
+T1412	Person 235653 235661	Frédéric
+T1413	Location 235701 235706	Laval
+T1414	Person 235879 235887	Frédéric
+T1415	Person 236125 236133	Louis XV
+T1416	Person 236179 236196	Rose-Annette Bron
+T1417	Person 236239 236245	Arnoux
+T1418	Person 236401 236407	Arnoux
+T1419	Person 236417 236425	Frédéric
+T1420	Person 236566 236572	Arnoux
+T1421	Person 236614 236622	Frédéric
+T1422	Person 236927 236936	Louis XVI
+T1423	Location 237230 237236	Venise
+T1424	Person 237342 237348	Arnoux
+T1425	Person 237454 237462	Frédéric
+T1426	Organization 237539 237553	Art industriel
+T1427	Location 237899 237908	Hussonnet
+T1428	Person 238022 238030	Frédéric
+T1429	Person 238365 238373	Frédéric
+T1430	Person 238538 238547	Rosanette
+T1431	Organization 238923 238928	Opéra
+T1432	Location 239159 239168	Pritchard
+T1433	Location 239374 239383	Bacchante
+T1434	Location 239499 239508	Polonaise
+T1435	Location 240553 240558	Baron
+T1436	Location 240626 240630	Ange
+T1437	Person 240755 240764	Louis XIV
+T1438	Person 240830 240838	Frédéric
+T1439	Person 240939 240945	Arnoux
+T1440	Person 241062 241071	Rosanette
+T1441	Person 241245 241253	Frédéric
+T1442	Person 241605 241613	Frédéric
+T1443	Location 241999 242008	Rosanette
+T1444	Organization 242176 242184	muraille
+T1445	Location 242682 242688	Bohême
+T1446	Person 243362 243370	Pellerin
+T1447	Person 243376 243384	Pellerin
+T1448	Location 243599 243605	Italie
+T1449	Location 243624 243630	Italie
+T1450	Location 243915 243921	Beauté
+T1451	Location 244643 244652	Poissarde
+T1452	Person 245022 245031	Qu'est-ce
+T1453	Person 245053 245062	Qu'est-ce
+T1454	Person 245109 245120	Frédéric l'
+T1455	Person 245508 245515	Vandaël
+T1456	Location 245539 245546	Gymnase
+T1457	Location 245564 245568	Doge
+T1458	Location 245762 245770	Herbigny
+T1459	Person 245971 245979	Frédéric
+T1460	Person 246274 246283	Des Rogis
+T1461	Location 246805 246814	Hussonnet
+T1462	Location 246835 246848	Femme-Sauvage
+T1463	Person 246902 246910	François
+T1464	Location 247370 247380	Débardeuse
+T1465	Person 247453 247462	Rosanette
+T1466	Person 248045 248050	Oudry
+T1467	Person 248064 248070	Arnoux
+T1468	Person 248108 248116	Pellerin
+T1469	Person 248421 248429	Frédéric
+T1470	Location 248762 248771	Polonaise
+T1471	Location 249133 249142	Bacchante
+T1472	Location 249315 249324	Poissarde
+T1473	Location 249511 249521	Débardeuse
+T1474	Location 249760 249769	Rosanette
+T1475	Person 249973 249981	Frédéric
+T1476	Person 250015 250026	Mlle Vatnaz
+T1477	Person 250470 250486	Auguste Delamare
+T1478	Person 250523 250541	Anténor Dellamarre
+T1479	Location 250548 250554	Delmas
+T1480	Location 250561 250567	Belmar
+T1481	Person 250578 250584	Delmar
+T1482	Location 250787 250796	Hussonnet
+T1483	Location 251019 251028	Rosanette
+T1484	Person 251030 251036	Delmar
+T1485	Location 251369 251375	Vatnaz
+T1486	Person 251412 251421	Rosanette
+T1487	Location 251439 251448	Hussonnet
+T1488	Location 251813 251822	Hussonnet
+T1489	Person 251872 251878	Arnoux
+T1490	Location 251928 251933	Comte
+T1491	Person 252039 252044	Oudry
+T1492	Location 252046 252055	Rosanette
+T1493	Person 252274 252283	Dambreuse
+T1494	Person 252338 252346	Frédéric
+T1495	Location 252424 252433	Rosanette
+T1496	Person 252437 252443	Delmar
+T1497	Location 252897 252906	Rosanette
+T1498	Person 253174 253182	Frédéric
+T1499	Person 253297 253308	Mlle Vatnaz
+T1500	Person 253331 253337	Arnoux
+T1501	Person 253434 253439	Oudry
+T1502	Person 253469 253475	Arnoux
+T1503	Location 253482 253488	Vatnaz
+T1504	Location 253533 253542	Rosanette
+T1505	Person 253617 253625	Frédéric
+T1506	Person 253661 253667	Arnoux
+T1507	Person 253822 253828	Arnoux
+T1508	Location 254271 254280	Rosanette
+T1509	Person 254283 254291	Frédéric
+T1510	Location 254357 254369	Quelques-uns
+T1511	Person 254740 254746	Delmar
+T1512	Location 254794 254803	Rosanette
+T1513	Person 254904 254910	Arnoux
+T1514	Person 254956 254962	Delmar
+T1515	Location 255137 255146	Rosanette
+T1516	Person 255166 255174	Frédéric
+T1517	Person 255262 255268	Arnoux
+T1518	Person 256051 256059	Pellerin
+T1519	Person 256066 256071	Oudry
+T1520	Location 256094 256103	Rosanette
+T1521	Person 256106 256112	Arnoux
+T1522	Location 256365 256374	Poissarde
+T1523	Person 256436 256442	Arnoux
+T1524	Location 257020 257029	Rosanette
+T1525	Location 257047 257053	Delmar
+T1526	Person 257080 257088	Pellerin
+T1527	Person 257103 257108	Oudry
+T1528	Person 257119 257130	Mlle Vatnaz
+T1529	Location 257237 257241	Ange
+T1530	Person 257698 257709	Frédéric l'
+T1531	Location 257826 257830	quoi
+T1532	Location 258183 258192	Hussonnet
+T1533	Location 258219 258232	Femme-Sauvage
+T1534	Location 258730 258740	Débardeuse
+T1535	Person 258873 258879	Arnoux
+T1536	Location 259002 259011	Rosanette
+T1537	Location 259492 259501	Rosanette
+T1538	Location 259932 259941	Maréchale
+T1539	Location 259952 259961	Maréchale
+T1540	Location 260020 260029	Champagne
+T1541	Location 260445 260451	Arnoux
+T1542	Location 260912 260918	Vatnaz
+T1543	Location 261149 261158	Maréchale
+T1544	Location 261168 261176	Frédéric
+T1545	Location 261178 261187	Hussonnet
+T1546	Location 261208 261218	Débardeuse
+T1547	Location 261296 261306	Sauvagesse
+T1548	Location 261960 261969	Maréchale
+T1549	Location 262320 262329	Rosanette
+T1550	Person 262503 262508	Oudry
+T1551	Location 262674 262678	Ange
+T1552	Location 262770 262779	Poissarde
+T1553	Location 262930 262939	Hussonnet
+T1554	Location 263050 263060	Sauvagesse
+T1555	Person 263097 263105	Pellerin
+T1556	Location 263161 263165	Ange
+T1557	Location 263241 263246	Baron
+T1558	Location 263338 263348	Débardeuse
+T1559	Person 263380 263391	Mlle Vatnaz
+T1560	Location 263398 263407	Rosanette
+T1561	Location 263413 263418	Adieu
+T1562	Location 263554 263563	Maréchale
+T1563	Person 263596 263602	Arnoux
+T1564	Person 263606 263614	Frédéric
+T1565	Person 263836 263844	Frédéric
+T1566	Person 263993 263998	Oudry
+T1567	Person 264088 264094	Arnoux
+T1568	Person 264310 264318	Frédéric
+T1569	Location 264728 264737	Poissarde
+T1570	Location 264755 264765	Débardeuse
+T1571	Location 264785 264794	Polonaise
+T1572	Location 264815 264825	Sauvagesse
+T1573	Person 265051 265059	Frédéric
+T1574	Location 265187 265193	Arnoux
+T1575	Location 265227 265236	Maréchale
+T1576	Person 265310 265318	Frédéric
+T1577	Location 265341 265352	rue Rumford
+T1578	Person 265460 265471	chez Arnoux
+T1579	Location 265615 265626	Deslauriers
+T1580	Person 266077 266085	Frédéric
+T1581	Location 266320 266325	Havre
+T1582	Person 266553 266562	Dambreuse
+T1583	Location 266592 266598	Madame
+T1584	Person 267391 267399	Frédéric
+T1585	Person 267589 267598	Dambreuse
+T1586	Person 267843 267852	abbé Cœur
+T1587	Location 268033 268041	Turvisot
+T1588	Location 268595 268607	Quelques-uns
+T1589	Person 268810 268819	Dambreuse
+T1590	Person 269196 269207	Frédéric l'
+T1591	Person 269757 269765	Frédéric
+T1592	Location 269820 269828	Fortelle
+T1593	Person 269834 269843	Dambreuse
+T1594	Location 269892 269898	Nogent
+T1595	Person 270222 270230	Frédéric
+T1596	Person 270253 270262	Dambreuse
+T1597	Person 270308 270323	monsieur Moreau
+T1598	Person 270522 270530	Frédéric
+T1599	Location 270574 270583	Maréchale
+T1600	Person 270681 270689	Delphine
+T1601	Person 270692 270700	Delphine
+T1602	Person 270719 270724	Félix
+T1603	Location 270807 270816	Rosanette
+T1604	Person 271101 271109	Frédéric
+T1605	Location 271417 271426	Maréchale
+T1606	Person 271581 271589	Frédéric
+T1607	Person 272391 272399	Frédéric
+T1608	Person 272634 272639	Félix
+T1609	Person 272804 272816	de Rochegune
+T1610	Person 272822 272840	de Saint-Florentin
+T1611	Person 272846 272853	Lombard
+T1612	Organization 272885 272900	hôtel Dambreuse
+T1613	Person 273048 273056	Delphine
+T1614	Location 273271 273280	Rosanette
+T1615	Person 273382 273390	Delphine
+T1616	Person 273442 273455	Sainte Vierge
+T1617	Person 273504 273512	Frédéric
+T1618	Person 273653 273661	Delphine
+T1619	Location 273695 273704	Maréchale
+T1620	Person 273776 273784	Delphine
+T1621	Location 273812 273818	Madame
+T1622	Person 273953 273961	Frédéric
+T1623	Person 273993 274002	Rosanette
+T1624	Person 274275 274283	Frédéric
+T1625	Person 274472 274483	Mlle Vatnaz
+T1626	Location 274763 274774	rue Joubert
+T1627	Location 274789 274794	Suède
+T1628	Location 275024 275033	Rosanette
+T1629	Person 275113 275121	Frédéric
+T1630	Location 275166 275172	Vatnaz
+T1631	Person 275364 275377	quai Voltaire
+T1632	Location 275629 275635	Delmar
+T1633	Location 275789 275798	Rosanette
+T1634	Person 275886 275897	Mlle Vatnaz
+T1635	Location 275938 275942	quoi
+T1636	Location 275990 275999	Maréchale
+T1637	Person 276047 276062	Frédéric jusque
+T1638	Person 276116 276122	Arnoux
+T1639	Location 276307 276313	Vatnaz
+T1640	Location 276321 276330	Rosanette
+T1641	Person 276488 276496	Frédéric
+T1642	Location 276683 276692	Maréchale
+T1643	Person 276831 276837	Arnoux
+T1644	Location 276892 276901	Rosanette
+T1645	Person 276963 276969	Arnoux
+T1646	Person 277192 277198	Marthe
+T1647	Person 277468 277474	Arnoux
+T1648	Person 277793 277799	Marthe
+T1649	Location 277847 277858	Saint-Cloud
+T1650	Person 277868 277874	Arnoux
+T1651	Person 278361 278369	Frédéric
+T1652	Location 278468 278473	Havre
+T1653	Organization 278844 278848	Etat
+T1654	Person 278861 278870	Dambreuse
+T1655	Person 279026 279034	Frédéric
+T1656	Person 279320 279326	Arnoux
+T1657	Location 279403 279408	Adieu
+T1658	Person 279528 279536	Frédéric
+T1659	Location 279941 279950	Hussonnet
+T1660	Person 279962 279970	Pellerin
+T1661	Location 279994 280004	Dussardier
+T1662	Location 280051 280055	Cisy
+T1663	Hour 280200 280217	onze heures juste
+T1664	Location 280233 280244	Deslauriers
+T1665	Location 280254 280261	Sénécal
+T1666	Location 280502 280513	Deslauriers
+T1667	Location 280576 280583	Sénécal
+T1668	Location 281040 281047	Sénécal
+T1669	Location 281181 281185	quoi
+T1670	Location 281298 281303	Mably
+T1671	Location 281305 281312	Morelly
+T1672	Location 281314 281321	Fourier
+T1673	Location 281323 281334	Saint-Simon
+T1674	Location 281336 281341	Comte
+T1675	Location 281343 281348	Cabet
+T1676	Person 281350 281361	Louis Blanc
+T1677	Location 281983 281990	Sénécal
+T1678	Person 282332 282341	Qu'est-ce
+T1679	Location 282441 282452	Deslauriers
+T1680	Location 282553 282559	Venise
+T1681	Person 282581 282589	Frédéric
+T1682	Location 282689 282696	Sénécal
+T1683	Location 282765 282776	Deslauriers
+T1684	Location 282845 282856	Monseigneur
+T1685	Location 282892 282902	Dussardier
+T1686	Location 283008 283012	Cisy
+T1687	Person 283308 283316	Frédéric
+T1688	Person 283347 283353	Arnoux
+T1689	Person 283355 283363	Pellerin
+T1690	Location 284003 284010	Sénécal
+T1691	Location 284121 284130	Buzançais
+T1692	Person 284635 284643	Frédéric
+T1693	Person 284733 284742	Dambreuse
+T1694	Location 284782 284789	Sénécal
+T1695	Location 285044 285051	Malthus
+T1696	Location 285075 285079	Cisy
+T1697	Organization 285126 285140	infâme Malthus
+T1698	Location 285146 285150	Cisy
+T1699	Location 285198 285205	Malthus
+T1700	Location 285816 285825	Hussonnet
+T1701	Person 285864 285872	Pellerin
+T1702	Organization 285916 285929	café Dagneaux
+T1703	Location 285981 285988	Fourier
+T1704	Location 286028 286039	Deslauriers
+T1705	Person 286162 286173	Saint-Simon
+T1706	Location 286306 286310	Cisy
+T1707	Location 286453 286461	Voltaire
+T1708	Location 286510 286517	Sénécal
+T1709	Location 286699 286708	Rochefort
+T1710	Location 286733 286744	Saint-Denis
+T1711	Organization 286795 286802	Sénécal
+T1712	Person 286852 286860	mon Dieu
+T1713	Location 287064 287068	Cisy
+T1714	Location 287080 287095	Saint-Ferdinand
+T1715	Location 287267 287277	Versailles
+T1716	Person 287290 287298	Pellerin
+T1717	Location 287384 287390	Louvre
+T1718	Location 287658 287664	Europe
+T1719	Location 287672 287679	Sénécal
+T1720	Location 287888 287895	Pouvoir
+T1721	Location 288206 288215	Hussonnet
+T1722	Location 288339 288350	Deslauriers
+T1723	Location 288638 288644	France
+T1724	Location 288725 288733	Mirabeau
+T1725	Location 288940 288949	Privilège
+T1726	Location 288951 288959	Monopole
+T1727	Organization 288961 288970	Direction
+T1728	Location 288972 288982	Hiérarchie
+T1729	Organization 288994 288998	Etat
+T1730	Location 289176 289186	Dussardier
+T1731	Location 289279 289285	Barbès
+T1732	Organization 289471 289478	Vatican
+T1733	Location 289588 289602	Louis-Philippe
+T1734	Location 289627 289635	Polonais
+T1735	Location 289661 289670	Hussonnet
+T1736	Location 289686 289693	Pologne
+T1737	Location 289732 289741	Lafayette
+T1738	Location 289748 289756	Polonais
+T1739	Location 289796 289809	Saint-Marceau
+T1740	Location 289993 289999	Nantes
+T1741	Location 290054 290061	Sénécal
+T1742	Location 290081 290089	Polonais
+T1743	Person 290335 290343	Frédéric
+T1744	Location 290397 290401	Cisy
+T1745	Location 290471 290478	Gymnase
+T1746	Location 290521 290528	Sénécal
+T1747	Person 290710 290721	Lola Montés
+T1748	Location 290737 290745	Rousseau
+T1749	Location 290886 290895	Hussonnet
+T1750	Location 290946 290955	Rosanette
+T1751	Location 291007 291013	Arnoux
+T1752	Location 291051 291057	manche
+T1753	Person 291066 291074	Pellerin
+T1754	Location 291135 291157	terrains de Belleville
+T1755	Location 291263 291273	Dussardier
+T1756	Person 291321 291330	Moussinot
+T1757	Person 291363 291369	Arnoux
+T1758	Person 291387 291401	Oscar Lefebvre
+T1759	Location 291578 291587	Maréchale
+T1760	Person 291617 291626	Louis XVI
+T1761	Person 291629 291637	Pellerin
+T1762	Person 291644 291655	Frédéric de
+T1763	Location 291704 291711	Sénécal
+T1764	Location 291756 291767	Deslauriers
+T1765	Location 291983 291992	Hussonnet
+T1766	Date 292321 292332	XIXe siècle
+T1767	Person 292335 292341	Balzac
+T1768	Person 292357 292362	Byron
+T1769	Location 292371 292375	Hugo
+T1770	Location 292434 292441	Sénécal
+T1771	Person 292510 292514	Cisy
+T1772	Person 292587 292595	Frédéric
+T1773	Location 292849 292859	Dussardier
+T1774	Person 293022 293049	Frédéric emmena Deslauriers
+T1775	Location 293250 293259	Hussonnet
+T1776	Person 293282 293290	Frédéric
+T1777	Hour 293484 293495	cinq heures
+T1778	Organization 293588 293598	Dussardier
+T1779	Person 293617 293625	Frédéric
+T1780	Location 293677 293686	Hussonnet
+T1781	Location 293727 293734	Sénécal
+T1782	Location 293774 293778	Cisy
+T1783	Location 293862 293870	Pellerin
+T1784	Location 293923 293934	Deslauriers
+T1785	Person 294011 294019	Frédéric
+T1786	Location 294265 294273	Pellerin
+T1787	Location 294280 294290	Dussardier
+T1788	Person 294295 294301	Arnoux
+T1789	Person 294386 294392	Arnoux
+T1790	Person 294624 294630	Arnoux
+T1791	Location 294650 294672	terrains de Belleville
+T1792	Location 294752 294760	Bretagne
+T1793	Person 295050 295056	Arnoux
+T1794	Person 295416 295424	Frédéric
+T1795	Person 295751 295757	Arnoux
+T1796	Person 295829 295837	Frédéric
+T1797	Person 295854 295860	Arnoux
+T1798	Person 295971 295976	Oudry
+T1799	Location 296078 296087	Maréchale
+T1800	Person 296268 296283	Frédéric jusqu'
+T1801	Person 296450 296455	Oudry
+T1802	Person 296503 296508	Oudry
+T1803	Person 296529 296537	Frédéric
+T1804	Person 296596 296602	Arnoux
+T1805	Person 296695 296703	Frédéric
+T1806	Location 296753 296762	Rosanette
+T1807	Location 296932 296941	Rosanette
+T1808	Person 297764 297775	Frédéric l'
+T1809	Person 298406 298414	Frédéric
+T1810	Person 298481 298487	Arnoux
+T1811	Location 298543 298549	Marthe
+T1812	Person 299171 299179	Frédéric
+T1813	Person 299519 299525	Arnoux
+T1814	Location 299720 299729	Rosanette
+T1815	Location 299950 299960	Montmartre
+T1816	Location 299999 300008	Rosanette
+T1817	Person 300035 300041	Arnoux
+T1818	Person 300343 300349	Arnoux
+T1819	Location 300433 300442	Maréchale
+T1820	Person 300454 300465	Frédéric de
+T1821	Person 300691 300697	Arnoux
+T1822	Location 301110 301119	Maréchale
+T1823	Person 301275 301283	Frédéric
+T1824	Person 301339 301344	Oudry
+T1825	Location 301364 301373	Rosanette
+T1826	Person 301767 301781	Frédéric pensa
+T1827	Person 301821 301827	Arnoux
+T1828	Person 302185 302191	Arnoux
+T1829	Location 302206 302214	Frédéric
+T1830	Person 302342 302348	Arnoux
+T1831	Person 302407 302416	Dambreuse
+T1832	Person 302430 302438	Frédéric
+T1833	Location 302613 302621	Pellerin
+T1834	Location 302753 302764	Deslauriers
+T1835	Location 302770 302779	Hussonnet
+T1836	Person 302982 302988	Arnoux
+T1837	Location 303049 303060	Deslauriers
+T1838	Location 303097 303104	Sénécal
+T1839	Person 303225 303233	Frédéric
+T1840	Person 303348 303357	Dambreuse
+T1841	Person 303366 303372	Arnoux
+T1842	Person 303444 303452	Frédéric
+T1843	Location 303475 303482	Sénécal
+T1844	Person 303943 303949	Arnoux
+T1845	Person 304439 304447	Frédéric
+T1846	Person 304596 304602	Arnoux
+T1847	Person 304685 304693	Frédéric
+T1848	Location 304735 304742	Sénécal
+T1849	Person 304918 304926	Frédéric
+T1850	Location 305042 305047	Creil
+T1851	Location 305049 305056	Sénécal
+T1852	Person 305178 305184	Arnoux
+T1853	Location 305292 305301	Rosanette
+T1854	Person 305481 305487	Arnoux
+T1855	Location 305570 305579	Rosanette
+T1856	Location 305616 305624	Frédéric
+T1857	Person 305773 305781	Frédéric
+T1858	Location 305836 305845	Maréchale
+T1859	Person 305887 305893	Delmar
+T1860	Person 306365 306371	Delmar
+T1861	Person 306517 306525	Frédéric
+T1862	Person 306740 306746	Delmar
+T1863	Person 306789 306797	Frédéric
+T1864	Person 306831 306837	Arnoux
+T1865	Location 307176 307185	Maréchale
+T1866	Organization 307899 307905	Eh oui
+T1867	Person 307928 307934	Arnoux
+T1868	Person 307944 307952	Frédéric
+T1869	Person 307974 307980	Arnoux
+T1870	Person 308139 308147	Frédéric
+T1871	Person 308685 308691	Arnoux
+T1872	Location 308762 308768	Vatnaz
+T1873	Location 309525 309535	Dussardier
+T1874	Person 309558 309566	Pellerin
+T1875	Location 309629 309638	Maréchale
+T1876	Location 309825 309834	Rosanette
+T1877	Person 309889 309895	Arnoux
+T1878	Organization 309943 309948	Grand
+T1879	Location 310084 310092	Pellerin
+T1880	Person 310969 310978	Rosanette
+T1881	Person 310995 311003	Frédéric
+T1882	Person 311439 311447	Frédéric
+T1883	Location 311630 311636	manche
+T1884	Location 312717 312726	Rosanette
+T1885	Location 313191 313200	Maréchale
+T1886	Location 313434 313445	Renaissance
+T1887	Location 313834 313843	Rosanette
+T1888	Person 313924 313932	Frédéric
+T1889	Location 314216 314220	Cité
+T1890	Location 314314 314324	Notre-Dame
+T1891	Location 314439 314448	Rosanette
+T1892	Location 314687 314696	Rosanette
+T1893	Location 315000 315014	rue de la Paix
+T1894	Person 315091 315099	Frédéric
+T1895	Organization 315205 315208	Qu'
+T1896	Person 315604 315610	Arnoux
+T1897	Location 315705 315714	Rosanette
+T1898	Person 315967 315975	Pellerin
+T1899	Person 316197 316202	Oudry
+T1900	Location 316498 316507	Maréchale
+T1901	Person 316592 316600	Frédéric
+T1902	Location 316918 316927	Hussonnet
+T1903	Location 316931 316942	Deslauriers
+T1904	Location 317585 317594	Hussonnet
+T1905	Location 317896 317901	Paris
+T1906	Location 318157 318166	Hussonnet
+T1907	Person 318418 318426	Frédéric
+T1908	Person 318976 318984	Frédéric
+T1909	Location 319010 319021	Deslauriers
+T1910	Person 319050 319058	Frédéric
+T1911	Person 319493 319501	Frédéric
+T1912	Person 319771 319779	Mon Dieu
+T1913	Person 319808 319816	Frédéric
+T1914	Location 319932 319938	Balzac
+T1915	Person 320154 320163	Dambreuse
+T1916	Person 320169 320177	Frédéric
+T1917	Location 320354 320365	Deslauriers
+T1918	Location 320432 320441	Hussonnet
+T1919	Person 320522 320530	Frédéric
+T1920	Person 320618 320626	Frédéric
+T1921	Location 320817 320828	Deslauriers
+T1922	Person 320984 320995	Deslauriers
+T1923	Location 321214 321223	Hussonnet
+T1924	Person 321368 321376	Frédéric
+T1925	Person 321632 321637	Roque
+T1926	Location 321735 321741	Louise
+T1927	Person 321848 321857	Dambreuse
+T1928	Person 322278 322284	Arnoux
+T1929	Person 322401 322410	Dambreuse
+T1930	Organization 322439 322453	Conseil d'Etat
+T1931	Person 322824 322827	Foy
+T1932	Location 322834 322848	Louis-Philippe
+T1933	Person 323001 323010	Dambreuse
+T1934	Person 323146 323154	Frédéric
+T1935	Person 323430 323438	Frédéric
+T1936	Person 323456 323461	Oudry
+T1937	Person 323525 323534	Dambreuse
+T1938	Person 323781 323789	Frédéric
+T1939	Location 323852 323861	Maréchale
+T1940	Location 323900 323904	Cher
+T1941	Person 324612 324620	Frédéric
+T1942	Person 324683 324692	Dambreuse
+T1943	Person 324734 324743	Dambreuse
+T1944	Person 326273 326282	Dambreuse
+T1945	Person 327533 327541	Frédéric
+T1946	Person 327640 327647	Lambert
+T1947	Location 327674 327682	Monsieur
+T1948	Person 327802 327810	Mon Dieu
+T1949	Location 327829 327835	Madame
+T1950	Person 328202 328210	Martinon
+T1951	Location 329206 329210	quoi
+T1952	Location 329261 329267	France
+T1953	Location 329328 329334	France
+T1954	Person 329500 329508	Martinon
+T1955	Organization 329666 329678	Reine Margot
+T1956	Location 330087 330095	Monsieur
+T1957	Date 330178 330182	1830
+T1958	Person 330397 330405	Martinon
+T1959	Location 330660 330667	Nemours
+T1960	Location 330718 330724	Thiers
+T1961	Date 330924 330930	12 mai
+T1962	Person 331210 331218	Frédéric
+T1963	Person 331374 331383	Dambreuse
+T1964	Person 332976 332984	Frédéric
+T1965	Location 333104 333113	Maréchale
+T1966	Person 333195 333204	Dambreuse
+T1967	Person 333876 333891	Juan de Molière
+T1968	Person 333977 333986	Dambreuse
+T1969	Person 334090 334098	Martinon
+T1970	Person 334175 334183	Frédéric
+T1971	Person 334295 334304	Dambreuse
+T1972	Person 334776 334784	Frédéric
+T1973	Person 334804 334813	Dambreuse
+T1974	Organization 334976 334990	Conseil d'Etat
+T1975	Person 335020 335028	Frédéric
+T1976	Person 335188 335193	Roque
+T1977	Person 335206 335214	Frédéric
+T1978	Location 335231 335237	Louise
+T1979	Person 335419 335425	Arnoux
+T1980	Person 335669 335678	Dambreuse
+T1981	Organization 335696 335710	Conseil d'Etat
+T1982	Person 335858 335874	Frédéric objecta
+T1983	Person 336265 336291	Dambreuse aperçut Martinon
+T1984	Person 336615 336623	Martinon
+T1985	Location 336673 336682	Champagne
+T1986	Person 336737 336746	Dambreuse
+T1987	Person 336906 336915	Dambreuse
+T1988	Person 336934 336942	Frédéric
+T1989	Person 337188 337197	Dambreuse
+T1990	Person 337263 337271	Martinon
+T1991	Person 337556 337564	Frédéric
+T1992	Person 337843 337852	Dambreuse
+T1993	Person 337885 337894	Dambreuse
+T1994	Person 338175 338183	Martinon
+T1995	Location 338290 338299	Maréchale
+T1996	Hour 338435 338446	neuf heures
+T1997	Person 338555 338563	Delphine
+T1998	Location 338592 338598	Madame
+T1999	Person 338615 338623	Frédéric
+T2000	Location 338809 338818	Rosanette
+T2001	Person 338995 339003	Frédéric
+T2002	Person 339130 339141	Mlle Vatnaz
+T2003	Person 339485 339491	Delmar
+T2004	Person 339522 339530	Frédéric
+T2005	Location 339634 339640	Vatnaz
+T2006	Person 339799 339807	mon Dieu
+T2007	Location 339991 339999	Monsieur
+T2008	Person 340392 340400	Frédéric
+T2009	Location 340448 340456	Jumillac
+T2010	Location 340463 340471	Flacourt
+T2011	Location 340500 340509	Bertinaux
+T2012	Location 340516 340528	Saint-Valéry
+T2013	Person 340643 340652	Qu'est-ce
+T2014	Person 341064 341072	mon Dieu
+T2015	Person 341402 341408	Arnoux
+T2016	Person 341574 341582	Frédéric
+T2017	Person 341613 341619	Delmar
+T2018	Person 341638 341644	Arnoux
+T2019	Location 341664 341673	Rosanette
+T2020	Location 341827 341831	Coup
+T2021	Person 341864 341875	Mlle Vatnaz
+T2022	Location 341930 341951	faubourg Poissonnière
+T2023	Location 342056 342060	quoi
+T2024	Person 342107 342115	Frédéric
+T2025	Person 342270 342276	Arnoux
+T2026	Location 342549 342555	Vatnaz
+T2027	Person 342640 342646	Delmar
+T2028	Person 342951 342959	Frédéric
+T2029	Person 343040 343046	Arnoux
+T2030	Person 343117 343123	Arnoux
+T2031	Location 343154 343160	Madame
+T2032	Person 343238 343246	Frédéric
+T2033	Person 343281 343287	Arnoux
+T2034	Person 343371 343379	Frédéric
+T2035	Person 343408 343414	Arnoux
+T2036	Location 343433 343439	Madame
+T2037	Person 343476 343491	monsieur Moreau
+T2038	Person 343609 343615	Arnoux
+T2039	Person 343841 343847	Arnoux
+T2040	Person 343963 343971	Frédéric
+T2041	Location 344125 344130	Creil
+T2042	Person 344232 344238	Arnoux
+T2043	Location 344456 344461	Laval
+T2044	Person 344492 344498	Arnoux
+T2045	Person 344688 344694	Arnoux
+T2046	Person 344760 344766	Arnoux
+T2047	Person 344789 344803	Jacques Arnoux
+T2048	Organization 345081 345090	Lesurques
+T2049	Person 345368 345374	Arnoux
+T2050	Person 345631 345637	Arnoux
+T2051	Person 345889 345897	Frédéric
+T2052	Person 345902 345910	Frédéric
+T2053	Person 345978 345983	Oudry
+T2054	Person 346063 346069	Arnoux
+T2055	Person 346307 346320	reprit Arnoux
+T2056	Person 346838 346844	Arnoux
+T2057	Person 347323 347331	Frédéric
+T2058	Person 347516 347524	Frédéric
+T2059	Person 347566 347572	Arnoux
+T2060	Person 348904 348912	Frédéric
+T2061	Person 348940 348946	Arnoux
+T2062	Person 349098 349104	Arnoux
+T2063	Person 349206 349214	Frédéric
+T2064	Person 349244 349250	Arnoux
+T2065	Location 349430 349439	Rosanette
+T2066	Person 349536 349544	Frédéric
+T2067	Person 349616 349621	Oudry
+T2068	Person 349682 349688	Arnoux
+T2069	Person 349858 349866	Frédéric
+T2070	Person 350132 350138	Arnoux
+T2071	Person 350250 350258	Frédéric
+T2072	Person 350516 350527	Mlle Marthe
+T2073	Person 350553 350559	Eugène
+T2074	Location 350644 350652	Monsieur
+T2075	Location 350656 350662	Madame
+T2076	Person 350726 350732	Arnoux
+T2077	Person 351031 351037	Arnoux
+T2078	Person 351269 351277	Frédéric
+T2079	Location 351396 351404	Chartres
+T2080	Person 351415 351421	Arnoux
+T2081	Person 351668 351676	Mon Dieu
+T2082	Location 351755 351761	Italie
+T2083	Person 351764 351770	Arnoux
+T2084	Person 352350 352358	Frédéric
+T2085	Location 352691 352697	Antony
+T2086	Person 353119 353125	Arnoux
+T2087	Location 354071 354078	Espagne
+T2088	Location 354083 354089	Suisse
+T2089	Location 354095 354101	Orient
+T2090	Hour 354533 354544	neuf heures
+T2091	Person 354591 354597	Arnoux
+T2092	Person 354626 354634	Frédéric
+T2093	Location 354713 354721	Monsieur
+T2094	Person 354786 354792	Arnoux
+T2095	Location 354881 354896	rue Sainte-Anne
+T2096	Location 354925 354934	Regimbart
+T2097	Location 354940 354947	Citoyen
+T2098	Location 355098 355107	Regimbart
+T2099	Location 355219 355226	Citoyen
+T2100	Person 355235 355241	Arnoux
+T2101	Person 355464 355470	Arnoux
+T2102	Location 355665 355674	Regimbart
+T2103	Location 355856 355866	Providence
+T2104	Location 356033 356043	Angleterre
+T2105	Person 356342 356348	Arnoux
+T2106	Person 356486 356494	Frédéric
+T2107	Person 356686 356692	Arnoux
+T2108	Person 356851 356859	Frédéric
+T2109	Person 356913 356919	Arnoux
+T2110	Organization 357254 357277	Conseil de surveillance
+T2111	Organization 357518 357524	Arnoux
+T2112	Person 357726 357734	Frédéric
+T2113	Location 357788 357799	rue Paradis
+T2114	Location 357833 357839	Madame
+T2115	Person 358013 358019	Arnoux
+T2116	Person 358115 358121	Eugène
+T2117	Person 358229 358235	Arnoux
+T2118	Location 358316 358322	Arnoux
+T2119	Person 358372 358380	Frédéric
+T2120	Person 358546 358552	Arnoux
+T2121	Organization 358922 358931	Maison d'
+T2122	Person 358939 358945	Arnoux
+T2123	Location 359055 359061	Arnoux
+T2124	Location 359163 359172	Maréchale
+T2125	Person 359348 359356	Frédéric
+T2126	Person 359675 359681	Arnoux
+T2127	Person 359715 359721	Arnoux
+T2128	Person 359796 359804	Frédéric
+T2129	Person 360164 360173	Dambreuse
+T2130	Location 360252 360260	houilles
+T2131	Person 360263 360271	Frédéric
+T2132	Location 360296 360307	Deslauriers
+T2133	Person 360365 360373	Pellerin
+T2134	Location 360463 360467	Cisy
+T2135	Location 360514 360523	Rosanette
+T2136	Person 360696 360702	Delmar
+T2137	Person 360783 360792	Louis XIV
+T2138	Person 361003 361014	Charles Ier
+T2139	Location 361029 361039	Salamanque
+T2140	Person 361052 361063	Philippe Il
+T2141	Location 361308 361316	Evangile
+T2142	Location 361403 361409	Brutus
+T2143	Location 361416 361424	Mirabeau
+T2144	Location 361446 361452	Delmar
+T2145	Location 361490 361496	Christ
+T2146	Person 361523 361532	Rosanette
+T2147	Person 361571 361576	Oudry
+T2148	Person 361624 361630	Arnoux
+T2149	Person 361883 361889	Arnoux
+T2150	Person 362275 362283	Frédéric
+T2151	Person 362352 362358	Arnoux
+T2152	Location 362379 362387	Monsieur
+T2153	Person 362435 362441	Arnoux
+T2154	Location 362895 362904	Maréchale
+T2155	Person 362979 362987	Frédéric
+T2156	Person 363101 363110	Qu'est-ce
+T2157	Person 363132 363138	Arnoux
+T2158	Person 363298 363306	Frédéric
+T2159	Person 363434 363440	Arnoux
+T2160	Person 363493 363501	Frédéric
+T2161	Location 363573 363582	Rosanette
+T2162	Location 363630 363634	quoi
+T2163	Person 363907 363913	Arnoux
+T2164	Person 364283 364291	Frédéric
+T2165	Person 364470 364476	Arnoux
+T2166	Person 364529 364543	chez Rosanette
+T2167	Location 364723 364734	Deslauriers
+T2168	Location 364812 364832	rue des Trois-Maries
+T2169	Location 365744 365753	Hussonnet
+T2170	Person 365893 365901	Frédéric
+T2171	Date 366008 366021	XVIIIe siècle
+T2172	Location 366042 366050	Rousseau
+T2173	Location 366333 366340	Pologne
+T2174	Person 366359 366363	Dieu
+T2175	Person 366419 366423	Dieu
+T2176	Organization 367184 367194	Code civil
+T2177	Location 367213 367217	quoi
+T2178	Location 367797 367800	toi
+T2179	Location 368125 368130	Mably
+T2180	Person 368204 368211	Wronski
+T2181	Location 368420 368426	Italie
+T2182	Person 368431 368444	Pierre Leroux
+T2183	Person 368493 368504	Louis Blanc
+T2184	Organization 368530 368534	Etat
+T2185	Location 368935 368939	quoi
+T2186	Person 369262 369270	Frédéric
+T2187	Location 369353 369360	Sénécal
+T2188	Location 369611 369614	toi
+T2189	Location 369732 369745	Conservatoire
+T2190	Location 370051 370062	Deslauriers
+T2191	Location 370554 370557	toi
+T2192	Location 370691 370696	Paris
+T2193	Person 370701 370709	Frédéric
+T2194	Location 370979 370990	Deslauriers
+T2195	Person 371011 371019	Frédéric
+T2196	Location 371304 371315	Deslauriers
+T2197	Person 372129 372140	Deslauriers
+T2198	Person 372479 372487	Frédéric
+T2199	Location 372546 372557	Deslauriers
+T2200	Location 373096 373099	toi
+T2201	Person 373246 373254	Frédéric
+T2202	Person 373646 373659	quai Voltaire
+T2203	Person 373773 373779	Arnoux
+T2204	Location 373875 373886	Deslauriers
+T2205	Person 373980 373988	Frédéric
+T2206	Person 374058 374064	Arnoux
+T2207	Organization 374148 374151	Qu'
+T2208	Location 374260 374275	rue Sainte-Anne
+T2209	Location 374322 374330	Vanneroy
+T2210	Location 374745 374753	Vanneroy
+T2211	Person 374874 374882	Frédéric
+T2212	Person 374942 374950	Mon Dieu
+T2213	Location 375004 375010	Arnoux
+T2214	Person 375407 375415	Frédéric
+T2215	Person 375450 375463	reprit Arnoux
+T2216	Person 375552 375560	mon Dieu
+T2217	Person 375762 375770	Frédéric
+T2218	Person 375773 375779	Arnoux
+T2219	Location 375843 375848	Paris
+T2220	Person 375893 375901	Frédéric
+T2221	Person 376109 376115	Arnoux
+T2222	Location 376324 376332	Vanneroy
+T2223	Person 376592 376600	Frédéric
+T2224	Location 376694 376705	Deslauriers
+T2225	Person 376760 376766	Arnoux
+T2226	Person 376794 376803	Dambreuse
+T2227	Location 376921 376929	houilles
+T2228	Person 377007 377015	Frédéric
+T2229	Person 377092 377101	Dambreuse
+T2230	Person 377351 377362	Deslauriers
+T2231	Hour 377486 377497	cinq heures
+T2232	Location 378293 378299	Arnoux
+T2233	Person 378376 378384	Frédéric
+T2234	Location 378432 378443	Deslauriers
+T2235	Organization 378473 378479	Avocat
+T2236	Location 378582 378587	Havre
+T2237	Person 378649 378657	Frédéric
+T2238	Person 378686 378692	Arnoux
+T2239	Person 378719 378725	Arnoux
+T2240	Person 378771 378779	Frédéric
+T2241	Person 378845 378856	Deslauriers
+T2242	Location 378902 378911	Madeleine
+T2243	Person 378965 378979	Deslauriers J'
+T2244	Location 379029 379050	faubourg Poissonnière
+T2245	Person 379121 379129	Frédéric
+T2246	Person 379142 379148	Arnoux
+T2247	Location 379277 379291	rue Hauteville
+T2248	Location 379312 379326	rue de Chabrol
+T2249	Person 379383 379389	Arnoux
+T2250	Organization 379430 379450	Galeries du Commerce
+T2251	Location 379515 379526	Saint-Denis
+T2252	Location 379530 379538	Châtelet
+T2253	Person 379729 379737	Frédéric
+T2254	Location 379759 379770	Deslauriers
+T2255	Person 379990 379996	Arnoux
+T2256	Location 380185 380196	Deslauriers
+T2257	Person 380205 380213	Frédéric
+T2258	Person 380306 380314	Frédéric
+T2259	Location 380352 380356	quoi
+T2260	Location 380376 380387	Deslauriers
+T2261	Person 380439 380445	Arnoux
+T2262	Location 380639 380648	Rosanette
+T2263	Location 380673 380679	Arnoux
+T2264	Person 381074 381082	Frédéric
+T2265	Person 381109 381115	Arnoux
+T2266	Location 381288 381293	Adieu
+T2267	Person 381302 381310	Frédéric
+T2268	Person 381313 381319	Arnoux
+T2269	Person 381463 381471	Frédéric
+T2270	Location 381496 381501	Adieu
+T2271	Location 381530 381535	Bréda
+T2272	Location 381581 381587	Arnoux
+T2273	Person 381873 381881	Frédéric
+T2274	Person 382070 382076	Arnoux
+T2275	Location 382302 382313	Deslauriers
+T2276	Location 382326 382341	rue des Martyrs
+T2277	Person 382555 382563	Frédéric
+T2278	Location 382706 382713	Sénécal
+T2279	Person 382747 382753	Arnoux
+T2280	Location 382864 382873	Maréchale
+T2281	Person 382891 382899	Frédéric
+T2282	Location 383063 383074	Renaissance
+T2283	Location 383214 383226	Marc-Antoine
+T2284	Person 383530 383536	Arnoux
+T2285	Person 383615 383621	Eugène
+T2286	Person 383759 383767	Frédéric
+T2287	Person 383920 383926	Arnoux
+T2288	Person 383942 383950	Frédéric
+T2289	Location 384219 384226	Espagne
+T2290	Person 384504 384512	Frédéric
+T2291	Person 384891 384900	Dambreuse
+T2292	Person 385039 385045	Arnoux
+T2293	Person 385298 385307	Dambreuse
+T2294	Location 385398 385406	Chartres
+T2295	Person 385469 385477	Frédéric
+T2296	Person 385897 385905	Frédéric
+T2297	Person 385926 385932	Arnoux
+T2298	Person 386507 386515	Frédéric
+T2299	Person 386647 386653	Arnoux
+T2300	Person 386855 386863	Frédéric
+T2301	Person 387286 387294	Frédéric
+T2302	Person 387556 387562	Arnoux
+T2303	Hour 387993 388004	onze heures
+T2304	Person 388029 388038	Dambreuse
+T2305	Person 388236 388245	Dambreuse
+T2306	Location 388324 388328	quoi
+T2307	Person 388371 388379	Frédéric
+T2308	Person 388466 388472	Arnoux
+T2309	Person 388583 388588	Oudry
+T2310	Person 389038 389046	Frédéric
+T2311	Person 389083 389094	chez Arnoux
+T2312	Person 389122 389131	Dambreuse
+T2313	Location 389134 389140	Madame
+T2314	Person 389200 389208	Martinon
+T2315	Person 389431 389440	miss John
+T2316	Person 389506 389515	Dambreuse
+T2317	Person 389596 389605	Regimbart
+T2318	Location 389620 389629	Regimbart
+T2319	Person 389686 389694	Frédéric
+T2320	Person 389722 389728	Arnoux
+T2321	Person 389885 389894	Dambreuse
+T2322	Person 389971 389979	Frédéric
+T2323	Person 390238 390247	Dambreuse
+T2324	Person 390350 390358	Frédéric
+T2325	Person 390401 390410	Dambreuse
+T2326	Organization 390645 390683	Union générale des Houilles françaises
+T2327	Location 391310 391316	France
+T2328	Organization 391550 391554	Etat
+T2329	Person 392338 392346	Frédéric
+T2330	Location 392574 392579	Paris
+T2331	Organization 392716 392731	Conseil général
+T2332	Person 392767 392775	Frédéric
+T2333	Person 393148 393156	Frédéric
+T2334	Person 393161 393169	Mon Dieu
+T2335	Person 393281 393290	Dambreuse
+T2336	Person 393398 393407	Dambreuse
+T2337	Person 393507 393521	Jacques Arnoux
+T2338	Person 393606 393614	Frédéric
+T2339	Person 393627 393633	Arnoux
+T2340	Person 393946 393952	Arnoux
+T2341	Person 394289 394298	Dambreuse
+T2342	Person 394381 394387	Arnoux
+T2343	Location 394585 394596	rue Paradis
+T2344	Person 394599 394605	Arnoux
+T2345	Location 394629 394635	Madame
+T2346	Location 394693 394701	Monsieur
+T2347	Person 394856 394865	Dambreuse
+T2348	Person 395288 395296	Frédéric
+T2349	Location 395463 395468	Creil
+T2350	Location 396093 396097	Oise
+T2351	Person 396182 396190	Frédéric
+T2352	Person 396226 396232	Arnoux
+T2353	Person 396450 396458	Frédéric
+T2354	Person 396502 396508	Arnoux
+T2355	Person 396513 396522	Qu'est-ce
+T2356	Person 396540 396546	Arnoux
+T2357	Location 396663 396670	Milliet
+T2358	Person 396798 396806	Frédéric
+T2359	Location 396919 396928	Boucherie
+T2360	Location 397049 397055	Arnoux
+T2361	Location 397077 397087	Montataire
+T2362	Person 397090 397098	Frédéric
+T2363	Person 397372 397377	Pilon
+T2364	Person 397424 397429	Pilon
+T2365	Person 397441 397449	Frédéric
+T2366	Person 398384 398392	Frédéric
+T2367	Person 398573 398587	Jacques Arnoux
+T2368	Location 398617 398622	Creil
+T2369	Location 399136 399143	Sénécal
+T2370	Person 399288 399296	Frédéric
+T2371	Person 399423 399429	Arnoux
+T2372	Location 399510 399517	Sénécal
+T2373	Location 399629 399634	Paris
+T2374	Person 399759 399765	Arnoux
+T2375	Location 400031 400038	Sénécal
+T2376	Person 400119 400130	Frédéric de
+T2377	Person 400501 400507	Arnoux
+T2378	Person 400945 400953	Frédéric
+T2379	Person 401496 401504	Frédéric
+T2380	Person 401798 401815	Frédéric balbutia
+T2381	Location 402561 402567	Arnoux
+T2382	Location 402946 402957	Renaissance
+T2383	Person 403390 403401	Mlle Marthe
+T2384	Location 403616 403619	toi
+T2385	Person 403695 403701	Arnoux
+T2386	Person 403709 403717	Frédéric
+T2387	Person 404010 404018	Frédéric
+T2388	Person 404528 404534	Arnoux
+T2389	Person 404962 404968	Arnoux
+T2390	Person 405356 405364	Frédéric
+T2391	Person 405705 405711	Arnoux
+T2392	Person 405897 405905	Frédéric
+T2393	Person 405934 405942	mon Dieu
+T2394	Location 405965 405972	Sénécal
+T2395	Location 406182 406189	Sénécal
+T2396	Person 406625 406633	Frédéric
+T2397	Person 406675 406681	Arnoux
+T2398	Location 406828 406835	Sénécal
+T2399	Person 407136 407144	Frédéric
+T2400	Person 407208 407214	Arnoux
+T2401	Person 407256 407263	Sénécal
+T2402	Person 407426 407434	Frédéric
+T2403	Person 407470 407476	Arnoux
+T2404	Location 407680 407687	Sénécal
+T2405	Location 408697 408704	Sénécal
+T2406	Person 409018 409027	Qu'est-ce
+T2407	Location 409133 409140	Sénécal
+T2408	Person 409336 409342	Arnoux
+T2409	Person 409408 409416	Frédéric
+T2410	Person 409686 409694	Frédéric
+T2411	Person 409701 409707	Arnoux
+T2412	Location 409724 409731	Sénécal
+T2413	Person 409797 409805	Frédéric
+T2414	Person 409959 409965	Arnoux
+T2415	Location 410176 410183	Sénécal
+T2416	Person 410276 410282	Arnoux
+T2417	Person 410549 410557	Frédéric
+T2418	Location 410601 410607	Musset
+T2419	Person 410775 410781	Arnoux
+T2420	Location 410983 410989	Phèdre
+T2421	Location 410991 410996	Didon
+T2422	Location 410998 411003	Roméo
+T2423	Person 411117 411123	Arnoux
+T2424	Person 411906 411912	Arnoux
+T2425	Organization 412147 412150	Qu'
+T2426	Person 412701 412709	Frédéric
+T2427	Person 412734 412740	Marthe
+T2428	Location 413806 413811	Paris
+T2429	Person 413933 413939	Arnoux
+T2430	Person 414151 414153	A.
+T2431	Person 414288 414296	Frédéric
+T2432	Location 414489 414498	Maréchale
+T2433	Person 414625 414633	Frédéric
+T2434	Person 415151 415157	Arnoux
+T2435	Location 415266 415275	Maréchale
+T2436	Person 415516 415524	Frédéric
+T2437	Location 415802 415810	Delphine
+T2438	Location 415815 415821	Madame
+T2439	Person 416031 416039	Frédéric
+T2440	Location 416213 416222	Maréchale
+T2441	Person 416318 416329	chez Arnoux
+T2442	Person 416374 416382	Frédéric
+T2443	Location 416520 416524	quoi
+T2444	Person 416574 416582	Frédéric
+T2445	Person 416701 416707	Delmar
+T2446	Person 416799 416807	Frédéric
+T2447	Location 416868 416873	Bréda
+T2448	Person 417263 417271	Frédéric
+T2449	Location 417321 417330	Maréchale
+T2450	Person 417642 417650	Frédéric
+T2451	Location 417844 417853	Maréchale
+T2452	Location 418136 418156	place de la Concorde
+T2453	Location 418262 418271	Rosanette
+T2454	Location 418283 418288	Liban
+T2455	Location 418298 418303	Chine
+T2456	Person 418350 418361	Frédéric de
+T2457	Location 418463 418467	Iéna
+T2458	Location 418514 418518	Mars
+T2459	Location 418566 418576	Hippodrome
+T2460	Person 419412 419429	Algérien Bou-Maza
+T2461	Location 419538 419544	Jockey
+T2462	Location 420180 420189	Rosanette
+T2463	Person 420242 420250	Frédéric
+T2464	Person 420941 420945	Tibi
+T2465	Person 420951 420960	Tom Pouce
+T2466	Location 421220 421229	Maréchale
+T2467	Person 421259 421267	Frédéric
+T2468	Location 421317 421326	Rosanette
+T2469	Person 421455 421463	Frédéric
+T2470	Person 421603 421609	Arnoux
+T2471	Location 421761 421770	Rosanette
+T2472	Person 421847 421855	Frédéric
+T2473	Location 421888 421892	Cisy
+T2474	Location 421897 421904	Bonjour
+T2475	Location 421934 421943	Hussonnet
+T2476	Person 421975 421983	Frédéric
+T2477	Location 422035 422044	Maréchale
+T2478	Location 422089 422093	Cisy
+T2479	Location 422504 422508	Mars
+T2480	Location 422644 422653	Champagne
+T2481	Location 422703 422712	Maréchale
+T2482	Person 422928 422936	Frédéric
+T2483	Organization 423046 423050	Cisy
+T2484	Location 423082 423091	Rosanette
+T2485	Location 423628 423638	Hippodrome
+T2486	Location 423719 423723	Mars
+T2487	Person 424883 424898	Georgine Aubert
+T2488	Organization 424938 424946	Louis XI
+T2489	Location 425164 425173	Remoussot
+T2490	Person 425269 425284	Thérèse Bachelu
+T2491	Location 425447 425456	Maréchale
+T2492	Location 425669 425677	Frédéric
+T2493	Location 425825 425829	Cisy
+T2494	Location 426037 426046	Maréchale
+T2495	Person 426121 426129	Frédéric
+T2496	Person 426237 426243	Arnoux
+T2497	Location 426310 426319	Rosanette
+T2498	Organization 426391 426401	Ohé là-bas
+T2499	Person 426519 426527	Frédéric
+T2500	Location 426578 426582	Cisy
+T2501	Location 426677 426686	Rosanette
+T2502	Person 426790 426798	Frédéric
+T2503	Location 426849 426853	Cisy
+T2504	Location 426864 426873	Maréchale
+T2505	Location 426960 426969	Hussonnet
+T2506	Person 427139 427147	Frédéric
+T2507	Location 427757 427766	Hussonnet
+T2508	Person 427811 427819	Frédéric
+T2509	Location 427859 427868	Maréchale
+T2510	Person 428099 428108	Dambreuse
+T2511	Person 428133 428141	Martinon
+T2512	Person 428249 428257	Frédéric
+T2513	Location 428260 428269	Rosanette
+T2514	Person 428323 428329	Arnoux
+T2515	Location 428442 428456	Champs-Elysées
+T2516	Location 429125 429132	Bonjour
+T2517	Person 429252 429260	Frédéric
+T2518	Location 429264 429273	Rosanette
+T2519	Location 430308 430323	Arc de triomphe
+T2520	Person 430815 430823	Frédéric
+T2521	Location 431100 431113	Garde-Meubles
+T2522	Location 431154 431164	rue Royale
+T2523	Person 431550 431558	Frédéric
+T2524	Location 431590 431601	Deslauriers
+T2525	Location 431655 431664	Rosanette
+T2526	Person 431784 431792	Frédéric
+T2527	Location 431909 431912	toi
+T2528	Location 432288 432297	Maréchale
+T2529	Person 432671 432679	Frédéric
+T2530	Organization 432684 432703	Pourquoi me fais-tu
+T2531	Person 432746 432752	Arnoux
+T2532	Location 433174 433183	Hussonnet
+T2533	Location 433206 433215	Maréchale
+T2534	Location 433361 433370	Hussonnet
+T2535	Location 433870 433874	Ozai
+T2536	Organization 433972 433977	Opéra
+T2537	Organization 434000 434005	Opéra
+T2538	Person 434142 434150	Frédéric
+T2539	Location 434193 434200	Espagne
+T2540	Location 434266 434272	France
+T2541	Person 434301 434313	Edgar Quinet
+T2542	Location 434317 434327	Mickiewicz
+T2543	Location 434334 434343	Hussonnet
+T2544	Person 434362 434372	De Maistre
+T2545	Person 434729 434737	Frédéric
+T2546	Location 434941 434950	Rosanette
+T2547	Location 435030 435039	Hussonnet
+T2548	Location 435111 435120	Hussonnet
+T2549	Person 435200 435208	Frédéric
+T2550	Location 435299 435305	Madame
+T2551	Location 435397 435406	Rosanette
+T2552	Person 435572 435578	Arnoux
+T2553	Location 435750 435759	Maréchale
+T2554	Location 435787 435791	Cisy
+T2555	Person 435887 435895	Frédéric
+T2556	Location 435970 435979	Maréchale
+T2557	Location 436100 436109	Richelieu
+T2558	Location 436131 436138	Orléans
+T2559	Location 436157 436164	Orléans
+T2560	Location 436177 436181	Cisy
+T2561	Location 436265 436273	Chambord
+T2562	Person 436311 436319	Frédéric
+T2563	Location 436325 436334	Maréchale
+T2564	Location 436712 436721	Bourgogne
+T2565	Person 436770 436778	Frédéric
+T2566	Location 437242 437246	Cisy
+T2567	Location 437257 437264	Baucher
+T2568	Person 437266 437274	Frédéric
+T2569	Location 437286 437290	Aure
+T2570	Location 437298 437307	Rosanette
+T2571	Person 437338 437346	mon Dieu
+T2572	Location 437374 437377	toi
+T2573	Person 437818 437826	Frédéric
+T2574	Person 437989 437998	Dambreuse
+T2575	Location 438011 438015	Cisy
+T2576	Person 438094 438103	Dambreuse
+T2577	Location 438146 438153	Boutron
+T2578	Location 438269 438273	Cisy
+T2579	Person 438304 438313	Dambreuse
+T2580	Person 438341 438349	Frédéric
+T2581	Person 438423 438432	Dambreuse
+T2582	Location 438447 438454	Boutron
+T2583	Location 438538 438547	Maréchale
+T2584	Location 438592 438598	manche
+T2585	Person 438696 438707	Frédéric l'
+T2586	Location 438851 438860	Hussonnet
+T2587	Location 438944 438948	Cisy
+T2588	Location 438962 438966	Cisy
+T2589	Location 439406 439415	Maréchale
+T2590	Person 439449 439457	Frédéric
+T2591	Location 439719 439728	Maréchale
+T2592	Location 439745 439749	Cisy
+T2593	Location 439933 439942	Hussonnet
+T2594	Location 439956 439960	quoi
+T2595	Person 439985 439994	Qu'est-ce
+T2596	Location 440114 440123	Hussonnet
+T2597	Location 440243 440251	Flambard
+T2598	Location 440417 440428	Deslauriers
+T2599	Person 440490 440498	Frédéric
+T2600	Location 440562 440571	Hussonnet
+T2601	Location 440621 440626	Adieu
+T2602	Person 440653 440661	Frédéric
+T2603	Location 440816 440824	Martinon
+T2604	Person 441073 441081	Frédéric
+T2605	Location 441175 441186	Monseigneur
+T2606	Person 441241 441249	Frédéric
+T2607	Location 441362 441366	Cisy
+T2608	Location 441379 441388	Maréchale
+T2609	Location 441620 441629	Maréchale
+T2610	Person 441701 441707	Arnoux
+T2611	Location 441727 441731	quoi
+T2612	Hour 441762 441773	huit heures
+T2613	Person 441775 441783	Pellerin
+T2614	Location 442037 442046	Géricault
+T2615	Location 442063 442072	Parthénon
+T2616	Location 442076 442085	Rosanette
+T2617	Person 442159 442167	Frédéric
+T2618	Location 442434 442443	Rosanette
+T2619	Person 442489 442495	Delmar
+T2620	Location 442539 442547	Pellerin
+T2621	Location 443016 443025	Maréchale
+T2622	Person 443544 443555	Frédéric de
+T2623	Location 443596 443605	Maréchale
+T2624	Location 443633 443642	Maréchale
+T2625	Location 443830 443839	Maréchale
+T2626	Person 443906 443912	Arnoux
+T2627	Location 443986 443992	Arnoux
+T2628	Person 444001 444009	Frédéric
+T2629	Location 444139 444148	Rosanette
+T2630	Person 444241 444249	Pellerin
+T2631	Person 444450 444458	Frédéric
+T2632	Location 444903 444910	Sénécal
+T2633	Person 444925 444933	Frédéric
+T2634	Organization 444978 444981	Qu'
+T2635	Location 444995 445002	Sénécal
+T2636	Hour 445039 445050	neuf heures
+T2637	Person 445056 445062	Arnoux
+T2638	Location 445098 445103	Paris
+T2639	Location 445165 445170	Creil
+T2640	Person 445348 445354	Arnoux
+T2641	Person 445726 445734	Frédéric
+T2642	Location 445751 445758	Sénécal
+T2643	Location 445777 445784	Sénécal
+T2644	Person 445888 445896	Frédéric
+T2645	Location 445938 445942	quoi
+T2646	Location 445979 445986	Sénécal
+T2647	Person 446089 446098	Dambreuse
+T2648	Location 446130 446141	Deslauriers
+T2649	Location 446159 446170	Deslauriers
+T2650	Person 446244 446253	Dambreuse
+T2651	Location 446286 446290	Mars
+T2652	Person 446526 446532	Arnoux
+T2653	Person 446561 446569	Frédéric
+T2654	Location 446676 446683	Sénécal
+T2655	Location 446874 446880	Bénier
+T2656	Location 447043 447049	manche
+T2657	Organization 447145 447166	Notre-Dame de Lorette
+T2658	Person 447240 447258	Godefroy Cavaignac
+T2659	Location 447339 447346	Sénécal
+T2660	Person 447571 447579	Frédéric
+T2661	Location 447647 447652	Havre
+T2662	Organization 447768 447772	Etat
+T2663	Location 447954 447963	Hussonnet
+T2664	Location 448018 448027	Maréchale
+T2665	Location 448074 448078	Cisy
+T2666	Person 448080 448088	Frédéric
+T2667	Location 448203 448207	Cisy
+T2668	Person 448317 448325	Frédéric
+T2669	Person 448392 448419	Charles-Jean-Baptiste Oudry
+T2670	Location 448525 448535	Belleville
+T2671	Person 448557 448571	Jacques Arnoux
+T2672	Person 448808 448816	Frédéric
+T2673	Person 448940 448946	Arnoux
+T2674	Person 449009 449017	Frédéric
+T2675	Location 449093 449097	quoi
+T2676	Location 449252 449261	Hussonnet
+T2677	Location 449524 449528	quoi
+T2678	Organization 449563 449572	Maison d'
+T2679	Location 449577 449581	Cisy
+T2680	Person 449731 449754	Anselme de Forchambeaux
+T2681	Person 449883 449897	Joseph Boffreu
+T2682	Person 449946 449951	Vezou
+T2683	Location 450135 450139	Cisy
+T2684	Location 450180 450187	Comaing
+T2685	Hour 450292 450303	huit heures
+T2686	Location 450400 450404	Cisy
+T2687	Location 451023 451027	York
+T2688	Location 451566 451570	Cisy
+T2689	Location 451675 451687	Palais-Royal
+T2690	Location 451694 451698	Père
+T2691	Location 451702 451709	Portier
+T2692	Location 451971 451980	Saintonge
+T2693	Location 452159 452163	Cisy
+T2694	Location 452463 452467	Cisy
+T2695	Location 452763 452767	Cisy
+T2696	Location 452893 452897	Cité
+T2697	Location 452940 452945	Paris
+T2698	Person 453595 453603	Frédéric
+T2699	Location 453637 453641	Cisy
+T2700	Person 453864 453870	Joseph
+T2701	Location 453934 453938	Cisy
+T2702	Location 454460 454467	Comaing
+T2703	Location 454689 454693	Cisy
+T2704	Person 454971 454979	Frédéric
+T2705	Location 455086 455090	Cisy
+T2706	Location 455106 455115	Maréchale
+T2707	Person 455163 455169	Arnoux
+T2708	Location 455388 455393	Baron
+T2709	Person 455542 455550	Frédéric
+T2710	Location 455602 455606	quoi
+T2711	Location 455627 455632	Baron
+T2712	Location 455664 455668	Cisy
+T2713	Person 455730 455738	Mon Dieu
+T2714	Person 455932 455940	Frédéric
+T2715	Location 455991 455995	Cisy
+T2716	Person 456049 456057	Frédéric
+T2717	Location 456157 456162	Baron
+T2718	Location 456191 456200	Rosanette
+T2719	Person 456249 456255	Arnoux
+T2720	Location 456288 456292	Cisy
+T2721	Person 456413 456421	Frédéric
+T2722	Person 456511 456519	Frédéric
+T2723	Person 456538 456544	Arnoux
+T2724	Person 456737 456745	Frédéric
+T2725	Person 457004 457017	Sophie Arnoux
+T2726	Location 457067 457071	Cisy
+T2727	Person 457234 457242	Frédéric
+T2728	Person 457724 457730	Joseph
+T2729	Location 457823 457828	Baron
+T2730	Person 458096 458102	Arnoux
+T2731	Person 458111 458117	Arnoux
+T2732	Location 458122 458131	Rosanette
+T2733	Location 458214 458222	Frédéric
+T2734	Person 458331 458337	Joseph
+T2735	Location 458380 458385	Baron
+T2736	Location 458420 458424	Cisy
+T2737	Person 458484 458492	Frédéric
+T2738	Location 458581 458586	Baron
+T2739	Location 458630 458638	Monsieur
+T2740	Location 458746 458754	Monsieur
+T2741	Person 458759 458767	Frédéric
+T2742	Location 459054 459063	Regimbart
+T2743	Location 459125 459136	Saint-Denis
+T2744	Location 459524 459533	Regimbart
+T2745	Person 459681 459689	Frédéric
+T2746	Location 459755 459762	Citoyen
+T2747	Person 460105 460121	objecta Frédéric
+T2748	Location 460222 460229	Citoyen
+T2749	Person 460350 460359	Qu'est-ce
+T2750	Location 460394 460405	Ecoutez-moi
+T2751	Location 460612 460626	La Fougère non
+T2752	Person 460744 460757	Père Vauthier
+T2753	Organization 461115 461123	muraille
+T2754	Location 461291 461299	Théodore
+T2755	Person 461385 461394	Regimbart
+T2756	Person 461427 461435	Frédéric
+T2757	Location 461457 461467	Dussardier
+T2758	Person 461845 461853	Frédéric
+T2759	Location 461918 461923	Baron
+T2760	Person 461930 461936	Joseph
+T2761	Location 462009 462018	Regimbart
+T2762	Location 462097 462103	Arnoux
+T2763	Person 462105 462113	Frédéric
+T2764	Person 462201 462208	Comaing
+T2765	Location 462244 462251	Citoyen
+T2766	Location 462418 462422	Cisy
+T2767	Location 462440 462449	Regimbart
+T2768	Location 462609 462616	Citoyen
+T2769	Location 462866 462871	Orsay
+T2770	Person 462879 462886	Comaing
+T2771	Location 463040 463047	Citoyen
+T2772	Location 463123 463127	quoi
+T2773	Location 463247 463251	Cisy
+T2774	Person 463261 463269	Frédéric
+T2775	Person 463423 463430	H. Tous
+T2776	Location 463451 463455	Cisy
+T2777	Location 463457 463466	Regimbart
+T2778	Location 463470 463480	Dussardier
+T2779	Person 463636 463643	Comaing
+T2780	Location 463671 463680	Regimbart
+T2781	Location 463863 463868	Baron
+T2782	Location 463878 463882	Cisy
+T2783	Location 464114 464119	Baron
+T2784	Location 464378 464391	porte Maillot
+T2785	Location 464415 464425	Dussardier
+T2786	Location 464476 464485	Regimbart
+T2787	Person 464500 464508	Frédéric
+T2788	Location 464641 464648	Citoyen
+T2789	Person 464866 464874	Frédéric
+T2790	Organization 465699 465704	Opéra
+T2791	Location 466188 466192	Cisy
+T2792	Location 466213 466218	Baron
+T2793	Person 466220 466226	Joseph
+T2794	Location 466373 466377	Cisy
+T2795	Person 466507 466515	Frédéric
+T2796	Location 466677 466685	Boulogne
+T2797	Location 467131 467140	Saintonge
+T2798	Location 467240 467244	Cisy
+T2799	Person 467266 467271	Vezou
+T2800	Person 467341 467349	mon Dieu
+T2801	Location 467405 467410	Comte
+T2802	Location 467526 467530	Cisy
+T2803	Person 467925 467930	Vezou
+T2804	Person 468234 468246	De profundis
+T2805	Person 468426 468431	Vezou
+T2806	Location 468463 468467	Cisy
+T2807	Location 468821 468828	Comaing
+T2808	Location 469024 469029	Baron
+T2809	Person 469151 469157	Joseph
+T2810	Location 469261 469265	Cisy
+T2811	Location 469401 469406	Baron
+T2812	Person 469446 469452	Joseph
+T2813	Location 469590 469603	porte Maillot
+T2814	Person 469605 469613	Frédéric
+T2815	Location 469678 469687	Regimbart
+T2816	Location 469910 469918	Boulogne
+T2817	Location 469936 469942	Madrid
+T2818	Location 469984 469993	Regimbart
+T2819	Location 470000 470008	Frédéric
+T2820	Location 470036 470046	Dussardier
+T2821	Person 470261 470269	Frédéric
+T2822	Location 470694 470698	Cisy
+T2823	Location 471232 471241	Bagatelle
+T2824	Location 471475 471484	Regimbart
+T2825	Location 471717 471721	Cisy
+T2826	Location 471783 471790	Citoyen
+T2827	Location 471933 471940	Comaing
+T2828	Person 472059 472067	Frédéric
+T2829	Person 472109 472115	Joseph
+T2830	Location 472121 472125	Cisy
+T2831	Location 472238 472247	Regimbart
+T2832	Location 472263 472270	Comaing
+T2833	Person 472287 472295	Frédéric
+T2834	Location 472458 472467	Regimbart
+T2835	Location 472515 472520	Baron
+T2836	Location 472536 472544	Frédéric
+T2837	Location 472571 472579	Monsieur
+T2838	Location 472641 472651	Dussardier
+T2839	Location 472678 472685	Citoyen
+T2840	Location 472891 472895	Cisy
+T2841	Person 473051 473057	Joseph
+T2842	Person 473234 473242	Frédéric
+T2843	Location 473574 473581	Comaing
+T2844	Location 473695 473699	Cisy
+T2845	Location 473813 473820	Citoyen
+T2846	Location 473826 473831	Baron
+T2847	Person 473861 473867	Arnoux
+T2848	Person 473924 473928	Dieu
+T2849	Person 473954 473962	Frédéric
+T2850	Location 474264 474269	Baron
+T2851	Person 474285 474291	Joseph
+T2852	Location 474622 474629	Comaing
+T2853	Person 474633 474639	Joseph
+T2854	Person 474666 474674	Frédéric
+T2855	Location 474735 474741	Madrid
+T2856	Person 474760 474766	Arnoux
+T2857	Location 474855 474864	Regimbart
+T2858	Location 474873 474883	Dussardier
+T2859	Location 475036 475043	Citoyen
+T2860	Person 475113 475119	Arnoux
+T2861	Location 475158 475165	Compain
+T2862	Location 475174 475183	Regimbart
+T2863	Person 475290 475301	Frédéric de
+T2864	Person 475342 475350	Frédéric
+T2865	Person 475465 475471	Arnoux
+T2866	Location 475585 475592	Citoyen
+T2867	Person 475734 475742	Frédéric
+T2868	Person 475926 475932	Arnoux
+T2869	Location 475951 475958	Citoyen
+T2870	Person 475980 475988	Frédéric
+T2871	Person 476209 476215	Arnoux
+T2872	Location 476439 476446	Citoyen
+T2873	Person 476542 476555	reprit Arnoux
+T2874	Location 476701 476708	Citoyen
+T2875	Person 476825 476831	Arnoux
+T2876	Location 476882 476891	Regimbart
+T2877	Person 477105 477113	Frédéric
+T2878	Location 477308 477318	Dussardier
+T2879	Person 477424 477432	Frédéric
+T2880	Location 477458 477464	Thiers
+T2881	Organization 477488 477510	Girondins de Lamartine
+T2882	Location 477772 477779	Sénécal
+T2883	Location 477856 477866	Dussardier
+T2884	Location 477908 477915	Sénécal
+T2885	Location 478006 478010	Lyon
+T2886	Location 478061 478068	Chalier
+T2887	Location 478088 478093	Paris
+T2888	Location 478334 478341	Alibaud
+T2889	Location 478789 478799	Montmartre
+T2890	Location 478848 478858	Dussardier
+T2891	Location 478996 479011	rue Transnonain
+T2892	Location 479402 479409	Pouvoir
+T2893	Location 479544 479551	Sénécal
+T2894	Organization 479570 479573	Qu'
+T2895	Organization 479710 479719	Les Pairs
+T2896	Location 479840 479857	Mont-Saint-Michel
+T2897	Person 479896 479902	Austen
+T2898	Location 479956 479962	Barbès
+T2899	Location 480409 480419	Luxembourg
+T2900	Person 480570 480578	Frédéric
+T2901	Location 480596 480603	Sénécal
+T2902	Location 480731 480741	Dussardier
+T2903	Location 480869 480876	Sénécal
+T2904	Person 481028 481036	Frédéric
+T2905	Location 481172 481180	Flambard
+T2906	Location 481362 481367	Odéon
+T2907	Location 481369 481379	Carpentras
+T2908	Person 482023 482031	Frédéric
+T2909	Location 482339 482343	Sens
+T2910	Person 482722 482730	Frédéric
+T2911	Location 483084 483093	Hussonnet
+T2912	Person 483101 483109	Frédéric
+T2913	Location 483344 483352	Flambard
+T2914	Person 483548 483565	Rose-Annette Bron
+T2915	Person 483584 483599	Frédéric Moreau
+T2916	Location 483604 483610	Nogent
+T2917	Organization 483847 483855	muraille
+T2918	Person 483892 483900	Pellerin
+T2919	Person 483946 483954	Frédéric
+T2920	Location 484009 484014	Paris
+T2921	Location 484310 484314	Nord
+T2922	Location 484635 484644	Maréchale
+T2923	Location 484666 484675	Hussonnet
+T2924	Person 484725 484733	Pellerin
+T2925	Person 484798 484807	Dambreuse
+T2926	Person 484871 484879	Martinon
+T2927	Location 484956 484959	toi
+T2928	Person 485081 485089	Frédéric
+T2929	Organization 485377 485385	muraille
+T2930	Person 485704 485713	Dambreuse
+T2931	Person 486092 486101	Dambreuse
+T2932	Location 486186 486198	Quelques-uns
+T2933	Person 486381 486388	Grandin
+T2934	Person 486411 486418	Benoist
+T2935	Organization 486538 486580	ministère avait reçu de graves atteintes !
+T2936	Person 486754 486762	Frédéric
+T2937	Person 486792 486800	Martinon
+T2938	Location 486939 486945	Sèvres
+T2939	Organization 486959 486980	Revue des Deux Mondes
+T2940	Location 487042 487047	Gotha
+T2941	Location 487121 487135	Saint-François
+T2942	Person 487264 487270	Cécile
+T2943	Person 487287 487296	Dambreuse
+T2944	Person 487403 487412	miss John
+T2945	Organization 487525 487528	Qu'
+T2946	Person 487549 487558	Dambreuse
+T2947	Person 487890 487898	Martinon
+T2948	Person 487982 487991	Dambreuse
+T2949	Location 488065 488073	Frédéric
+T2950	Location 488139 488143	Cisy
+T2951	Person 488218 488227	Dambreuse
+T2952	Location 488524 488530	France
+T2953	Date 488534 488538	1830
+T2954	Person 488836 488852	objecta Martinon
+T2955	Location 488935 488942	Pouvoir
+T2956	Person 489162 489171	Dambreuse
+T2957	Person 489338 489346	mon Dieu
+T2958	Person 489602 489611	Dambreuse
+T2959	Location 489627 489635	Frédéric
+T2960	Person 489702 489710	Frédéric
+T2961	Person 489867 489876	Dambreuse
+T2962	Location 490040 490049	Rosanette
+T2963	Location 490092 490100	Frédéric
+T2964	Location 490272 490280	Martinon
+T2965	Person 490297 490303	Cécile
+T2966	Location 490439 490446	Séville
+T2967	Location 490464 490471	Valence
+T2968	Person 490576 490590	Jacques Arnoux
+T2969	Person 490650 490658	Frédéric
+T2970	Person 490685 490694	Dambreuse
+T2971	Person 490899 490908	Dambreuse
+T2972	Person 491052 491060	Frédéric
+T2973	Person 491145 491154	Dambreuse
+T2974	Person 491492 491501	Dambreuse
+T2975	Date 491531 491541	habit bleu
+T2976	Person 491793 491801	Frédéric
+T2977	Location 491963 491968	Chine
+T2978	Location 492055 492063	Flambard
+T2979	Location 492088 492092	Cisy
+T2980	Organization 492120 492123	Qu'
+T2981	Person 492332 492340	Martinon
+T2982	Location 492365 492371	Arnoux
+T2983	Location 492454 492461	Sénécal
+T2984	Person 492500 492508	Frédéric
+T2985	Person 492511 492519	Martinon
+T2986	Location 492568 492575	Sénécal
+T2987	Location 492584 492591	Sénécal
+T2988	Person 492879 492887	Frédéric
+T2989	Location 493161 493167	France
+T2990	Person 493682 493690	Frédéric
+T2991	Location 493778 493789	Deslauriers
+T2992	Location 493809 493819	Blackstone
+T2993	Location 493843 493853	Angleterre
+T2994	Location 493970 493978	Napoléon
+T2995	Date 494005 494009	1830
+T2996	Person 494302 494311	Dambreuse
+T2997	Location 494444 494451	Orléans
+T2998	Person 494707 494715	Frédéric
+T2999	Location 494953 494965	Quelques-uns
+T3000	Person 495166 495175	Dambreuse
+T3001	Person 495290 495299	Dambreuse
+T3002	Person 495334 495342	Frédéric
+T3003	Person 495708 495717	Dambreuse
+T3004	Person 495900 495908	Martinon
+T3005	Location 496041 496051	Dussardier
+T3006	Person 496100 496108	Frédéric
+T3007	Location 496277 496287	Dussardier
+T3008	Location 496335 496346	Deslauriers
+T3009	Person 496349 496357	Frédéric
+T3010	Location 496486 496496	Dussardier
+T3011	Location 496569 496580	Deslauriers
+T3012	Location 496784 496795	Deslauriers
+T3013	Person 496806 496814	Frédéric
+T3014	Location 497097 497103	Arnoux
+T3015	Person 497184 497192	Frédéric
+T3016	Person 497398 497404	Arnoux
+T3017	Person 497521 497529	Frédéric
+T3018	Location 497597 497608	Deslauriers
+T3019	Location 497850 497860	Dussardier
+T3020	Person 498093 498101	Frédéric
+T3021	Location 498161 498169	houilles
+T3022	Person 498197 498206	Dambreuse
+T3023	Person 498351 498359	Frédéric
+T3024	Person 498469 498475	Moreau
+T3025	Person 498507 498512	Roque
+T3026	Location 498670 498676	Louise
+T3027	Person 498721 498741	Deslauriers Frédéric
+T3028	Organization 498764 498774	père Roque
+T3029	Location 498921 498925	Nord
+T3030	Person 498927 498935	Frédéric
+T3031	Person 499156 499167	Deslauriers
+T3032	Location 499181 499191	Mlle Roque
+T3033	Person 499258 499266	Frédéric
+T3034	Location 499377 499383	Nogent
+T3035	Person 499605 499616	MM. Gamblin
+T3036	Location 499618 499625	Heudras
+T3037	Person 499629 499638	Chambrion
+T3038	Person 499677 499682	Auger
+T3039	Organization 499699 499709	père Roque
+T3040	Person 499730 499736	Moreau
+T3041	Person 499763 499774	Mlle Louise
+T3042	Person 500053 500061	Frédéric
+T3043	Location 500121 500124	toi
+T3044	Organization 500215 500223	Parisien
+T3045	Person 500387 500393	Moreau
+T3046	Location 500424 500430	Louise
+T3047	Person 500505 500510	Roque
+T3048	Person 500585 500594	Dambreuse
+T3049	Organization 500826 500836	père Roque
+T3050	Person 500933 500942	Dambreuse
+T3051	Person 501186 501194	Frédéric
+T3052	Organization 501210 501220	père Roque
+T3053	Person 501448 501457	Dambreuse
+T3054	Person 501506 501512	Moreau
+T3055	Person 501656 501662	Moreau
+T3056	Person 501710 501733	Villeneuve-l'Archevêque
+T3057	Person 501748 501760	Jacob Moreau
+T3058	Person 501820 501833	Pierre Moreau
+T3059	Person 501862 501871	Louis XIV
+T3060	Person 501949 501954	Roque
+T3061	Person 502065 502073	Frédéric
+T3062	Person 502116 502125	Dambreuse
+T3063	Person 502465 502471	Moreau
+T3064	Person 502629 502637	Frédéric
+T3065	Person 502667 502678	Mlle Louise
+T3066	Organization 502687 502697	père Roque
+T3067	Location 502763 502774	Deslauriers
+T3068	Person 502797 502805	Frédéric
+T3069	Person 503364 503372	Frédéric
+T3070	Person 503482 503491	Dambreuse
+T3071	Person 503804 503812	Frédéric
+T3072	Person 504086 504092	Arnoux
+T3073	Location 504120 504131	Deslauriers
+T3074	Location 504178 504182	quoi
+T3075	Person 504276 504284	Frédéric
+T3076	Person 504686 504692	Arnoux
+T3077	Location 505525 505533	Frédéric
+T3078	Person 505733 505744	Deslauriers
+T3079	Person 505753 505759	Arnoux
+T3080	Person 505886 505892	Moreau
+T3081	Person 506224 506230	Arnoux
+T3082	Person 506608 506614	Arnoux
+T3083	Location 506719 506727	Chartres
+T3084	Location 506732 506740	Chartres
+T3085	Person 506864 506870	Arnoux
+T3086	Person 506987 506993	Arnoux
+T3087	Location 507220 507231	Deslauriers
+T3088	Person 507901 507909	Frédéric
+T3089	Person 508222 508228	Moreau
+T3090	Location 508280 508291	Deslauriers
+T3091	Person 508553 508559	Arnoux
+T3092	Location 508763 508774	Deslauriers
+T3093	Organization 508865 508873	muraille
+T3094	Location 509008 509019	Deslauriers
+T3095	Person 509212 509220	Frédéric
+T3096	Person 509236 509242	Moreau
+T3097	Location 509592 509602	Mlle Roque
+T3098	Person 509632 509641	Dambreuse
+T3099	Location 509663 509669	Nogent
+T3100	Location 509801 509812	Deslauriers
+T3101	Person 509896 509902	Arnoux
+T3102	Person 510788 510796	Frédéric
+T3103	Person 510800 510811	Mlle Louise
+T3104	Person 510849 510854	Roque
+T3105	Location 510894 510903	Catherine
+T3106	Person 510962 510970	Frédéric
+T3107	Person 511421 511434	Don Quichotte
+T3108	Location 511769 511779	Mlle Roque
+T3109	Person 511907 511923	Frédéric objecta
+T3110	Person 511949 511958	Qu'est-ce
+T3111	Organization 512295 512305	Le Vicaire
+T3112	Location 512737 512742	Seine
+T3113	Location 512757 512763	Nogent
+T3114	Person 514780 514788	Frédéric
+T3115	Location 514803 514809	Louise
+T3116	Person 516119 516127	Frédéric
+T3117	Location 516387 516392	Paris
+T3118	Location 516400 516406	Louise
+T3119	Person 516801 516809	Frédéric
+T3120	Person 517094 517102	Frédéric
+T3121	Location 517760 517767	cascade
+T3122	Location 518095 518101	Louise
+T3123	Person 518385 518393	Frédéric
+T3124	Location 518415 518421	Louise
+T3125	Location 518518 518528	Mlle Roque
+T3126	Person 518967 518988	Frédéric la rejoignit
+T3127	Organization 519291 519312	Pourquoi te mentirais
+T3128	Location 520065 520068	toi
+T3129	Person 520306 520314	Frédéric
+T3130	Person 520416 520421	Roque
+T3131	Person 520558 520566	Frédéric
+T3132	Person 520656 520665	Dambreuse
+T3133	Location 520722 520726	quoi
+T3134	Location 520809 520818	Rosanette
+T3135	Person 520873 520881	Frédéric
+T3136	Location 521236 521247	Deslauriers
+T3137	Person 521473 521481	Frédéric
+T3138	Person 521739 521744	Roque
+T3139	Person 521779 521790	Mlle Louise
+T3140	Person 521971 521979	Frédéric
+T3141	Location 522116 522121	Paris
+T3142	Person 522473 522481	Frédéric
+T3143	Location 522546 522556	Mlle Roque
+T3144	Location 522648 522654	Italie
+T3145	Location 522659 522665	Orient
+T3146	Organization 522905 522924	Art et de la Nature
+T3147	Person 523019 523024	Roque
+T3148	Location 523167 523171	quoi
+T3149	Location 523333 523339	Louise
+T3150	Person 523390 523404	Jacques Arnoux
+T3151	Location 523509 523515	Troyes
+T3152	Person 523588 523596	Frédéric
+T3153	Person 523806 523817	Mlle Vatnaz
+T3154	Location 523844 523853	Rosanette
+T3155	Person 523897 523905	Mon Dieu
+T3156	Location 524031 524040	Maréchale
+T3157	Location 524117 524122	Paris
+T3158	Location 524125 524143	Nogent Mlle Vatnaz
+T3159	Person 524189 524197	Frédéric
+T3160	Location 524214 524223	Maréchale
+T3161	Location 524349 524353	Mars
+T3162	Location 524537 524543	Vatnaz
+T3163	Person 525690 525698	Frédéric
+T3164	Location 525944 525950	Delmar
+T3165	Person 525994 526005	Mlle Vatnaz
+T3166	Location 526253 526259	France
+T3167	Location 526264 526270	Peuple
+T3168	Person 526342 526350	Frédéric
+T3169	Person 526483 526491	mon Dieu
+T3170	Location 526607 526612	Adieu
+T3171	Person 526659 526667	Frédéric
+T3172	Location 526727 526737	Dussardier
+T3173	Location 526906 526915	Maréchale
+T3174	Location 527867 527873	Madame
+T3175	Location 528691 528697	Bohême
+T3176	Location 529104 529113	Rosanette
+T3177	Person 529274 529282	Frédéric
+T3178	Location 529645 529653	Bellevue
+T3179	Person 529715 529723	Frédéric
+T3180	Location 529987 529996	Maréchale
+T3181	Person 530102 530108	Arnoux
+T3182	Person 530224 530232	Frédéric
+T3183	Location 530514 530523	Rosanette
+T3184	Person 531001 531009	Frédéric
+T3185	Location 531290 531296	Vatnaz
+T3186	Location 531382 531391	Maréchale
+T3187	Person 531598 531607	Rosanette
+T3188	Person 531853 531861	Frédéric
+T3189	Location 532353 532362	Rosanette
+T3190	Person 532407 532418	Frédéric l'
+T3191	Location 532768 532777	Maréchale
+T3192	Location 533020 533027	Comaing
+T3193	Person 533063 533071	Frédéric
+T3194	Person 533339 533347	Frédéric
+T3195	Person 533704 533710	Arnoux
+T3196	Person 533897 533905	Frédéric
+T3197	Person 533941 533952	chez Arnoux
+T3198	Location 534104 534110	Nogent
+T3199	Location 534151 534162	Deslauriers
+T3200	Location 534180 534192	rue Vivienne
+T3201	Person 534214 534220	Arnoux
+T3202	Person 534793 534799	Arnoux
+T3203	Person 534808 534816	Frédéric
+T3204	Location 535060 535065	Adieu
+T3205	Location 535337 535348	Deslauriers
+T3206	Person 535468 535474	Arnoux
+T3207	Person 535497 535508	Frédéric de
+T3208	Person 535998 536006	Frédéric
+T3209	Person 536115 536121	Arnoux
+T3210	Location 536224 536235	Deslauriers
+T3211	Person 536297 536305	Frédéric
+T3212	Location 536427 536438	Deslauriers
+T3213	Location 536646 536654	Amérique
+T3214	Person 536772 536780	Frédéric
+T3215	Location 536831 536838	Sénécal
+T3216	Location 536843 536854	Deslauriers
+T3217	Location 536901 536915	Sainte-Pélagie
+T3218	Location 537045 537055	Dussardier
+T3219	Person 537092 537100	Frédéric
+T3220	Location 537168 537177	Hussonnet
+T3221	Location 537216 537223	Sénécal
+T3222	Location 537239 537247	Flambard
+T3223	Organization 537351 537370	Office de publicité
+T3224	Organization 537375 537416	Bureau de recouvrements et renseignements
+T3225	Location 537604 537611	Sénécal
+T3226	Person 537645 537653	Frédéric
+T3227	Location 537722 537732	Dussardier
+T3228	Organization 538261 538269	muraille
+T3229	Location 538354 538367	Lachambeaudie
+T3230	Location 538385 538390	Paris
+T3231	Location 538395 538403	Napoléon
+T3232	Location 538408 538415	Norvins
+T3233	Location 538499 538507	Béranger
+T3234	Location 538539 538550	Deslauriers
+T3235	Location 538554 538561	Sénécal
+T3236	Location 538763 538772	Regimbart
+T3237	Person 538826 538834	Frédéric
+T3238	Location 538894 538904	Dussardier
+T3239	Person 538925 538934	Dambreuse
+T3240	Location 538936 538943	Sénécal
+T3241	Location 539211 539219	Evangile
+T3242	Location 539320 539327	Piémont
+T3243	Location 539329 539335	Naples
+T3244	Location 539370 539381	Deslauriers
+T3245	Person 539526 539534	Hollande
+T3246	Location 539553 539563	Angleterre
+T3247	Location 539585 539599	Louis-Philippe
+T3248	Location 539691 539697	Suisse
+T3249	Person 539702 539708	Guizot
+T3250	Location 539845 539851	Orient
+T3251	Location 539958 539964	Aumale
+T3252	Location 539986 539992	Russie
+T3253	Location 540347 540357	Dussardier
+T3254	Location 540620 540627	Pouvoir
+T3255	Location 540983 540994	Deslauriers
+T3256	Location 541047 541052	Lille
+T3257	Location 541068 541075	Sénécal
+T3258	Person 541098 541104	Cousin
+T3259	Location 541356 541360	Nord
+T3260	Location 541677 541684	Sénécal
+T3261	Location 541848 541857	Vincennes
+T3262	Location 541933 541946	Saint-Antoine
+T3263	Location 542056 542062	Peuple
+T3264	Location 542166 542176	Dussardier
+T3265	Location 542249 542256	Sénécal
+T3266	Location 542298 542305	Praslin
+T3267	Location 542349 542358	Hussonnet
+T3268	Location 542502 542511	Maréchale
+T3269	Location 542573 542578	Dumas
+T3270	Location 542596 542608	Maison-Rouge
+T3271	Location 542777 542784	Sénécal
+T3272	Person 542991 543002	Frédéric de
+T3273	Event 543043 543059	affaire Praslin…
+T3274	Location 543062 543071	Hussonnet
+T3275	Person 543190 543201	Deslauriers
+T3276	Location 543249 543260	Ecoutez-moi
+T3277	Person 543652 543660	Frédéric
+T3278	Location 543819 543828	Hussonnet
+T3279	Location 543928 543939	Deslauriers
+T3280	Location 543975 543985	Luxembourg
+T3281	Location 544016 544022	Pie IX
+T3282	Location 544316 544325	Hussonnet
+T3283	Location 544378 544385	Sénécal
+T3284	Location 544470 544479	Dumouriez
+T3285	Person 544522 544543	Louis-Philippe poncif
+T3286	Location 545394 545403	Hussonnet
+T3287	Location 545686 545693	Sénécal
+T3288	Location 545868 545878	Dussardier
+T3289	Location 545978 545991	quai Napoléon
+T3290	Person 546034 546042	Pellerin
+T3291	Person 546079 546087	Frédéric
+T3292	Person 546093 546104	Deslauriers
+T3293	Location 546118 546126	Martinon
+T3294	Location 546163 546171	Monsieur
+T3295	Person 546185 546193	Frédéric
+T3296	Person 546635 546645	Alton-Shée
+T3297	Location 546668 546674	France
+T3298	Location 546698 546704	Peuple
+T3299	Location 546796 546806	Dussardier
+T3300	Person 546835 546843	Frédéric
+T3301	Location 546847 546858	Deslauriers
+T3302	Location 546992 547000	Pellerin
+T3303	Person 547005 547013	Frédéric
+T3304	Location 547160 547164	quoi
+T3305	Location 547302 547305	toi
+T3306	Location 547315 547326	Deslauriers
+T3307	Person 547370 547378	Frédéric
+T3308	Location 547432 547440	Pellerin
+T3309	Location 547534 547545	Deslauriers
+T3310	Person 547725 547733	Frédéric
+T3311	Person 548041 548049	Frédéric
+T3312	Location 548104 548115	Deslauriers
+T3313	Person 548351 548359	Frédéric
+T3314	Person 548390 548399	Dambreuse
+T3315	Location 548578 548586	houilles
+T3316	Location 548658 548669	Deslauriers
+T3317	Person 548763 548771	Frédéric
+T3318	Person 548887 548897	Mlle Roque
+T3319	Person 549089 549097	Frédéric
+T3320	Person 549142 549153	chez Arnoux
+T3321	Person 549511 549517	Arnoux
+T3322	Location 550432 550441	Maréchale
+T3323	Person 550548 550554	Arnoux
+T3324	Person 550642 550650	Mon Dieu
+T3325	Location 551787 551793	Madame
+T3326	Person 551829 551835	Arnoux
+T3327	Person 551969 551977	Frédéric
+T3328	Location 551990 551996	Madame
+T3329	Person 552336 552344	Frédéric
+T3330	Location 552399 552403	Mars
+T3331	Person 552658 552664	Arnoux
+T3332	Person 553691 553699	Frédéric
+T3333	Person 553706 553715	Qu'est-ce
+T3334	Person 554146 554152	Arnoux
+T3335	Person 554403 554414	Frédéric l'
+T3336	Location 554562 554568	Madame
+T3337	Person 554644 554650	Arnoux
+T3338	Location 554779 554786	Auteuil
+T3339	Location 554815 554826	Saint-Cloud
+T3340	Person 554965 554973	Frédéric
+T3341	Location 555017 555024	Auteuil
+T3342	Person 555031 555037	Arnoux
+T3343	Person 555340 555348	Frédéric
+T3344	Person 556349 556365	Arnoux elle-même
+T3345	Person 556600 556606	Arnoux
+T3346	Location 556637 556649	Palais-Royal
+T3347	Location 556656 556665	Regimbart
+T3348	Location 556675 556682	Compain
+T3349	Location 556907 556915	Chartres
+T3350	Location 557784 557794	Providence
+T3351	Location 558741 558745	quoi
+T3352	Person 559017 559025	Frédéric
+T3353	Person 559302 559310	Frédéric
+T3354	Location 560497 560503	Arnoux
+T3355	Person 560525 560533	Frédéric
+T3356	Location 561802 561810	Frédéric
+T3357	Location 562013 562018	Paris
+T3358	Person 562346 562352	Guizot
+T3359	Location 562381 562388	Palerme
+T3360	Location 562406 562425	XIIe arrondissement
+T3361	Person 562460 562468	Frédéric
+T3362	Location 562508 562515	Pouvoir
+T3363	Location 562543 562554	Deslauriers
+T3364	Person 562621 562627	Arnoux
+T3365	Person 562784 562790	Arnoux
+T3366	Location 562812 562820	Frédéric
+T3367	Person 562999 563005	Arnoux
+T3368	Person 563329 563337	Frédéric
+T3369	Person 563901 563909	Frédéric
+T3370	Person 564149 564155	Eugène
+T3371	Person 564265 564273	Frédéric
+T3372	Person 564618 564627	Qu'est-ce
+T3373	Person 565477 565485	Frédéric
+T3374	Location 565563 565575	rue Tronchet
+T3375	Location 565585 565600	rue de la Ferme
+T3376	Person 565608 565616	Mon Dieu
+T3377	Person 565646 565652	Arnoux
+T3378	Person 565865 565873	Frédéric
+T3379	Person 566182 566190	Frédéric
+T3380	Location 566468 566480	rue Tronchet
+T3381	Person 566662 566670	Frédéric
+T3382	Person 567850 567855	Roque
+T3383	Person 567991 567999	Frédéric
+T3384	Location 568069 568080	Deslauriers
+T3385	Organization 568124 568135	ta promesse
+T3386	Location 568155 568158	toi
+T3387	Organization 568204 568212	Panthéon
+T3388	Hour 568409 568420	onze heures
+T3389	Person 568422 568430	Frédéric
+T3390	Location 568595 568607	rue Tronchet
+T3391	Location 568633 568642	Madeleine
+T3392	Organization 568887 568896	Ministère
+T3393	Person 569224 569237	Odilon Barrot
+T3394	Location 569454 569461	Pouvoir
+T3395	Location 569555 569567	Marseillaise
+T3396	Person 569760 569766	Guizot
+T3397	Person 569784 569792	Frédéric
+T3398	Location 569888 569903	rue de l'Arcade
+T3399	Location 569962 569971	Madeleine
+T3400	Location 569998 570018	place de la Concorde
+T3401	Person 570374 570382	Frédéric
+T3402	Person 570486 570492	Arnoux
+T3403	Person 570877 570885	Frédéric
+T3404	Location 570908 570920	rue Tronchet
+T3405	Location 572548 572552	quoi
+T3406	Person 572607 572613	Arnoux
+T3407	Location 572805 572816	rue Paradis
+T3408	Person 572823 572837	Jacques Arnoux
+T3409	Location 572876 572882	Madame
+T3410	Location 572934 572949	rue de la Ferme
+T3411	Location 572959 572971	rue Tronchet
+T3412	Location 574026 574037	rue Rumford
+T3413	Person 574413 574419	Arnoux
+T3414	Hour 574776 574787	cinq heures
+T3415	Person 574835 574841	Arnoux
+T3416	Location 574935 574947	rue Tronchet
+T3417	Person 575235 575241	Arnoux
+T3418	Hour 575630 575641	huit heures
+T3419	Person 575693 575699	Arnoux
+T3420	Person 575829 575834	Colot
+T3421	Person 575853 575858	Colot
+T3422	Person 575881 575887	Arnoux
+T3423	Person 576018 576024	Eugène
+T3424	Person 576417 576423	Arnoux
+T3425	Person 577309 577315	Arnoux
+T3426	Person 577704 577709	Colot
+T3427	Organization 579588 579591	Qu'
+T3428	Person 579846 579851	Colot
+T3429	Person 580201 580209	Frédéric
+T3430	Location 580286 580296	Providence
+T3431	Person 580504 580510	Arnoux
+T3432	Person 580722 580726	Dieu
+T3433	Person 580810 580818	Frédéric
+T3434	Person 581147 581153	Arnoux
+T3435	Organization 581695 581709	bonnets rouges
+T3436	Location 581731 581743	Marseillaise
+T3437	Location 581881 581899	porte Saint-Martin
+T3438	Person 581967 581975	Frédéric
+T3439	Location 582059 582067	Frascati
+T3440	Location 582099 582108	Maréchale
+T3441	Location 582203 582216	porte cochère
+T3442	Location 582222 582230	Delphine
+T3443	Location 582340 582346	Madame
+T3444	Location 582497 582505	Monsieur
+T3445	Person 582559 582567	Frédéric
+T3446	Location 582594 582603	Maréchale
+T3447	Location 582752 582755	toi
+T3448	Person 582785 582793	Frédéric
+T3449	Location 582885 582894	Maréchale
+T3450	Organization 583194 583204	Provençaux
+T3451	Location 583324 583329	Paris
+T3452	Person 583826 583834	Frédéric
+T3453	Location 583869 583879	rue Duphot
+T3454	Location 584242 584255	rue Caumartin
+T3455	Location 584398 584421	boulevard des Capucines
+T3456	Person 584466 584474	Frédéric
+T3457	Location 584637 584646	Maréchale
+T3458	Person 584816 584822	Arnoux
+T3459	Location 584858 584870	rue Tronchet
+T3460	Location 585025 585034	Rosanette
+T3461	Organization 585209 585217	Qu'as-tu
+T3462	Person 585272 585280	Frédéric
+T3463	Location 585446 585455	Rosanette
+T3464	Person 585457 585465	Frédéric
+T3465	Location 585542 585556	Champs-Elysées
+T3466	Location 585612 585628	rue Saint-Honoré
+T3467	Location 585702 585714	Palais-Royal
+T3468	Person 585720 585728	Frédéric
+T3469	Location 586424 586447	boulevard des Capucines
+T3470	Person 586563 586567	Molé
+T3471	Location 586634 586640	Thiers
+T3472	Location 586723 586730	Bugeaud
+T3473	Location 587170 587175	Paris
+T3474	Hour 587302 587313	huit heures
+T3475	Location 587564 587577	Château-d'Eau
+T3476	Person 587637 587645	Frédéric
+T3477	Location 588379 588387	Frédéric
+T3478	Organization 588576 588597	Laisse-moi tranquille
+T3479	Location 588668 588675	Citoyen
+T3480	Date 588745 588749	1830
+T3481	Person 589064 589072	Frédéric
+T3482	Person 589540 589548	Frédéric
+T3483	Location 590721 590733	Palais-Royal
+T3484	Person 590994 591002	Frédéric
+T3485	Person 591429 591437	Frédéric
+T3486	Person 591778 591786	Frédéric
+T3487	Location 591849 591855	Nantes
+T3488	Location 591934 591940	Louvre
+T3489	Location 592354 592369	Arc de triomphe
+T3490	Location 592625 592637	Quelques-uns
+T3491	Person 592991 592999	Frédéric
+T3492	Location 593036 593045	Hussonnet
+T3493	Location 593263 593270	Bugeaud
+T3494	Location 593516 593528	Marseillaise
+T3495	Location 593539 593548	Hussonnet
+T3496	Person 593552 593560	Frédéric
+T3497	Organization 593706 593720	bonnets rouges
+T3498	Location 594395 594404	Hussonnet
+T3499	Person 594498 594506	Frédéric
+T3500	Location 594831 594840	Hussonnet
+T3501	Organization 595011 595015	Etat
+T3502	Location 595185 595194	Hussonnet
+T3503	Location 595294 595302	Bastille
+T3504	Location 596212 596221	Hussonnet
+T3505	Person 596231 596239	Frédéric
+T3506	Location 597603 597612	Hussonnet
+T3507	Person 597616 597624	Frédéric
+T3508	Location 597737 597749	Palais-Royal
+T3509	Person 598210 598218	Frédéric
+T3510	Location 598584 598593	Hussonnet
+T3511	Location 598651 598658	Orléans
+T3512	Person 598857 598865	Frédéric
+T3513	Location 599342 599351	Hussonnet
+T3514	Person 599397 599403	Arnoux
+T3515	Location 599688 599695	Orléans
+T3516	Person 600022 600030	Frédéric
+T3517	Location 600036 600045	Hussonnet
+T3518	Location 600291 600301	Dussardier
+T3519	Hour 600459 600479	quarante-huit heures
+T3520	Location 600544 600549	Latin
+T3521	Organization 600569 600578	Rambuteau
+T3522	Person 600649 600656	Dunoyer
+T3523	Location 601397 601404	Pologne
+T3524	Location 601410 601416	Italie
+T3525	Person 602109 602117	Frédéric
+T3526	Location 602495 602504	Hussonnet
+T3527	Person 602594 602602	Frédéric
+T3528	Location 602645 602663	place de la Bourse
+T3529	Location 602709 602715	Troyes
+T3530	Location 602847 602856	Hussonnet
+T3531	Person 603260 603268	Frédéric
+T3532	Person 603511 603525	Frédéric pensa
+T3533	Location 603528 603539	Deslauriers
+T3534	Location 603679 603691	Ledru-Rollin
+T3535	Location 603867 603871	quoi
+T3536	Person 603873 603881	Frédéric
+T3537	Location 603900 603909	Maréchale
+T3538	Location 604182 604193	Monseigneur
+T3539	Location 604196 604206	Archevêque
+T3540	Location 604210 604215	Paris
+T3541	Location 604286 604298	Magistrature
+T3542	Organization 604303 604317	Conseil d'Etat
+T3543	Location 604348 604354	France
+T3544	Location 604356 604367	Changarnier
+T3545	Location 604760 604769	Lamartine
+T3546	Location 604835 604839	Mars
+T3547	Location 605471 605476	Paris
+T3548	Person 605499 605507	Frédéric
+T3549	Location 605519 605528	Maréchale
+T3550	Location 605936 605950	Louis-Philippe
+T3551	Location 606386 606390	quoi
+T3552	Location 606536 606548	Quelques-uns
+T3553	Location 606778 606784	Arcole
+T3554	Location 606820 606829	Rosanette
+T3555	Location 606847 606852	Latin
+T3556	Person 606854 606862	Frédéric
+T3557	Person 607141 607149	Pellerin
+T3558	Person 607167 607178	Frédéric de
+T3559	Location 607556 607561	Paris
+T3560	Location 607900 607909	Regimbart
+T3561	Person 607927 607935	Frédéric
+T3562	Location 607995 608002	Citoyen
+T3563	Location 608403 608412	Lamartine
+T3564	Location 608465 608477	Ledru-Rollin
+T3565	Organization 608517 608523	Dupont
+T3566	Location 608530 608534	Eure
+T3567	Person 608557 608563	Albert
+T3568	Person 608575 608586	Louis Blanc
+T3569	Location 608600 608607	Blanqui
+T3570	Person 608651 608659	Frédéric
+T3571	Location 608764 608768	Rhin
+T3572	Location 608794 608798	Rhin
+T3573	Location 608886 608893	Neuilly
+T3574	Location 608900 608907	Suresne
+T3575	Location 608953 608957	Lyon
+T3576	Location 609050 609062	Ledru-Rollin
+T3577	Person 609858 609862	Dieu
+T3578	Location 610176 610182	France
+T3579	Person 610372 610381	Dambreuse
+T3580	Location 611028 611037	Champagne
+T3581	Person 611063 611071	Frédéric
+T3582	Person 611252 611261	Dambreuse
+T3583	Location 611298 611306	Martinon
+T3584	Location 611494 611501	Egalité
+T3585	Person 611695 611701	Guizot
+T3586	Location 611792 611801	Lamartine
+T3587	Person 611920 611928	Frédéric
+T3588	Location 611937 611941	quoi
+T3589	Location 612098 612106	Proudhon
+T3590	Person 612292 612300	Pellerin
+T3591	Person 612343 612351	Martinon
+T3592	Organization 612596 612615	Assemblée nationale
+T3593	Location 612662 612670	Fortelle
+T3594	Person 612762 612771	Dambreuse
+T3595	Person 612774 612782	Frédéric
+T3596	Person 613035 613051	Frédéric objecta
+T3597	Location 613156 613160	Aube
+T3598	Person 613536 613544	Frédéric
+T3599	Person 613724 613732	Frédéric
+T3600	Location 613943 613947	Rome
+T3601	Location 613949 613955	Vienne
+T3602	Location 613957 613963	Berlin
+T3603	Location 614017 614023	Venise
+T3604	Location 614034 614040	Europe
+T3605	Location 614349 614359	Dussardier
+T3606	Person 614460 614468	Frédéric
+T3607	Location 614490 614501	Deslauriers
+T3608	Person 614669 614677	Frédéric
+T3609	Location 614758 614767	Rosanette
+T3610	Person 614781 614792	Mlle Vatnaz
+T3611	Location 615430 615436	Vatnaz
+T3612	Organization 615852 615856	Etat
+T3613	Person 616263 616271	Frédéric
+T3614	Location 616363 616372	Rosanette
+T3615	Person 616486 616494	Frédéric
+T3616	Person 616617 616626	Dambreuse
+T3617	Person 616840 616848	Pellerin
+T3618	Location 616953 616965	Civilisation
+T3619	Location 616985 616997	Jésus-Christ
+T3620	Person 617063 617071	Frédéric
+T3621	Person 617175 617184	Dambreuse
+T3622	Person 617306 617314	Martinon
+T3623	Person 617373 617381	Frédéric
+T3624	Person 617423 617429	Cécile
+T3625	Person 617660 617668	Martinon
+T3626	Person 617776 617785	Dambreuse
+T3627	Person 617894 617910	Martinon reparut
+T3628	Person 617915 617923	Frédéric
+T3629	Person 618096 618104	Frédéric
+T3630	Location 618432 618436	Hugo
+T3631	Person 618673 618681	Martinon
+T3632	Person 618708 618717	Dambreuse
+T3633	Person 618996 619004	Martinon
+T3634	Person 619274 619283	Dambreuse
+T3635	Location 619315 619319	Aube
+T3636	Person 619336 619344	Martinon
+T3637	Person 619418 619426	Frédéric
+T3638	Person 619462 619476	chez Rosanette
+T3639	Person 619478 619484	Delmar
+T3640	Location 619580 619585	Seine
+T3641	Location 619618 619624	Peuple
+T3642	Person 620074 620082	Frédéric
+T3643	Location 620513 620521	Epicerie
+T3644	Person 621647 621653	Delmar
+T3645	Person 621955 621966	Mlle Vatnaz
+T3646	Person 621989 621997	Frédéric
+T3647	Location 622120 622130	Dussardier
+T3648	Location 622183 622200	rue Saint-Jacques
+T3649	Organization 622232 622244	Intelligence
+T3650	Person 622420 622428	Pellerin
+T3651	Location 622459 622468	Hussonnet
+T3652	Location 622533 622542	Regimbart
+T3653	Location 622597 622604	Compain
+T3654	Location 622792 622801	Barcelone
+T3655	Person 623597 623605	Frédéric
+T3656	Location 623634 623644	Dussardier
+T3657	Location 623648 623657	Regimbart
+T3658	Person 623810 623816	Delmar
+T3659	Location 623873 623880	Sénécal
+T3660	Location 623943 623951	Frédéric
+T3661	Date 624056 624066	25 février
+T3662	Location 624137 624142	Prado
+T3663	Location 624351 624358	Blanqui
+T3664	Location 624375 624386	Robespierre
+T3665	Organization 624513 624546	déclaration des Droits de l'homme
+T3666	Location 624644 624652	Béranger
+T3667	Location 625052 625060	Panthéon
+T3668	Organization 625076 625095	Assemblée nationale
+T3669	Person 625212 625235	Jean-Jacques Langreneux
+T3670	Location 625249 625261	rue Dauphine
+T3671	Person 625341 625375	Michel-Evariste-Népomucène Vincent
+T3672	Location 626209 626216	Sénécal
+T3673	Person 626521 626529	Frédéric
+T3674	Organization 626787 626799	Intelligence
+T3675	Location 627017 627027	Dussardier
+T3676	Location 627926 627938	Jésus-Christ
+T3677	Person 627989 627993	Dieu
+T3678	Location 627997 628005	Evangile
+T3679	Person 628302 628311	Qu'est-ce
+T3680	Location 629781 629787	France
+T3681	Location 629856 629863	Compain
+T3682	Location 630350 630357	Compain
+T3683	Location 630513 630525	Quelques-uns
+T3684	Location 630568 630575	Compain
+T3685	Location 630612 630621	Regimbart
+T3686	Location 630692 630699	Citoyen
+T3687	Person 630726 630734	Frédéric
+T3688	Person 630834 630842	Pellerin
+T3689	Person 631118 631126	Pellerin
+T3690	Organization 631490 631499	Maison d'
+T3691	Person 631872 631878	Delmar
+T3692	Location 632478 632485	Sénécal
+T3693	Organization 632551 632557	Peuple
+T3694	Organization 633133 633137	Etat
+T3695	Organization 633161 633185	Banque et des Assurances
+T3696	Person 633490 633498	Frédéric
+T3697	Location 633573 633580	Sénécal
+T3698	Person 633697 633705	Frédéric
+T3699	Location 633759 633766	Sénécal
+T3700	Date 634042 634052	22 février
+T3701	Organization 634125 634133	Panthéon
+T3702	Location 634184 634194	Dussardier
+T3703	Location 634231 634239	Panthéon
+T3704	Location 634244 634254	Dussardier
+T3705	Person 634271 634279	Frédéric
+T3706	Location 634368 634375	Sénécal
+T3707	Location 634460 634470	Dussardier
+T3708	Person 634515 634523	Frédéric
+T3709	Location 634539 634547	Pellerin
+T3710	Person 634693 634701	Frédéric
+T3711	Location 634718 634727	Regimbart
+T3712	Location 634783 634792	Regimbart
+T3713	Location 634920 634929	Barcelone
+T3714	Person 635185 635193	Frédéric
+T3715	Location 635239 635244	Cadiz
+T3716	Person 635381 635389	Frédéric
+T3717	Person 635714 635722	Frédéric
+T3718	Location 635761 635768	Sénécal
+T3719	Organization 635853 635874	Y todos los españoles
+T3720	Location 636077 636082	Paris
+T3721	Organization 636151 636178	el primero pueblo del mundo
+T3722	Location 636273 636281	Frédéric
+T3723	Location 636635 636644	Rosanette
+T3724	Location 637199 637205	France
+T3725	Location 637329 637334	Paris
+T3726	Location 637407 637410	toi
+T3727	Person 637529 637537	Frédéric
+T3728	Location 637705 637714	Rosanette
+T3729	Location 637785 637793	Monsieur
+T3730	Person 638084 638092	Frédéric
+T3731	Location 638384 638396	Ledru-Rollin
+T3732	Location 638429 638438	Lamartine
+T3733	Location 638652 638655	toi
+T3734	Location 638711 638721	Saint-Roch
+T3735	Person 639086 639094	Frédéric
+T3736	Location 639266 639275	Rosanette
+T3737	Person 639300 639311	Mlle Vatnaz
+T3738	Location 639530 639539	Hussonnet
+T3739	Location 639608 639617	Rosanette
+T3740	Person 639758 639766	Frédéric
+T3741	Location 639951 639960	Rosanette
+T3742	Person 640061 640072	Mlle Vatnaz
+T3743	Organization 640112 640116	Etat
+T3744	Organization 640226 640233	Conseil
+T3745	Person 640610 640618	Frédéric
+T3746	Location 640635 640641	Vatnaz
+T3747	Location 640722 640731	Rosanette
+T3748	Location 640851 640859	Paraguay
+T3749	Location 640893 640899	Thiers
+T3750	Location 640903 640911	Auvergne
+T3751	Person 641056 641065	Rosanette
+T3752	Person 641092 641103	Mlle Vatnaz
+T3753	Location 641175 641184	Rosanette
+T3754	Location 641259 641265	Vatnaz
+T3755	Person 641333 641341	Frédéric
+T3756	Location 641509 641515	Vatnaz
+T3757	Person 641730 641741	Mlle Vatnaz
+T3758	Location 642077 642086	Maréchale
+T3759	Person 642144 642155	Mlle Vatnaz
+T3760	Location 642406 642415	Rosanette
+T3761	Location 642563 642569	Vatnaz
+T3762	Person 642760 642766	Delmar
+T3763	Person 642861 642869	Frédéric
+T3764	Location 642988 642997	Rosanette
+T3765	Person 643607 643615	Frédéric
+T3766	Location 643797 643806	Rosanette
+T3767	Location 643895 643905	rue Drouot
+T3768	Location 643937 643959	boulevard Poissonnière
+T3769	Person 644209 644217	Frédéric
+T3770	Person 644588 644596	Frédéric
+T3771	Person 644693 644699	Arnoux
+T3772	Person 644787 644793	Arnoux
+T3773	Location 644883 644892	Rosanette
+T3774	Person 644956 644964	Frédéric
+T3775	Person 645217 645223	Arnoux
+T3776	Date 645612 645619	29 mars
+T3777	Location 645774 645780	Amiens
+T3778	Location 645783 645792	Hussonnet
+T3779	Location 646015 646025	Luxembourg
+T3780	Person 646176 646182	Arnoux
+T3781	Location 646211 646218	Pouvoir
+T3782	Location 646359 646367	Frédéric
+T3783	Location 646377 646386	Maréchale
+T3784	Location 646601 646610	Rosanette
+T3785	Person 646635 646641	Arnoux
+T3786	Person 646751 646759	Frédéric
+T3787	Location 646772 646781	Maréchale
+T3788	Person 646932 646940	Frédéric
+T3789	Person 647322 647330	Frédéric
+T3790	Person 647400 647406	Arnoux
+T3791	Person 647436 647442	Arnoux
+T3792	Person 647728 647734	Arnoux
+T3793	Person 647993 648001	Frédéric
+T3794	Person 648637 648645	Frédéric
+T3795	Hour 648703 648714	onze heures
+T3796	Person 648732 648738	Arnoux
+T3797	Location 648921 648930	Rosanette
+T3798	Person 648946 648952	Arnoux
+T3799	Location 649078 649086	Frédéric
+T3800	Person 649340 649348	Frédéric
+T3801	Person 649373 649379	Arnoux
+T3802	Location 649552 649561	Hussonnet
+T3803	Location 649666 649674	Frédéric
+T3804	Person 649997 650005	Frédéric
+T3805	Organization 650060 650068	muraille
+T3806	Person 650673 650679	Arnoux
+T3807	Person 650828 650836	Frédéric
+T3808	Person 651471 651479	Frédéric
+T3809	Person 652053 652059	Arnoux
+T3810	Person 652134 652142	Frédéric
+T3811	Location 652178 652186	Chartres
+T3812	Location 652193 652198	Parly
+T3813	Person 652436 652444	Frédéric
+T3814	Person 652623 652629	Arnoux
+T3815	Location 652761 652765	Nord
+T3816	Person 653262 653266	Dieu
+T3817	Location 653281 653288	curaçao
+T3818	Location 653478 653487	Rosanette
+T3819	Person 653609 653617	Frédéric
+T3820	Location 653754 653766	rue Vivienne
+T3821	Person 653834 653842	Frédéric
+T3822	Location 653901 653910	Maréchale
+T3823	Location 653951 653957	Arnoux
+T3824	Location 654060 654078	porte Saint-Martin
+T3825	Person 654463 654471	Frédéric
+T3826	Person 654509 654518	Dambreuse
+T3827	Location 654524 654532	Martinon
+T3828	Person 654561 654570	Dambreuse
+T3829	Person 654858 654866	Martinon
+T3830	Person 655058 655067	Dambreuse
+T3831	Location 655123 655131	Martinon
+T3832	Location 655321 655329	Napoléon
+T3833	Location 655337 655343	Barbès
+T3834	Location 655568 655580	Marseillaise
+T3835	Location 656210 656218	Martinon
+T3836	Person 656240 656246	Cécile
+T3837	Person 656347 656356	Dambreuse
+T3838	Location 656484 656491	Orléans
+T3839	Person 656598 656606	Martinon
+T3840	Organization 656690 656697	Parquet
+T3841	Person 656739 656748	Dambreuse
+T3842	Location 656789 656798	Lamartine
+T3843	Location 656819 656831	Ledru-Rollin
+T3844	Person 656846 656859	Pierre Leroux
+T3845	Location 656861 656869	Proudhon
+T3846	Location 656871 656882	Considérant
+T3847	Hour 658110 658121	neuf heures
+T3848	Location 658153 658161	Bastille
+T3849	Location 658168 658176	Châtelet
+T3850	Location 658212 658229	porte Saint-Denis
+T3851	Location 658235 658253	porte Saint-Martin
+T3852	Person 658929 658938	Dambreuse
+T3853	Date 659154 659160	15 mai
+T3854	Person 659277 659291	Jacques Arnoux
+T3855	Person 659707 659715	Frédéric
+T3856	Person 659739 659748	Dambreuse
+T3857	Location 659767 659776	Maréchale
+T3858	Person 659843 659849	Arnoux
+T3859	Person 659946 659952	Arnoux
+T3860	Person 659977 659985	Frédéric
+T3861	Location 660010 660015	Paris
+T3862	Location 660077 660090	Fontainebleau
+T3863	Location 660630 660635	Paris
+T3864	Person 661361 661373	François Ier
+T3865	Person 661528 661537	Christine
+T3866	Location 661566 661575	Rosanette
+T3867	Location 661637 661645	Frédéric
+T3868	Location 661701 661704	toi
+T3869	Organization 661748 661755	Conseil
+T3870	Location 661790 661795	Trône
+T3871	Person 661809 661819	Louis XIII
+T3872	Person 662099 662107	Louis XV
+T3873	Location 662165 662171	Olympe
+T3874	Location 662173 662179	Psyché
+T3875	Person 662199 662208	Alexandre
+T3876	Person 662249 662258	Rosanette
+T3877	Location 662687 662693	France
+T3878	Person 663506 663523	Diane Chasseresse
+T3879	Person 663751 663759	Frédéric
+T3880	Location 663885 663894	Rosanette
+T3881	Location 663990 663998	Poitiers
+T3882	Location 664028 664036	Poitiers
+T3883	Person 664053 664061	Henri II
+T3884	Person 664363 664372	Rosanette
+T3885	Person 664543 664554	Frédéric l'
+T3886	Person 664706 664714	Frédéric
+T3887	Person 664851 664859	Henri IV
+T3888	Organization 664871 664876	Grand
+T3889	Person 664878 664899	Jean-Jacques Rousseau
+T3890	Person 664950 664958	Voltaire
+T3891	Location 664960 664968	Napoléon
+T3892	Person 664970 664977	Pie VII
+T3893	Location 664979 664993	Louis-Philippe
+T3894	Location 665994 666003	Rosanette
+T3895	Location 666137 666150	Fontainebleau
+T3896	Location 666356 666365	Pharamond
+T3897	Location 666507 666516	Franchard
+T3898	Location 667299 667308	Aspremont
+T3899	Location 667641 667647	France
+T3900	Location 667786 667795	Rosanette
+T3901	Location 668147 668167	Caverne-des-Brigands
+T3902	Location 668245 668254	Bas-Bréau
+T3903	Location 668421 668428	Chailly
+T3904	Location 668707 668712	Paris
+T3905	Location 668714 668723	Rosanette
+T3906	Location 668951 668964	Marc-aux-Fées
+T3907	Location 668969 668980	Long-Rocher
+T3908	Location 668985 668993	Mariotte
+T3909	Location 670860 670872	Quelques-uns
+T3910	Person 673315 673323	Frédéric
+T3911	Location 673419 673428	Rosanette
+T3912	Location 675168 675177	Rosanette
+T3913	Person 675366 675374	Frédéric
+T3914	Location 675524 675529	Seine
+T3915	Location 675566 675575	Rosanette
+T3916	Location 676195 676201	Italie
+T3917	Person 676907 676915	Frédéric
+T3918	Location 677997 678002	Paris
+T3919	Person 678040 678048	Frédéric
+T3920	Location 678205 678209	quoi
+T3921	Location 678608 678618	Angleterre
+T3922	Organization 679114 679123	Louis XIV
+T3923	Person 679222 679230	Frédéric
+T3924	Person 679294 679303	Rosanette
+T3925	Location 679603 679612	Rosanette
+T3926	Person 680020 680029	Rosanette
+T3927	Person 680141 680149	Frédéric
+T3928	Location 681388 681392	quoi
+T3929	Location 681960 681969	Rosanette
+T3930	Person 682065 682073	Frédéric
+T3931	Person 682401 682409	Frédéric
+T3932	Location 682760 682766	Arnoux
+T3933	Location 682778 682784	Vatnaz
+T3934	Location 682806 682809	toi
+T3935	Location 682837 682849	Palais-Royal
+T3936	Location 682895 682904	Rosanette
+T3937	Person 682989 682995	Arnoux
+T3938	Person 683022 683030	Frédéric
+T3939	Person 683249 683257	Frédéric
+T3940	Location 683501 683510	Rosanette
+T3941	Location 683695 683704	Rosanette
+T3942	Person 683893 683901	Frédéric
+T3943	Person 683960 683966	Arnoux
+T3944	Person 684300 684309	Rosanette
+T3945	Location 684448 684457	Rosanette
+T3946	Location 684838 684842	quoi
+T3947	Organization 684900 684916	pauvre Maréchale
+T3948	Person 684987 684995	Frédéric
+T3949	Person 685570 685578	Frédéric
+T3950	Location 685636 685646	Dussardier
+T3951	Location 685689 685698	Rosanette
+T3952	Location 686518 686527	Rosanette
+T3953	Person 686669 686677	mon Dieu
+T3954	Person 686681 686689	Frédéric
+T3955	Location 686763 686768	Paris
+T3956	Person 687121 687129	Frédéric
+T3957	Location 687254 687262	Commerce
+T3958	Location 687266 687271	Melun
+T3959	Hour 687278 687289	cinq heures
+T3960	Location 687410 687415	Paris
+T3961	Location 687538 687547	Rosanette
+T3962	Location 687826 687835	Maréchale
+T3963	Person 687858 687866	Frédéric
+T3964	Location 687951 687958	Corbeil
+T3965	Person 688175 688183	Frédéric
+T3966	Location 688321 688327	Italie
+T3967	Person 688412 688420	Frédéric
+T3968	Person 688590 688606	Brigand Canaille
+T3969	Person 689172 689180	Frédéric
+T3970	Location 689203 689216	Fontainebleau
+T3971	Location 689687 689712	rue du Marché-aux-Chevaux
+T3972	Organization 689824 689829	Pitié
+T3973	Person 689964 689972	Frédéric
+T3974	Location 691261 691269	Panthéon
+T3975	Person 691326 691334	Frédéric
+T3976	Location 691369 691379	Dussardier
+T3977	Location 691466 691483	rue Saint-Jacques
+T3978	Location 691500 691519	XIIe arrondissement
+T3979	Location 691534 691542	Panthéon
+T3980	Person 692328 692336	Frédéric
+T3981	Location 692494 692498	Bréa
+T3982	Location 692505 692512	Négrier
+T3983	Location 692563 692568	Paris
+T3984	Location 692593 692599	Aumale
+T3985	Location 692617 692625	Boulogne
+T3986	Location 692627 692633	Barbès
+T3987	Location 692643 692652	Vincennes
+T3988	Location 692683 692690	Bourges
+T3989	Organization 692858 692867	Assemblée
+T3990	Person 692933 692941	Frédéric
+T3991	Person 693150 693158	Henri VI
+T3992	Hour 693296 693316	neuf heures du matin
+T3993	Person 693347 693360	quai Voltaire
+T3994	Location 693449 693454	Seine
+T3995	Person 693559 693567	Frédéric
+T3996	Location 694151 694160	Cavaignac
+T3997	Location 694214 694226	rue Vivienne
+T3998	Location 694555 694568	Saint-Antoine
+T3999	Person 694570 694578	Frédéric
+T4000	Location 694591 694601	Dussardier
+T4001	Person 694714 694725	Mlle Vatnaz
+T4002	Person 694740 694748	Frédéric
+T4003	Person 694774 694792	comment Dussardier
+T4004	Location 694862 694875	rue Lafayette
+T4005	Location 695014 695024	Dussardier
+T4006	Person 695303 695314	Mlle Vatnaz
+T4007	Person 695597 695605	Frédéric
+T4008	Location 695715 695721	Vatnaz
+T4009	Location 695723 695733	Dussardier
+T4010	Person 696029 696040	Frédéric l'
+T4011	Location 696455 696462	Sénécal
+T4012	Organization 698378 698388	père Roque
+T4013	Location 698448 698453	Paris
+T4014	Person 698927 698932	Roque
+T4015	Organization 699217 699227	père Roque
+T4016	Organization 699474 699484	père Roque
+T4017	Location 699620 699624	quoi
+T4018	Person 699629 699634	Roque
+T4019	Location 699678 699694	rue Saint-Martin
+T4020	Organization 700210 700220	père Roque
+T4021	Location 700268 700277	Catherine
+T4022	Location 700331 700337	Louise
+T4023	Person 700474 700482	Frédéric
+T4024	Location 700646 700655	Catherine
+T4025	Person 700677 700685	Frédéric
+T4026	Person 700749 700760	Deslauriers
+T4027	Location 700796 700802	Louise
+T4028	Organization 700890 700898	Qu'as-tu
+T4029	Organization 701067 701077	père Roque
+T4030	Person 701297 701302	Roque
+T4031	Location 701409 701418	Catherine
+T4032	Person 701681 701690	Dambreuse
+T4033	Person 701728 701737	miss John
+T4034	Person 701758 701763	Roque
+T4035	Person 701965 701971	Moreau
+T4036	Location 701976 701982	Louise
+T4037	Person 702032 702046	Alfred de Cisy
+T4038	Person 702138 702147	Dambreuse
+T4039	Location 702230 702238	Martinon
+T4040	Person 702282 702288	Cécile
+T4041	Person 702423 702431	Martinon
+T4042	Person 702444 702450	Cécile
+T4043	Person 702483 702492	Dambreuse
+T4044	Person 702610 702618	Martinon
+T4045	Location 702762 702766	Cisy
+T4046	Person 702883 702892	Dambreuse
+T4047	Location 702895 702899	Cisy
+T4048	Person 702949 702955	Cécile
+T4049	Person 702990 702998	Frédéric
+T4050	Organization 703056 703066	père Roque
+T4051	Location 703106 703112	Louise
+T4052	Person 703133 703141	Frédéric
+T4053	Person 703385 703404	Paul de Grémonville
+T4054	Location 703440 703448	Fumichon
+T4055	Location 703771 703781	Nonancourt
+T4056	Location 703842 703852	Larsillois
+T4057	Location 703878 703892	Louis-Philippe
+T4058	Organization 704156 704178	faubourg Saint-Germain
+T4059	Location 704326 704336	Larsillois
+T4060	Location 704385 704394	Cavaignac
+T4061	Person 704843 704852	Dambreuse
+T4062	Person 704912 704921	Dambreuse
+T4063	Person 704949 704957	Martinon
+T4064	Person 705008 705016	Pellerin
+T4065	Person 705229 705237	Pellerin
+T4066	Organization 705262 705274	Intelligence
+T4067	Person 705307 705316	Dambreuse
+T4068	Person 705432 705438	Arnoux
+T4069	Person 705446 705452	Arnoux
+T4070	Person 705468 705476	Frédéric
+T4071	Location 705504 705513	Rosanette
+T4072	Location 705656 705662	Madame
+T4073	Location 705736 705742	Cécile
+T4074	Location 705759 705767	Martinon
+T4075	Location 706610 706620	Nonancourt
+T4076	Organization 706793 706803	père Roque
+T4077	Person 706868 706877	Dambreuse
+T4078	Location 706919 706929	Larsillois
+T4079	Location 706980 706988	Fumichon
+T4080	Person 707051 707062	Mlle Louise
+T4081	Location 707076 707084	Martinon
+T4082	Location 707140 707147	Cécile'
+T4083	Person 707149 707157	Frédéric
+T4084	Person 707184 707190	Arnoux
+T4085	Person 707687 707695	Frédéric
+T4086	Person 707966 707972	Arnoux
+T4087	Person 708090 708098	Frédéric
+T4088	Location 708162 708172	Mlle Roque
+T4089	Person 708424 708432	Frédéric
+T4090	Location 708478 708484	Arnoux
+T4091	Location 708685 708695	Luxembourg
+T4092	Person 708698 708709	Louis Blanc
+T4093	Location 708719 708727	Fumichon
+T4094	Location 708841 708851	Nonancourt
+T4095	Location 708861 708873	Ledru-Rollin
+T4096	Location 708970 708974	Cisy
+T4097	Person 709006 709015	Dambreuse
+T4098	Person 709207 709213	Arnoux
+T4099	Person 709234 709242	Frédéric
+T4100	Person 709490 709496	Arnoux
+T4101	Person 709621 709627	Cécile
+T4102	Person 709913 709921	Martinon
+T4103	Person 710205 710210	Roque
+T4104	Location 710237 710243	France
+T4105	Location 710264 710274	Nonancourt
+T4106	Location 710408 710416	Fumichon
+T4107	Location 710520 710530	Dussardier
+T4108	Person 710542 710551	Dambreuse
+T4109	Person 710572 710580	Frédéric
+T4110	Person 710688 710696	Frédéric
+T4111	Person 711009 711017	Martinon
+T4112	Location 711084 711090	Louise
+T4113	Person 711134 711143	Qu'est-ce
+T4114	Person 711173 711181	Frédéric
+T4115	Person 711201 711207	Arnoux
+T4116	Location 711271 711281	Nonancourt
+T4117	Person 711311 711320	Dambreuse
+T4118	Person 711365 711373	Frédéric
+T4119	Person 711376 711384	Martinon
+T4120	Person 711417 711423	Cécile
+T4121	Location 711644 711652	Bordeaux
+T4122	Person 711684 711692	Pellerin
+T4123	Person 711834 711839	Roque
+T4124	Person 712055 712063	Frédéric
+T4125	Person 712088 712096	Pellerin
+T4126	Person 712269 712275	Moreau
+T4127	Organization 712295 712305	père Roque
+T4128	Organization 712375 712384	Maréchale
+T4129	Person 712461 712469	Pellerin
+T4130	Person 712517 712525	Martinon
+T4131	Location 712579 712583	Cisy
+T4132	Location 712720 712724	Cisy
+T4133	Location 712844 712852	Frédéric
+T4134	Person 713055 713061	Arnoux
+T4135	Location 713115 713121	Louise
+T4136	Person 713124 713132	Frédéric
+T4137	Location 713255 713263	Martinon
+T4138	Person 713285 713291	Cécile
+T4139	Location 713581 713589	Pellerin
+T4140	Person 713835 713844	Louis XIV
+T4141	Person 713850 713855	Roque
+T4142	Location 714014 714022	Fumichon
+T4143	Person 714024 714030	Arnoux
+T4144	Location 714755 714763	Proudhon
+T4145	Location 714805 714813	Proudhon
+T4146	Location 714917 714925	Fumichon
+T4147	Location 715017 715024	Bonjour
+T4148	Person 715026 715032	Arnoux
+T4149	Location 715040 715049	Hussonnet
+T4150	Person 715104 715113	Dambreuse
+T4151	Location 715161 715166	Hydre
+T4152	Location 715279 715288	Hussonnet
+T4153	Location 715792 715802	Nonancourt
+T4154	Person 715835 715852	Monseigneur Affre
+T4155	Person 715873 715877	Bréa
+T4156	Person 715946 715951	Roque
+T4157	Location 715975 715985	Archevêque
+T4158	Location 716032 716040	Fumichon
+T4159	Location 716240 716251	Lamoricière
+T4160	Location 716258 716267	Cavaignac
+T4161	Person 716272 716300	Dambreuse exaltant Cavaignac
+T4162	Person 716304 716326	Nonancourt Lamoricière
+T4163	Organization 716359 716365	Arnoux
+T4164	Person 716476 716484	Frédéric
+T4165	Person 716565 716574	Dambreuse
+T4166	Person 716854 716863	Dambreuse
+T4167	Location 716873 716877	Cisy
+T4168	Person 716928 716936	Martinon
+T4169	Person 717105 717111	Moreau
+T4170	Person 717147 717155	Frédéric
+T4171	Organization 717220 717223	Qu'
+T4172	Person 718309 718318	Dambreuse
+T4173	Person 718431 718439	Martinon
+T4174	Location 718451 718457	Cécile
+T4175	Person 718498 718503	Roque
+T4176	Person 718526 718532	Arnoux
+T4177	Person 718742 718757	Frédéric Moreau
+T4178	Person 718867 718873	Arnoux
+T4179	Location 719309 719315	Louise
+T4180	Person 719464 719470	Arnoux
+T4181	Person 719566 719574	Frédéric
+T4182	Person 719734 719743	Dambreuse
+T4183	Person 719842 719847	Roque
+T4184	Organization 719956 719971	Est-ce croyable
+T4185	Organization 720288 720303	hôtel Dambreuse
+T4186	Person 720959 720967	Frédéric
+T4187	Person 721175 721188	MM. Dambreuse
+T4188	Location 721195 721206	Grémonville
+T4189	Person 721255 721263	Frédéric
+T4190	Person 721498 721504	Cécile
+T4191	Location 721651 721659	Martinon
+T4192	Organization 721665 721675	père Roque
+T4193	Person 721711 721717	Arnoux
+T4194	Location 721796 721802	Louise
+T4195	Person 721806 721814	Frédéric
+T4196	Person 722167 722175	Frédéric
+T4197	Person 722466 722474	Frédéric
+T4198	Location 722957 722966	Catherine
+T4199	Person 723173 723181	Frédéric
+T4200	Location 723228 723238	Mlle Roque
+T4201	Person 723331 723340	Dambreuse
+T4202	Person 723598 723604	Arnoux
+T4203	Location 723632 723638	Louise
+T4204	Location 724112 724118	Louise
+T4205	Location 724457 724467	Dussardier
+T4206	Location 724521 724535	rue Hauteville
+T4207	Location 724552 724559	Gymnase
+T4208	Location 724627 724636	Rosanette
+T4209	Person 724649 724655	Arnoux
+T4210	Organization 724670 724680	père Roque
+T4211	Location 724715 724726	Saint-Denis
+T4212	Person 725058 725066	Frédéric
+T4213	Person 725232 725238	Arnoux
+T4214	Person 725414 725420	Arnoux
+T4215	Location 725552 725558	Louise
+T4216	Person 725584 725593	Catherine
+T4217	Location 725692 725701	Catherine
+T4218	Person 725815 725828	Chez Frédéric
+T4219	Location 726238 726247	Catherine
+T4220	Location 726379 726385	Louise
+T4221	Location 726430 726439	Catherine
+T4222	Person 726950 726963	Seigneur Dieu
+T4223	Location 727084 727090	Louise
+T4224	Location 727146 727157	rue Rumford
+T4225	Location 727216 727225	Madeleine
+T4226	Location 727276 727282	Louise
+T4227	Location 727690 727699	Catherine
+T4228	Person 727750 727758	Frédéric
+T4229	Location 727760 727766	Louise
+T4230	Location 728217 728223	Louise
+T4231	Location 728382 728391	Catherine
+T4232	Location 728652 728661	Rosanette
+T4233	Person 728744 728752	Frédéric
+T4234	Location 729437 729446	Rosanette
+T4235	Person 729522 729530	Frédéric
+T4236	Location 729669 729677	Boulogne
+T4237	Location 729766 729781	Arc de triomphe
+T4238	Person 729964 729975	Frédéric l'
+T4239	Person 730673 730679	Arnoux
+T4240	Person 730927 730935	Frédéric
+T4241	Person 730965 730973	Delphine
+T4242	Person 731048 731054	Arnoux
+T4243	Person 731122 731131	Qu'est-ce
+T4244	Location 731154 731163	Rosanette
+T4245	Person 731516 731522	Arnoux
+T4246	Location 731989 731996	Pouvoir
+T4247	Person 732202 732208	Arnoux
+T4248	Person 732269 732275	Marthe
+T4249	Person 732584 732592	Frédéric
+T4250	Person 732721 732729	Frédéric
+T4251	Person 732757 732763	Arnoux
+T4252	Location 732983 732991	Jouffroy
+T4253	Person 733074 733082	Frédéric
+T4254	Location 733116 733123	Compain
+T4255	Location 733433 733440	Compain
+T4256	Person 733595 733606	Frédéric l'
+T4257	Location 733768 733777	Regimbart
+T4258	Location 733824 733832	Masselin
+T4259	Location 733834 733840	Sanson
+T4260	Location 733842 733849	Lecornu
+T4261	Location 733851 733859	Maréchal
+T4262	Location 733875 733886	Deslauriers
+T4263	Location 733955 733961	Troyes
+T4264	Person 733993 734001	Frédéric
+T4265	Location 734003 734010	Compain
+T4266	Location 734119 734123	quoi
+T4267	Location 734206 734213	Compain
+T4268	Person 734327 734335	Frédéric
+T4269	Location 734355 734366	Deslauriers
+T4270	Location 734399 734410	rue Paradis
+T4271	Person 734541 734547	Arnoux
+T4272	Location 734670 734676	Madame
+T4273	Person 734687 734693	Moreau
+T4274	Person 734908 734914	Arnoux
+T4275	Person 735192 735200	Frédéric
+T4276	Person 735288 735297	Qu'est-ce
+T4277	Person 735455 735461	Arnoux
+T4278	Location 735662 735666	Cham
+T4279	Person 735821 735829	Frédéric
+T4280	Person 736389 736395	Eugène
+T4281	Person 736736 736744	Frédéric
+T4282	Person 737003 737009	Arnoux
+T4283	Location 737596 737608	Palais-Royal
+T4284	Person 737728 737737	Dambreuse
+T4285	Location 738322 738331	Rosanette
+T4286	Person 738337 738343	Arnoux
+T4287	Location 738459 738468	Rosanette
+T4288	Person 738503 738509	Arnoux
+T4289	Location 738597 738606	Maréchale
+T4290	Location 738677 738685	Frédéric
+T4291	Location 738705 738708	toi
+T4292	Person 738763 738769	Arnoux
+T4293	Location 738858 738867	Maréchale
+T4294	Person 739084 739090	Arnoux
+T4295	Person 739225 739250	Frédéric poussa Rosanette
+T4296	Location 740092 740096	quoi
+T4297	Person 740344 740352	Frédéric
+T4298	Person 740555 740563	Frédéric
+T4299	Location 740901 740910	Maréchale
+T4300	Person 741081 741087	Arnoux
+T4301	Location 741311 741320	Rosanette
+T4302	Person 741592 741600	Frédéric
+T4303	Person 741811 741822	Mlle Vatnaz
+T4304	Person 741916 741927	chez Arnoux
+T4305	Person 741984 741992	Frédéric
+T4306	Hour 742198 742209	neuf heures
+T4307	Person 742251 742259	Frédéric
+T4308	Person 742275 742286	Mlle Vatnaz
+T4309	Location 742513 742519	Delmar
+T4310	Organization 742695 742703	muraille
+T4311	Person 743035 743046	Mlle Vatnaz
+T4312	Location 743124 743134	Dussardier
+T4313	Location 743267 743273	Vatnaz
+T4314	Person 743298 743304	Delmar
+T4315	Person 743377 743385	Frédéric
+T4316	Location 743582 743592	Dussardier
+T4317	Location 743669 743677	Frédéric
+T4318	Person 743784 743790	Arnoux
+T4319	Location 743839 743848	Maréchale
+T4320	Location 744347 744356	Rosanette
+T4321	Person 744389 744397	Frédéric
+T4322	Location 744482 744492	A Chaillot
+T4323	Person 744982 744991	Dambreuse
+T4324	Person 745664 745672	Frédéric
+T4325	Person 746050 746059	Dambreuse
+T4326	Person 746312 746320	Martinon
+T4327	Person 746387 746395	Frédéric
+T4328	Person 746458 746467	Dambreuse
+T4329	Person 746566 746575	Dambreuse
+T4330	Organization 746757 746767	père Roque
+T4331	Person 746840 746846	Cécile
+T4332	Person 746848 746857	miss John
+T4333	Location 746984 746993	Rosanette
+T4334	Person 747269 747277	Frédéric
+T4335	Person 747329 747340	chez Arnoux
+T4336	Location 747442 747451	Languedoc
+T4337	Location 747641 747650	Maréchale
+T4338	Location 747719 747727	Frédéric
+T4339	Person 747934 747943	Dambreuse
+T4340	Person 748174 748182	Frédéric
+T4341	Organization 748378 748393	hôtel Dambreuse
+T4342	Location 748439 748447	Poitiers
+T4343	Person 748476 748478	A.
+T4344	Location 748942 748950	Fumichon
+T4345	Location 748955 748964	Hussonnet
+T4346	Location 748986 748996	Nonancourt
+T4347	Person 749051 749062	Grémonville
+T4348	Person 749086 749094	Martinon
+T4349	Location 749170 749174	Cisy
+T4350	Person 749309 749318	Dambreuse
+T4351	Location 749410 749419	Lamartine
+T4352	Location 749487 749496	Cavaignac
+T4353	Event 749752 749776	affaire du Conservatoire
+T4354	Location 749792 749803	Changarnier
+T4355	Person 749808 749818	Dieu merci
+T4356	Location 749820 749831	Changarnier
+T4357	Location 749846 749857	Changarnier
+T4358	Location 749889 749900	Changarnier
+T4359	Person 749931 749937	Thiers
+T4360	Person 750047 750060	Pierre Leroux
+T4361	Organization 750078 750098	Chambre des passages
+T4362	Location 750247 750258	Aristophane
+T4363	Person 750260 750275	Frédéric y alla
+T4364	Person 750526 750535	Dambreuse
+T4365	Person 752559 752567	Frédéric
+T4366	Person 752820 752826	Arnoux
+T4367	Location 752870 752879	Rosanette
+T4368	Person 753261 753267	Arnoux
+T4369	Person 753504 753512	Martinon
+T4370	Person 753651 753660	Dambreuse
+T4371	Person 753693 753699	Cécile
+T4372	Person 753777 753785	Martinon
+T4373	Person 754146 754154	Martinon
+T4374	Person 754167 754173	Cécile
+T4375	Location 754244 754250	Italie
+T4376	Person 754252 754260	Frédéric
+T4377	Person 754304 754313	Dambreuse
+T4378	Person 755375 755384	Dambreuse
+T4379	Person 755554 755563	Dambreuse
+T4380	Person 755654 755662	Frédéric
+T4381	Person 756687 756696	Dambreuse
+T4382	Location 757259 757267	Frédéric
+T4383	Person 758038 758046	Frédéric
+T4384	Location 758108 758119	Deslauriers
+T4385	Person 758134 758142	Frédéric
+T4386	Location 758204 758207	toi
+T4387	Location 758315 758327	Ledru-Rollin
+T4388	Location 758659 758665	Troyes
+T4389	Location 758746 758753	Londres
+T4390	Location 758841 758846	Paris
+T4391	Location 759308 759318	Belle-Isle
+T4392	Location 759325 759332	Sénécal
+T4393	Person 759338 759346	Frédéric
+T4394	Location 759457 759464	Sénécal
+T4395	Location 759469 759480	Deslauriers
+T4396	Person 759598 759606	Frédéric
+T4397	Person 759787 759807	Deslauriers disparut
+T4398	Person 759963 759972	Dambreuse
+T4399	Person 760047 760055	Frédéric
+T4400	Location 760520 760524	Lyon
+T4401	Location 760528 760533	Lille
+T4402	Location 760538 760543	Havre
+T4403	Location 760547 760552	Paris
+T4404	Location 760770 760774	quoi
+T4405	Date 760837 760841	1830
+T4406	Location 761285 761296	Robespierre
+T4407	Location 761340 761354	Louis-Philippe
+T4408	Location 761467 761477	Talleyrand
+T4409	Location 761484 761492	Mirabeau
+T4410	Location 761703 761709	Europe
+T4411	Person 761713 761721	Frédéric
+T4412	Location 762411 762415	quoi
+T4413	Location 762466 762477	Deslauriers
+T4414	Organization 762486 762494	Frédéric
+T4415	Organization 762570 762585	hôtel Dambreuse
+T4416	Location 762748 762759	Deslauriers
+T4417	Location 762836 762839	toi
+T4418	Location 762952 762956	Aube
+T4419	Person 762986 762995	Dambreuse
+T4420	Location 763008 763019	Législative
+T4421	Person 763268 763276	Frédéric
+T4422	Location 763311 763322	Deslauriers
+T4423	Location 763374 763379	Paris
+T4424	Person 763424 763433	Dambreuse
+T4425	Location 763465 763473	houilles
+T4426	Person 763645 763653	Frédéric
+T4427	Person 763747 763756	Dambreuse
+T4428	Person 764229 764238	Dambreuse
+T4429	Location 764509 764515	Italie
+T4430	Location 764702 764713	Grémonville
+T4431	Person 764717 764725	Frédéric
+T4432	Person 764800 764809	Dambreuse
+T4433	Person 764822 764833	Frédéric de
+T4434	Location 764946 764955	Maréchale
+T4435	Hour 765018 765029	cinq heures
+T4436	Location 765097 765108	Deslauriers
+T4437	Person 765164 765173	Rosanette
+T4438	Person 765539 765550	Frédéric l'
+T4439	Person 765668 765677	Dambreuse
+T4440	Location 765685 765696	Deslauriers
+T4441	Location 765759 765767	houilles
+T4442	Location 765944 765955	Deslauriers
+T4443	Location 765996 766001	Gobet
+T4444	Person 766024 766030	Chappe
+T4445	Person 766357 766366	Dambreuse
+T4446	Location 766537 766548	Deslauriers
+T4447	Person 766566 766574	Frédéric
+T4448	Person 766631 766640	Dambreuse
+T4449	Location 766821 766832	Deslauriers
+T4450	Person 766932 766941	Dambreuse
+T4451	Person 767193 767202	Dambreuse
+T4452	Person 767282 767290	Frédéric
+T4453	Location 767330 767341	Deslauriers
+T4454	Person 767364 767369	Roque
+T4455	Location 767409 767415	Louise
+T4456	Location 767546 767557	Deslauriers
+T4457	Person 767570 767578	Frédéric
+T4458	Person 767905 767914	Dambreuse
+T4459	Person 768370 768379	Dambreuse
+T4460	Person 768409 768417	Frédéric
+T4461	Person 769101 769110	Dambreuse
+T4462	Person 769761 769769	Frédéric
+T4463	Location 770503 770512	Rosanette
+T4464	Person 770523 770529	Arnoux
+T4465	Location 770786 770793	Sénécal
+T4466	Location 770889 770900	Deslauriers
+T4467	Location 771106 771113	Sénécal
+T4468	Organization 771550 771554	Etat
+T4469	Location 771612 771619	Sénécal
+T4470	Person 771652 771660	Frédéric
+T4471	Location 771726 771737	Deslauriers
+T4472	Location 771802 771813	Robespierre
+T4473	Person 771860 771869	Louis XVI
+T4474	Location 772119 772126	Sénécal
+T4475	Person 772178 772189	Deslauriers
+T4476	Person 772231 772240	Dambreuse
+T4477	Person 772251 772260	Dambreuse
+T4478	Person 772275 772283	Frédéric
+T4479	Person 772389 772400	Changarnier
+T4480	Person 772808 772817	Dambreuse
+T4481	Person 773082 773090	Frédéric
+T4482	Location 773110 773116	Nogent
+T4483	Person 773122 773131	Dambreuse
+T4484	Person 773254 773263	Dambreuse
+T4485	Person 773465 773471	Cécile
+T4486	Location 773504 773510	France
+T4487	Person 773606 773615	Dambreuse
+T4488	Date 773972 773982	12 février
+T4489	Hour 773986 773997	cinq heures
+T4490	Person 774132 774141	Dambreuse
+T4491	Location 774143 774149	Madame
+T4492	Location 774192 774196	quoi
+T4493	Person 774332 774340	Frédéric
+T4494	Person 774348 774357	Dambreuse
+T4495	Person 774927 774936	Dambreuse
+T4496	Person 775222 775230	Frédéric
+T4497	Person 775429 775438	Dambreuse
+T4498	Person 775792 775805	sainte Vierge
+T4499	Person 775824 775832	Frédéric
+T4500	Person 775991 776000	Dambreuse
+T4501	Person 776472 776481	Dambreuse
+T4502	Person 776790 776798	Frédéric
+T4503	Person 776928 776934	Cécile
+T4504	Person 777026 777034	Frédéric
+T4505	Person 777059 777068	Dambreuse
+T4506	Person 777321 777330	Dambreuse
+T4507	Person 777684 777693	Dambreuse
+T4508	Person 777746 777754	Frédéric
+T4509	Location 777868 777871	Toi
+T4510	Location 777899 777902	toi
+T4511	Person 778782 778790	Frédéric
+T4512	Location 779301 779309	Napoléon
+T4513	Person 779325 779336	Louis XVIII
+T4514	Date 779338 779342	1830
+T4515	Location 779390 779397	Pouvoir
+T4516	Location 779483 779491	Fortelle
+T4517	Location 779515 779523	Picardie
+T4518	Location 779550 779555	Yonne
+T4519	Location 779574 779581	Orléans
+T4520	Person 779622 779630	Frédéric
+T4521	Person 780169 780178	Dambreuse
+T4522	Location 780201 780205	quoi
+T4523	Person 780554 780562	Frédéric
+T4524	Location 780848 780852	quoi
+T4525	Location 781339 781344	Paris
+T4526	Person 781361 781369	Frédéric
+T4527	Person 781988 781996	Frédéric
+T4528	Person 782013 782022	Dambreuse
+T4529	Person 782314 782322	Frédéric
+T4530	Organization 782423 782437	Hôtel de Ville
+T4531	Person 782633 782641	Frédéric
+T4532	Location 782881 782887	Madame
+T4533	Person 783469 783477	Mon Dieu
+T4534	Location 783983 784004	place de la Madeleine
+T4535	Person 784184 784193	Dambreuse
+T4536	Person 785512 785520	Frédéric
+T4537	Location 785664 785673	Madeleine
+T4538	Person 785689 785697	Pellerin
+T4539	Location 785924 785937	Père-Lachaise
+T4540	Organization 786275 786294	Chambre des députés
+T4541	Location 786330 786334	Aube
+T4542	Location 786351 786359	houilles
+T4543	Location 786366 786374	Fumichon
+T4544	Person 786966 786975	Piscatory
+T4545	Person 787055 787068	MM. Chambolle
+T4546	Location 787070 787076	Pidoux
+T4547	Person 787078 787084	Creton
+T4548	Location 787175 787181	Dufour
+T4549	Location 787220 787238	rue de la Roquette
+T4550	Person 788886 788895	Dambreuse
+T4551	Location 788923 788929	Manuel
+T4552	Person 788936 788953	Benjamin Constant
+T4553	Person 789133 789141	Frédéric
+T4554	Organization 789233 789252	Chambre des députés
+T4555	Location 789297 789301	Aube
+T4556	Location 789350 789364	Saône-et-Loire
+T4557	Location 789419 789424	Yonne
+T4558	Location 789605 789611	Amiens
+T4559	Person 789690 789699	Dambreuse
+T4560	Location 790336 790345	Hussonnet
+T4561	Organization 790467 790485	bonhomme Dambreuse
+T4562	Person 790697 790705	Frédéric
+T4563	Organization 790772 790787	hôtel Dambreuse
+T4564	Location 790806 790812	Madame
+T4565	Person 791092 791101	Dambreuse
+T4566	Person 791282 791298	Adolphe Langlois
+T4567	Location 791441 791447	Cécile
+T4568	Person 791484 791492	Frédéric
+T4569	Person 791580 791589	Dambreuse
+T4570	Person 792069 792077	Frédéric
+T4571	Person 792229 792238	Dambreuse
+T4572	Person 792454 792463	Dambreuse
+T4573	Person 792901 792909	Frédéric
+T4574	Location 792955 792960	Adieu
+T4575	Person 793051 793060	Dambreuse
+T4576	Person 793290 793299	Dambreuse
+T4577	Location 793441 793444	toi
+T4578	Person 793623 793631	Frédéric
+T4579	Person 794041 794050	Dambreuse
+T4580	Location 794514 794520	Nogent
+T4581	Person 794750 794759	Rosanette
+T4582	Location 794906 794914	Chaillot
+T4583	Person 794917 794925	Frédéric
+T4584	Location 794967 794981	rue de Marbeuf
+T4585	Organization 795029 795044	Maison de santé
+T4586	Person 795077 795087	Alessandri
+T4587	Organization 795298 795313	Maison de santé
+T4588	Person 795321 795331	Alessandri
+T4589	Person 795358 795366	Frédéric
+T4590	Location 795578 795584	Madame
+T4591	Person 795698 795709	Frédéric l'
+T4592	Location 795776 795785	Rosanette
+T4593	Person 796460 796469	Dambreuse
+T4594	Person 796853 796863	Alessandri
+T4595	Person 797087 797096	Rosanette
+T4596	Location 797136 797144	Frédéric
+T4597	Person 797328 797334	Nogent
+T4598	Location 797365 797376	Deslauriers
+T4599	Person 797529 797537	Frédéric
+T4600	Person 797944 797953	Dambreuse
+T4601	Location 797985 797996	Deslauriers
+T4602	Person 798085 798093	Frédéric
+T4603	Person 798116 798125	Dambreuse
+T4604	Location 798153 798159	Nogent
+T4605	Location 798211 798222	Deslauriers
+T4606	Location 798322 798330	houilles
+T4607	Location 798403 798411	Frédéric
+T4608	Person 798452 798461	Dambreuse
+T4609	Location 798793 798802	Maréchale
+T4610	Person 798836 798845	Dambreuse
+T4611	Location 798962 798969	Andilly
+T4612	Location 799215 799224	Rosanette
+T4613	Person 799888 799896	Frédéric
+T4614	Person 800585 800593	Frédéric
+T4615	Person 800730 800739	Dambreuse
+T4616	Location 800837 800846	Rosanette
+T4617	Location 800873 800877	quoi
+T4618	Location 801051 801060	Maréchale
+T4619	Person 801074 801083	Dambreuse
+T4620	Person 801780 801789	Dambreuse
+T4621	Person 801840 801846	Moreau
+T4622	Location 801891 801895	Bron
+T4623	Person 802070 802079	Dambreuse
+T4624	Person 802252 802260	Frédéric
+T4625	Person 802773 802781	Frédéric
+T4626	Location 802800 802809	Maréchale
+T4627	Person 802849 802855	Arnoux
+T4628	Person 802964 802973	Regimbart
+T4629	Location 803302 803306	quoi
+T4630	Person 804012 804021	Dambreuse
+T4631	Person 804284 804293	Qu'est-ce
+T4632	Person 804533 804544	Frédéric l'
+T4633	Person 804727 804736	Dambreuse
+T4634	Person 804849 804857	Frédéric
+T4635	Location 804907 804916	Allemagne
+T4636	Location 805036 805043	Orléans
+T4637	Location 805066 805074	Chambord
+T4638	Location 805203 805208	Paris
+T4639	Location 805282 805292	Versailles
+T4640	Location 805328 805335	Bourges
+T4641	Location 806008 806015	Sénécal
+T4642	Person 806017 806025	Frédéric
+T4643	Location 806299 806308	Hussonnet
+T4644	Location 806432 806441	Rosanette
+T4645	Location 806554 806562	Fumichon
+T4646	Location 806579 806589	Nonancourt
+T4647	Location 806597 806608	Grémonville
+T4648	Location 806622 806632	Larsillois
+T4649	Location 806648 806652	Cisy
+T4650	Location 806770 806779	Maréchale
+T4651	Location 806802 806809	Comaing
+T4652	Location 806823 806831	Jumillac
+T4653	Person 806890 806898	Frédéric
+T4654	Location 807185 807194	Rosanette
+T4655	Person 807814 807822	Frédéric
+T4656	Person 807892 807898	Arnoux
+T4657	Location 808593 808604	Deslauriers
+T4658	Location 808639 808645	Nogent
+T4659	Person 808695 808703	Frédéric
+T4660	Person 808909 808918	Rosanette
+T4661	Person 808940 808948	Frédéric
+T4662	Person 809119 809137	Athanase Gautherot
+T4663	Person 809214 809229	Clémence Vatnaz
+T4664	Person 809441 809452	chez Arnoux
+T4665	Organization 809469 809491	faubourg Saint-Germain
+T4666	Person 809634 809642	Frédéric
+T4667	Person 809736 809754	Athanase Gautherot
+T4668	Person 810760 810766	Arnoux
+T4669	Location 810785 810791	Sombaz
+T4670	Location 810811 810817	Burieu
+T4671	Location 810837 810844	Dittmer
+T4672	Location 810846 810855	Rosanette
+T4673	Person 810893 810909	Maître Gautherot
+T4674	Person 811085 811093	Frédéric
+T4675	Person 811099 811107	Delphine
+T4676	Person 811232 811248	Maître Gautherot
+T4677	Person 811442 811453	Frédéric l'
+T4678	Person 811683 811699	Maître Gautherot
+T4679	Organization 811781 811790	Mlle Bron
+T4680	Person 811809 811817	Frédéric
+T4681	Person 812014 812022	mon Dieu
+T4682	Location 812052 812061	Maréchale
+T4683	Location 812160 812169	Languedoc
+T4684	Person 812360 812366	Arnoux
+T4685	Person 812510 812518	Frédéric
+T4686	Person 812553 812564	chez Arnoux
+T4687	Person 812597 812603	Arnoux
+T4688	Organization 812869 812884	hôtel Dambreuse
+T4689	Person 812902 812911	Regimbart
+T4690	Location 813000 813007	Citoyen
+T4691	Location 813039 813059	place de la Bastille
+T4692	Person 813442 813450	Frédéric
+T4693	Person 813487 813493	Arnoux
+T4694	Person 813591 813599	Frédéric
+T4695	Location 813633 813640	Compain
+T4696	Location 813666 813675	Regimbart
+T4697	Location 813779 813788	Regimbart
+T4698	Person 813834 813842	Frédéric
+T4699	Person 813926 813932	Arnoux
+T4700	Location 813946 813960	rue de Fleurus
+T4701	Location 814057 814064	Citoyen
+T4702	Person 814259 814265	Arnoux
+T4703	Person 814546 814554	Frédéric
+T4704	Person 815509 815518	Mgr Affre
+T4705	Person 815561 815567	Arnoux
+T4706	Person 815774 815782	Frédéric
+T4707	Location 815854 815863	Maréchale
+T4708	Person 815937 815943	Arnoux
+T4709	Location 816108 816113	Havre
+T4710	Person 816138 816147	Rosanette
+T4711	Person 816286 816294	Frédéric
+T4712	Person 816320 816326	Arnoux
+T4713	Location 816437 816446	Rosanette
+T4714	Location 816613 816616	toi
+T4715	Location 816799 816808	Rosanette
+T4716	Person 816890 816900	ton Arnoux
+T4717	Location 816927 816930	toi
+T4718	Person 816996 817004	Delphine
+T4719	Location 817027 817033	Madame
+T4720	Location 817104 817113	Rosanette
+T4721	Location 817539 817545	Madame
+T4722	Location 817771 817780	Rosanette
+T4723	Location 817873 817879	Vatnaz
+T4724	Location 817964 817972	Béranger
+T4725	Person 818327 818333	Arnoux
+T4726	Location 818533 818543	Dussardier
+T4727	Person 818590 818605	Hortense Baslin
+T4728	Person 818652 818663	Mlle Vatnaz
+T4729	Location 818760 818770	Dussardier
+T4730	Location 818982 818993	Mlle Vatnaz
+T4731	Location 819251 819261	Dussardier
+T4732	Person 819845 819851	Delmar
+T4733	Location 819884 819894	Dussardier
+T4734	Location 820347 820356	Maréchale
+T4735	Location 820359 820369	Dussardier
+T4736	Location 820478 820491	quai Napoléon
+T4737	Person 820564 820572	Frédéric
+T4738	Location 820585 820591	Vatnaz
+T4739	Location 820662 820671	Rosanette
+T4740	Location 820825 820835	Dussardier
+T4741	Person 820940 820948	Frédéric
+T4742	Location 821024 821028	quoi
+T4743	Location 821347 821353	Vatnaz
+T4744	Person 821664 821683	répliqua Dussardier
+T4745	Person 821719 821727	Frédéric
+T4746	Location 822217 822223	Venise
+T4747	Location 822235 822242	Pologne
+T4748	Location 822254 822261	Hongrie
+T4749	Location 822610 822615	Paris
+T4750	Location 823071 823077	Barbès
+T4751	Person 823544 823552	Frédéric
+T4752	Location 823649 823655	Vatnaz
+T4753	Location 823696 823705	Rosanette
+T4754	Location 823739 823745	Arnoux
+T4755	Location 823788 823799	Deslauriers
+T4756	Location 823853 823859	Arnoux
+T4757	Location 824160 824167	Sénécal
+T4758	Location 824200 824208	Frédéric
+T4759	Location 824411 824420	Rosanette
+T4760	Organization 824482 824501	Compagnie du kaolin
+T4761	Person 824545 824551	Arnoux
+T4762	Location 825085 825094	Rosanette
+T4763	Location 825227 825233	Nogent
+T4764	Location 825236 825243	Sénécal
+T4765	Person 825369 825374	Roque
+T4766	Location 825548 825554	Louise
+T4767	Location 825619 825631	Ledru-Rollin
+T4768	Person 825637 825645	Frédéric
+T4769	Location 825717 825728	Deslauriers
+T4770	Location 825837 825843	Louise
+T4771	Person 825878 825884	Moreau
+T4772	Person 826143 826151	Frédéric
+T4773	Person 826248 826257	Dambreuse
+T4774	Location 826339 826348	Rosanette
+T4775	Person 826433 826444	Frédéric l'
+T4776	Location 826477 826484	Sénécal
+T4777	Person 826534 826549	Arnoux complice
+T4778	Person 826631 826642	Frédéric l'
+T4779	Location 826725 826734	Rosanette
+T4780	Location 827011 827016	Paris
+T4781	Organization 827188 827191	Qu'
+T4782	Person 827352 827360	Frédéric
+T4783	Location 827891 827900	Rosanette
+T4784	Person 827956 827964	Frédéric
+T4785	Person 828534 828542	Frédéric
+T4786	Location 828772 828781	Rosanette
+T4787	Person 828935 828943	Frédéric
+T4788	Location 829080 829088	Pellerin
+T4789	Person 829093 829101	Delphine
+T4790	Person 829121 829129	Pellerin
+T4791	Person 829253 829261	mon Dieu
+T4792	Location 829586 829595	Rosanette
+T4793	Person 830226 830241	Jean de Corrège
+T4794	Location 830261 830270	Velasquez
+T4795	Location 830294 830302	Reynolds
+T4796	Location 830322 830330	Lawrence
+T4797	Person 830396 830406	lady Gower
+T4798	Location 830586 830595	Rosanette
+T4799	Person 830626 830634	Pellerin
+T4800	Person 830662 830668	Arnoux
+T4801	Person 830764 830773	Qu'est-ce
+T4802	Person 830909 830917	Frédéric
+T4803	Person 830923 830931	Pellerin
+T4804	Person 831010 831016	Arnoux
+T4805	Person 831143 831149	Arnoux
+T4806	Person 831155 831163	Pellerin
+T4807	Location 831259 831265	Mignot
+T4808	Location 831280 831289	Regimbart
+T4809	Location 831392 831401	Regimbart
+T4810	Person 831430 831436	Arnoux
+T4811	Person 831551 831559	Frédéric
+T4812	Location 831626 831635	Rosanette
+T4813	Person 831772 831780	Pellerin
+T4814	Person 831829 831837	Frédéric
+T4815	Location 832078 832083	Havre
+T4816	Person 832309 832317	Frédéric
+T4817	Location 832446 832455	Rosanette
+T4818	Person 832568 832574	Arnoux
+T4819	Person 832880 832888	Frédéric
+T4820	Person 833025 833034	Dambreuse
+T4821	Person 833374 833382	Frédéric
+T4822	Location 833544 833554	Dussardier
+T4823	Person 833666 833675	Dambreuse
+T4824	Person 833804 833815	chez Arnoux
+T4825	Location 833884 833895	rue Paradis
+T4826	Person 833931 833942	Rue Paradis
+T4827	Person 833967 833973	Arnoux
+T4828	Location 834014 834020	Madame
+T4829	Person 834048 834056	Frédéric
+T4830	Location 834154 834160	Madame
+T4831	Location 834179 834187	Monsieur
+T4832	Location 834502 834511	Regimbart
+T4833	Location 834531 834537	Mignot
+T4834	Person 834573 834581	Frédéric
+T4835	Location 834610 834620	Montmartre
+T4836	Person 835006 835015	Regimbart
+T4837	Location 835049 835057	Monsieur
+T4838	Person 835585 835594	Regimbart
+T4839	Person 835675 835681	Moreau
+T4840	Person 835782 835791	Dambreuse
+T4841	Location 835837 835845	Frédéric
+T4842	Location 836005 836012	Citoyen
+T4843	Location 836111 836117	Arnoux
+T4844	Location 836164 836170	Mignot
+T4845	Location 836548 836554	Mignot
+T4846	Person 836782 836788	Arnoux
+T4847	Location 836921 836927	Mignot
+T4848	Location 836945 836951	Arnoux
+T4849	Person 837099 837107	Frédéric
+T4850	Location 837160 837167	Citoyen
+T4851	Location 837171 837177	Mignot
+T4852	Person 837319 837325	Mignot
+T4853	Person 837459 837467	Frédéric
+T4854	Location 837473 837480	Citoyen
+T4855	Person 837692 837698	Arnoux
+T4856	Location 837769 837782	gare du Havre
+T4857	Person 837787 837795	Frédéric
+T4858	Person 837826 837835	Regimbart
+T4859	Location 837956 837965	Regimbart
+T4860	Person 838027 838033	Arnoux
+T4861	Location 838246 838253	Citoyen
+T4862	Person 838314 838320	Arnoux
+T4863	Person 838357 838365	Frédéric
+T4864	Location 838525 838534	Rosanette
+T4865	Hour 838660 838671	huit heures
+T4866	Person 838835 838843	Frédéric
+T4867	Person 839799 839807	Frédéric
+T4868	Person 839841 839850	Dambreuse
+T4869	Person 839890 839899	Rosanette
+T4870	Person 840255 840263	Frédéric
+T4871	Person 840311 840317	Arnoux
+T4872	Location 840453 840458	Paris
+T4873	Location 841272 841281	Rosanette
+T4874	Person 841461 841470	Dambreuse
+T4875	Person 841548 841564	Olympe Regimbart
+T4876	Location 841652 841660	Frédéric
+T4877	Person 841727 841733	Arnoux
+T4878	Person 842022 842030	Frédéric
+T4879	Person 842345 842353	Frédéric
+T4880	Person 842436 842445	Dambreuse
+T4881	Location 842606 842617	Deslauriers
+T4882	Person 842661 842669	Frédéric
+T4883	Person 842846 842852	Arnoux
+T4884	Person 842897 842903	Arnoux
+T4885	Person 842953 842961	Frédéric
+T4886	Person 842990 842999	Dambreuse
+T4887	Organization 843129 843149	Tribunal de commerce
+T4888	Location 843183 843189	Arnoux
+T4889	Person 843315 843324	Dambreuse
+T4890	Person 843535 843543	Frédéric
+T4891	Person 843808 843816	Martinon
+T4892	Location 843842 843853	Deslauriers
+T4893	Person 843954 843960	Arnoux
+T4894	Person 844146 844155	Dambreuse
+T4895	Person 844397 844405	Frédéric
+T4896	Person 844437 844443	Arnoux
+T4897	Location 844714 844718	Inde
+T4898	Location 844728 844733	Erard
+T4899	Location 844756 844767	Renaissance
+T4900	Location 844780 844786	Venise
+T4901	Location 844800 844805	Chine
+T4902	Location 844812 844817	Japon
+T4903	Person 844855 844863	Frédéric
+T4904	Person 844988 845001	Me Berthelmot
+T4905	Person 845142 845150	Frédéric
+T4906	Location 845177 845184	Sénécal
+T4907	Person 845208 845221	Me Berthelmot
+T4908	Person 845300 845308	Frédéric
+T4909	Person 845322 845336	chez Rosanette
+T4910	Location 845400 845404	quoi
+T4911	Location 845543 845546	toi
+T4912	Person 845567 845573	Arnoux
+T4913	Person 845684 845693	Qu'est-ce
+T4914	Location 845717 845726	Rosanette
+T4915	Location 845905 845908	Toi
+T4916	Location 846107 846114	Sénécal
+T4917	Location 846283 846290	Sénécal
+T4918	Person 846336 846342	Arnoux
+T4919	Person 846530 846538	Frédéric
+T4920	Location 846611 846620	Rosanette
+T4921	Person 846948 846956	Mon Dieu
+T4922	Person 847050 847056	Arnoux
+T4923	Location 847070 847079	Rosanette
+T4924	Location 847445 847454	Rosanette
+T4925	Person 847723 847731	Mon Dieu
+T4926	Location 847785 847788	toi
+T4927	Person 847817 847825	Frédéric
+T4928	Person 847967 847975	Frédéric
+T4929	Location 848166 848175	Rosanette
+T4930	Location 848186 848197	Deslauriers
+T4931	Location 848339 848343	Beau
+T4932	Person 848407 848415	Frédéric
+T4933	Person 848519 848528	Dambreuse
+T4934	Location 848531 848542	Deslauriers
+T4935	Location 848740 848746	Nogent
+T4936	Person 848955 848963	Frédéric
+T4937	Person 848983 848992	Dambreuse
+T4938	Person 849023 849028	Auger
+T4939	Person 849074 849080	Moreau
+T4940	Organization 849127 849137	père Roque
+T4941	Location 849153 849159	Louise
+T4942	Person 849225 849233	Frédéric
+T4943	Person 849270 849279	Dambreuse
+T4944	Location 849434 849452	place de la Bourse
+T4945	Date 849546 849558	1er décembre
+T4946	Person 849605 849611	Arnoux
+T4947	Person 850185 850201	Frédéric objecta
+T4948	Person 850452 850461	Dambreuse
+T4949	Organization 850663 850677	Art industriel
+T4950	Person 851467 851475	Frédéric
+T4951	Person 852050 852059	Dambreuse
+T4952	Person 852177 852190	Me Berthelmot
+T4953	Location 853012 853021	Rosanette
+T4954	Person 853082 853099	Frédéric lui-même
+T4955	Person 853366 853375	Dambreuse
+T4956	Person 853661 853670	Dambreuse
+T4957	Person 853951 853960	Dambreuse
+T4958	Location 854156 854171	rue de Choiseul
+T4959	Person 854195 854209	chez Rosanette
+T4960	Person 854233 854239	Arnoux
+T4961	Person 854404 854413	Dambreuse
+T4962	Location 854611 854622	Renaissance
+T4963	Location 854711 854718	Espagne
+T4964	Person 854814 854822	Frédéric
+T4965	Person 855232 855240	Frédéric
+T4966	Person 855503 855516	Me Berthelmot
+T4967	Person 855718 855726	Frédéric
+T4968	Person 855899 855908	Dambreuse
+T4969	Person 856260 856268	Frédéric
+T4970	Person 856319 856328	Dambreuse
+T4971	Person 856530 856538	Frédéric
+T4972	Person 856806 856812	Arnoux
+T4973	Organization 857011 857029	Assemblée dissoute
+T4974	Location 857075 857080	Mazas
+T4975	Person 857351 857360	Dambreuse
+T4976	Location 857445 857454	Maréchale
+T4977	Person 857488 857494	Arnoux
+T4978	Person 858144 858152	Frédéric
+T4979	Organization 858255 858258	Qu'
+T4980	Person 858426 858434	Frédéric
+T4981	Location 858501 858506	Paris
+T4982	Location 858557 858563	Nogent
+T4983	Location 858773 858779	Louise
+T4984	Location 859140 859146	Nogent
+T4985	Location 859210 859217	Sourdun
+T4986	Location 859673 859686	Saint-Laurent
+T4987	Location 860009 860015	Louise
+T4988	Location 860112 860123	Deslauriers
+T4989	Date 860139 860149	habit bleu
+T4990	Person 860205 860213	Frédéric
+T4991	Location 860360 860365	Paris
+T4992	Location 860442 860455	Château-d'Eau
+T4993	Location 860465 860472	Gymnase
+T4994	Location 860498 860510	Saint-Martin
+T4995	Location 860526 860541	rue de Provence
+T4996	Person 860543 860551	Frédéric
+T4997	Hour 860607 860618	cinq heures
+T4998	Organization 860694 860699	Opéra
+T4999	Location 861243 861250	Tortoni
+T5000	Location 861264 861274	Dussardier
+T5001	Person 861669 861677	Frédéric
+T5002	Location 861695 861702	Sénécal
+T5003	Location 862357 862363	Madame
+T5004	Person 862364 862370	Arnoux
+T5005	Person 862378 862386	Frédéric
+T5006	Location 862922 862930	Bretagne
+T5007	Person 862981 862987	Arnoux
+T5008	Location 863072 863080	Bordeaux
+T5009	Location 863108 863118	Mostaganem
+T5010	Location 863818 863840	terrains de Belleville
+T5011	Person 863863 863871	Frédéric
+T5012	Person 864341 864349	Frédéric
+T5013	Location 864485 864494	Maréchale
+T5014	Person 864680 864688	Frédéric
+T5015	Organization 865193 865207	Art industriel
+T5016	Location 865222 865228	Arnoux
+T5017	Location 865485 865496	Saint-Cloud
+T5018	Location 865532 865539	Auteuil
+T5019	Person 865963 865971	Frédéric
+T5020	Location 865988 865995	Werther
+T5021	Location 866034 866043	Charlotte
+T5022	Person 866418 866426	Frédéric
+T5023	Person 866833 866839	Arnoux
+T5024	Person 867562 867568	Arnoux
+T5025	Person 867926 867934	Frédéric
+T5026	Location 867999 868005	Madame
+T5027	Person 868006 868012	Arnoux
+T5028	Person 868463 868471	Frédéric
+T5029	Location 868528 868532	quoi
+T5030	Person 868817 868825	Frédéric
+T5031	Person 869106 869114	Frédéric
+T5032	Person 869129 869135	Arnoux
+T5033	Location 870088 870093	Adieu
+T5034	Location 870522 870527	Adieu
+T5035	Person 870556 870564	Frédéric
+T5036	Person 870588 870594	Arnoux
+T5037	Person 870763 870771	Frédéric
+T5038	Location 870775 870786	Deslauriers
+T5039	Person 870972 870981	Dambreuse
+T5040	Location 871067 871077	Mlle Roque
+T5041	Location 871326 871333	Algérie
+T5042	Person 871486 871494	Frédéric
+T5043	Person 871622 871630	Martinon
+T5044	Location 871659 871668	Hussonnet
+T5045	Location 871771 871775	Cisy
+T5046	Person 871862 871870	Pellerin
+T5047	Location 872050 872055	Paris
+T5048	Location 872156 872163	Sénécal
+T5049	Person 872176 872184	Frédéric
+T5050	Location 872215 872218	toi
+T5051	Person 872243 872249	Arnoux
+T5052	Location 872274 872278	Rome
+T5053	Location 872497 872506	Maréchale
+T5054	Person 872592 872597	Oudry
+T5055	Location 872701 872712	Deslauriers
+T5056	Person 872930 872936	Arnoux
+T5057	Person 872938 872949	Frédéric l'
+T5058	Location 873079 873088	Maréchale
+T5059	Location 873111 873117	Vatnaz
+T5060	Location 873120 873131	Deslauriers
+T5061	Person 873195 873206	chez Arnoux
+T5062	Location 873246 873255	Regimbart
+T5063	Location 873332 873347	rue de Grammont
+T5064	Location 873363 873373	Montmartre
+T5065	Location 873468 873475	Compain
+T5066	Person 873481 873489	Frédéric
+T5067	Date 873705 873715	30 janvier
+T5068	Person 874315 874323	Frédéric
+T5069	Location 874333 874336	toi
+T5070	Location 874503 874506	toi
+T5071	Person 874605 874613	Frédéric
+T5072	Location 874684 874688	Sens
+T5073	Location 874741 874752	Philosophie
+T5074	Location 874791 874797	Nogent
+T5075	Location 874833 874842	Froissart
+T5076	Location 874872 874884	Fénestranges
+T5077	Location 874900 874906	Troyes
+T5078	Location 874939 874951	Ambrecicourt
+T5079	Location 875218 875228	Versailles
+T5080	Person 875289 875295	Mirbal
+T5081	Location 875379 875385	Varaud
+T5082	Location 875425 875433	Polonais
+T5083	Location 875758 875764	Turque
+T5084	Location 875898 875904	Turque
+T5085	Person 876859 876867	Frédéric
+T5086	Location 876871 876882	Deslauriers
+T5087	Person 876964 876970	Moreau
+T5088	Location 877106 877112	Turque
+T5089	Person 877155 877163	Frédéric
+T5090	Person 877562 877570	Frédéric
+T5091	Person 877587 877598	Deslauriers
+T5092	Person 877873 877881	Frédéric
+T5093	Location 877958 877969	Deslauriers

@@ -1,0 +1,1980 @@
+T1	Location 172 188	rue Saint-Honoré
+T2	Location 374 387	Saint-Gabriel
+T3	Person 864 873	de Lameth
+T4	Person 1394 1401	Louison
+T5	Location 1622 1627	Paris
+T6	Location 1672 1677	Bussy
+T7	Location 2079 2086	Sissone
+T8	Location 2130 2142	Bussy-Lameth
+T9	Person 2255 2263	comte m'
+T10	Location 2559 2562	Oui
+T11	Person 2733 2742	Henriette
+T12	Person 2778 2787	Henriette
+T13	Person 3235 3244	Henriette
+T14	Location 3726 3731	Pinon
+T15	Person 3742 3751	de Lameth
+T16	Location 4051 4056	Paris
+T17	Location 4244 4252	Picardie
+T18	Person 4273 4278	votre
+T19	Location 4489 4501	Bussy-Lameth
+T20	Person 4514 4519	votre
+T21	Location 4567 4572	Roucy
+T22	Location 4657 4662	Paris
+T23	Location 4868 4877	Henriette
+T24	Person 4938 4943	votre
+T25	Person 5037 5042	votre
+T26	Location 5311 5323	Mademoiselle
+T27	Location 5327 5332	Roucy
+T28	Person 5630 5639	de Lameth
+T29	Location 6054 6061	Sissone
+T30	Person 6205 6210	Bussy
+T31	Person 6218 6223	Bussy
+T32	Location 6740 6747	Louison
+T33	Organization 6982 6996	comte de Roucy
+T34	Person 7091 7100	de Lameth
+T35	Location 7158 7163	Roucy
+T36	Person 7829 7836	Louison
+T37	Location 7994 7999	Bussy
+T38	Person 8027 8032	votre
+T39	Person 8079 8086	Louison
+T40	Person 8149 8157	mon Dieu
+T41	Person 8393 8402	de Lameth
+T42	Person 8681 8690	Henriette
+T43	Location 8831 8836	Paris
+T44	Location 9201 9213	Bussy-Lameth
+T45	Organization 9224 9238	comte de Roucy
+T46	Person 9280 9289	Henriette
+T47	Organization 9551 9565	comte de Roucy
+T48	Location 10284 10296	Bussy-Lameth
+T49	Location 10427 10439	Bussy-Lameth
+T50	Person 10834 10843	Henriette
+T51	Person 11167 11176	de Lameth
+T52	Person 11277 11282	votre
+T53	Location 11308 11313	Roucy
+T54	Location 11755 11762	Sissone
+T55	Location 11834 11839	Paris
+T56	Location 12093 12105	Bussy-Lameth
+T57	Location 12109 12116	Sissone
+T58	Location 12120 12125	Pinon
+T59	Person 12318 12333	Louison Beaupré
+T60	Person 12425 12432	Louison
+T61	Location 12443 12452	merveille
+T62	Location 12454 12462	Monsieur
+T63	Location 12642 12647	Paris
+T64	Organization 12693 12707	comte de Roucy
+T65	Location 12734 12741	Sissone
+T66	Location 12745 12750	Pinon
+T67	Location 12970 12982	Bussy-Lameth
+T68	Location 13033 13038	Paris
+T69	Person 13260 13265	votre
+T70	Person 13333 13348	Louison Beaupré
+T71	Location 13352 13361	Champagne
+T72	Person 13434 13439	votre
+T73	Location 13463 13469	Madame
+T74	Location 13484 13494	Heudicourt
+T75	Location 13531 13541	Versailles
+T76	Location 13580 13586	Madame
+T77	Person 13991 13997	Chardu
+T78	Location 14015 14019	Laon
+T79	Person 14133 14142	Henriette
+T80	Organization 14445 14459	comte de Roucy
+T81	Location 14508 14520	Bussy-Lameth
+T82	Person 15042 15047	votre
+T83	Location 15110 15115	Pinon
+T84	Location 15184 15189	Roucy
+T85	Person 15357 15362	votre
+T86	Location 15421 15433	Bussy-Lameth
+T87	Person 15569 15577	Bon Dieu
+T88	Person 15602 15609	Louison
+T89	Person 15620 15625	votre
+T90	Location 15787 15789	Tu
+T91	Person 15802 15809	Louison
+T92	Location 15932 15937	Roucy
+T93	Person 16047 16056	Henriette
+T94	Person 16106 16113	Louison
+T95	Location 16173 16178	Roucy
+T96	Location 16237 16242	Tours
+T97	Location 16278 16285	Hongrie
+T98	Location 16293 16299	Venise
+T99	Location 16613 16620	Sissone
+T100	Location 16685 16691	France
+T101	Location 16775 16785	Heudicourt
+T102	Person 16837 16846	de Lameth
+T103	Person 17138 17147	Henriette
+T104	Location 17350 17360	Versailles
+T105	Location 17466 17472	France
+T106	Location 17617 17621	Pons
+T107	Location 17634 17644	Heudicourt
+T108	Location 17724 17733	Montespan
+T109	Location 18306 18316	Heudicourt
+T110	Person 18410 18419	Henriette
+T111	Location 18466 18475	Montespan
+T112	Location 18573 18589	Roucy de Sissone
+T113	Location 18592 18598	Madame
+T114	Person 18715 18724	Henriette
+T115	Location 18759 18771	Mademoiselle
+T116	Location 18777 18783	Madame
+T117	Person 18901 18910	Henriette
+T118	Location 19030 19039	merveille
+T119	Location 19049 19055	Madame
+T120	Location 19058 19068	Heudicourt
+T121	Location 19328 19334	Madame
+T122	Location 19338 19347	Montespan
+T123	Location 19610 19622	Mademoiselle
+T124	Location 19657 19660	Oui
+T125	Person 19869 19873	Dieu
+T126	Location 19983 19989	Madame
+T127	Location 19993 20002	Montespan
+T128	Location 20215 20230	Tonnay-Charente
+T129	Location 20261 20270	Montespan
+T130	Location 20321 20333	Mademoiselle
+T131	Location 20337 20342	Roucy
+T132	Location 20359 20365	Madame
+T133	Location 20443 20455	Mademoiselle
+T134	Location 20493 20503	Versailles
+T135	Location 20573 20581	Vallière
+T136	Person 20624 20633	Henriette
+T137	Person 20698 20707	de Lameth
+T138	Location 21078 21083	Roucy
+T139	Location 21125 21131	Madame
+T140	Location 21150 21158	Monsieur
+T141	Location 21166 21173	Orléans
+T142	Person 21187 21196	Louis XIV
+T143	Location 21453 21459	Madame
+T144	Location 21510 21518	Vallière
+T145	Person 21641 21650	Henriette
+T146	Person 21951 21960	de Lameth
+T147	Location 22492 22498	Madame
+T148	Location 22707 22714	Navarre
+T149	Location 22740 22749	Hautefort
+T150	Location 22846 22852	Madame
+T151	Location 22935 22939	Pons
+T152	Person 22969 22974	votre
+T153	Person 23020 23037	Charles Amanireux
+T154	Location 23049 23055	Albret
+T155	Location 23076 23080	Pons
+T156	Location 23092 23100	Mortagne
+T157	Location 23111 23118	Mossant
+T158	Location 23129 23146	Vorray de Gerderé
+T159	Location 23191 23197	Albret
+T160	Person 23252 23260	Henri IV
+T161	Location 23575 23584	Hautefort
+T162	Location 23609 23615	Madame
+T163	Location 23766 23772	Madame
+T164	Person 23938 23946	Henri IV
+T165	Person 24182 24191	Henriette
+T166	Location 24365 24374	Rochefort
+T167	Location 24437 24446	Henriette
+T168	Location 24580 24585	Cossé
+T169	Location 24835 24839	Pons
+T170	Location 24855 24860	Roucy
+T171	Location 24920 24932	Bussy-Lameth
+T172	Location 24962 24967	Pinon
+T173	Location 24990 24997	Sissone
+T174	Location 25142 25151	Rochefort
+T175	Location 25192 25201	Henriette
+T176	Location 25421 25427	Albret
+T177	Location 25475 25480	Roucy
+T178	Location 25681 25685	Pons
+T179	Person 25727 25736	Henriette
+T180	Location 25870 25879	Navailles
+T181	Location 25938 25944	Madame
+T182	Location 26067 26072	Cossé
+T183	Location 26279 26288	Rochefort
+T184	Location 26420 26427	Navarre
+T185	Person 26480 26489	Henriette
+T186	Person 26610 26619	Henriette
+T187	Location 26772 26778	Madame
+T188	Location 26833 26838	Cossé
+T189	Person 26923 26932	Henriette
+T190	Person 27131 27143	Bussy-Lameth
+T191	Location 27535 27541	Madame
+T192	Location 27771 27776	Tours
+T193	Date 27846 27867	fête parut magnifique
+T194	Location 27897 27906	Montespan
+T195	Location 27931 27941	Lavallière
+T196	Location 28109 28121	Mademoiselle
+T197	Location 28125 28130	Roucy
+T198	Location 28163 28169	Madame
+T199	Location 28236 28241	Diane
+T200	Person 28307 28316	Henriette
+T201	Location 28485 28492	Lafarre
+T202	Location 28543 28550	Lafarre
+T203	Person 28878 28883	votre
+T204	Person 28990 28999	Henriette
+T205	Person 29316 29325	Henriette
+T206	Location 29340 29347	Navarre
+T207	Location 29475 29484	Rochefort
+T208	Person 29700 29704	Dieu
+T209	Location 29754 29760	Albret
+T210	Location 29787 29794	Lafarre
+T211	Location 29858 29870	Mademoiselle
+T212	Location 29874 29879	Roucy
+T213	Location 30051 30057	Albret
+T214	Location 30073 30085	Bussy-Lameth
+T215	Location 30183 30189	Madame
+T216	Location 30248 30254	Albret
+T217	Location 30321 30330	Allemagne
+T218	Location 30422 30431	Montespan
+T219	Location 30589 30595	Madame
+T220	Location 30790 30796	Madame
+T221	Person 31012 31021	Henriette
+T222	Location 31026 31038	Mademoiselle
+T223	Location 31102 31108	Madame
+T224	Person 31147 31156	Henriette
+T225	Person 31324 31333	Henriette
+T226	Location 31367 31376	Rochefort
+T227	Person 31409 31414	votre
+T228	Location 31525 31531	Madame
+T229	Person 31672 31681	Henriette
+T230	Location 31762 31768	Albret
+T231	Location 31976 31988	Bussy-Lameth
+T232	Location 32438 32444	Albret
+T233	Location 32483 32495	Mademoiselle
+T234	Person 32523 32536	Royale Madame
+T235	Person 32677 32689	Royale celle
+T236	Person 32828 32833	votre
+T237	Location 32919 32929	Heudicourt
+T238	Location 33021 33033	Mademoiselle
+T239	Person 33208 33216	D'ALBRET
+T240	Person 33229 33238	Henriette
+T241	Location 33273 33282	Rochefort
+T242	Location 33339 33343	Pons
+T243	Location 33365 33372	Navarre
+T244	Location 33405 33410	Cossé
+T245	Person 33723 33731	mon Dieu
+T246	Person 33757 33775	continua Henriette
+T247	Person 33797 33804	Voiture
+T248	Location 33946 33955	Rochefort
+T249	Location 34058 34063	Roucy
+T250	Person 34115 34129	Pons Henriette
+T251	Person 34169 34175	Albret
+T252	Location 34277 34286	Henriette
+T253	Location 34350 34360	Heudicourt
+T254	Location 34544 34550	Albret
+T255	Location 34679 34689	Heudicourt
+T256	Person 34814 34823	de Lameth
+T257	Location 35038 35044	Madame
+T258	Location 35095 35101	Madame
+T259	Location 35419 35431	Mademoiselle
+T260	Location 35446 35456	Heudicourt
+T261	Location 35556 35560	Pons
+T262	Location 35754 35764	Versailles
+T263	Location 35829 35838	merveille
+T264	Person 35841 35850	Henriette
+T265	Location 36251 36257	Madame
+T266	Location 36455 36464	Henriette
+T267	Location 36583 36592	Montespan
+T268	Person 36594 36603	Louis XIV
+T269	Location 36627 36641	Roucy adorable
+T270	Location 36726 36732	Madame
+T271	Location 36736 36745	Montespan
+T272	Location 36904 36910	Madame
+T273	Location 36913 36923	Heudicourt
+T274	Person 37082 37091	Henriette
+T275	Person 37235 37244	Louis XIV
+T276	Person 37418 37424	Albret
+T277	Location 37463 37468	Roucy
+T278	Location 37523 37535	Mademoiselle
+T279	Person 37715 37720	votre
+T280	Location 37741 37749	Monsieur
+T281	Person 37892 37901	Henriette
+T282	Person 38245 38251	Albret
+T283	Person 38407 38416	Louis XIV
+T284	Location 38508 38516	Vallière
+T285	Location 38585 38594	Montespan
+T286	Location 38836 38842	Albret
+T287	Location 39218 39223	Roucy
+T288	Organization 39337 39351	comte de Roucy
+T289	Location 39369 39376	Sissone
+T290	Location 39390 39402	Bussy-Lameth
+T291	Location 39415 39420	Paris
+T292	Location 39474 39480	Albret
+T293	Location 39582 39591	Henriette
+T294	Location 39776 39788	Mademoiselle
+T295	Location 40095 40103	Monsieur
+T296	Location 40389 40401	Mademoiselle
+T297	Person 40579 40588	Henriette
+T298	Person 40692 40701	Henriette
+T299	Location 41215 41221	Albret
+T300	Location 41483 41495	Mademoiselle
+T301	Location 41499 41504	Roucy
+T302	Location 41720 41733	Fontainebleau
+T303	Location 41735 41741	Madame
+T304	Location 41745 41754	Montespan
+T305	Location 41824 41830	Lauzun
+T306	Location 42032 42038	Madame
+T307	Location 42063 42073	Heudicourt
+T308	Location 42078 42081	Oui
+T309	Location 42151 42157	Madame
+T310	Location 42290 42296	Madame
+T311	Location 42624 42633	Navailles
+T312	Location 42872 42881	Montespan
+T313	Location 43304 43310	Madame
+T314	Location 43384 43393	Navailles
+T315	Location 43501 43510	Navailles
+T316	Location 43529 43538	Montespan
+T317	Location 43600 43608	Vallière
+T318	Location 43620 43626	Madame
+T319	Person 43691 43695	Dieu
+T320	Location 43783 43788	Roucy
+T321	Location 44006 44012	Albret
+T322	Location 44037 44041	Pons
+T323	Location 44083 44091	Vallière
+T324	Location 44118 44127	Rochefort
+T325	Location 44173 44182	Montespan
+T326	Location 44241 44244	Oui
+T327	Location 44246 44258	Mademoiselle
+T328	Person 44260 44276	reprit Henriette
+T329	Person 44367 44372	votre
+T330	Location 44401 44418	Mothe-Houdancourt
+T331	Location 44564 44570	Madame
+T332	Location 44587 44593	Madame
+T333	Location 44609 44618	Navailles
+T334	Person 44741 44750	Henriette
+T335	Location 44869 44875	Albret
+T336	Location 45034 45042	Picardie
+T337	Location 45043 45047	Laon
+T338	Location 45050 45055	Pinon
+T339	Location 45057 45064	Sissone
+T340	Location 45304 45310	Albret
+T341	Location 45348 45360	Bussy-Lameth
+T342	Location 45466 45475	Henriette
+T343	Location 45511 45524	Fontainebleau
+T344	Location 45669 45674	Roucy
+T345	Location 45699 45708	Montespan
+T346	Location 45766 45772	Lauzun
+T347	Person 45779 45788	Louis XIV
+T348	Location 45907 45913	Lauzun
+T349	Location 45924 45932	Pignerol
+T350	Location 45937 45946	Henriette
+T351	Organization 45993 46007	Cour de France
+T352	Person 46033 46045	François Ier
+T353	Location 46225 46234	Henriette
+T354	Location 46609 46621	Bussy-Lameth
+T355	Location 46643 46651	Picardie
+T356	Person 46875 46885	M.d'Albret
+T357	Person 46934 46943	Henriette
+T358	Location 46980 46989	merveille
+T359	Person 47613 47622	Henriette
+T360	Location 47804 47812	Monsieur
+T361	Person 48147 48152	votre
+T362	Location 48343 48351	Monsieur
+T363	Person 48425 48430	votre
+T364	Person 48534 48539	votre
+T365	Person 48728 48733	votre
+T366	Location 48817 48826	Nommez-le
+T367	Person 48928 48936	mon Dieu
+T368	Location 49079 49087	Monsieur
+T369	Person 49766 49775	de Lameth
+T370	Person 49948 49957	de Lameth
+T371	Person 50108 50116	mon Dieu
+T372	Location 50253 50261	Monsieur
+T373	Person 50601 50606	votre
+T374	Organization 51297 51316	Madame de Navailles
+T375	Person 51442 51451	Henriette
+T376	Person 51685 51697	Charlotte d'
+T377	Location 51697 51703	Albret
+T378	Location 51953 51958	Roucy
+T379	Location 52100 52109	Henriette
+T380	Person 52362 52371	Henriette
+T381	Person 52385 52400	Louison Beaupré
+T382	Location 52467 52477	Heudicourt
+T383	Location 52881 52890	Navailles
+T384	Location 52922 52931	Henriette
+T385	Location 53052 53058	Albret
+T386	Location 53284 53290	Albret
+T387	Location 53369 53378	Navailles
+T388	Person 53616 53628	Charlotte d'
+T389	Person 53950 53956	Lauzun
+T390	Location 54007 54017	Lavallière
+T391	Person 54352 54361	Henriette
+T392	Location 54540 54545	Roucy
+T393	Location 54587 54597	Heudicourt
+T394	Person 54630 54642	Bussy-Lameth
+T395	Location 54716 54722	Albret
+T396	Location 54841 54847	Albret
+T397	Location 54938 54947	Richelieu
+T398	Location 55116 55125	Henriette
+T399	Location 55256 55263	Espagne
+T400	Organization 55307 55321	comte de Roucy
+T401	Location 55337 55349	Bussy-Lameth
+T402	Location 55534 55539	Roucy
+T403	Person 55626 55631	votre
+T404	Location 55668 55676	Monsieur
+T405	Location 55698 55701	Oui
+T406	Location 55703 55715	Mademoiselle
+T407	Person 55762 55767	votre
+T408	Location 55875 55880	Bussy
+T409	Location 55903 55911	Monsieur
+T410	Person 55913 55931	répliqua Henriette
+T411	Location 56108 56120	Mademoiselle
+T412	Location 56225 56233	Monsieur
+T413	Location 56288 56293	Roucy
+T414	Person 56357 56366	Henriette
+T415	Location 56490 56498	Monsieur
+T416	Person 56711 56720	de Lameth
+T417	Person 56737 56742	votre
+T418	Location 56888 56900	Bussy-Lameth
+T419	Person 57078 57083	votre
+T420	Location 57395 57407	Mademoiselle
+T421	Person 57633 57638	votre
+T422	Person 57685 57690	votre
+T423	Location 57804 57812	Monsieur
+T424	Person 57827 57836	de Lameth
+T425	Location 57845 57850	Roucy
+T426	Person 57870 57875	votre
+T427	Organization 58091 58096	Tenez
+T428	Location 58363 58371	Monsieur
+T429	Location 58624 58629	Roucy
+T430	Person 58691 58696	Bussy
+T431	Person 58918 58923	Roucy
+T432	Location 58976 58984	Monsieur
+T433	Person 59134 59138	Dieu
+T434	Person 59192 59201	Henriette
+T435	Location 60351 60361	Heudicourt
+T436	Location 60424 60433	Montespan
+T437	Location 60460 60472	Mademoiselle
+T438	Location 60476 60481	Roucy
+T439	Location 60563 60570	Dangeau
+T440	Location 60589 60598	Richelieu
+T441	Person 60772 60777	votre
+T442	Person 60806 60811	votre
+T443	Location 60994 61004	Heudicourt
+T444	Person 61032 61041	Henriette
+T445	Person 61541 61553	AIMÉE JUSQU'
+T446	Location 61555 61562	LA MORT
+T447	Person 61598 61607	Henriette
+T448	Location 61927 61934	Sissone
+T449	Person 61948 61957	Henriette
+T450	Location 62054 62066	Bussy-Lameth
+T451	Location 62357 62365	Monsieur
+T452	Person 62445 62452	Louison
+T453	Person 62468 62475	Louison
+T454	Location 62568 62575	Sissone
+T455	Location 62611 62614	Oui
+T456	Person 62644 62649	votre
+T457	Person 62672 62681	de Lameth
+T458	Location 62737 62740	Oui
+T459	Location 62742 62750	Monsieur
+T460	Person 62850 62859	Henriette
+T461	Location 62874 62877	Oui
+T462	Location 62879 62887	Monsieur
+T463	Person 63007 63016	de Lameth
+T464	Location 63248 63254	Albret
+T465	Location 63333 63345	Mademoiselle
+T466	Location 63398 63406	Monsieur
+T467	Person 63582 63587	votre
+T468	Person 63629 63634	votre
+T469	Person 63737 63746	de Lameth
+T470	Person 63827 63832	votre
+T471	Person 63984 63993	de Lameth
+T472	Person 64016 64031	Louison Beaupré
+T473	Location 64218 64223	Adieu
+T474	Location 64225 64237	Mademoiselle
+T475	Organization 64308 64322	comte de Roucy
+T476	Person 64520 64529	Henriette
+T477	Person 64970 64985	Louison Beaupré
+T478	Location 65016 65021	Adieu
+T479	Person 65073 65091	HENRIETTE DE ROUCY
+T480	Person 65108 65115	Louison
+T481	Person 65271 65280	de Lameth
+T482	Person 65320 65326	Joguet
+T483	Person 65551 65560	Henriette
+T484	Person 65698 65705	Louison
+T485	Person 65710 65730	Mademoiselle Louison
+T486	Location 65776 65788	Mademoiselle
+T487	Location 65986 65988	Tu
+T488	Person 66000 66007	Louison
+T489	Person 66186 66195	Henriette
+T490	Organization 66213 66227	comte de Roucy
+T491	Location 66334 66341	Sissone
+T492	Person 66996 67001	votre
+T493	Person 67634 67643	de Lameth
+T494	Person 67731 67740	Henriette
+T495	Location 67817 67822	Roucy
+T496	Person 68263 68268	votre
+T497	Person 68277 68290	Madame Joguet
+T498	Person 68405 68414	Henriette
+T499	Location 68607 68615	Monsieur
+T500	Person 69096 69101	votre
+T501	Person 69138 69147	de Lameth
+T502	Person 69951 69964	Madame Joguet
+T503	Person 70051 70060	Henriette
+T504	Person 70167 70174	Louison
+T505	Person 70372 70385	madame Joguet
+T506	Person 70507 70516	Henriette
+T507	Person 70696 70703	Louison
+T508	Person 70737 70744	Louison
+T509	Location 70777 70786	Corneille
+T510	Location 70865 70871	Madame
+T511	Organization 70889 70892	Oui
+T512	Person 70917 70924	Louison
+T513	Location 71062 71068	Madame
+T514	Person 71117 71130	madame Joguet
+T515	Person 71132 71139	Louison
+T516	Location 71416 71428	Mademoiselle
+T517	Person 71459 71472	Madame Joguet
+T518	Person 71513 71520	Louison
+T519	Location 71549 71554	Roucy
+T520	Location 71606 71612	Albret
+T521	Location 71893 71905	Mademoiselle
+T522	Person 72019 72032	madame Joguet
+T523	Location 72082 72094	Mademoiselle
+T524	Person 72252 72272	Mademoiselle Louison
+T525	Person 72583 72592	Charlotte
+T526	Location 72638 72647	Charlotte
+T527	Person 73020 73028	mon Dieu
+T528	Person 73371 73376	votre
+T529	Person 73468 73475	Louison
+T530	Person 73595 73608	madame Joguet
+T531	Location 73678 73681	Oui
+T532	Location 73683 73690	Louison
+T533	Location 73717 73722	Roucy
+T534	Location 73795 73807	Mademoiselle
+T535	Location 74020 74023	Oui
+T536	Location 74025 74037	Mademoiselle
+T537	Location 74075 74087	Mademoiselle
+T538	Organization 74210 74223	Madame Joguet
+T539	Person 74362 74370	mon Dieu
+T540	Location 74373 74385	Mademoiselle
+T541	Person 74458 74471	madame Joguet
+T542	Location 74537 74543	Madame
+T543	Person 74565 74578	madame Joguet
+T544	Person 74606 74619	Madame Joguet
+T545	Person 74719 74728	Henriette
+T546	Person 74928 74935	Louison
+T547	Person 75143 75156	madame Joguet
+T548	Person 75188 75197	Henriette
+T549	Person 75286 75293	Louison
+T550	Location 75311 75323	Mademoiselle
+T551	Location 75450 75462	Mademoiselle
+T552	Person 75589 75598	Henriette
+T553	Location 75727 75730	Oui
+T554	Location 75739 75743	Rhin
+T555	Location 75762 75771	Champagne
+T556	Location 75776 75783	Navarre
+T557	Location 75790 75799	Normandie
+T558	Location 75923 75926	Oui
+T559	Location 75928 75940	Mademoiselle
+T560	Person 75979 75987	mon Dieu
+T561	Location 76411 76420	Henriette
+T562	Person 76540 76547	Louison
+T563	Location 76593 76598	Bussy
+T564	Location 77278 77286	Monsieur
+T565	Person 77360 77365	votre
+T566	Person 77401 77406	votre
+T567	Person 77476 77480	Dieu
+T568	Location 77586 77591	Paris
+T569	Location 77609 77615	Albret
+T570	Location 77664 77671	Artagan
+T571	Person 77695 77704	Henriette
+T572	Person 77986 77994	mon Dieu
+T573	Person 77997 78005	mon Dieu
+T574	Location 78067 78079	Bussy-Lameth
+T575	Location 78125 78137	Mademoiselle
+T576	Person 78480 78489	Henriette
+T577	Person 78589 78602	mon Henriette
+T578	Person 78790 78799	Henriette
+T579	Location 78900 78904	Laon
+T580	Person 79052 79061	Henriette
+T581	Location 79198 79210	Mademoiselle
+T582	Location 79214 79219	Roucy
+T583	Location 79244 79248	Laon
+T584	Location 79366 79378	Mademoiselle
+T585	Location 79382 79387	Roucy
+T586	Organization 79965 79979	comte de Roucy
+T587	Person 80131 80139	Mon Dieu
+T588	Person 80142 80149	Louison
+T589	Location 80248 80260	Mademoiselle
+T590	Person 80649 80658	de Lameth
+T591	Location 80776 80788	Mademoiselle
+T592	Person 80817 80822	votre
+T593	Location 80994 81004	Versailles
+T594	Location 81051 81058	Louison
+T595	Organization 81420 81434	comte de Roucy
+T596	Location 81499 81508	Henriette
+T597	Location 81585 81593	Monsieur
+T598	Person 81877 81886	de Lameth
+T599	Location 81956 81968	Mademoiselle
+T600	Person 82020 82025	votre
+T601	Person 82043 82058	Louison Beaupré
+T602	Person 82219 82228	Henriette
+T603	Location 82393 82398	Bussy
+T604	Person 82417 82424	Louison
+T605	Location 82440 82452	Mademoiselle
+T606	Person 82835 82844	Henriette
+T607	Person 83026 83033	Louison
+T608	Location 83719 83722	toi
+T609	Person 83734 83741	Louison
+T610	Location 83766 83771	Pinon
+T611	Location 83922 83924	Tu
+T612	Location 83968 83974	Madame
+T613	Person 84005 84012	Louison
+T614	Location 84061 84073	Mademoiselle
+T615	Person 84142 84149	Louison
+T616	Person 84174 84183	de Lameth
+T617	Location 84194 84206	Mademoiselle
+T618	Location 84300 84302	Tu
+T619	Location 84365 84371	Albret
+T620	Person 84420 84427	Louison
+T621	Location 84652 84664	Mademoiselle
+T622	Person 84683 84692	de Lameth
+T623	Location 84703 84708	Pinon
+T624	Person 84895 84902	Louison
+T625	Person 85023 85032	Henriette
+T626	Person 85832 85841	de Lameth
+T627	Person 85880 85898	HENRIETTE DE ROUCY
+T628	Location 85911 85923	Mademoiselle
+T629	Person 85933 85940	Louison
+T630	Organization 86005 86019	comte de Roucy
+T631	Location 86059 86066	Sissone
+T632	Location 86125 86132	Louison
+T633	Location 86289 86294	Pinon
+T634	Person 86310 86319	Henriette
+T635	Location 86450 86454	Laon
+T636	Person 86634 86643	de Lameth
+T637	Location 86722 86734	Mademoiselle
+T638	Person 86743 86750	Louison
+T639	Person 86800 86809	Henriette
+T640	Location 86920 86925	Roucy
+T641	Location 87161 87168	Louison
+T642	Location 87490 87493	Oui
+T643	Location 87495 87507	Mademoiselle
+T644	Person 87518 87525	Louison
+T645	Location 87581 87590	merveille
+T646	Person 87794 87801	Louison
+T647	Location 87809 87821	Mademoiselle
+T648	Person 87915 87920	votre
+T649	Location 88051 88063	Mademoiselle
+T650	Location 88067 88072	Roucy
+T651	Location 88429 88436	Flandre
+T652	Organization 88621 88635	comte de Roucy
+T653	Location 88661 88669	Picardie
+T654	Location 88737 88751	Louis-le-Grand
+T655	Person 88934 88943	de Lameth
+T656	Person 89111 89120	de Lameth
+T657	Location 89187 89192	Pinon
+T658	Location 89223 89228	Bussy
+T659	Location 89260 89266	Madame
+T660	Organization 89633 89649	Madame de Lameth
+T661	Location 89879 89885	Albret
+T662	Location 90061 90069	Monsieur
+T663	Person 90089 90098	de Lameth
+T664	Location 90138 90143	Pinon
+T665	Location 90448 90453	Pinon
+T666	Person 90568 90573	votre
+T667	Person 90596 90605	de Lameth
+T668	Person 90616 90621	votre
+T669	Person 90638 90647	Henriette
+T670	Location 90713 90718	Pinon
+T671	Location 90829 90834	Coucy
+T672	Person 90849 90858	Raoul Ier
+T673	Location 90943 90948	Pinon
+T674	Location 90957 90963	Robert
+T675	Person 91010 91025	Robert de Pinon
+T676	Person 91043 91048	Raoul
+T677	Location 91078 91095	Saint-Jean-d'Acre
+T678	Location 91245 91254	Prémontré
+T679	Person 91260 91265	Pinon
+T680	Person 91300 91306	Robert
+T681	Location 91329 91334	Dreux
+T682	Location 91352 91365	Louis-le-Gros
+T683	Location 91410 91415	Pinon
+T684	Person 91418 91435	Thomas de Vervins
+T685	Person 91495 91501	Robert
+T686	Person 91515 91533	Elisabeth de Roucy
+T687	Person 91552 91561	Henriette
+T688	Location 91582 91587	Bussy
+T689	Person 91643 91649	Robert
+T690	Location 91662 91670	Bouvines
+T691	Location 91695 91701	France
+T692	Location 91791 91796	Pinon
+T693	Location 91821 91826	Coucy
+T694	Person 91854 91864	Robert III
+T695	Person 91917 91923	Jeanne
+T696	Person 91935 91956	Guillaume de Ponthieu
+T697	Person 91999 92005	Jeanne
+T698	Location 92050 92055	Pinon
+T699	Location 92075 92080	Dreux
+T700	Location 92084 92093	Crèvecœur
+T701	Location 92116 92135	Coucy racheta Pinon
+T702	Person 92139 92158	Jeanne de Ponthieux
+T703	Date 92187 92203	24 décembre 1401
+T704	Location 92213 92220	Orléans
+T705	Location 92242 92247	Coucy
+T706	Location 92263 92271	Soissons
+T707	Location 92327 92336	Bourgogne
+T708	Location 92354 92361	Orléans
+T709	Person 92548 92561	Robert de Bar
+T710	Location 92590 92595	Coucy
+T711	Person 92675 92684	de Lameth
+T712	Location 92696 92702	Lameth
+T713	Location 92747 92761	Marie de Coucy
+T714	Location 92837 92843	Lameth
+T715	Location 92937 92942	Pinon
+T716	Person 92950 92959	de Lameth
+T717	Person 93010 93020	Christophe
+T718	Location 93130 93135	Pinon
+T719	Location 93137 93142	Bussy
+T720	Location 93147 93152	Aixin
+T721	Location 93154 93166	Lanissecourt
+T722	Location 93168 93173	Clany
+T723	Location 93196 93200	Laon
+T724	Location 93206 93222	Ansizy-le-Châtel
+T725	Location 93289 93299	Bayencourt
+T726	Person 93384 93405	Antoine de Bayencourt
+T727	Location 93410 93422	Bouchavannes
+T728	Location 93436 93442	Quincy
+T729	Person 93445 93452	Charles
+T730	Person 93453 93462	de Lameth
+T731	Person 93477 93487	Christophe
+T732	Location 93509 93514	Coucy
+T733	Person 93572 93580	Henri IV
+T734	Person 93598 93605	Charles
+T735	Person 93611 93616	Louis
+T736	Person 93623 93631	François
+T737	Location 93680 93692	Bussy-Lameth
+T738	Location 93727 93731	Laon
+T739	Location 93764 93769	Bussy
+T740	Location 93868 93872	Retz
+T741	Location 93969 93981	Bussy-Lameth
+T742	Person 94015 94024	Henriette
+T743	Location 94076 94080	Laon
+T744	Location 94083 94088	Pinon
+T745	Location 94141 94147	Madame
+T746	Person 94324 94329	votre
+T747	Location 94370 94375	Bussy
+T748	Location 94379 94397	Clermont d'Amboise
+T749	Location 94519 94525	Madame
+T750	Location 94598 94604	Madame
+T751	Location 94764 94772	Monsieur
+T752	Location 94973 94988	Bussy d'Amboise
+T753	Organization 95010 95026	Madame de Lameth
+T754	Person 95282 95291	Henriette
+T755	Organization 95581 95597	Madame de Lameth
+T756	Person 95719 95728	de Lameth
+T757	Location 95794 95801	Sissone
+T758	Location 96261 96266	Pinon
+T759	Location 96330 96338	Picardie
+T760	Location 96746 96758	Bussy-Lameth
+T761	Location 96862 96867	Pinon
+T762	Person 96952 96961	Henriette
+T763	Person 97296 97305	Henriette
+T764	Location 97325 97334	merveille
+T765	Person 97413 97422	de Lameth
+T766	Person 97450 97465	Louison Beaupré
+T767	Location 97524 97530	Madame
+T768	Person 97539 97546	Louison
+T769	Location 97590 97594	Laon
+T770	Person 97613 97620	Louison
+T771	Person 97660 97665	votre
+T772	Person 97688 97701	mon beau-père
+T773	Person 97835 97840	votre
+T774	Person 97848 97857	Henriette
+T775	Location 97902 97907	Anizy
+T776	Location 97947 97952	Pinon
+T777	Location 97981 97985	Laon
+T778	Location 98001 98008	Estrées
+T779	Person 98081 98090	de Lameth
+T780	Location 98221 98226	Anizy
+T781	Person 98325 98335	saint Rémi
+T782	Location 98355 98359	Laon
+T783	Location 98387 98392	Anizy
+T784	Location 98502 98509	Bourbon
+T785	Person 98689 98701	François Ier
+T786	Location 98746 98750	Laon
+T787	Location 98816 98821	Pinon
+T788	Location 98896 98903	Estrées
+T789	Location 98928 98933	Bussy
+T790	Location 99036 99041	Roucy
+T791	Person 99195 99204	de Lameth
+T792	Location 99310 99319	Henriette
+T793	Location 99336 99342	Albret
+T794	Location 99411 99419	Picardie
+T795	Location 99679 99685	Estrée
+T796	Location 99710 99715	Anizy
+T797	Person 99819 99824	Pinon
+T798	Location 99899 99908	Prémontré
+T799	Person 100045 100054	de Lameth
+T800	Location 100218 100229	Monseigneur
+T801	Person 100242 100251	de Lameth
+T802	Person 100265 100270	votre
+T803	Location 100650 100655	Anizy
+T804	Person 100714 100719	votre
+T805	Location 101142 101151	merveille
+T806	Location 101171 101179	Monsieur
+T807	Location 101324 101330	Madame
+T808	Location 101692 101701	merveille
+T809	Person 101774 101779	votre
+T810	Location 101806 101812	Madame
+T811	Location 101834 101839	Bussy
+T812	Location 101907 101915	Monsieur
+T813	Person 102012 102017	votre
+T814	Location 102145 102153	Monsieur
+T815	Location 102174 102180	Madame
+T816	Location 102369 102375	Madame
+T817	Person 102757 102766	Henriette
+T818	Person 102861 102868	Louison
+T819	Person 103386 103395	de Lameth
+T820	Person 103439 103448	Henriette
+T821	Person 103749 103756	Louison
+T822	Location 103914 103920	Madame
+T823	Location 104056 104062	Madame
+T824	Person 104205 104212	Louison
+T825	Location 104274 104280	Madame
+T826	Location 104311 104314	Oui
+T827	Location 104725 104731	Madame
+T828	Person 104923 104930	Louison
+T829	Organization 105145 105161	Madame de Lameth
+T830	Person 105308 105315	Louison
+T831	Location 105381 105387	Madame
+T832	Location 105608 105614	Madame
+T833	Location 105833 105840	Louison
+T834	Person 106004 106009	Jésus
+T835	Person 106012 106020	mon Dieu
+T836	Person 106031 106038	Louison
+T837	Location 106090 106096	Madame
+T838	Person 106102 106111	Qu'est-ce
+T839	Location 106268 106279	Monseigneur
+T840	Location 106293 106299	Albret
+T841	Location 106301 106307	Madame
+T842	Person 106386 106395	Henriette
+T843	Person 106656 106665	Henriette
+T844	Person 106930 106947	murmura Henriette
+T845	Location 107037 107043	Madame
+T846	Location 107184 107191	Louison
+T847	Person 107808 107823	Louison Beaupré
+T848	Location 107971 107977	Madame
+T849	Location 108007 108014	Louison
+T850	Person 108348 108356	Mon Dieu
+T851	Person 108375 108382	Louison
+T852	Person 108979 108986	Louison
+T853	Location 109052 109055	Oui
+T854	Person 109223 109228	Bussy
+T855	Location 109520 109526	Madame
+T856	Location 109566 109572	Madame
+T857	Location 109593 109598	Bussy
+T858	Person 109625 109632	Louison
+T859	Location 109684 109691	Louison
+T860	Person 109751 109755	Dieu
+T861	Person 109956 109965	de Lameth
+T862	Person 110323 110330	Louison
+T863	Location 110388 110394	Madame
+T864	Location 110462 110473	Monseigneur
+T865	Location 110476 110482	Albret
+T866	Person 110557 110564	Louison
+T867	Location 110593 110599	Madame
+T868	Location 110873 110879	Madame
+T869	Location 110885 110888	Oui
+T870	Person 110890 110897	Louison
+T871	Location 111008 111014	Madame
+T872	Location 111019 111026	Dis-moi
+T873	Location 111028 111035	Louison
+T874	Location 111071 111080	Montespan
+T875	Location 111108 111114	Madame
+T876	Location 111236 111246	Versailles
+T877	Location 111328 111334	Madame
+T878	Location 111339 111341	Tu
+T879	Location 111356 111361	Anizy
+T880	Location 111409 111412	Oui
+T881	Location 111414 111420	Madame
+T882	Person 111422 111431	Deschamps
+T883	Location 111456 111461	Coucy
+T884	Person 111522 111533	Cœur de Roy
+T885	Person 111634 111643	Deschamps
+T886	Location 111794 111799	Corcy
+T887	Location 111891 111896	Coucy
+T888	Location 111912 111915	Oui
+T889	Location 111917 111923	Madame
+T890	Location 112002 112005	Oui
+T891	Location 112007 112013	Madame
+T892	Person 112369 112390	Louison admirablement
+T893	Person 112458 112467	de Lameth
+T894	Location 112514 112522	Monsieur
+T895	Location 112711 112716	Bussy
+T896	Person 113166 113175	Henriette
+T897	Location 113361 113366	Pinon
+T898	Location 113369 113374	Anizy
+T899	Organization 113432 113448	Madame de Lameth
+T900	Location 114305 114307	Tu
+T901	Location 114475 114482	Fiesque
+T902	Location 114678 114681	toi
+T903	Person 114812 114821	de Lameth
+T904	Person 114925 114938	BELLES AMOURS
+T905	Organization 114967 114983	Madame de Lameth
+T906	Location 115056 115067	Monseigneur
+T907	Location 115310 115314	Laon
+T908	Location 115395 115406	Monseigneur
+T909	Location 115427 115434	Estrées
+T910	Person 115595 115604	de Lameth
+T911	Person 115742 115747	votre
+T912	Location 116036 116042	Madame
+T913	Person 116048 116053	votre
+T914	Location 116094 116099	Bussy
+T915	Person 116289 116298	Henriette
+T916	Person 116309 116318	Henriette
+T917	Location 116430 116441	Monseigneur
+T918	Person 116458 116463	Bussy
+T919	Organization 116465 116481	Madame de Lameth
+T920	Location 116808 116813	Pinon
+T921	Location 116929 116940	Monseigneur
+T922	Location 117064 117071	Fiesque
+T923	Location 117106 117113	Fiesque
+T924	Location 117147 117158	Monseigneur
+T925	Person 117170 117175	Bussy
+T926	Location 117227 117238	Monseigneur
+T927	Location 117327 117338	Monseigneur
+T928	Location 117425 117431	Madame
+T929	Person 117572 117581	Henriette
+T930	Location 117604 117610	Madame
+T931	Location 117906 117917	Monseigneur
+T932	Person 118036 118045	Henriette
+T933	Location 118098 118106	Monsieur
+T934	Location 118132 118143	Monseigneur
+T935	Location 118381 118392	Monseigneur
+T936	Location 118451 118456	Bussy
+T937	Person 118482 118491	de Lameth
+T938	Person 118516 118521	votre
+T939	Location 118528 118536	Monsieur
+T940	Location 118696 118702	Madame
+T941	Person 118882 118887	votre
+T942	Location 118951 118959	Monsieur
+T943	Person 118996 119005	Henriette
+T944	Location 119077 119083	Madame
+T945	Location 119145 119151	Madame
+T946	Location 119303 119309	Madame
+T947	Person 119400 119405	votre
+T948	Location 119509 119515	Madame
+T949	Person 119565 119570	votre
+T950	Person 119774 119782	mon Dieu
+T951	Location 119784 119792	Monsieur
+T952	Person 120485 120494	de Lameth
+T953	Location 120720 120728	Monsieur
+T954	Location 121065 121071	Madame
+T955	Person 121418 121433	Louison Beaupré
+T956	Person 121540 121547	Louison
+T957	Location 121576 121582	Madame
+T958	Location 121637 121644	Estrées
+T959	Person 121668 121675	Louison
+T960	Person 121699 121706	Louison
+T961	Person 121730 121737	Louison
+T962	Person 121947 121951	Dieu
+T963	Person 122038 122047	Qu'est-ce
+T964	Person 122059 122067	mon Dieu
+T965	Location 122073 122081	Monsieur
+T966	Location 122162 122165	Oui
+T967	Location 122167 122173	Madame
+T968	Person 122268 122276	mon Dieu
+T969	Person 122419 122425	Rémond
+T970	Location 122458 122464	Madame
+T971	Location 122553 122559	Rémond
+T972	Location 122562 122572	Versailles
+T973	Location 122614 122620	Madame
+T974	Person 122801 122808	Louison
+T975	Person 122905 122918	mon beau-père
+T976	Person 122946 122953	Louison
+T977	Location 123074 123080	Rémond
+T978	Location 123104 123110	Madame
+T979	Location 123353 123359	Rémond
+T980	Location 123441 123447	Madame
+T981	Location 123614 123621	Navarre
+T982	Location 123762 123770	Artagnan
+T983	Person 124001 124009	Artagnan
+T984	Person 124153 124161	Artagnan
+T985	Location 124173 124182	Montespan
+T986	Hour 124292 124311	vingt-quatre heures
+T987	Person 124521 124527	Albret
+T988	Location 124534 124540	Madame
+T989	Location 124544 124553	Montespan
+T990	Location 124560 124566	Madame
+T991	Location 124570 124579	Montespan
+T992	Location 124596 124604	Monsieur
+T993	Location 124617 124626	Montespan
+T994	Location 124737 124745	Monsieur
+T995	Location 124892 124904	Mademoiselle
+T996	Location 124908 124913	Roucy
+T997	Location 124953 124961	Monsieur
+T998	Location 125020 125028	Monsieur
+T999	Location 125057 125065	Monsieur
+T1000	Location 125078 125086	Monsieur
+T1001	Person 125254 125262	Artagnan
+T1002	Person 125383 125392	de Lameth
+T1003	Location 125410 125416	Madame
+T1004	Location 125574 125580	Madame
+T1005	Person 125628 125646	continua Henriette
+T1006	Location 125735 125741	Madame
+T1007	Location 125804 125810	Madame
+T1008	Location 125943 125948	Roucy
+T1009	Location 126013 126020	Sissone
+T1010	Person 126059 126068	de Lameth
+T1011	Person 126076 126082	Albret
+T1012	Location 126192 126198	Rémond
+T1013	Person 126250 126255	votre
+T1014	Person 126300 126305	votre
+T1015	Person 126384 126389	votre
+T1016	Person 126755 126764	de Lameth
+T1017	Location 126798 126808	Versailles
+T1018	Location 126938 126946	Bouillon
+T1019	Location 126976 126981	Bussy
+T1020	Person 127079 127084	votre
+T1021	Location 127371 127377	Albret
+T1022	Location 127574 127577	Oui
+T1023	Location 127579 127585	Madame
+T1024	Person 127720 127727	Louison
+T1025	Location 127780 127786	Madame
+T1026	Location 127889 127891	Tu
+T1027	Person 127899 127906	Louison
+T1028	Location 127956 127962	Madame
+T1029	Location 128102 128108	Madame
+T1030	Location 128128 128134	Rémond
+T1031	Person 128323 128329	Albert
+T1032	Location 128345 128354	merveille
+T1033	Person 128522 128527	votre
+T1034	Location 128684 128691	Estrées
+T1035	Location 128968 128974	Madame
+T1036	Location 128976 128982	Rémond
+T1037	Location 129165 129171	Madame
+T1038	Location 129226 129233	Fiesque
+T1039	Location 129272 129276	Rhin
+T1040	Location 129346 129352	Madame
+T1041	Location 129437 129443	Madame
+T1042	Location 129511 129517	Madame
+T1043	Location 129534 129540	Rémond
+T1044	Person 129618 129631	Mon beau-père
+T1045	Person 129747 129756	de Lameth
+T1046	Person 129877 129884	Louison
+T1047	Location 129929 129935	Albret
+T1048	Location 129945 129951	Madame
+T1049	Location 129983 129985	Tu
+T1050	Organization 130129 130145	Madame de Lameth
+T1051	Person 130268 130275	Louison
+T1052	Person 130416 130423	Louison
+T1053	Location 130472 130478	Madame
+T1054	Person 130569 130575	Joguet
+T1055	Location 130605 130617	Bussy-Lameth
+T1056	Location 130680 130686	Madame
+T1057	Location 130793 130798	Bussy
+T1058	Location 131085 131091	Rémond
+T1059	Location 131102 131108	Madame
+T1060	Location 131212 131219	Louison
+T1061	Person 131400 131408	comte m'
+T1062	Location 131432 131438	Madame
+T1063	Person 131731 131737	Joguet
+T1064	Person 131840 131847	Louison
+T1065	Location 131958 131964	Madame
+T1066	Person 131969 131976	Louison
+T1067	Person 132113 132120	Louison
+T1068	Organization 132147 132163	Madame de Lameth
+T1069	Person 132636 132643	Louison
+T1070	Person 132928 132935	Louison
+T1071	Location 132977 132983	Albret
+T1072	Person 133176 133183	Louison
+T1073	Organization 133285 133291	Madame
+T1074	Person 133428 133436	mon Dieu
+T1075	Person 133595 133604	Henriette
+T1076	Person 133808 133817	Henriette
+T1077	Person 133858 133863	votre
+T1078	Location 134926 134931	Anizy
+T1079	Person 135116 135125	Henriette
+T1080	Person 135402 135411	Henriette
+T1081	Location 135710 135716	ALBRET
+T1082	Person 135740 135747	Louison
+T1083	Location 135854 135860	Madame
+T1084	Location 135921 135927	Albret
+T1085	Location 136121 136127	Madame
+T1086	Location 136298 136304	Madame
+T1087	Person 136467 136472	votre
+T1088	Person 136642 136649	Louison
+T1089	Location 136691 136697	Madame
+T1090	Person 136916 136923	Louison
+T1091	Location 136931 136937	Madame
+T1092	Location 137002 137009	Fiesque
+T1093	Location 137146 137148	Tu
+T1094	Location 137222 137230	Monsieur
+T1095	Location 137243 137248	Bussy
+T1096	Person 137295 137301	Joguet
+T1097	Location 137353 137359	Madame
+T1098	Person 137411 137420	Henriette
+T1099	Location 137851 137857	Madame
+T1100	Location 138088 138093	Bussy
+T1101	Person 138265 138271	Albret
+T1102	Organization 138302 138308	Madame
+T1103	Location 138416 138422	Madame
+T1104	Person 138468 138475	Louison
+T1105	Location 138560 138565	Anizy
+T1106	Person 138605 138612	Louison
+T1107	Person 138811 138820	de Lameth
+T1108	Person 138888 138894	Joguet
+T1109	Location 139012 139018	Madame
+T1110	Person 139034 139041	Louison
+T1111	Person 139167 139173	Joguet
+T1112	Person 139267 139272	votre
+T1113	Person 139668 139677	de Lameth
+T1114	Location 139705 139710	Bussy
+T1115	Person 139877 139883	Joguet
+T1116	Location 139934 139940	Madame
+T1117	Person 140046 140053	Louison
+T1118	Location 140096 140101	Anizy
+T1119	Person 140234 140243	Qu'est-ce
+T1120	Location 140313 140319	Madame
+T1121	Person 140372 140379	Louison
+T1122	Location 140516 140521	Anizy
+T1123	Person 140526 140532	Joguet
+T1124	Location 140863 140869	Albret
+T1125	Person 141041 141055	Veille Louison
+T1126	Person 141107 141116	Henriette
+T1127	Person 141155 141168	mon Henriette
+T1128	Person 141338 141345	Charles
+T1129	Person 141460 141467	Charles
+T1130	Person 141567 141572	votre
+T1131	Location 141808 141814	Madame
+T1132	Location 142020 142023	Oui
+T1133	Organization 142407 142412	Tenez
+T1134	Location 142622 142628	Madame
+T1135	Person 142630 142649	interrompit Louison
+T1136	Location 142689 142694	Adieu
+T1137	Person 142696 142703	Charles
+T1138	Location 142819 142824	Adieu
+T1139	Person 143184 143189	votre
+T1140	Location 143203 143209	Madame
+T1141	Location 143272 143280	Monsieur
+T1142	Location 143465 143470	Corcy
+T1143	Location 143514 143519	Coucy
+T1144	Location 143574 143581	Estrées
+T1145	Person 143622 143627	votre
+T1146	Location 144156 144162	Madame
+T1147	Location 144291 144297	Madame
+T1148	Location 144300 144306	Madame
+T1149	Location 144325 144333	Monsieur
+T1150	Location 144474 144480	Madame
+T1151	Location 144581 144590	Henriette
+T1152	Person 144606 144611	votre
+T1153	Person 144746 144755	de Lameth
+T1154	Person 144948 144955	Louison
+T1155	Location 145158 145164	Madame
+T1156	Location 145296 145302	Madame
+T1157	Organization 145391 145406	Madame de Corcy
+T1158	Location 145463 145474	Monseigneur
+T1159	Person 145520 145529	de Lameth
+T1160	Location 145698 145704	Madame
+T1161	Location 145739 145748	merveille
+T1162	Person 145763 145768	votre
+T1163	Location 146009 146015	Madame
+T1164	Organization 146029 146044	Madame de Corcy
+T1165	Location 146092 146098	Madame
+T1166	Location 146119 146124	Bussy
+T1167	Location 146221 146229	Monsieur
+T1168	Person 146348 146357	de Lameth
+T1169	Location 146510 146521	Monseigneur
+T1170	Location 146757 146768	Monseigneur
+T1171	Organization 146835 146850	Madame de Corcy
+T1172	Person 146902 146911	de Lameth
+T1173	Location 146964 146970	Madame
+T1174	Location 147000 147005	Corcy
+T1175	Location 147059 147062	Oui
+T1176	Location 147113 147118	Anizy
+T1177	Person 147245 147254	Henriette
+T1178	Location 147316 147322	Madame
+T1179	Organization 147497 147512	Madame de Corcy
+T1180	Location 147584 147590	Madame
+T1181	Person 147612 147617	votre
+T1182	Location 147730 147735	Pinon
+T1183	Location 147843 147848	Coucy
+T1184	Organization 147854 147863	mon oncle
+T1185	Location 148162 148167	Bussy
+T1186	Person 148209 148218	Henriette
+T1187	Person 148241 148249	mon Dieu
+T1188	Location 148402 148413	Monseigneur
+T1189	Person 148485 148494	de Lameth
+T1190	Location 148690 148696	Madame
+T1191	Location 148873 148884	Monseigneur
+T1192	Person 148955 148964	de Lameth
+T1193	Person 149170 149179	Henriette
+T1194	Organization 149272 149287	Madame de Corcy
+T1195	Location 149312 149318	Madame
+T1196	Person 149455 149460	votre
+T1197	Person 149595 149604	de Lameth
+T1198	Organization 149638 149653	Madame de Corcy
+T1199	Person 149677 149695	continua Henriette
+T1200	Location 149708 149713	Coucy
+T1201	Location 149921 149926	Pinon
+T1202	Person 150113 150119	Joguet
+T1203	Organization 150275 150290	Madame de Corcy
+T1204	Location 150470 150475	Corcy
+T1205	Location 150484 150493	Henriette
+T1206	Person 150717 150722	votre
+T1207	Person 150847 150852	votre
+T1208	Organization 151224 151239	Madame de Corcy
+T1209	Location 151263 151268	Pinon
+T1210	Person 151322 151331	de Lameth
+T1211	Location 151515 151522	Louison
+T1212	Location 151524 151531	Pichard
+T1213	Person 151606 151612	Joguet
+T1214	Location 151660 151666	Madame
+T1215	Location 151717 151723	Joguet
+T1216	Person 151752 151761	de Lameth
+T1217	Location 151831 151836	Corcy
+T1218	Location 152086 152091	Coucy
+T1219	Person 152241 152250	Henriette
+T1220	Person 152320 152329	de Lameth
+T1221	Person 152665 152674	de Lameth
+T1222	Location 152689 152698	Bourgogne
+T1223	Organization 152806 152822	Madame de Lameth
+T1224	Location 153089 153095	Joguet
+T1225	Person 153183 153192	Henriette
+T1226	Location 153214 153219	Pinon
+T1227	Person 153319 153326	Louison
+T1228	Location 153382 153388	Madame
+T1229	Location 153495 153501	Joguet
+T1230	Location 153628 153633	Corcy
+T1231	Person 153638 153645	Lambert
+T1232	Person 153732 153738	Joguet
+T1233	Location 153874 153880	Albret
+T1234	Person 154030 154036	Joguet
+T1235	Location 154082 154087	Coucy
+T1236	Location 154177 154183	Madame
+T1237	Organization 154282 154297	Madame de Corcy
+T1238	Person 154350 154359	Deschamps
+T1239	Location 154383 154388	Coucy
+T1240	Location 154476 154485	merveille
+T1241	Location 154520 154525	Corcy
+T1242	Person 154586 154595	de Lameth
+T1243	Location 154831 154837	Madame
+T1244	Person 155070 155076	Joguet
+T1245	Organization 155174 155189	Madame de Corcy
+T1246	Person 155427 155436	de Lameth
+T1247	Location 155494 155500	Madame
+T1248	Location 155694 155700	France
+T1249	Location 155894 155900	Rémond
+T1250	Location 156316 156323	Louison
+T1251	Location 156465 156471	Madame
+T1252	Location 156553 156562	Deschamps
+T1253	Location 156691 156696	Corcy
+T1254	Location 156726 156732	France
+T1255	Location 156932 156940	Monsieur
+T1256	Location 156956 156959	Oui
+T1257	Person 157578 157583	Bussy
+T1258	Person 157714 157720	Albret
+T1259	Person 157841 157846	votre
+T1260	Location 157972 157977	Coucy
+T1261	Person 158068 158076	Mon Dieu
+T1262	Person 158228 158235	Mazarin
+T1263	Location 158242 158247	Coucy
+T1264	Organization 158323 158332	mon oncle
+T1265	Person 158371 158380	de Lameth
+T1266	Person 158432 158437	votre
+T1267	Person 158472 158480	Henri IV
+T1268	Location 158907 158917	Providence
+T1269	Location 159103 159108	Coucy
+T1270	Person 159160 159174	Enguerrand VII
+T1271	Location 159188 159194	France
+T1272	Location 159436 159441	Coucy
+T1273	Location 159552 159560	Monsieur
+T1274	Location 159568 159575	Orléans
+T1275	Person 159626 159637	Cœur-de-Roy
+T1276	Location 159670 159673	Oui
+T1277	Location 159675 159681	Madame
+T1278	Organization 159737 159746	mon oncle
+T1279	Location 159776 159781	Coucy
+T1280	Location 160226 160232	Madame
+T1281	Location 160457 160460	Oui
+T1282	Location 160559 160564	Corcy
+T1283	Organization 160566 160582	Madame de Lameth
+T1284	Person 160619 160626	Louison
+T1285	Person 160643 160650	Louison
+T1286	Location 160683 160689	France
+T1287	Person 160831 160838	Louison
+T1288	Location 161323 161329	Madame
+T1289	Location 161350 161355	Corcy
+T1290	Person 161379 161388	de Lameth
+T1291	Person 161398 161405	Louison
+T1292	Location 161682 161688	Madame
+T1293	Location 161724 161729	Anizy
+T1294	Location 161829 161835	Madame
+T1295	Location 161890 161898	Monsieur
+T1296	Location 161982 161994	Bussy-Lameth
+T1297	Person 162081 162086	votre
+T1298	Location 162121 162127	Albret
+T1299	Location 162151 162157	Albret
+T1300	Location 162172 162178	Madame
+T1301	Person 162228 162242	Marie Jourdieu
+T1302	Location 162298 162303	Corcy
+T1303	Person 162434 162447	mon beau-père
+T1304	Location 162777 162785	Monsieur
+T1305	Person 162786 162795	de Lameth
+T1306	Person 162967 162976	Qu'est-ce
+T1307	Location 163092 163098	Madame
+T1308	Location 163131 163134	Oui
+T1309	Location 163299 163305	Rémond
+T1310	Location 163310 163313	Oui
+T1311	Location 163315 163321	Madame
+T1312	Location 163499 163505	Madame
+T1313	Location 163612 163620	Monsieur
+T1314	Location 163711 163717	Madame
+T1315	Organization 163733 163742	mon oncle
+T1316	Person 164040 164047	Louison
+T1317	Organization 164133 164148	Madame de Corcy
+T1318	Person 164292 164305	Mon Henriette
+T1319	Person 164324 164331	Charles
+T1320	Organization 164335 164350	Madame de Corcy
+T1321	Location 164485 164491	Albret
+T1322	Location 164693 164701	Monsieur
+T1323	Person 164706 164721	Chère Henriette
+T1324	Location 164965 164972	Monspan
+T1325	Location 165059 165067	Vallière
+T1326	Person 165221 165228	Charles
+T1327	Location 165440 165446	Lequel
+T1328	Person 165583 165594	Taisez-vous
+T1329	Location 165596 165604	Monsieur
+T1330	Person 166497 166502	votre
+T1331	Location 166651 166654	Oui
+T1332	Person 167948 167957	de Lameth
+T1333	Location 168398 168404	Albret
+T1334	Person 168930 168936	Albret
+T1335	Person 168952 168961	de Lameth
+T1336	Person 169089 169098	Henriette
+T1337	Location 169204 169212	Allons-y
+T1338	Person 169655 169664	Henriette
+T1339	Person 169968 169973	votre
+T1340	Person 169974 169982	Henri IV
+T1341	Person 170028 170035	Charles
+T1342	Person 170190 170198	Henri IV
+T1343	Person 170206 170215	Henriette
+T1344	Person 170315 170330	Jeanne d'Albret
+T1345	Location 170549 170552	Oui
+T1346	Person 170642 170650	Henri IV
+T1347	Person 170656 170668	ma Gabrielle
+T1348	Location 171035 171038	Oui
+T1349	Location 171107 171112	Fayel
+T1350	Location 171206 171209	Oui
+T1351	Person 171373 171380	Charles
+T1352	Person 171470 171479	Henriette
+T1353	Location 171495 171513	Gabrielle de Vergy
+T1354	Location 171741 171747	France
+T1355	Person 171866 171874	Henri IV
+T1356	Person 172067 172076	Henriette
+T1357	Person 172200 172208	Henri IV
+T1358	Person 172439 172448	de Lameth
+T1359	Person 172591 172598	Charles
+T1360	Location 172824 172832	Soissons
+T1361	Person 172952 172956	Dieu
+T1362	Person 172971 172978	Charles
+T1363	Person 173225 173232	Charles
+T1364	Person 173238 173251	Mon Henriette
+T1365	Person 173447 173456	Henriette
+T1366	Person 173483 173490	Charles
+T1367	Location 173700 173706	Madame
+T1368	Location 173722 173727	Corcy
+T1369	Person 174157 174162	votre
+T1370	Organization 174177 174186	mon oncle
+T1371	Location 174302 174308	Madame
+T1372	Person 174382 174395	mon beau-père
+T1373	Person 174419 174424	Bussy
+T1374	Location 174594 174599	Corcy
+T1375	Location 174603 174610	Louison
+T1376	Person 174740 174746	Albret
+T1377	Organization 174815 174831	Madame de Lameth
+T1378	Location 174851 174856	Coucy
+T1379	Person 175033 175040	Charles
+T1380	Organization 175241 175249	Cerbères
+T1381	Location 175430 175435	Pinon
+T1382	Person 175521 175526	votre
+T1383	Person 175667 175673	Joguet
+T1384	Location 175707 175714	Sissone
+T1385	Organization 175754 175768	comte de Roucy
+T1386	Location 175795 175808	Saint-Quentin
+T1387	Person 175842 175851	de Lameth
+T1388	Location 175889 175894	Roucy
+T1389	Person 176010 176016	Joguet
+T1390	Person 176066 176073	Louison
+T1391	Person 176077 176084	Lambert
+T1392	Hour 176186 176205	vingt-quatre heures
+T1393	Location 176275 176282	Louison
+T1394	Person 176399 176406	Lambert
+T1395	Person 176789 176796	Charles
+T1396	Person 176833 176839	Joguet
+T1397	Location 176934 176940	Madame
+T1398	Location 177155 177161	Madame
+T1399	Location 177212 177229	Villers-Cotterets
+T1400	Location 177362 177368	Madame
+T1401	Location 177415 177420	Bussy
+T1402	Person 177560 177569	Henriette
+T1403	Location 177675 177682	Louison
+T1404	Location 177701 177707	Madame
+T1405	Location 177784 177790	Madame
+T1406	Person 177839 177848	de Lameth
+T1407	Person 177944 177949	Bussy
+T1408	Location 177958 177964	Joguet
+T1409	Location 177978 177995	Villers-Cotterets
+T1410	Location 178017 178025	Monsieur
+T1411	Person 178096 178109	Mon Henriette
+T1412	Location 178412 178417	Bussy
+T1413	Person 178453 178462	de Lameth
+T1414	Person 178646 178655	Henriette
+T1415	Person 178746 178752	Joguet
+T1416	Location 178803 178808	Bussy
+T1417	Location 178939 178944	Bussy
+T1418	Location 179190 179196	Madame
+T1419	Location 179202 179209	Louison
+T1420	Person 179235 179241	Joguet
+T1421	Location 179266 179271	Bussy
+T1422	Person 179280 179289	de Lameth
+T1423	Location 179407 179413	Joguet
+T1424	Location 179619 179625	Madame
+T1425	Person 179731 179740	de Lameth
+T1426	Person 179799 179808	de Lameth
+T1427	Location 179848 179850	Tu
+T1428	Person 179864 179871	Louison
+T1429	Location 180222 180230	Monsieur
+T1430	Person 180441 180446	Bussy
+T1431	Location 180489 180495	Madame
+T1432	Person 180536 180545	Henriette
+T1433	Person 181084 181106	de Lameth la suivirent
+T1434	Person 181278 181283	Bussy
+T1435	Location 181304 181310	Madame
+T1436	Location 181365 181373	Monsieur
+T1437	Person 181430 181439	de Lameth
+T1438	Person 181550 181559	Henriette
+T1439	Location 181721 181729	Monsieur
+T1440	Location 181820 181825	Bussy
+T1441	Location 181971 181977	Madame
+T1442	Location 182013 182021	Monsieur
+T1443	Location 182268 182276	Monsieur
+T1444	Location 182300 182305	Coucy
+T1445	Person 182320 182325	votre
+T1446	Location 182533 182539	Albret
+T1447	Person 182545 182550	votre
+T1448	Location 182587 182592	Corcy
+T1449	Location 182679 182684	Pinon
+T1450	Person 182704 182709	votre
+T1451	Person 182732 182737	votre
+T1452	Location 182876 182882	Madame
+T1453	Person 182900 182904	Dieu
+T1454	Location 182936 182944	Monsieur
+T1455	Location 183002 183008	Albret
+T1456	Person 183022 183031	Henriette
+T1457	Location 183461 183469	Monsieur
+T1458	Location 183692 183700	Monsieur
+T1459	Location 183994 183999	Bussy
+T1460	Location 184040 184048	Monsieur
+T1461	Person 184160 184166	Joguet
+T1462	Person 184171 184177	Joguet
+T1463	Location 184307 184315	Monsieur
+T1464	Person 184395 184404	de Lameth
+T1465	Location 184469 184477	Monsieur
+T1466	Location 184538 184547	Henriette
+T1467	Location 184549 184558	Henriette
+T1468	Location 184885 184893	Monsieur
+T1469	Person 185017 185022	votre
+T1470	Location 185097 185102	Bussy
+T1471	Location 185655 185663	Monsieur
+T1472	Location 185858 185864	Albret
+T1473	Person 186020 186025	votre
+T1474	Person 186147 186153	Albret
+T1475	Person 186474 186479	votre
+T1476	Person 186513 186518	votre
+T1477	Person 186693 186702	de Lameth
+T1478	Person 186816 186821	votre
+T1479	Location 186903 186909	Madame
+T1480	Person 187195 187200	votre
+T1481	Person 187326 187331	votre
+T1482	Person 187368 187377	de Lameth
+T1483	Person 187420 187435	Louison Beaupré
+T1484	Location 187736 187744	Monsieur
+T1485	Person 187860 187865	votre
+T1486	Location 187988 187996	Monsieur
+T1487	Person 188029 188039	M.d'Albret
+T1488	Person 188174 188183	de Lameth
+T1489	Location 188458 188464	Albret
+T1490	Person 188966 188977	Taisez-vous
+T1491	Location 188979 188985	Madame
+T1492	Location 189008 189013	Bussy
+T1493	Location 189108 189114	Albret
+T1494	Person 189341 189349	mon Dieu
+T1495	Location 189384 189390	Madame
+T1496	Location 189552 189558	Madame
+T1497	Location 189607 189615	Monsieur
+T1498	Location 189632 189639	Sissone
+T1499	Person 189713 189718	votre
+T1500	Person 189821 189826	votre
+T1501	Location 189835 189841	Madame
+T1502	Person 190024 190029	votre
+T1503	Person 190052 190057	votre
+T1504	Location 190506 190514	Monsieur
+T1505	Location 190748 190755	Sissone
+T1506	Person 190882 190898	Quelle hardiesse
+T1507	Person 190900 190908	mon Dieu
+T1508	Location 190957 190962	Bussy
+T1509	Location 191398 191403	Pinon
+T1510	Person 191718 191727	de Lameth
+T1511	Location 191834 191840	Albret
+T1512	Location 192040 192045	Bussy
+T1513	Location 192226 192232	Madame
+T1514	Person 192277 192282	votre
+T1515	Person 192312 192317	votre
+T1516	Person 192335 192340	votre
+T1517	Location 192439 192445	Madame
+T1518	Person 192502 192507	votre
+T1519	Location 192615 192623	Monsieur
+T1520	Person 192922 192927	votre
+T1521	Person 193029 193034	votre
+T1522	Location 193124 193132	Monsieur
+T1523	Person 193162 193171	de Lameth
+T1524	Location 193368 193376	Monsieur
+T1525	Location 193707 193712	Adieu
+T1526	Person 193929 193937	mon Dieu
+T1527	Location 193971 193976	Bussy
+T1528	Person 194031 194038	Louison
+T1529	Location 194180 194186	Albret
+T1530	Person 194229 194238	de Lameth
+T1531	Person 194321 194327	Joguet
+T1532	Person 194490 194497	Louison
+T1533	Person 194891 194900	de Lameth
+T1534	Person 194929 194935	Joguet
+T1535	Location 194957 194966	Henriette
+T1536	Location 194996 195001	Coucy
+T1537	Location 195019 195024	Corcy
+T1538	Person 195157 195164	Lambert
+T1539	Location 195188 195194	Madame
+T1540	Location 195207 195212	Corcy
+T1541	Location 195572 195578	Madame
+T1542	Location 195681 195686	Corcy
+T1543	Location 195821 195826	Coucy
+T1544	Person 195925 195931	Quatre
+T1545	Location 196151 196156	Corcy
+T1546	Person 196335 196342	Louison
+T1547	Location 196429 196435	Madame
+T1548	Location 196437 196443	Madame
+T1549	Location 196477 196482	Corcy
+T1550	Location 196641 196647	Madame
+T1551	Location 196879 196884	Corcy
+T1552	Person 196953 196960	Louison
+T1553	Organization 197002 197018	Madame de Lameth
+T1554	Location 197230 197236	Courcy
+T1555	Location 197261 197267	Albret
+T1556	Location 197299 197305	Rémond
+T1557	Location 197465 197471	Rémond
+T1558	Person 197577 197583	Albert
+T1559	Person 197665 197672	Louison
+T1560	Location 197675 197680	Adieu
+T1561	Location 197773 197780	Sissone
+T1562	Location 197798 197804	Madame
+T1563	Person 197828 197841	Madame Joguet
+T1564	Location 198165 198171	Madame
+T1565	Person 198421 198427	Joguet
+T1566	Location 198441 198447	Madame
+T1567	Person 198511 198518	Louison
+T1568	Location 198588 198593	Corcy
+T1569	Person 198606 198615	de Lameth
+T1570	Location 198784 198789	Corcy
+T1571	Person 199052 199059	Lambert
+T1572	Location 199126 199133	Lambert
+T1573	Person 199218 199227	de Lameth
+T1574	Location 199278 199283	Corcy
+T1575	Location 199325 199332	Lambert
+T1576	Person 199414 199421	Lambert
+T1577	Location 199429 199436	Pichard
+T1578	Person 199520 199529	de Lameth
+T1579	Organization 199689 199704	Madame de Corcy
+T1580	Location 199741 199746	Pinon
+T1581	Person 199915 199924	Henriette
+T1582	Location 200111 200118	Louison
+T1583	Person 200148 200155	Lambert
+T1584	Location 200818 200822	Laon
+T1585	Organization 200956 200971	Madame de Corcy
+T1586	Person 201014 201023	de Lameth
+T1587	Location 201114 201123	Henriette
+T1588	Location 201315 201320	Corcy
+T1589	Person 201528 201537	de Lameth
+T1590	Location 202136 202144	Monsieur
+T1591	Person 202489 202494	Bussy
+T1592	Person 203218 203225	Louison
+T1593	Location 203390 203395	Coucy
+T1594	Person 203404 203413	Henriette
+T1595	Location 203475 203482	Flandre
+T1596	Location 203512 203521	Schomberg
+T1597	Person 203647 203652	votre
+T1598	Location 204330 204333	toi
+T1599	Location 204518 204524	Madame
+T1600	Location 204679 204684	Corcy
+T1601	Person 204780 204788	Mon Dieu
+T1602	Location 204879 204885	Madame
+T1603	Person 204887 204903	répliqua Louison
+T1604	Person 204935 204942	Lambert
+T1605	Organization 204977 204982	Tenez
+T1606	Location 205068 205073	Coucy
+T1607	Person 205083 205087	Dieu
+T1608	Person 205105 205112	Louison
+T1609	Person 205152 205159	Lambert
+T1610	Location 205213 205219	Madame
+T1611	Person 205363 205372	de Lameth
+T1612	Location 205422 205427	Corcy
+T1613	Location 205712 205717	Corcy
+T1614	Person 205945 205950	votre
+T1615	Person 206245 206253	Mon Dieu
+T1616	Location 206378 206383	Corcy
+T1617	Person 206459 206464	Bussy
+T1618	Person 206513 206522	de Lameth
+T1619	Person 206592 206597	votre
+T1620	Location 206676 206684	Monsieur
+T1621	Person 206685 206696	Cœur de Roy
+T1622	Person 206854 206859	votre
+T1623	Location 206896 206902	Madame
+T1624	Person 206941 206960	interrompit Louison
+T1625	Location 207333 207340	Sissone
+T1626	Location 207477 207484	Louison
+T1627	Person 207854 207863	de Lameth
+T1628	Location 208078 208083	Corcy
+T1629	Organization 208130 208145	Madame de Corcy
+T1630	Person 208316 208325	Henriette
+T1631	Location 208535 208541	Madame
+T1632	Location 208561 208570	merveille
+T1633	Location 208718 208724	Madame
+T1634	Location 208782 208787	Corcy
+T1635	Location 209158 209165	Lambert
+T1636	Organization 209274 209289	Madame de Corcy
+T1637	Location 209303 209305	Tu
+T1638	Location 209333 209336	Oui
+T1639	Location 209338 209344	Madame
+T1640	Location 209422 209428	Madame
+T1641	Person 209490 209497	Lambert
+T1642	Person 209755 209764	de Lameth
+T1643	Location 209887 209893	Madame
+T1644	Location 209999 210007	Monsieur
+T1645	Location 210055 210064	merveille
+T1646	Location 210119 210127	Monsieur
+T1647	Organization 210204 210219	Madame de Corcy
+T1648	Location 210275 210280	Bussy
+T1649	Person 210315 210326	Eh Monsieur
+T1650	Person 210514 210523	Henriette
+T1651	Person 210551 210556	votre
+T1652	Person 210660 210665	votre
+T1653	Organization 210715 210731	Madame de Lameth
+T1654	Location 211153 211159	Madame
+T1655	Person 211267 211272	votre
+T1656	Person 211329 211334	votre
+T1657	Person 211401 211407	Albret
+T1658	Person 211479 211484	votre
+T1659	Person 211621 211630	Henriette
+T1660	Person 211733 211738	votre
+T1661	Person 211748 211753	votre
+T1662	Person 211961 211970	Henriette
+T1663	Person 212133 212148	de Lameth resta
+T1664	Location 212318 212326	Monsieur
+T1665	Location 213033 213041	Monsieur
+T1666	Person 213047 213056	Henriette
+T1667	Person 213059 213068	Henriette
+T1668	Location 213116 213119	Oui
+T1669	Person 213148 213153	votre
+T1670	Person 213163 213168	votre
+T1671	Location 213565 213570	Corcy
+T1672	Person 213599 213608	Henriette
+T1673	Organization 213658 213673	Madame de Corcy
+T1674	Location 213720 213725	Anizy
+T1675	Person 213808 213816	Mon Dieu
+T1676	Person 213823 213830	Louison
+T1677	Location 213852 213857	Corcy
+T1678	Location 213885 213891	Madame
+T1679	Person 213950 213955	votre
+T1680	Person 214083 214088	Bussy
+T1681	Location 214115 214121	Madame
+T1682	Location 214123 214129	Madame
+T1683	Location 214189 214195	Albret
+T1684	Person 214532 214541	Qu'est-ce
+T1685	Location 214566 214573	Lambert
+T1686	Location 214592 214601	Chavignon
+T1687	Location 214633 214639	Madame
+T1688	Person 215016 215022	Joguet
+T1689	Person 215056 215063	Lambert
+T1690	Person 215106 215115	de Lameth
+T1691	Location 215260 215273	Croix-Blanche
+T1692	Person 215339 215346	Lambert
+T1693	Person 215452 215459	Lambert
+T1694	Person 215461 215480	interrompit Pichard
+T1695	Location 215544 215551	Pichard
+T1696	Location 215766 215773	Lambert
+T1697	Location 215797 215803	Albret
+T1698	Person 216045 216054	de Lameth
+T1699	Person 216060 216065	A. A.
+T1700	Person 216102 216109	Charles
+T1701	Location 216111 216119	Amanieux
+T1702	Location 216123 216129	Albret
+T1703	Person 216240 216249	de Lameth
+T1704	Location 216416 216424	Monsieur
+T1705	Location 216787 216795	Monsieur
+T1706	Location 216903 216909	Albret
+T1707	Location 217279 217284	Noyon
+T1708	Location 217293 217297	Laon
+T1709	Location 217501 217506	Adieu
+T1710	Person 217570 217577	Lambert
+T1711	Person 217593 217602	de Lameth
+T1712	Location 217663 217669	Albret
+T1713	Person 217819 217826	Lambert
+T1714	Location 217972 217974	Tu
+T1715	Location 218012 218015	Oui
+T1716	Person 218116 218123	Lambert
+T1717	Location 218185 218191	Albret
+T1718	Location 218268 218275	Sissone
+T1719	Location 218446 218451	Pinon
+T1720	Person 218722 218729	Louison
+T1721	Location 218779 218785	Madame
+T1722	Location 219390 219396	Madame
+T1723	Location 219402 219409	Louison
+T1724	Person 219445 219454	Henriette
+T1725	Person 219568 219577	Qu'est-ce
+T1726	Location 219603 219608	Corcy
+T1727	Person 219649 219658	de Lameth
+T1728	Location 219709 219713	Laon
+T1729	Person 219715 219731	répliqua Louison
+T1730	Person 219732 219739	Beaupré
+T1731	Person 219748 219752	Dieu
+T1732	Location 219989 219994	Corcy
+T1733	Person 220123 220132	de Lameth
+T1734	Location 220164 220169	Bussy
+T1735	Person 220376 220382	Joguet
+T1736	Location 220728 220740	Bussy-Lameth
+T1737	Location 220873 220878	Corcy
+T1738	Person 220911 220922	Cœur-de-Roy
+T1739	Location 220924 220930	Madame
+T1740	Location 221022 221026	Laon
+T1741	Location 221111 221116	Coucy
+T1742	Location 221255 221263	Monsieur
+T1743	Location 221320 221326	Madame
+T1744	Person 221332 221337	votre
+T1745	Location 221433 221439	Madame
+T1746	Location 221471 221476	Corcy
+T1747	Location 221500 221508	Monsieur
+T1748	Organization 221510 221519	mon oncle
+T1749	Person 221653 221670	Dubois de Courval
+T1750	Location 221701 221707	Haïval
+T1751	Location 221723 221732	Moyenbrie
+T1752	Organization 221755 221764	mon oncle
+T1753	Location 221803 221809	Madame
+T1754	Person 221908 221916	Mon Dieu
+T1755	Location 221919 221927	Monsieur
+T1756	Person 221929 221947	répliqua Henriette
+T1757	Location 222061 222067	Madame
+T1758	Person 222170 222185	Bussy d'Amboise
+T1759	Location 222273 222288	Bussy d'Amboise
+T1760	Location 222290 222298	Monsieur
+T1761	Person 222428 222437	de Lameth
+T1762	Person 222557 222562	votre
+T1763	Location 222572 222580	Monsieur
+T1764	Location 222761 222766	Bussy
+T1765	Person 222830 222835	votre
+T1766	Location 222842 222848	Madame
+T1767	Person 222998 223009	Cœur-de-Roy
+T1768	Location 223037 223043	Madame
+T1769	Location 223078 223086	Monsieur
+T1770	Person 223301 223306	Bussy
+T1771	Location 223307 223313	Madame
+T1772	Person 223612 223617	votre
+T1773	Location 223627 223633	Madame
+T1774	Location 223639 223642	Oui
+T1775	Person 223755 223760	votre
+T1776	Location 223870 223876	Albret
+T1777	Location 223953 223959	Madame
+T1778	Person 223977 223984	Louison
+T1779	Person 224072 224079	Lambert
+T1780	Location 224082 224091	Chavignon
+T1781	Person 224166 224173	Louison
+T1782	Person 224206 224215	Henriette
+T1783	Person 224261 224268	Lambert
+T1784	Location 224433 224439	Madame
+T1785	Location 224681 224687	Albret
+T1786	Location 224838 224843	Corcy
+T1787	Location 225003 225009	Albret
+T1788	Location 225048 225057	Chavignon
+T1789	Location 225160 225166	Rémond
+T1790	Location 225429 225436	Lambert
+T1791	Location 225459 225468	Henriette
+T1792	Person 225626 225633	Lambert
+T1793	Location 225656 225662	Madame
+T1794	Person 225759 225768	de Lameth
+T1795	Location 225775 225783	Soissons
+T1796	Location 225981 225986	Anizy
+T1797	Location 226032 226040	Monsieur
+T1798	Location 226138 226140	Tu
+T1799	Person 226507 226514	Lambert
+T1800	Location 226611 226620	Chavignon
+T1801	Location 226660 226672	Bussy-Lameth
+T1802	Location 227075 227080	Anizy
+T1803	Person 227207 227214	Lambert
+T1804	Person 227366 227377	Cœur-de-Roy
+T1805	Location 227401 227406	Coucy
+T1806	Location 227444 227451	Orléans
+T1807	Location 227509 227518	Deschamps
+T1808	Person 227666 227675	de Lameth
+T1809	Location 227770 227775	Corcy
+T1810	Person 227790 227805	Louison Beaupré
+T1811	Person 227833 227844	Cœur-de-Roy
+T1812	Person 227957 227966	de Lameth
+T1813	Location 227979 227987	Monsieur
+T1814	Location 228108 228113	Bussy
+T1815	Location 228129 228134	Pinon
+T1816	Person 228229 228240	Cœur-de-Roy
+T1817	Location 228546 228554	Monsieur
+T1818	Location 229241 229246	Coucy
+T1819	Location 229248 229256	Monsieur
+T1820	Location 229283 229289	Madame
+T1821	Location 229573 229578	Coucy
+T1822	Location 229646 229654	Monsieur
+T1823	Person 229774 229783	Henriette
+T1824	Location 229872 229878	Madame
+T1825	Location 229919 229924	Bussy
+T1826	Organization 230077 230092	Madame de Corcy
+T1827	Person 230201 230212	Cœur-de-Roy
+T1828	Person 230299 230308	de Lameth
+T1829	Location 230353 230357	Laon
+T1830	Location 230526 230532	Venise
+T1831	Location 230614 230622	Monsieur
+T1832	Person 230647 230652	votre
+T1833	Location 230815 230820	Corcy
+T1834	Location 230934 230940	Madame
+T1835	Person 231028 231033	votre
+T1836	Location 231155 231161	Madame
+T1837	Location 231201 231209	Monsieur
+T1838	Person 231242 231248	Joguet
+T1839	Person 231288 231297	de Lameth
+T1840	Location 231315 231326	Cœur-de-Roy
+T1841	Person 231387 231396	Henriette
+T1842	Location 231551 231554	Oui
+T1843	Location 231611 231617	Madame
+T1844	Person 231630 231635	votre
+T1845	Location 231755 231763	Monsieur
+T1846	Organization 231822 231837	Madame de Corcy
+T1847	Location 231941 231947	Madame
+T1848	Person 232015 232020	votre
+T1849	Location 232133 232138	Corcy
+T1850	Person 232218 232229	Cœur-de-Roy
+T1851	Person 232369 232376	Louison
+T1852	Location 232642 232648	Madame
+T1853	Person 232666 232674	mon Dieu
+T1854	Person 232696 232705	de Lameth
+T1855	Person 232746 232753	Louison
+T1856	Location 232807 232813	Albret
+T1857	Organization 232837 232852	Madame de Corcy
+T1858	Location 232881 232884	toi
+T1859	Person 233035 233044	de Lameth
+T1860	Location 233343 233349	Madame
+T1861	Location 233351 233357	Madame
+T1862	Person 233404 233411	Louison
+T1863	Location 233449 233457	Picardie
+T1864	Location 233921 233926	Corcy
+T1865	Location 233973 233979	Madame
+T1866	Person 233984 233997	Mon beau-père
+T1867	Person 234001 234006	votre
+T1868	Person 234061 234070	de Lameth
+T1869	Person 234484 234493	Henriette
+T1870	Location 234623 234628	Corcy
+T1871	Person 234692 234699	Louison
+T1872	Person 234863 234874	Cœur-de-Roy
+T1873	Person 234893 234900	Louison
+T1874	Person 234970 234975	Bussy
+T1875	Person 235002 235009	Louison
+T1876	Location 235161 235166	Corcy
+T1877	Person 235251 235256	votre
+T1878	Location 235311 235319	Monsieur
+T1879	Location 235594 235600	Albret
+T1880	Location 235676 235680	Laon
+T1881	Person 235764 235768	Dieu
+T1882	Person 235890 235897	Louison
+T1883	Location 236251 236257	Madame
+T1884	Person 236408 236417	Henriette
+T1885	Person 236452 236459	Lambert
+T1886	Location 236485 236490	Anizy
+T1887	Location 236895 236900	Anizy
+T1888	Location 237073 237086	Croix-Blanche
+T1889	Location 237090 237099	Chavignon
+T1890	Location 237197 237202	Anizy
+T1891	Person 237250 237257	Lambert
+T1892	Person 237415 237422	Lambert
+T1893	Person 237479 237485	Albret
+T1894	Location 237540 237549	Chavignon
+T1895	Location 237590 237594	Laon
+T1896	Person 237788 237792	Dieu
+T1897	Location 238090 238096	Rémond
+T1898	Location 238193 238200	Sissone
+T1899	Location 238237 238242	Anizy
+T1900	Person 238425 238432	Lambert
+T1901	Person 238610 238617	Lambert
+T1902	Person 238992 239001	Henriette
+T1903	Location 239080 239085	Corcy
+T1904	Person 239484 239491	Lambert
+T1905	Person 239682 239691	de Lameth
+T1906	Location 239801 239807	Albret
+T1907	Location 240610 240616	Madame
+T1908	Location 240744 240752	Monsieur
+T1909	Person 241020 241027	Lambert
+T1910	Person 241187 241193	Joguet
+T1911	Person 241295 241302	Lambert
+T1912	Location 241316 241323	Pichard
+T1913	Location 241337 241342	Anizy
+T1914	Person 242317 242323	Joguet
+T1915	Location 242466 242475	Henriette
+T1916	Person 242649 242655	Joguet
+T1917	Person 242706 242712	Albret
+T1918	Person 243188 243197	Henriette
+T1919	Person 243250 243257	Lambert
+T1920	Person 243415 243421	Joguet
+T1921	Person 243511 243518	Louison
+T1922	Location 243551 243557	Madame
+T1923	Person 243630 243637	Louison
+T1924	Person 243650 243657	Louison
+T1925	Location 243680 243685	Corcy
+T1926	Person 243690 243699	Henriette
+T1927	Person 243745 243752	Louison
+T1928	Location 243849 243855	Madame
+T1929	Person 243949 243956	Louison
+T1930	Location 244012 244018	Madame
+T1931	Location 244260 244262	Tu
+T1932	Person 244272 244279	Louison
+T1933	Location 244350 244356	Madame
+T1934	Location 244463 244468	Corcy
+T1935	Person 244703 244712	de Lameth
+T1936	Person 245140 245151	Cœur-de-Boy
+T1937	Organization 245218 245233	Madame de Corcy
+T1938	Location 245321 245327	Albret
+T1939	Person 245343 245360	murmura Henriette
+T1940	Location 245403 245409	Madame
+T1941	Location 245524 245530	France
+T1942	Location 245532 245540	Monsieur
+T1943	Person 245562 245573	Taisez-vous
+T1944	Person 245602 245606	Dieu
+T1945	Location 245639 245644	Corcy
+T1946	Location 245777 245785	Monsieur
+T1947	Person 245997 246013	répliqua Pichard
+T1948	Person 246055 246061	Joguet
+T1949	Person 246136 246142	Joguet
+T1950	Person 246154 246158	Dieu
+T1951	Location 246495 246501	Madame
+T1952	Location 246607 246618	Cœur-de-Roy
+T1953	Location 246670 246675	Corcy
+T1954	Location 246682 246689	Louison
+T1955	Person 246735 246741	Albret
+T1956	Person 246842 246851	de Lameth
+T1957	Location 246911 246923	Découvrez-le
+T1958	Location 246936 246943	Pichard
+T1959	Location 247128 247135	Pichard
+T1960	Location 247158 247161	Oui
+T1961	Person 247226 247230	Dieu
+T1962	Person 247820 247829	Louis XIV
+T1963	Person 247909 247918	de Lameth
+T1964	Organization 248293 248308	Madame de Corcy
+T1965	Person 248312 248327	Louison Beaupré
+T1966	Person 248472 248479	Louison
+T1967	Person 248481 248497	reprit Henriette
+T1968	Person 248546 248553	Louison
+T1969	Person 249165 249176	Cœur-de-Roy
+T1970	Location 249647 249653	Joguet
+T1971	Person 249840 249844	Dieu
+T1972	Organization 249878 249894	Madame de Lameth
+T1973	Location 250089 250100	Cœur-de-Roy
+T1974	Location 250115 250120	Corcy
+T1975	Location 250127 250134	Louison
+T1976	Person 250242 250249	Louison
+T1977	Person 250446 250455	Henriette
+T1978	Location 250459 250466	Sissone
+T1979	Person 250765 250773	Mon Dieu
+T1980	Person 250776 250784	mon Dieu

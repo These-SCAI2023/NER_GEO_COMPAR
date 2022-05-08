@@ -1,0 +1,1691 @@
+T1	Person 788 794	Sabine
+T2	Location 2310 2318	Fontenay
+T3	Person 2556 2562	Sabine
+T4	Person 2582 2588	madame
+T5	Person 2589 2600	de Fontenay
+T6	Hour 2674 2685	cinq heures
+T7	Person 2725 2730	Henri
+T8	Person 2743 2749	Jérôme
+T9	Person 2753 2762	Pierre ET
+T10	Organization 2785 2805	= Madame de Fontenay
+T11	Person 3198 3209	chez Sabine
+T12	Person 3309 3315	Sabine
+T13	Location 3349 3352	LUS
+T14	Person 3769 3775	madame
+T15	Person 3776 3787	de Fontenay
+T16	Person 3848 3853	Marie
+T17	Location 3992 3996	Joie
+T18	Person 4306 4312	Sabine
+T19	Organization 4412 4414	DS
+T20	Person 4653 4660	Vois-tu
+T21	Person 4662 4667	Marie
+T22	Location 5192 5193	L
+T23	Location 5205 5211	Säbine
+T24	Location 5466 5469	toi
+T25	Location 5632 5638	Sabine
+T26	Location 6613 6619	Sabine
+T27	Location 6902 6908	Sabine
+T28	Location 7040 7045	Quand
+T29	Organization 7160 7162	Ge
+T30	Location 7212 7215	Oui
+T31	Person 7224 7230	Sabine
+T32	Person 7340 7345	Marie
+T33	Person 7554 7559	Marie
+T34	Person 7802 7808	madame
+T35	Person 7809 7820	de Fontenay
+T36	Location 8040 8046	Pomone
+T37	Person 8576 8582	Sabine
+T38	Location 9347 9356	Fontenaäÿ
+T39	Location 9562 9567	Märie
+T40	Person 9687 9691	æ Où
+T41	Person 9796 9804	Sens tÈ7
+T42	Location 9892 9900	Fontenaÿ
+T43	Location 9981 9987	Sabiné
+T44	Organization 10071 10089	Madame de Fontenay
+T45	Location 10268 10273	Quand
+T46	Location 10554 10561	quelles
+T47	Person 11167 11173	Sabine
+T48	Person 11180 11191	de Fontenay
+T49	Person 11475 11481	Sabine
+T50	Location 11726 11727	L
+T51	Person 12050 12056	Sabine
+T52	Location 12943 12948	Rozée
+T53	Location 13412 13418	Sabine
+T54	Person 13846 13852	Sabine
+T55	Location 14541 14551	Wurtemberg
+T56	Location 14863 14869	Sabine
+T57	Location 15126 15134	Héloïise
+T58	Person 15139 15151	Jeanne d’Arc
+T59	Person 15217 15224	Charles
+T60	Location 15337 15344	Messine
+T61	Location 15540 15541	L
+T62	Organization 15595 15597	DS
+T63	Location 16079 16086	Spinoza
+T64	Location 17128 17133	Rozée
+T65	Location 17450 17455	Paris
+T66	Person 17502 17507	Rozée
+T67	Person 17532 17538	Sabine
+T68	Location 18923 18931	Taväient
+T69	Person 18991 18997	Roïzée
+T70	Location 19022 19026	Rome
+T71	Person 19030 19042	Fäbieñ Mauri
+T72	Location 19055 19063	Tourainé
+T73	Person 19146 19152	Sabine
+T74	Location 19420 19426	France
+T75	Location 19520 19525	Gênes
+T76	Person 19793 19799	Sabine
+T77	Location 20111 20117	Fabien
+T78	Location 20499 20504	Rozée
+T79	Location 20509 20515	Sabine
+T80	Person 21129 21135	Sabine
+T81	Person 21388 21396	E Sabine
+T82	Location 21473 21478	Rozée
+T83	Person 21927 21932	Rozée
+T84	Person 22029 22035	Sabine
+T85	Person 22371 22376	Rozée
+T86	Location 22413 22419	Vienne
+T87	Person 22675 22681	Sabine
+T88	Person 22697 22714	Henri de Fontenay
+T89	Person 22910 22916	Sabine
+T90	Location 23001 23003	Ja
+T91	Person 23730 23736	Sabine
+T92	Person 23946 23963	Marie de Fontenay
+T93	Location 23998 24003	Rozée
+T94	Person 24136 24142	Sabine
+T95	Location 24460 24462	Ja
+T96	Location 24656 24660	lage
+T97	Person 25127 25133	madame
+T98	Person 25134 25145	de Fontenay
+T99	Location 25269 25272	sir
+T100	Location 25317 25324	Ronsard
+T101	Person 25426 25432	madame
+T102	Person 25433 25444	de Fontenay
+T103	Person 25852 25857	Henri
+T104	Person 26028 26033	Henri
+T105	Person 26109 26123	Pierre Valence
+T106	Location 26650 26652	Ja
+T107	Person 26919 26925	Sabine
+T108	Location 26928 26934	Pierre
+T109	Location 26940 26945	Henri
+T110	Person 27009 27023	Pierre Valence
+T111	Person 27404 27418	Pierre Valence
+T112	Person 27436 27449	Henri de Fon-
+T113	Location 27859 27867	Fonteney
+T114	Person 28142 28147	Henri
+T115	Person 28151 28157	Pierre
+T116	Person 28184 28189	Marie
+T117	Person 28336 28350	demanda Sabine
+T118	Location 28353 28359	Pierre
+T119	Location 28493 28498	Loire
+T120	Organization 28654 28659	Vinci
+T121	Person 28694 28704	sant Henri
+T122	Organization 28718 28720	PT
+T123	Person 29089 29095	Jérôme
+T124	Person 29111 29117	Sabine
+T125	Person 29179 29193	Jérôme Hérelle
+T126	Person 29418 29423	Henri
+T127	Person 29475 29486	de Fontenay
+T128	Person 29548 29560	Jean Hérelle
+T129	Location 29646 29653	Pologne
+T130	Person 29681 29687	Jérôme
+T131	Location 30281 30286	Paris
+T132	Person 30348 30359	de Fontenay
+T133	Person 30367 30378	de Fontenay
+T134	Person 30545 30562	Henri de Fontenay
+T135	Organization 30693 30711	Madame de Fontenay
+T136	Person 30770 30784	Pierre Valence
+T137	Person 30831 30836	Henri
+T138	Person 30957 30963	Sabine
+T139	Person 31085 31090	Marie
+T140	Person 31260 31266	Sabine
+T141	Person 31333 31339	Jérôme
+T142	Organization 31748 31766	Madame de Fontenay
+T143	Location 31968 31972	Vous
+T144	Person 31974 31980	madame
+T145	Person 32094 32105	Jérôme nous
+T146	Person 32136 32142	Pierre
+T147	Person 32201 32206	Henri
+T148	Person 32252 32258	madame
+T149	Person 32259 32270	de Fontenay
+T150	Person 32388 32402	Jérôme Hérelle
+T151	Person 32677 32682	Henri
+T152	Person 32854 32860	Jérôme
+T153	Location 33082 33087	Fauré
+T154	Location 33347 33360	Li A chantait
+T155	Location 33679 33686	Mossoul
+T156	Location 33871 33878	quelles
+T157	Person 34007 34013	Sabine
+T158	Organization 34271 34293	LA NOÛÜVELLE ESPÉRANCE
+T159	Person 34360 34368	Mon Dieu
+T160	Person 34626 34632	Jérôme
+T161	Person 34781 34787	Sabine
+T162	Person 34938 34944	Jérôme
+T163	Person 35244 35250	Jérôme
+T164	Location 35417 35420	Oui
+T165	Person 35437 35443	Jérôme
+T166	Person 35445 35450	Henri
+T167	Person 35550 35556	Pierre
+T168	Person 35680 35686	Jérôme
+T169	Person 35828 35833	Henri
+T170	Location 35886 35889	Jui
+T171	Person 35937 35942	Marie
+T172	Location 35963 35969	Sabine
+T173	Person 35977 35983	Sabine
+T174	Location 36099 36109	Décide-toi
+T175	Person 36119 36124	Henri
+T176	Person 36265 36270	Henri
+T177	Person 36343 36348	Marie
+T178	Location 36355 36358	toi
+T179	Location 36375 36380	Henri
+T180	Organization 36402 36409	_— Bon!
+T181	Person 36418 36423	Henri
+T182	Person 36515 36521	Pierre
+T183	Person 36533 36539	Jérôme
+T184	Person 36565 36571	Sabine
+T185	Location 36595 36600	Marie
+T186	Location 36761 36764	sir
+T187	Location 36830 36832	Re
+T188	Person 36960 36968	Louis XV
+T189	Date 37142 37154	xvai° siècle
+T190	Person 37189 37195	madame
+T191	Person 37199 37210	__ Fontenay
+T192	Person 37305 37310	Marie
+T193	Person 37371 37376	Marie
+T194	Person 37505 37511	Sabine
+T195	Person 37529 37537	Marie s’
+T196	Person 37610 37614	Dieu
+T197	Person 38016 38022	Jérôme
+T198	Person 38026 38032	Pierre
+T199	Person 38051 38056	Marie
+T200	Person 38150 38156	Sabine
+T201	Location 38204 38207	Oui
+T202	Person 38211 38217	Jérôme
+T203	Person 38679 38685	Pierre
+T204	Person 38687 38704	interrompit Marie
+T205	Person 39013 39030	Marie nette- ment
+T206	Person 39047 39052	Henri
+T207	Location 39061 39064	toi
+T208	Person 39118 39132	répliqua Marie
+T209	Location 39173 39177	Vous
+T210	Person 39211 39216	Henri
+T211	Location 39252 39255	Oui
+T212	Location 39336 39339	Fon
+T213	Person 39653 39666	madame Martin
+T214	Location 39719 39722	toi
+T215	Person 39826 39831	Marie
+T216	Person 39973 39991	Sabine grave- ment
+T217	Location 40005 40010	Quand
+T218	Person 40151 40156	Marie
+T219	Location 40201 40207	Säbine
+T220	Location 40241 40244	Oui
+T221	Location 40285 40288	toi
+T222	Location 40290 40293	toi
+T223	Person 40316 40322	Sabine
+T224	Person 40341 40346	Marie
+T225	Location 40438 40441	toi
+T226	Person 40643 40648	Marie
+T227	Location 41255 41261	Sabine
+T228	Person 41382 41387	Marie
+T229	Person 41520 41536	Philippe Forbier
+T230	Person 41546 41552	Pierre
+T231	Person 41556 41561	Henri
+T232	Location 41583 41586	Oui
+T233	Person 41593 41599	Sabine
+T234	Person 41627 41643	Philippe Forhier
+T235	Location 41741 41746	Marie
+T236	Person 41800 41805	Henri
+T237	Person 41863 41869	Sabine
+T238	Person 41927 41932	Marie
+T239	Location 42026 42031	Herri
+T240	Organization 42073 42108	Comité d’une Société scienti- fique
+T241	Person 42111 42127	Philippe Forbier
+T242	Person 42491 42497	Sabine
+T243	Person 42723 42729	Sabine
+T244	Location 42731 42739	alanguie
+T245	Person 42844 42849	Henri
+T246	Person 42959 42964	Marie
+T247	Location 43046 43049	toi
+T248	Person 43446 43455	He Sabine
+T249	Location 43574 43576	Re
+T250	Location 43914 43919	Marie
+T251	Person 43953 43958	Henri
+T252	Location 44434 44439	Quand
+T253	Location 44783 44789	Sabine
+T254	Person 44971 44976	Henri
+T255	Location 45237 45245	Elseneur
+T256	Location 45269 45275	Italie
+T257	Location 45364 45370	France
+T258	Person 45979 45985	Sabine
+T259	Person 46650 46664	Henri attendri
+T260	Location 46762 46765	toi
+T261	Location 46842 46845	Oui
+T262	Person 46856 46862	Sabine
+T263	Location 47263 47266	toi
+T264	Location 47525 47530	Paris
+T265	Location 47617 47625	Boulogne
+T266	Person 47658 47663	Henri
+T267	Person 47792 47798	Sabine
+T268	Person 48713 48718	Henri
+T269	Location 49138 49143	Paris
+T270	Person 49335 49341	madame
+T271	Person 49342 49353	de Fontenay
+T272	Location 49508 49516	Bruyères
+T273	Location 49525 49529	Oise
+T274	Person 49557 49563	madame
+T275	Person 49564 49575	de Fontenay
+T276	Person 49629 49634	Marie
+T277	Person 49637 49642	Henri
+T278	Person 49871 49877	Sabine
+T279	Person 50024 50030	Jérôme
+T280	Person 50060 50066	Pierre
+T281	Person 50068 50082	demanda Sabine
+T282	Person 50087 50093	Pierre
+T283	Person 50288 50293	Henri
+T284	Person 50654 50660	madame
+T285	Person 50661 50672	de Fontenay
+T286	Date 50741 50750	xv siècle
+T287	Person 51155 51161	madame
+T288	Location 51165 51172	Warrens
+T289	Location 51294 51298	lage
+T290	Event 51304 51313	oo Sabine
+T291	Person 51642 51647	Marie
+T292	Person 52536 52540	Dieu
+T293	Location 52591 52604	Chateaubriand
+T294	Person 53008 53014	Sabine
+T295	Location 53347 53354	Molière
+T296	Person 53545 53551	Sabine
+T297	Person 53946 53959	Rousseau pou-
+T298	Person 54019 54025	Sabine
+T299	Person 54029 54034	Marie
+T300	Person 54105 54110	Henri
+T301	Location 54554 54557	Jui
+T302	Person 55092 55097	Marie
+T303	Person 55229 55235	Sabine
+T304	Person 55608 55614	Sabine
+T305	Person 55779 55784	Marie
+T306	Person 55794 55800	madame
+T307	Location 55832 55840	Fontenay
+T308	Person 56196 56202	Sabine
+T309	Person 56876 56881	Henri
+T310	Person 57236 57241	Marie
+T311	Person 57251 57257	Sabine
+T312	Person 57630 57636	Sabine
+T313	Person 57862 57868	Sabine
+T314	Person 58137 58143	Sabine
+T315	Person 58513 58519	Sabine
+T316	Location 59092 59098	Sabine
+T317	Person 59208 59214	Sabine
+T318	Location 59354 59359	Louis
+T319	Location 59363 59372	Bien-Aimé
+T320	Location 59385 59395	Versailles
+T321	Location 59432 59436	Oise
+T322	Location 60066 60075	Aphrodite
+T323	Location 60332 60334	Ja
+T324	Location 60834 60842	Voltaire
+T325	Location 61793 61799	Rameau
+T326	Location 61838 61845	Watteau
+T327	Person 61933 61939	Sabine
+T328	Person 62217 62231	Jérôme Hérelle
+T329	Location 62364 62369	Paris
+T330	Person 62564 62578	Jérôme Hérelle
+T331	Person 62600 62605	Henri
+T332	Person 62764 62770	Jérôme
+T333	Person 63000 63006	Sabine
+T334	Person 63318 63324	Sabine
+T335	Location 63567 63572	Marie
+T336	Person 63809 63823	Henri s’obsti-
+T337	Person 64111 64117	Jérôme
+T338	Person 64137 64143	Sabine
+T339	Person 64186 64191	Henri
+T340	Person 64193 64199	Sabine
+T341	Person 64349 64354	Henri
+T342	Person 64607 64613	Jérôme
+T343	Person 64762 64768	madame
+T344	Person 64769 64780	de Fontenay
+T345	Person 64792 64797	Henri
+T346	Location 64901 64907	Sabine
+T347	Person 64909 64914	Marie
+T348	Person 64918 64924	Jérôme
+T349	Person 65078 65084	Sabine
+T350	Person 65173 65179	madame
+T351	Person 65184 65191	Plessis
+T352	Person 65371 65377	Jérôme
+T353	Person 65540 65546	Sabine
+T354	Location 65948 65949	L
+T355	Person 65950 65953	Ily
+T356	Person 65967 65973	Jérôme
+T357	Location 65997 65998	L
+T358	Location 66003 66006	Oui
+T359	Location 66012 66018	Sabine
+T360	Location 66375 66381	Jérôme
+T361	Person 66563 66569	Sabine
+T362	Location 66583 66588	Marie
+T363	Person 66650 66656	Jérôme
+T364	Person 66764 66769	Marie
+T365	Person 66815 66821	Sabine
+T366	Person 66874 66888	Jérôme Hérelle
+T367	Location 67243 67249	Sabine
+T368	Person 67584 67590	Jérôme
+T369	Person 67794 67800	Jérôme
+T370	Person 68015 68020	Henri
+T371	Person 68106 68112	Sabine
+T372	Person 68452 68458	Jérôme
+T373	Person 68856 68862	Sabine
+T374	Person 69193 69199	Jérôme
+T375	Location 69355 69360	Quand
+T376	Person 69406 69411	Marie
+T377	Person 69451 69457	Sabine
+T378	Person 69787 69793	Sabine
+T379	Person 70638 70644	madame
+T380	Person 70645 70656	de Fontenay
+T381	Person 70750 70756	Jérôme
+T382	Person 70789 70797	Marie s’
+T383	Person 70880 70886	Sabine
+T384	Location 70965 70968	toi
+T385	Location 71019 71025	Sabine
+T386	Person 71115 71120	Marie
+T387	Person 71212 71217	Marie
+T388	Location 71327 71332	Paris
+T389	Person 71340 71345	Henri
+T390	Location 71426 71434	Bruyères
+T391	Location 71508 71513	Marie
+T392	Location 71541 71546	Paris
+T393	Person 71588 71594	Jérôme
+T394	Person 71747 71752	Henri
+T395	Person 71943 71949	Sabine
+T396	Person 72141 72146	Henri
+T397	Person 72293 72299	Jérôme
+T398	Person 72321 72326	Henri
+T399	Person 72338 72344	Sabine
+T400	Person 72936 72942	Jérôme
+T401	Person 72982 72988	Sabine
+T402	Person 73150 73156	Jérôme
+T403	Person 73311 73317	Sabine
+T404	Location 73355 73361	manche
+T405	Location 73555 73573	regar- dant Jérôme
+T406	Person 74013 74019	Sabine
+T407	Person 74209 74214	Henri
+T408	Location 74349 74354	Paris
+T409	Person 74415 74421	Sabine
+T410	Person 74515 74521	Sabine
+T411	Person 74830 74835	Marie
+T412	Person 74917 74923	Sabine
+T413	Location 75014 75017	Oui
+T414	Person 75291 75297	Jérôme
+T415	Person 75410 75416	Sabine
+T416	Person 75485 75491	Jérôme
+T417	Organization 75904 75921	OUYÉLUE ESPÉRANCE
+T418	Person 76077 76083	madame
+T419	Person 76084 76095	de Fontenay
+T420	Location 76144 76149	Paris
+T421	Person 76152 76166	Pierre Valence
+T422	Location 76593 76597	Saxe
+T423	Person 76712 76726	Jérôme Hérelle
+T424	Person 76777 76785	Louis XV
+T425	Location 76900 76908	Bruyères
+T426	Location 76918 76924	Sabine
+T427	Location 77246 77249	Jui
+T428	Location 77361 77366	Paris
+T429	Person 77514 77519	Henri
+T430	Location 77533 77541	Dauphiné
+T431	Location 77694 77700	Jérôme
+T432	Location 77942 77949	Adolphe
+T433	Person 77953 77970	Benjamin Constant
+T434	Location 77974 77981	Werther
+T435	Location 77996 78001	Manon
+T436	Location 78253 78258	Henri
+T437	Person 78316 78322	Jérôme
+T438	Location 78427 78433	Louvre
+T439	Person 78632 78646	Pierre Valence
+T440	Person 78843 78849	Jérôme
+T441	Person 79078 79084	Pierre
+T442	Person 79256 79262	madame
+T443	Person 79263 79274	de Fontenay
+T444	Location 79400 79406	Jérôme
+T445	Location 79731 79739	Florence
+T446	Location 79741 79742	L
+T447	Location 79756 79762	Jérôme
+T448	Person 79903 79909	madame
+T449	Person 79910 79921	de Fontenay
+T450	Person 80130 80136	Pierre
+T451	Person 80144 80150	Jérôme
+T452	Person 80159 80164	Henri
+T453	Person 80379 80385	Jérôme
+T454	Person 80431 80436	Henri
+T455	Location 80459 80465	Sabine
+T456	Person 80549 80555	madame
+T457	Person 80556 80567	de Fontenay
+T458	Location 80618 80624	Jérôme
+T459	Location 80852 80857	Xenri
+T460	Location 80862 80868	Pierre
+T461	Person 80875 80880	Marie
+T462	Location 80905 80910	Paris
+T463	Person 80972 80978	madame
+T464	Person 80979 80990	de Fontenay
+T465	Person 81031 81037	Jérôme
+T466	Location 81312 81323	Quelquefois
+T467	Person 81531 81536	Henri
+T468	Person 81756 81762	Sabine
+T469	Location 81832 81837	Paris
+T470	Person 81969 81983	Jérôme Hérelle
+T471	Person 81998 82004	madame
+T472	Organization 82008 82032	mademoiselle de Fontenay
+T473	Person 82274 82280	Sabine
+T474	Location 82411 82415	Vous
+T475	Location 82548 82551	Oui
+T476	Person 82790 82796	madame
+T477	Person 82797 82808	de Fontenay
+T478	Person 82894 82908	Pierre Valence
+T479	Person 83043 83048	Henri
+T480	Person 83164 83175	de Fontenay
+T481	Person 83200 83206	Sabine
+T482	Person 83229 83235	Pierre
+T483	Person 83403 83409	Pierre
+T484	Person 83480 83491	de Fontenay
+T485	Person 83657 83663	Jérôme
+T486	Person 83965 83971	madame
+T487	Person 83972 83983	de Fontenay
+T488	Person 84014 84027	Eugène Marsan
+T489	Person 84054 84068	Jérôme Hérelle
+T490	Person 84202 84208	Sabine
+T491	Person 84321 84332	de Fontenay
+T492	Person 84379 84385	Jérôme
+T493	Location 84433 84438	Passy
+T494	Person 84783 84789	Jérôme
+T495	Location 85038 85044	Sabine
+T496	Person 85088 85094	Jérôme
+T497	Person 85469 85475	madame
+T498	Location 85486 85491	Rouen
+T499	Location 85566 85572	Jérôme
+T500	Person 85676 85682	Marsan
+T501	Location 85970 85975	Paris
+T502	Person 86331 86337	Jérôme
+T503	Person 86365 86371	madame
+T504	Location 86375 86383	Fonteray
+T505	Person 86515 86521	Marsan
+T506	Person 86903 86909	Marsan
+T507	Person 86911 86917	Sabine
+T508	Location 86972 86978	Jérôme
+T509	Location 87602 87612	Baudelaire
+T510	Person 87867 87873	Sabine
+T511	Person 88013 88019	Jérôme
+T512	Location 88023 88029	Marsan
+T513	Person 88647 88653	madame
+T514	Person 88654 88665	de Fontenay
+T515	Person 88676 88689	Eugène Marsan
+T516	Person 88783 88789	Jérôme
+T517	Person 89208 89219	chez Sabine
+T518	Person 89264 89270	Jérôme
+T519	Location 89334 89336	L.
+T520	Location 89790 89794	Saxe
+T521	Location 90065 90071	Jérôme
+T522	Location 90092 90097	Quand
+T523	Location 90897 90903	Jérôme
+T524	Person 91457 91463	Sabine
+T525	Person 91684 91690	Jérôme
+T526	Location 91810 91812	Re
+T527	Person 92001 92007	Sabine
+T528	Person 92887 92893	Sabine
+T529	Person 93658 93675	Henri de Fontenay
+T530	Person 93930 93936	madame
+T531	Person 93937 93948	de Fontenay
+T532	Location 93987 93995	Dauphiné
+T533	Person 93997 94003	Sabine
+T534	Person 94100 94106	Jérôme
+T535	Person 94266 94272	madame
+T536	Person 94273 94284	de Fontenay
+T537	Person 94338 94344	Jérôme
+T538	Person 94348 94355	Hérelle
+T539	Person 94359 94373	Pierre Valence
+T540	Person 94406 94412	Marsan
+T541	Person 94440 94451	chez Sabine
+T542	Location 94753 94761	Florence
+T543	Person 94868 94881	Louis Laurent
+T544	Person 94898 94904	madame
+T545	Person 94905 94913	d’Aumont
+T546	Location 94936 94942	Sabine
+T547	Person 94954 94967	René d’Aumont
+T548	Person 95065 95079	Louis de Rozée
+T549	Location 95091 95097	Sabine
+T550	Person 95363 95369	Sabine
+T551	Person 95405 95411	Marsan
+T552	Person 95421 95429	d’Aumont
+T553	Person 95481 95488	inté- L
+T554	Person 95599 95605	Jérôme
+T555	Person 95744 95750	madame
+T556	Location 95753 95756	Au-
+T557	Person 96084 96090	Sabine
+T558	Person 96580 96594	Jérôme Hérelle
+T559	Person 96634 96640	Marsan
+T560	Person 96797 96811	Pierre Valence
+T561	Person 97049 97055	madame
+T562	Person 97056 97064	d’Aumont
+T563	Person 97127 97133	Sabine
+T564	Person 97273 97279	Jérôme
+T565	Person 97418 97424	Jérôme
+T566	Person 97706 97712	Sabine
+T567	Person 97760 97766	Jérôme
+T568	Person 97801 97818	Henri de Fontenay
+T569	Person 97918 97924	Sabine
+T570	Person 97965 97971	madame
+T571	Location 97976 97982	Aumont
+T572	Person 98029 98035	Jérôme
+T573	Person 98213 98219	Sabine
+T574	Person 98244 98253	Jérôme l’
+T575	Person 98558 98564	Sabine
+T576	Location 98606 98612	Jérôme
+T577	Person 98846 98852	Jérôme
+T578	Person 98924 98930	Sabine
+T579	Location 99168 99174	Sabine
+T580	Person 99379 99385	Sabine
+T581	Person 99606 99612	Sabine
+T582	Person 99656 99662	Jérôme
+T583	Location 99745 99747	Ja
+T584	Organization 100182 100187	E Aùt
+T585	Organization 100245 100247	PT
+T586	Location 101355 101360	Paris
+T587	Organization 101383 101404	LA NOTVELLE ESPÉRANCE
+T588	Location 102046 102051	Henri
+T589	Person 102327 102333	Sabine
+T590	Organization 102391 102399	Dauphiné
+T591	Location 102833 102838	Quand
+T592	Person 103264 103281	Henri de Fontenay
+T593	Person 103294 103308	Picrre Valence
+T594	Location 103362 103370	Dauphiné
+T595	Person 103420 103426	Pierre
+T596	Location 103498 103499	L
+T597	Person 104081 104092	de Fontenay
+T598	Organization 104367 104385	Madame d' Fontenay
+T599	Person 104406 104411	Marie
+T600	Person 104863 104869	Sabine
+T601	Location 105160 105167	Apaisée
+T602	Person 105329 105340	de Fontenay
+T603	Person 105519 105525	Sabine
+T604	Location 105558 105564	Jérôme
+T605	Person 106642 106656	Jérôme Héralle
+T606	Person 106693 106699	madame
+T607	Person 106700 106711	de Fontenay
+T608	Person 107159 107164	Henri
+T609	Person 107166 107172	Pierre
+T610	Person 107174 107179	Marie
+T611	Person 107181 107187	Sabine
+T612	Person 107191 107197	Jérôme
+T613	Person 107276 107281	Henri
+T614	Person 107346 107352	Sabine
+T615	Person 107411 107417	Jérôme
+T616	Organization 107656 107674	Madame de Fontenay
+T617	Person 107796 107802	Jérôme
+T618	Location 107931 107933	Ja
+T619	Person 108013 108017	Elie
+T620	Person 108280 108289	Jérôme l’
+T621	Person 108574 108580	Sabine
+T622	Location 108667 108671	Vous
+T623	Person 108746 108751	Henri
+T624	Person 108756 108772	Pierre peut-être
+T625	Location 108942 108946	Vous
+T626	Location 109119 109123	Vous
+T627	Location 109344 109348	Vous
+T628	Person 109583 109588	Henri
+T629	Organization 109727 109751	mademoiselle de Fontenay
+T630	Person 109806 109812	Sabine
+T631	Location 110383 110387	Vous
+T632	Location 110455 110458	Oui
+T633	Person 110490 110496	Sabine
+T634	Location 110919 110920	L
+T635	Organization 111988 111994	‘ Voix
+T636	Location 112920 112925	Voilà
+T637	Location 113057 113061	Vous
+T638	Person 113704 113710	Sabine
+T639	Person 114520 114526	Sabine
+T640	Location 114828 114831	Eve
+T641	Person 114837 114841	Adam
+T642	Organization 114980 114998	Madame de Fontenay
+T643	Location 115068 115074	Pierre
+T644	Person 115503 115509	Pierre
+T645	Location 115511 115518	Valence
+T646	Location 115548 115552	Vous
+T647	Person 115603 115609	Sabine
+T648	Person 115777 115781	Elie
+T649	Person 115796 115802	Pierre
+T650	Person 116137 116143	Sabine
+T651	Location 116176 116178	Ja
+T652	Location 116187 116193	Pierre
+T653	Person 116524 116530	Pierre
+T654	Location 116547 116551	Vous
+T655	Location 116739 116745	Pheure
+T656	Person 117141 117147	Pierre
+T657	Person 117675 117681	Sabine
+T658	Location 118396 118402	Pierre
+T659	Person 118922 118928	madame
+T660	Person 118929 118940	de Fontenay
+T661	Person 119174 119180	Jérôme
+T662	Location 119625 119631	Sabine
+T663	Location 120206 120207	L
+T664	Person 120350 120356	Jérôme
+T665	Person 120509 120515	Jérôme
+T666	Person 121148 121154	Sabine
+T667	Date 121731 121742	s’engouffre
+T668	Location 123306 123313	Espagne
+T669	Location 123518 123525	Séville
+T670	Location 123530 123537	Grenade
+T671	Location 123544 123551	Cordoue
+T672	Organization 123954 123968	LE | Brûlés de
+T673	Person 124645 124650	Henri
+T674	Person 124652 124658	Pierre
+T675	Person 124665 124670	Marie
+T676	Location 124897 124904	quelles
+T677	Person 125411 125417	madame
+T678	Person 125418 125429	de Fontenay
+T679	Person 125766 125772	Sabine
+T680	Person 126332 126338	Jérôme
+T681	Person 127083 127089	Sabine
+T682	Location 127167 127170	Jui
+T683	Location 127198 127202	Vous
+T684	Person 127417 127434	Henri de Fontenay
+T685	Location 127446 127448	BR
+T686	Location 127457 127462	Louis
+T687	Location 127467 127472	Rozée
+T688	Person 127564 127581	Sabine impatiente
+T689	Location 127606 127611	Voilà
+T690	Person 128209 128215	Jérôme
+T691	Location 128360 128371	Quelquefois
+T692	Location 128394 128399	Quand
+T693	Person 128734 128740	Jérôme
+T694	Person 128820 128826	Sabine
+T695	Person 128841 128847	ci Jui
+T696	Person 129346 129351	Marie
+T697	Person 129649 129655	Jérôme
+T698	Location 130004 130008	A SE
+T699	Location 130194 130199	Marie
+T700	Organization 130218 130244	mademoi- selle de Fontenay
+T701	Person 130562 130567	Marie
+T702	Person 130573 130579	Sabine
+T703	Person 130835 130841	Sabine
+T704	Organization 131240 131258	Madame de Fontenay
+T705	Person 131456 131461	Marie
+T706	Person 131733 131739	Sabine
+T707	Person 131769 131775	Jérôme
+T708	Person 131824 131836	Marie ébahie
+T709	Location 131983 131986	Oui
+T710	Person 132041 132052	de Fontenay
+T711	Person 132382 132391	Jérôme l’
+T712	Person 132466 132472	Sabine
+T713	Person 132670 132675	Marie
+T714	Person 132861 132866	Marie
+T715	Location 132904 132910	Sabine
+T716	Location 133152 133155	toi
+T717	Location 133245 133248	toi
+T718	Person 133325 133331	Sabine
+T719	Person 133383 133388	Marie
+T720	Person 133588 133594	Sabine
+T721	Location 133625 133630	Marie
+T722	Person 133963 133969	Sabine
+T723	Location 134026 134031	Marie
+T724	Location 134244 134245	L
+T725	Person 134360 134365	Marie
+T726	Person 134612 134618	Jérôme
+T727	Person 134873 134879	ds Oui
+T728	Person 134888 134894	Sabine
+T729	Person 134990 134995	Marie
+T730	Person 135115 135121	Jérôme
+T731	Location 135158 135163	Marie
+T732	Person 135356 135362	Sabine
+T733	Person 135432 135438	madame
+T734	Person 135439 135450	de Fontenay
+T735	Person 137009 137014	Marie
+T736	Person 137018 137024	Sabine
+T737	Location 137126 137132	Jérôme
+T738	Person 137234 137240	Sabine
+T739	Location 137271 137274	toi
+T740	Person 137352 137357	Marie
+T741	Person 137440 137446	Sabine
+T742	Person 137660 137665	Marie
+T743	Person 137857 137866	Jérôme l’
+T744	Location 138181 138183	D.
+T745	Location 138366 138372	Sabine
+T746	Person 138374 138388	Louis de Rozée
+T747	Location 138447 138454	quelles
+T748	Person 139270 139275	Marie
+T749	Person 139966 139969	Jui
+T750	Person 140132 140146	Louis de Rozée
+T751	Person 140163 140169	madame
+T752	Person 140170 140181	de Fontenay
+T753	Person 140344 140358	Pierre Valence
+T754	Location 140371 140376	Paris
+T755	Organization 140428 140430	Lo
+T756	Location 140731 140737	Pierre
+T757	Person 141056 141062	Pierre
+T758	Person 141118 141129	de Fontenay
+T759	Person 141330 141335	Marie
+T760	Location 141342 141348	Jérôme
+T761	Person 141452 141458	Sabine
+T762	Location 141751 141756	Marie
+T763	Location 141778 141784	Jérôme
+T764	Location 141984 141985	L
+T765	Person 142300 142306	Sabine
+T766	Location 142538 142539	L
+T767	Organization 142666 142668	Lo
+T768	Person 142780 142785	Henri
+T769	Person 142995 143000	Marie
+T770	Person 143345 143351	Sabine
+T771	Location 143384 143389	Paris
+T772	Person 143551 143556	Marie
+T773	Person 143560 143573	Jérôme entrer
+T774	Person 144198 144203	Henri
+T775	Person 144319 144325	Jérôme
+T776	Person 144333 144338	Marie
+T777	Location 144531 144536	Paris
+T778	Person 144582 144588	Sabine
+T779	Location 144663 144669	Jérôme
+T780	Person 144925 144931	Sabine
+T781	Person 145143 145148	Henri
+T782	Organization 145427 145451	mademoiselle de Fontenay
+T783	Person 145487 145492	Marie
+T784	Person 145590 145596	Jérôme
+T785	Person 145755 145761	Sabine
+T786	Person 145769 145775	Jérôme
+T787	Person 146516 146522	Sabine
+T788	Location 146603 146608	Vautl
+T789	Person 146642 146647	Marie
+T790	Person 146651 146657	Jérôme
+T791	Location 146853 146859	Sabine
+T792	Location 147108 147120	Vierge Marie
+T793	Person 147215 147221	Sabine
+T794	Event 147506 147510	Noël
+T795	Location 147514 147520	Pâques
+T796	Person 147535 147541	madame
+T797	Person 147542 147553	de Fontenay
+T798	Person 147856 147862	Sabine
+T799	Location 147947 147953	Italie
+T800	Person 148514 148528	Pierre Valence
+T801	Person 148578 148585	E Henri
+T802	Person 148587 148593	Pierre
+T803	Person 148608 148613	Henri
+T804	Location 148709 148717	Suresnes
+T805	Person 148739 148745	madame
+T806	Person 148798 148804	Pierre
+T807	Location 148997 149000	Oui
+T808	Location 149195 149199	Vous
+T809	Person 149404 149410	Pierre
+T810	Location 149571 149582	Quelquefois
+T811	Person 149597 149603	Sabine
+T812	Person 149871 149877	Sabine
+T813	Location 150396 150402	Alsace
+T814	Person 150916 150934	interrompit Pierre
+T815	Location 151034 151042	Fontaine
+T816	Location 151044 151048	Vous
+T817	Person 151107 151113	Sabine
+T818	Person 151250 151256	Pierre
+T819	Organization 151348 151365	Sabine l’écoutait
+T820	Person 151836 151842	Pierre
+T821	Person 152357 152362	Henri
+T822	Person 152497 152503	Sabine
+T823	Person 153117 153122	Henri
+T824	Person 153366 153372	Sabine
+T825	Person 153437 153448	de Fontenay
+T826	Location 153688 153694	Sabine
+T827	Location 153708 153711	toi
+T828	Person 154262 154267	Henri
+T829	Person 154277 154283	Sabine
+T830	Person 155076 155082	Pierre
+T831	Person 155112 155117	Henri
+T832	Person 155382 155388	Pierre
+T833	Location 155606 155611	Quand
+T834	Person 155825 155831	Sabine
+T835	Person 155911 155917	Pierre
+T836	Person 156303 156309	Sabine
+T837	Person 156334 156340	madame
+T838	Person 156341 156352	de Fontenay
+T839	Person 156530 156535	Marie
+T840	Location 156583 156589	Italie
+T841	Person 157114 157120	Jérôme
+T842	Person 157243 157249	Sabine
+T843	Person 157482 157493	Henri Heine
+T844	Person 157579 157584	Marie
+T845	Person 157669 157683	Pierre Valence
+T846	Person 157688 157694	Pierre
+T847	Person 157755 157760	Marie
+T848	Person 157836 157842	Sabine
+T849	Person 158021 158027	Sabine
+T850	Location 158059 158064	Paris
+T851	Person 158096 158110	Pierre Valence
+T852	Location 158222 158228	Pierre
+T853	Person 158286 158292	Pierre
+T854	Person 158770 158775	Henri
+T855	Person 158779 158785	Sabine
+T856	Person 158914 158931	Henri de Fontenay
+T857	Location 158971 158979	Dauphiné
+T858	Location 159195 159201	Sabine
+T859	Person 159305 159311	Pierre
+T860	Person 159315 159324	Marie qu’
+T861	Hour 159326 159340	i’heure du thé
+T862	Person 159911 159917	Sabine
+T863	Person 159932 159946	Pierre Valence
+T864	Location 160116 160123	Bengale
+T865	Person 160126 160132	Pierre
+T866	Location 160151 160157	Sabine
+T867	Location 160161 160166	Marie
+T868	Person 160302 160308	madame
+T869	Person 160309 160320	de Fontenay
+T870	Person 160370 160375	Marie
+T871	Person 160912 160926	Pierre Valence
+T872	Location 161115 161120	Parme
+T873	Location 161167 161173	Sabine
+T874	Person 161669 161675	Pierre
+T875	Location 161745 161751	Sabine
+T876	Person 162032 162038	Pierre
+T877	Person 162066 162071	Henri
+T878	Person 162546 162552	Sabine
+T879	Location 162777 162781	lage
+T880	Person 162948 162957	Pierre la
+T881	Person 163000 163008	Marie s’
+T882	Person 163297 163303	Sabine
+T883	Person 163768 163774	Pierre
+T884	Person 163827 163833	madame
+T885	Person 163834 163845	de Fontenay
+T886	Person 164246 164252	Jérôme
+T887	Person 164274 164280	Sabine
+T888	Person 164414 164422	Mon Dieu
+T889	Person 164740 164749	Pierre la
+T890	Location 164819 164824	Anzin
+T891	Organization 165049 165067	Madame de Fontenay
+T892	Person 165471 165483	tonne Danton
+T893	Location 165515 165517	Ja
+T894	Location 165538 165543	Quand
+T895	Person 165544 165558	Pierre Valence
+T896	Person 165567 165573	Sabine
+T897	Person 165705 165711	Pierre
+T898	Person 165946 165964	Constantin Meunier
+T899	Location 166120 166123	Oui
+T900	Person 166134 166140	Pierre
+T901	Organization 166145 166180	Internationale aux sonorités noires
+T902	Location 166185 166197	Marseillaise
+T903	Location 166209 166221	Marseillaise
+T904	Person 166233 166239	Sabine
+T905	Person 168171 168179	Mon Dieu
+T906	Person 168524 168538	Pierre Valence
+T907	Person 168720 168725	Marie
+T908	Person 169090 169096	Jérôme
+T909	Person 169123 169128	Henri
+T910	Location 169868 169873	Quand
+T911	Person 169958 169964	Sabine
+T912	Person 170037 170042	Marie
+T913	Person 170110 170124	Pierre Valence
+T914	Organization 170127 170145	Madame de Fontenay
+T915	Person 170535 170544	Pierre la
+T916	Person 170575 170580	Marie
+T917	Location 170645 170656	Quelquefois
+T918	Person 170967 170973	Pierre
+T919	Location 171099 171105	Sabine
+T920	Person 171468 171474	madame
+T921	Person 171475 171486	de Fontenay
+T922	Location 171670 171674	Vous
+T923	Person 171696 171702	madame
+T924	Location 171933 171939	Sabine
+T925	Person 172025 172039	Pierre touchât
+T926	Person 172198 172204	madame
+T927	Person 172205 172216	de Fontenay
+T928	Product 172565 172576	son- naient
+T929	Organization 172641 172659	Madame de Fontenay
+T930	Person 172879 172885	Pierre
+T931	Organization 172980 173002	LA NOÛUVELLE ESPÉRANCE
+T932	Person 173035 173041	Sabine
+T933	Person 173275 173281	Pierre
+T934	Person 173507 173513	Pierre
+T935	Person 173650 173656	madame
+T936	Location 173660 173668	Fonteñay
+T937	Person 173733 173747	Pierre Valence
+T938	Person 173990 173996	Pierre
+T939	Person 174297 174303	Pierre
+T940	Person 174495 174501	Sabine
+T941	Location 175852 175858	Sabine
+T942	Person 176335 176341	Sabine
+T943	Person 176544 176550	madame
+T944	Person 176551 176562	de Fontenay
+T945	Person 176625 176631	Pierre
+T946	Person 176764 176778	Jérôme Hérelle
+T947	Person 176955 176969	Pierre Valence
+T948	Organization 177104 177126	Bibliothèque Nationale
+T949	Location 177145 177149	Vous
+T950	Organization 177487 177507	= Madame de Fontenay
+T951	Hour 178022 178033	cinq heures
+T952	Person 178136 178150	Pierre Valence
+T953	Person 178313 178318	Marie
+T954	Person 178483 178489	Sabine
+T955	Person 178568 178574	Pierre
+T956	Person 178588 178593	Marie
+T957	Person 178979 178985	madame
+T958	Person 178997 179003	Pierre
+T959	Person 179096 179102	Sabine
+T960	Location 179144 179147	sir
+T961	Person 179197 179206	Pierre la
+T962	Person 179649 179658	Pierre la
+T963	Person 180294 180308	Pierre Valence
+T964	Person 180328 180336	Henri de
+T965	Person 180373 180379	Sabine
+T966	Person 180574 180579	Marie
+T967	Person 180730 180736	madame
+T968	Person 180737 180748	de Fontenay
+T969	Person 180991 180997	Pierre
+T970	Location 181226 181232	Pierre
+T971	Location 181367 181374	Werther
+T972	Location 181381 181390	Dominique
+T973	Person 181401 181406	Henri
+T974	Person 181448 181453	Marie
+T975	Person 181578 181582	Elie
+T976	Person 181980 181984	Elie
+T977	Location 182403 182409	Naples
+T978	Person 182676 182682	Sabine
+T979	Person 184217 184223	madame
+T980	Location 184230 184238	Sablière
+T981	Location 184243 184249	Lucile
+T982	Person 184265 184273	Hortense
+T983	Person 184435 184441	Pierre
+T984	Person 184638 184644	madame
+T985	Person 184701 184715	Pierre Valence
+T986	Organization 185208 185226	Madame de Fontenay
+T987	Person 185308 185314	Pierre
+T988	Event 185567 185577	Noël divin
+T989	Person 185693 185707	Pierre Valence
+T990	Location 186193 186199	Sabine
+T991	Person 186251 186257	Pierre
+T992	Person 186346 186352	madame
+T993	Location 186356 186363	Foa- 11
+T994	Location 186959 186965	Pierre
+T995	Person 187275 187281	Pierre
+T996	Person 187380 187385	Henri
+T997	Person 187446 187460	Pierre Valence
+T998	Person 187748 187754	madame
+T999	Person 187755 187766	de Fontenay
+T1000	Location 187885 187890	Seine
+T1001	Person 187964 187969	Henri
+T1002	Person 187986 187992	Jérôme
+T1003	Location 188302 188310	Suresnes
+T1004	Location 188314 188325	Saint-Cloud
+T1005	Location 188329 188335	Sèvres
+T1006	Location 188768 188778	Jaunissait
+T1007	Person 188899 188907	Hollande
+T1008	Person 189078 189084	Sabine
+T1009	Location 189202 189208	Pierre
+T1010	Person 189733 189739	Pierre
+T1011	Location 189822 189831	Bourgogne
+T1012	Person 189941 189947	Sabine
+T1013	Person 190105 190111	Pierre
+T1014	Person 190220 190226	Sabine
+T1015	Person 190320 190334	Pierre Valence
+T1016	Person 190524 190530	Jérôme
+T1017	Location 190540 190546	Pierre
+T1018	Person 190721 190727	Pierre
+T1019	Person 190815 190821	Jérôme
+T1020	Location 190849 190854	Marie
+T1021	Person 190875 190881	Sabine
+T1022	Person 190942 190948	madame
+T1023	Person 191037 191043	Sabine
+T1024	Location 191107 191112	Henri
+T1025	Person 191119 191124	Marie
+T1026	Organization 191363 191381	Madame de Fontenay
+T1027	Location 191454 191459	Paris
+T1028	Location 191468 191476	Dauphiné
+T1029	Location 191591 191597	Suisse
+T1030	Location 191655 191660	Rozée
+T1031	Person 191684 191688	Alle
+T1032	Location 191737 191743	Sabiné
+T1033	Location 191781 191786	Paris
+T1034	Organization 192757 192779	Madame de Fontenay dut
+T1035	Person 192802 192807	Henri
+T1036	Location 192828 192836	Dauphiné
+T1037	Person 192924 192930	Jérôme
+T1038	Person 192932 192937	Marie
+T1039	Person 193047 193053	madame
+T1040	Location 193057 193062	Rozée
+T1041	Location 193145 193151	Genève
+T1042	Location 193307 193326	île de Jean-Jacques
+T1043	Organization 193420 193438	Madame de Fontenay
+T1044	Location 193478 193484	Ferney
+T1045	Person 193501 193507	madame
+T1046	Location 193511 193516	Rozée
+T1047	Person 193749 193755	madame
+T1048	Location 193759 193764	Rozée
+T1049	Location 193937 193943	Ferney
+T1050	Person 194024 194030	madame
+T1051	Person 194031 194042	de Fontenay
+T1052	Location 194122 194124	Ja
+T1053	Organization 194805 194823	Madame de Fontenay
+T1054	Location 195121 195122	L
+T1055	Location 195254 195257	Jui
+T1056	Person 195372 195378	Sabine
+T1057	Person 195573 195579	madame
+T1058	Location 195583 195588	Rozée
+T1059	Person 195804 195810	Sabine
+T1060	Person 195872 195878	madame
+T1061	Location 195882 195887	Rozée
+T1062	Location 196343 196348	Rozée
+T1063	Person 196591 196597	madame
+T1064	Person 196598 196609	de Fontenay
+T1065	Person 196812 196817	Alice
+T1066	Location 196904 196907	Oui
+T1067	Person 196920 196926	madame
+T1068	Location 196930 196935	Rozée
+T1069	Person 197059 197065	Sabine
+T1070	Location 197185 197191	Ferney
+T1071	Person 197249 197260	Henri vien-
+T1072	Person 197412 197418	Sabine
+T1073	Location 197838 197843	Rozée
+T1074	Location 197876 197880	Vous
+T1075	Location 198107 198111	Vous
+T1076	Person 198134 198148	demanda Sabine
+T1077	Person 198231 198237	madame
+T1078	Location 198241 198246	Rozée
+T1079	Person 198423 198429	Sabine
+T1080	Location 199145 199151	Sabine
+T1081	Location 199165 199170	Rozée
+T1082	Person 199284 199301	appelez-moi Alice
+T1083	Location 199418 199423	Rozée
+T1084	Location 199578 199584	Sabiné
+T1085	Person 199865 199871	Sabine
+T1086	Person 199883 199889	madame
+T1087	Location 199893 199898	Rozée
+T1088	Person 200081 200092	de Fontenay
+T1089	Location 200301 200312	Quelquefois
+T1090	Person 200429 200435	Sabine
+T1091	Location 200575 200584	Allemagne
+T1092	Organization 201226 201244	Madame de Fontenay
+T1093	Location 201432 201437	Rozée
+T1094	Person 201460 201466	Sabine
+T1095	Person 202176 202182	madame
+T1096	Location 202186 202191	Rozée
+T1097	Person 202426 202432	Sabine
+T1098	Person 202615 202621	madame
+T1099	Location 202625 202630	Rozée
+T1100	Person 202755 202761	madame
+T1101	Location 202797 202805	Perrault
+T1102	Person 203131 203146	VELLE ESPÉRANCE
+T1103	Person 203412 203429	Henri de Fontenay
+T1104	Person 203526 203532	madame
+T1105	Location 203536 203541	Rozée
+T1106	Person 203590 203596	Sabine
+T1107	Location 203647 203653	Ferney
+T1108	Location 203838 203843	Quand
+T1109	Location 203902 203910	Voltaire
+T1110	Location 204022 204024	Ja
+T1111	Organization 205294 205312	Madame de Fontenay
+T1112	Person 205375 205381	madame
+T1113	Location 205385 205390	Roïée
+T1114	Person 206041 206046	Alice
+T1115	Person 206050 206056	Sabine
+T1116	Organization 206259 206289	Quelquefois madame de Fontenay
+T1117	Location 206583 206587	Vous
+T1118	Person 206612 206618	Sabine
+T1119	Location 206697 206705	Lausanne
+T1120	Location 206754 206758	Vous
+T1121	Location 206806 206811	Alice
+T1122	Location 206939 206944	Rozée
+T1123	Location 206976 206982	Égypte
+T1124	Person 207024 207030	Sabine
+T1125	Person 207365 207371	madame
+T1126	Location 207375 207380	Rozée
+T1127	Person 207421 207438	François de Sales
+T1128	Person 207507 207513	Sabine
+T1129	Person 207727 207733	Sabine
+T1130	Person 207908 207914	madame
+T1131	Person 207915 207926	de Fontenay
+T1132	Person 208062 208070	MICHELET
+T1133	Person 208093 208099	madame
+T1134	Person 208100 208111	de Fontenay
+T1135	Location 208130 208135	Paris
+T1136	Location 208191 208197	Sabine
+T1137	Person 208220 208226	madame
+T1138	Location 208232 208237	Rorée
+T1139	Location 208623 208634	Quelquefois
+T1140	Location 208871 208889	Sabine des marrons
+T1141	Location 208991 208996	Henri
+T1142	Person 209112 209118	madame
+T1143	Location 209122 209127	Rozée
+T1144	Person 209175 209181	madame
+T1145	Location 209185 209190	Rozée
+T1146	Person 209298 209304	Sabine
+T1147	Person 209459 209464	moi L
+T1148	Hour 209556 209567	cinq heures
+T1149	Person 209573 209589	Philippe Forbier
+T1150	Location 209694 209697	toi
+T1151	Person 209704 209712	Mon Dieu
+T1152	Person 209723 209729	Sabine
+T1153	Person 209929 209934	Henri
+T1154	Person 210097 210111	Pierre Valence
+T1155	Location 210153 210159	Berlin
+T1156	Person 210185 210191	Sabine
+T1157	Person 210318 210323	Henri
+T1158	Hour 210418 210429	cinq heures
+T1159	Person 210594 210610	Philippe Forbier
+T1160	Location 210612 210626	rue de Tournon
+T1161	Person 211016 211022	madame
+T1162	Person 211023 211034	de Fontenay
+T1163	Person 211049 211066	Henri de Fontenay
+T1164	Person 211470 211476	Sabine
+T1165	Organization 211585 211603	Madame de Fontenay
+T1166	Person 211841 211847	Sabine
+T1167	Person 212365 212373	Mon Dieu
+T1168	Person 212827 212846	Michel de Montaigne
+T1169	Person 212848 212864	Philippe Forbier
+T1170	Location 212935 212939	Vous
+T1171	Location 212992 212997	Dante
+T1172	Location 213045 213048	Jui
+T1173	Person 213544 213546	ME
+T1174	Location 213547 213549	Re
+T1175	Person 213609 213617	Mon Dieu
+T1176	Hour 213812 213823	cinq heures
+T1177	Person 213826 213842	Philippe Forbier
+T1178	Person 213873 213879	madame
+T1179	Person 213930 213936	Sabine
+T1180	Location 214153 214158	Henri
+T1181	Organization 214547 214551	| 12
+T1182	Person 214588 214594	madame
+T1183	Person 214595 214606	de Fontenay
+T1184	Person 214633 214649	Philippe Forbier
+T1185	Person 214971 214979	Philippe
+T1186	Location 215207 215212	Quand
+T1187	Person 215213 215221	Philippe
+T1188	Person 215229 215235	madame
+T1189	Person 215236 215247	dé Fontenay
+T1190	Person 215416 215424	Philippe
+T1191	Location 215536 215539	Jui
+T1192	Person 215700 215708	Philippe
+T1193	Person 216160 216165	Henri
+T1194	Person 216167 216175	Philippe
+T1195	Person 216225 216231	Sabine
+T1196	Location 216568 216573	Quand
+T1197	Person 216594 216600	Sabine
+T1198	Person 216648 216656	Philippe
+T1199	Location 216776 216780	Vous
+T1200	Location 217061 217062	L
+T1201	Location 217224 217228	Vous
+T1202	Location 217342 217346	Vous
+T1203	Person 217564 217580	Philippe Forbier
+T1204	Location 217680 217681	L
+T1205	Location 217867 217870	Oui
+T1206	Person 217872 217878	madame
+T1207	Location 217934 217938	Vous
+T1208	Hour 218308 218319	cinq heures
+T1209	Location 218346 218350	Frar
+T1210	Person 218539 218555	Philippe Forbier
+T1211	Person 218907 218913	madame
+T1212	Person 218914 218925	de Fontenay
+T1213	Person 219176 219192	Philippe Forbier
+T1214	Location 219257 219262	Paris
+T1215	Person 219518 219534	Philippe Forbier
+T1216	Organization 219633 219651	Madame de Fontenay
+T1217	Location 219807 219813	Sabine
+T1218	Person 220166 220176	Phi- lippe
+T1219	Person 220898 220908	Phi- lippe
+T1220	Person 221087 221093	Sabine
+T1221	Person 221800 221808	Philippe
+T1222	Person 222171 222177	Sabine
+T1223	Location 222255 222261	manche
+T1224	Person 222711 222719	Philippe
+T1225	Person 222922 222930	Philippe
+T1226	Person 223490 223498	mon Dieu
+T1227	Person 223685 223693	Philippe
+T1228	Location 223916 223922	manche
+T1229	Location 223963 223969	manche
+T1230	Person 224240 224251	Philippe la
+T1231	Person 225067 225077	Jean- Bart
+T1232	Organization 225356 225374	Madame de Fontenay
+T1233	Person 225502 225518	Philippe Forbier
+T1234	Location 225796 225801	Quand
+T1235	Location 226103 226114	Quelquefois
+T1236	Person 226272 226285	Philippe For-
+T1237	Person 226680 226685	Henri
+T1238	Person 226769 226785	Philippe Forbier
+T1239	Location 227112 227115	Oui
+T1240	Person 227352 227357	Henri
+T1241	Person 227612 227617	Henri
+T1242	Person 227820 227825	Henri
+T1243	Person 228073 228083	Phi- lippe
+T1244	Person 228424 228440	Philippe Forbier
+T1245	Location 228462 228475	rue Jean-Bart
+T1246	Organization 228788 228806	Madame de Fontenay
+T1247	Hour 228855 228866	cinq heures
+T1248	Person 229147 229155	Philippe
+T1249	Person 229168 229174	Sabine
+T1250	Person 229296 229304	Philippe
+T1251	Person 229554 229568	peine Philippe
+T1252	Person 229750 229756	madame
+T1253	Person 229757 229768	de Fontenay
+T1254	Person 229772 229788	Philippe Forbier
+T1255	Person 229985 229991	Sabine
+T1256	Person 230106 230114	Philippe
+T1257	Organization 230202 230215	FL ms Mn Fais
+T1258	Person 230220 230231	MUR OUR mea
+T1259	Organization 230246 230251	ge AT
+T1260	Person 230262 230273	Pet Noagrnr
+T1261	Person 230476 230484	Philippe
+T1262	Person 230638 230644	Sabine
+T1263	Person 231670 231678	Philippe
+T1264	Person 231730 231736	Sabine
+T1265	Person 232330 232338	Philippe
+T1266	Person 232615 232623	Philippe
+T1267	Location 232686 232692	Sabine
+T1268	Location 233143 233147	Vous
+T1269	Location 233407 233411	Vous
+T1270	Location 233705 233709	Vous
+T1271	Person 234616 234624	Philippe
+T1272	Location 234682 234688	Sabine
+T1273	Person 234919 234925	Sabine
+T1274	Person 235437 235445	Philippe
+T1275	Organization 235832 235834	PS
+T1276	Person 236397 236408	Philippe la
+T1277	Person 237130 237136	Sabine
+T1278	Person 237177 237185	Philippe
+T1279	Person 237414 237420	Sabine
+T1280	Location 237745 237746	L
+T1281	Location 237859 237860	L
+T1282	Person 238240 238245	Henri
+T1283	Hour 238354 238365	cinq heures
+T1284	Person 238432 238448	Philippe Forbier
+T1285	Location 238450 238455	Paris
+T1286	Location 238638 238646	Philippé
+T1287	Person 238993 239001	Philippe
+T1288	Person 239026 239040	de Fontenay Je
+T1289	Person 239921 239927	Sabine
+T1290	Person 240471 240477	Sabine
+T1291	Person 240584 240592	Philippe
+T1292	Location 240800 240805	Quand
+T1293	Person 240941 240949	Mon Dieu
+T1294	Person 240958 240964	Sabine
+T1295	Person 241023 241039	Philippe Forbier
+T1296	Person 241465 241473	Philippe
+T1297	Location 241684 241688	Vous
+T1298	Location 241925 241929	Vous
+T1299	Location 242004 242014	Luxembourg
+T1300	Organization 242360 242363	F î
+T1301	Person 242694 242702	Philippe
+T1302	Location 243000 243011	Quelquefois
+T1303	Person 243013 243019	madame
+T1304	Location 243024 243032	Fontenay
+T1305	Person 243052 243068	Philippe Forbier
+T1306	Location 243096 243110	rue de Tournon
+T1307	Person 243583 243591	Philippe
+T1308	Location 243917 243920	Jui
+T1309	Person 244071 244079	Philippe
+T1310	Person 244313 244321	Philippe
+T1311	Organization 244526 244544	Madame de Fontenay
+T1312	Person 244685 244693	Philippe
+T1313	Person 245071 245077	Sabine
+T1314	Location 245142 245145	toi
+T1315	Person 245441 245447	Sabine
+T1316	Location 245477 245485	Tais-toi
+T1317	Person 245683 245691	Philippe
+T1318	Person 245756 245762	Sabine
+T1319	Location 245962 245965	toi
+T1320	Person 246167 246175	Philippe
+T1321	Person 246387 246393	Sabine
+T1322	Location 246633 246636	toi
+T1323	Location 246717 246720	toi
+T1324	Person 246784 246790	Sabine
+T1325	Person 246842 246847	Henri
+T1326	Person 246849 246855	Pierre
+T1327	Person 246857 246863	Jérôme
+T1328	Person 246865 246870	Marie
+T1329	Person 247098 247114	Philippe Forbier
+T1330	Person 247162 247168	Jérôme
+T1331	Person 247479 247489	Phi- lippe
+T1332	Organization 247783 247801	Madame de Fontenay
+T1333	Person 247864 247873	remar- UT
+T1334	Person 248028 248036	Philippe
+T1335	Location 248070 248076	Sabine
+T1336	Location 248080 248083	Jui
+T1337	Person 248281 248297	Philippe Forbier
+T1338	Person 248440 248446	Sabine
+T1339	Location 248473 248478	Henri
+T1340	Location 248497 248502	Marie
+T1341	Location 248506 248512	Pierre
+T1342	Person 248517 248525	Philippe
+T1343	Person 248592 248597	Marie
+T1344	Location 248650 248656	Louvre
+T1345	Person 248658 248664	Jérôme
+T1346	Person 248676 248681	Henri
+T1347	Person 248705 248716	Pierre seul
+T1348	Location 248781 248787	Sabine
+T1349	Person 248951 248959	Philippe
+T1350	Person 249028 249034	Sabine
+T1351	Person 249253 249259	madame
+T1352	Person 249260 249271	de Fontenay
+T1353	Location 249311 249317	Égypte
+T1354	Location 249324 249336	Asie Mineure
+T1355	Person 249476 249484	Philippe
+T1356	Person 249541 249549	Philippe
+T1357	Location 249602 249613	Grèce bleue
+T1358	Location 250403 250404	L
+T1359	Organization 250955 250973	madame sg Fontenay
+T1360	Person 250985 250993	Philippe
+T1361	Location 251085 251090	Voilà
+T1362	Person 251232 251240	Philippe
+T1363	Location 251808 251812	Vous
+T1364	Location 252001 252007	Balzac
+T1365	Location 252041 252047	Musset
+T1366	Location 252292 252297	Rolla
+T1367	Location 252471 252476	Seine
+T1368	Person 252518 252526	Philippe
+T1369	Person 252633 252643	Qui est-ce
+T1370	Person 252703 252709	Sabine
+T1371	Location 253010 253016	Sabine
+T1372	Person 253040 253048	Mon Dieu
+T1373	Person 253051 253059	mon Dieu
+T1374	Person 253088 253096	Philippe
+T1375	Person 253412 253418	Sabine
+T1376	Person 253520 253531	Philippe la
+T1377	Person 253584 253590	Sabine
+T1378	Person 253813 253821	Philippe
+T1379	Location 254127 254133	Sabine
+T1380	Location 254460 254461	L
+T1381	Location 254524 254527	toi
+T1382	Location 254867 254873	Sabine
+T1383	Person 255003 255011	Philippe
+T1384	Person 255158 255164	Sabine
+T1385	Person 255349 255357	Philippe
+T1386	Person 255450 255456	madame
+T1387	Person 255457 255468	de Fontenay
+T1388	Person 255483 255491	Philippe
+T1389	Person 256180 256188	Philippe
+T1390	Location 256671 256674	Oui
+T1391	Person 256680 256688	Philippe
+T1392	Person 256938 256946	Philippe
+T1393	Location 256972 256977	Paris
+T1394	Person 256999 257006	Jacques
+T1395	Person 257101 257109	Philippe
+T1396	Location 257281 257291	Versailles
+T1397	Location 257461 257467	Vosges
+T1398	Location 257494 257499	Paris
+T1399	Person 257609 257617	Philippe
+T1400	Person 257984 257991	Jacques
+T1401	Person 258039 258054	reprit Philippe
+T1402	Location 258451 258454	toi
+T1403	Person 258635 258641	Sabine
+T1404	Person 259235 259251	Philippe Forbier
+T1405	Organization 259316 259335	Revue Philosophique
+T1406	Person 259459 259466	Jacques
+T1407	Hour 259504 259519	te rends malade
+T1408	Person 259803 259810	Surpris
+T1409	Location 259991 259996	Voilà
+T1410	Person 260027 260035	Philippe
+T1411	Person 260756 260764	Philippe
+T1412	Person 261056 261066	Phi- lippe
+T1413	Person 261675 261683	Philippe
+T1414	Person 262968 262976	Philippe
+T1415	Location 263632 263638	Sabine
+T1416	Location 264607 264615	Tais-toi
+T1417	Location 264907 264910	toi
+T1418	Location 264922 264925	toi
+T1419	Person 264928 264936	Philippe
+T1420	Location 265159 265161	CT
+T1421	Person 265304 265312	Philippe
+T1422	Person 266101 266107	Sabine
+T1423	Location 266111 266115	Phi-
+T1424	Organization 266214 266232	Madame de Fontenay
+T1425	Person 266282 266290	Philippe
+T1426	Person 266317 266324	Jacques
+T1427	Person 266362 266368	madame
+T1428	Location 266598 266602	Phi-
+T1429	Person 266679 266687	Philippe
+T1430	Location 266755 266761	Vosges
+T1431	Location 266826 266831	Paris
+T1432	Person 266869 266877	Mon Dieu
+T1433	Person 266957 266974	Henri de Fontenay
+T1434	Person 267028 267042	Pierre Valence
+T1435	Person 267107 267121	Jérôme Hérelle
+T1436	Person 267123 267128	Marie
+T1437	Location 267163 267167	Oise
+T1438	Location 267169 267175	Sabine
+T1439	Person 267292 267300	Philippe
+T1440	Location 267332 267337	Paris
+T1441	Location 267433 267438	Seine
+T1442	Person 267502 267510	Philippe
+T1443	Person 267547 267553	Sabine
+T1444	Location 267816 267826	Luxembourg
+T1445	Person 267991 267997	madame
+T1446	Location 268001 268017	Fontena ys’irri-
+T1447	Person 268145 268156	Philippe la
+T1448	Organization 268157 268174	trouvait nerveuse
+T1449	Location 268270 268275	Latin
+T1450	Person 268669 268677	Philippe
+T1451	Location 268747 268753	Sabine
+T1452	Person 268851 268859	Philippe
+T1453	Person 268980 268988	Philippe
+T1454	Person 269236 269246	Phi- lippe
+T1455	Location 269487 269495	Philippe
+T1456	Location 269574 269576	Ja
+T1457	Person 269791 269797	Sabine
+T1458	Location 269814 269819	Paris
+T1459	Location 269856 269862	Genève
+T1460	Person 269906 269914	Philippe
+T1461	Location 269955 269969	rue de Tournon
+T1462	Person 270059 270065	Sabine
+T1463	Person 270368 270385	répondit Philippe
+T1464	Person 270444 270462	interrompit Sabine
+T1465	Location 271147 271150	toi
+T1466	Location 271257 271260	toi
+T1467	Location 271367 271370	toi
+T1468	Location 271372 271377	Quand
+T1469	Person 271586 271592	Sabine
+T1470	Person 271696 271704	Philippe
+T1471	Person 271982 271988	Sabine
+T1472	Person 272002 272010	Philippe
+T1473	Location 272093 272097	Vous
+T1474	Person 272533 272537	Dieu
+T1475	Person 272711 272717	Sabine
+T1476	Person 272876 272884	Philippe
+T1477	Location 273159 273162	Jui
+T1478	Location 273172 273176	Vous
+T1479	Person 273705 273713	Philippe
+T1480	Person 273800 273809	Sabine qu
+T1481	Location 274171 274175	Vous
+T1482	Location 274392 274397	Voilà
+T1483	Person 274764 274775	Philippe la
+T1484	Person 275441 275449	Philippe
+T1485	Person 275533 275539	Sabine
+T1486	Person 275639 275647	Philippe
+T1487	Person 276099 276105	Sabine
+T1488	Person 276185 276193	Philippe
+T1489	Person 276535 276552	répondit Philippe
+T1490	Person 276820 276826	Sabine
+T1491	Location 276871 276872	K
+T1492	Person 277294 277302	Philippe
+T1493	Person 277469 277475	Sabine
+T1494	Location 277657 277662	Quand
+T1495	Person 278120 278128	Philippe
+T1496	Person 278140 278146	Sabine
+T1497	Person 278354 278365	de Fontenay
+T1498	Person 278369 278385	Philippe Forbier
+T1499	Person 278584 278590	Sabine
+T1500	Person 279422 279430	Philippe
+T1501	Location 279459 279463	Vous
+T1502	Person 279517 279523	Sabine
+T1503	Person 279596 279604	Philippe
+T1504	Location 280005 280009	Vous
+T1505	Person 280299 280307	Philippe
+T1506	Person 280729 280737	Philippe
+T1507	Person 280988 280994	Sabine
+T1508	Person 281255 281263	Philippe
+T1509	Location 281577 281582	Paris
+T1510	Location 281748 281753	Tyrol
+T1511	Location 282787 282788	L
+T1512	Location 283485 283490	Marie
+T1513	Location 283537 283545	Bruyères
+T1514	Person 283548 283565	Henri de Fontenay
+T1515	Location 283686 283691	Paris
+T1516	Location 283765 283770	Marie
+T1517	Location 283867 283872	Henri
+T1518	Location 284284 284292	Bruyères
+T1519	Person 284644 284650	Sabine
+T1520	Person 285037 285042	Henri
+T1521	Person 285128 285133	Marie
+T1522	Person 285176 285182	Jérôme
+T1523	Person 285688 285694	Jérôme
+T1524	Person 286301 286306	Marie
+T1525	Person 286373 286379	Sabine
+T1526	Person 286998 287006	Philippe
+T1527	Location 287099 287106	Philips
+T1528	Location 287118 287120	Re
+T1529	Person 287283 287289	Pierre
+T1530	Organization 287338 287343	Vinci
+T1531	Person 287551 287559	Philippe
+T1532	Person 287657 287665	Philippe
+T1533	Person 287964 287980	Philippe Forbier
+T1534	Person 288042 288053	chez Sabine
+T1535	Person 288421 288429	Philippe
+T1536	Location 288863 288867	Vous
+T1537	Person 289563 289575	Jean-Jacques
+T1538	Person 289627 289633	madame
+T1539	Location 289636 289644	Houdetot
+T1540	Person 290196 290204	Philippe
+T1541	Person 290230 290236	madame
+T1542	Person 290237 290248	de Fontenay
+T1543	Person 290361 290367	Sabine
+T1544	Person 290934 290940	madame
+T1545	Person 290941 290952	de Fontenay
+T1546	Person 291169 291175	Sabine
+T1547	Location 291264 291273	Nietzsche
+T1548	Location 291421 291427	Vosges
+T1549	Person 291658 291664	madame
+T1550	Person 291727 291737	Philippe 2
+T1551	Person 291752 291758	madame
+T1552	Person 291813 291824	de Fontenay
+T1553	Person 292086 292094	Philippe
+T1554	Location 292113 292119	Sabine
+T1555	Location 292797 292803	Sabine
+T1556	Person 293154 293160	madame
+T1557	Person 293161 293172	de Fontenay
+T1558	Location 293532 293537	Quand
+T1559	Person 293887 293895	Philippe
+T1560	Location 293947 293953	Sabine
+T1561	Location 294257 294265	Bruyères
+T1562	Person 294454 294459	Marie
+T1563	Person 294601 294607	Jérôme
+T1564	Person 294649 294655	madame
+T1565	Person 294656 294667	de Fontenay
+T1566	Location 294681 294685	Oise
+T1567	Person 294819 294824	Marie
+T1568	Person 295629 295633	Elie
+T1569	Person 296415 296427	Albert Dürer
+T1570	Organization 296430 296448	Madame de Fontenay
+T1571	Location 296459 296465	Jérôme
+T1572	Person 296543 296548	Marie
+T1573	Person 296632 296638	Sabine
+T1574	Person 296749 296754	Marie
+T1575	Person 297096 297102	Jérôme
+T1576	Person 297182 297188	Sabine
+T1577	Organization 297261 297279	Madame de Fontenay
+T1578	Location 297314 297321	torrent
+T1579	Person 297365 297381	Philippe Forbier
+T1580	Person 297469 297474	Marie
+T1581	Location 297547 297550	toi
+T1582	Location 297552 297555	toi
+T1583	Person 297596 297602	Sabine
+T1584	Person 297614 297619	Marie
+T1585	Location 297715 297720	Paris
+T1586	Person 297790 297798	Philippe
+T1587	Person 297800 297805	Marie
+T1588	Person 297861 297867	Sabine
+T1589	Location 298252 298256	Vous
+T1590	Location 298500 298503	VOS
+T1591	Location 298778 298782	Vous
+T1592	Person 299020 299026	Sabine
+T1593	Location 299854 299860	Sabine
+T1594	Person 299964 299972	Philippe
+T1595	Person 300169 300177	Mon Dieu
+T1596	Person 300285 300293	mon Dieu
+T1597	Location 300354 300359	Paris
+T1598	Location 300675 300676	L
+T1599	Person 301575 301579	Elie
+T1600	Location 301800 301805	Marie
+T1601	Person 301882 301890	Philippe
+T1602	Location 302792 302798	Sabine
+T1603	Person 303415 303421	madame
+T1604	Person 303422 303433	de Fontenay
+T1605	Person 303555 303563	Philippe
+T1606	Location 304999 305004	Rozée
+T1607	Person 305149 305157	Mon Dieu
+T1608	Location 305364 305371	Pyrrhus
+T1609	Location 305466 305477	Quelquefois
+T1610	Location 305637 305642	Henri
+T1611	Person 306034 306042	Philippe
+T1612	Person 306182 306190	Henri de
+T1613	Location 306335 306337	CT
+T1614	Person 306468 306482	Louis de Rozée
+T1615	Location 307782 307791	Agrigente
+T1616	Location 307799 307807	Corinthe
+T1617	Person 307894 307900	Sabine
+T1618	Location 308722 308728	Sabine
+T1619	Person 309131 309137	madame
+T1620	Person 309138 309149	de Fontenay
+T1621	Location 309287 309295	Philippe
+T1622	Person 310202 310218	Philippe Forbier
+T1623	Person 310253 310259	Sabine
+T1624	Person 310291 310299	Philippe
+T1625	Person 310852 310860	Philippe
+T1626	Person 310864 310869	Marie
+T1627	Person 310872 310877	Marie
+T1628	Location 310930 310937	Espagne
+T1629	Person 311013 311019	Sabine
+T1630	Location 311232 311238	Clichy
+T1631	Organization 311731 311749	Madame de Fontenay
+T1632	Person 311917 311923	Sabine
+T1633	Person 311965 311971	Sabine
+T1634	Location 312154 312157	Jui
+T1635	Organization 312447 312465	Madame de Fontenay
+T1636	Location 312556 312557	L
+T1637	Location 312605 312609	Vous
+T1638	Person 312752 312759	Jacquin
+T1639	Person 313116 313122	Sabine
+T1640	Person 313487 313494	Jacquin
+T1641	Person 313680 313688	Philippe
+T1642	Location 314034 314041	Sabine’
+T1643	Person 314228 314236	Philippe
+T1644	Location 314582 314587	Seine
+T1645	Person 314647 314663	Philippe Forbier
+T1646	Person 314703 314709	Sabine
+T1647	Organization 314948 314966	Madame de Fontenay
+T1648	Person 315153 315164	Philippe c’
+T1649	Person 315353 315361	Philippe
+T1650	Location 315436 315441	Nancy
+T1651	Person 315629 315637	Philippe
+T1652	Location 315830 315835	Paris
+T1653	Person 315870 315876	Sabine
+T1654	Location 316384 316394	Philippeun
+T1655	Location 316723 316724	L
+T1656	Person 317040 317048	Philippe
+T1657	Person 317580 317590	Phi- lippe
+T1658	Location 317667 317672	Latin
+T1659	Person 318180 318186	Sabine
+T1660	Organization 318722 318724	UE
+T1661	Person 320304 320312	Philippe
+T1662	Person 320851 320855	Elie
+T1663	Location 321680 321690	rhuma- LUE
+T1664	Person 321700 321705	Henri
+T1665	Person 322232 322240	Mon Dieu
+T1666	Location 322928 322933	Marie
+T1667	Person 322961 322969	Philippe
+T1668	Person 322971 322976	Marie
+T1669	Person 323021 323029	Philippe
+T1670	Location 324387 324392	Jouer
+T1671	Location 325119 325123	Vous
+T1672	Location 325210 325214	Vous
+T1673	Person 325861 325864	ESS
+T1674	Location 325885 325891	manche
+T1675	Location 326810 326815	Quand
+T1676	Location 327802 327805	toi
+T1677	Location 327930 327932	Ja
+T1678	Person 327982 327995	Mon bien-aimé
+T1679	Person 329052 329065	Mon bien-aimé
+T1680	Location 329383 329387	Vous
+T1681	Location 329478 329481	toi
+T1682	Location 330383 330386	toi
+T1683	Location 330569 330572	toi
+T1684	Person 330971 330984	Mon bien-aimé
+T1685	Location 331073 331076	toi
+T1686	Location 331352 331355	toi
+T1687	Location 331423 331426	toi
+T1688	Location 331458 331461	toi
+T1689	Location 331772 331775	toi
+T1690	Location 331791 331794	toi
+T1691	Organization 331840 331844	L LS

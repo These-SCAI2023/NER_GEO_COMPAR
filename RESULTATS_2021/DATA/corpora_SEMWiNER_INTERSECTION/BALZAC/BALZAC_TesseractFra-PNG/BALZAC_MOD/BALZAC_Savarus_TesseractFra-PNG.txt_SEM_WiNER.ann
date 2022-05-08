@@ -1,0 +1,3158 @@
+T1	Location 56 64	Besançon
+T2	Location 153 162	Watlevdle
+T3	Location 243 251	Besançon
+T4	Location 266 276	Watteville
+T5	Location 300 306	Watte—
+T6	Location 551 556	Comté
+T7	Location 658 662	Rupt
+T8	Location 680 685	Itupt
+T9	Location 790 800	Watteville
+T10	Location 839 849	Watteville
+T11	Location 858 864	Suisse
+T12	Location 911 915	Rupt
+T13	Person 1051 1060	Philomène
+T14	Location 1098 1108	Watteville
+T15	Location 1197 1207	Watteville
+T16	Organization 1233 1243	Préfecture
+T17	Location 1269 1273	Bupt
+T18	Location 1311 1324	rue du Perron
+T19	Person 1326 1343	Madame Watteville
+T20	Location 1486 1494	Besançon
+T21	Person 1594 1605	Phi— lomène
+T22	Location 1812 1818	Italie
+T23	Location 1886 1896	Wattcville
+T24	Location 1972 1976	quoi
+T25	Location 2143 2153	Watteville
+T26	Person 2393 2402	DE BALZAC
+T27	Location 2446 2456	Watteville
+T28	Location 2467 2471	Rupt
+T29	Location 2486 2496	Watteville
+T30	Location 2838 2848	Wattcville
+T31	Location 2935 2941	Besan—
+T32	Location 3016 3026	Wattcville
+T33	Person 3282 3291	Louis XlV
+T34	Location 3719 3723	Saxe
+T35	Location 3785 3795	Wattevillc
+T36	Location 3967 3973	Watte—
+T37	Location 4661 4668	Grancey
+T38	Organization 4726 4736	Extrait de
+T39	Person 4767 4776	DE BALZAC
+T40	Location 4889 4893	quoi
+T41	Organization 4945 4956	cour royale
+T42	Date 4964 4968	1830
+T43	Location 5255 5260	Paris
+T44	Location 5397 5405	Besançon
+T45	Location 5433 5443	Watteville
+T46	Location 5449 5461	A Besançr.tn
+T47	Person 5474 5489	abbé de Grancey
+T48	Location 5574 5580	Soulas
+T49	Location 5735 5742	Grancey
+T50	Person 5827 5843	monsieur Savaron
+T51	Location 5935 5940	Paris
+T52	Location 6477 6485	Besançon
+T53	Person 6487 6503	Monsieur Savaron
+T54	Location 6542 6547	Paris
+T55	Person 6880 6896	Monsieur Savaron
+T56	Location 6999 7004	Comté
+T57	Location 7022 7032	Watteville
+T58	Location 7113 7124	Chavoncourt
+T59	Location 7162 7172	Watteville
+T60	Location 7207 7213	Seules
+T61	Location 7309 7317	Besançon
+T62	Organization 7401 7417	Amédée de Seules
+T63	Location 7514 7520	France
+T64	Location 7526 7536	Angleterre
+T65	Location 7670 7675	Paris
+T66	Location 7697 7704	Londres
+T67	Person 7830 7843	save the King
+T68	Organization 7865 7875	Angleterro
+T69	Organization 7920 7935	chœurs d’Esther
+T70	Location 7941 7949	Alhalt‘e
+T71	Location 7993 7998	Paris
+T72	Location 8017 8024	Londres
+T73	Location 8086 8096	Portsmouth
+T74	Location 8282 8288	Europe
+T75	Location 8402 8407	Paris
+T76	Person 8429 8435	Brunet
+T77	Location 8635 8645	Angleterre
+T78	Person 8941 8947	Alfred
+T79	Location 8951 8957	Musset
+T80	Location 8979 8988	Barcelone
+T81	Location 9070 9074	sion
+T82	Location 9127 9132	Quand
+T83	Location 9150 9155	Paris
+T84	Location 9290 9295	Paris
+T85	Location 9622 9630	Besançon
+T86	Location 9719 9725	Soulas
+T87	Location 9733 9741	Souleyaz
+T88	Person 9780 9786	Amédée
+T89	Location 9790 9796	Soulas
+T90	Location 9829 9837	Besançon
+T91	Location 9928 9933	Comté
+T92	Location 10046 10055	Granvelle
+T93	Location 10078 10084	Santos
+T94	Location 10113 10123	Be— sançon
+T95	Organization 10469 10479	Préfecture
+T96	Location 10502 10508	Seules
+T97	Location 10920 10926	Seules
+T98	Person 10928 10934	Amédée
+T99	Location 11100 11108	Besançon
+T100	Location 11277 11283	Soulas
+T101	Location 11482 11487	Paris
+T102	Location 12139 12144	Quand
+T103	Location 12245 12251	Seules
+T104	Location 12888 12893	Paris
+T105	Person 13007 13021	ALBERT SAVABUS
+T106	Person 13188 13196	Hollande
+T107	Person 13289 13295	Amédée
+T108	Location 13299 13305	Soulas
+T109	Location 13331 13337	Suisse
+T110	Location 13385 13390	Paris
+T111	Location 13407 13412	Paris
+T112	Location 13416 13426	Angleterre
+T113	Location 13486 13496	Angleterre
+T114	Location 13574 13584	Angleterre
+T115	Location 13618 13627	Lombardie
+T116	Location 13656 13662	Italie
+T117	Person 13858 13864	Amédée
+T118	Location 13868 13874	Soulas
+T119	Person 13924 13930	Amédée
+T120	Person 14208 14214	Amédée
+T121	Organization 14824 14840	Amédée de Seules
+T122	Location 14868 14876	Besançon
+T123	Person 15040 15046	Amédée
+T124	Person 15229 15239	lord Byron
+T125	Hour 15631 15642	onze heures
+T126	Location 15978 15986	Besançon
+T127	Location 16081 16086	Paris
+T128	Location 16720 16725	Comté
+T129	Person 16840 16849	Louis XIV
+T130	Location 17004 17010	Vienne
+T131	Person 17080 17091	Victor Hugo
+T132	Location 17096 17102	Nodier
+T133	Location 17107 17114	Fourier
+T134	Location 17499 17505	France
+T135	Location 17591 17601	Talleyrand
+T136	Person 17682 17688	Amédée
+T137	Location 17732 17740	Besançon
+T138	Location 17801 17807	Seules
+T139	Person 17862 17870	Besancon
+T140	Organization 17932 17942	Préfecture
+T141	Location 18090 18098	Besançon
+T142	Location 18205 18210	Comté
+T143	Organization 18263 18272	Charirm-i
+T144	Person 18372 18383	—— Apprenez
+T145	Organization 18591 18613	Revue des dence Mondes
+T146	Location 18809 18815	Soulas
+T147	Location 18860 18868	Besançon
+T148	Location 19025 19030	Comté
+T149	Location 19204 19208	quoi
+T150	Person 19249 19255	Amédée
+T151	Person 19532 19554	mademoiselle Philomène
+T152	Location 19558 19568	Watteville
+T153	Date 19580 19584	1830
+T154	Person 19657 19666	Philomène
+T155	Location 19710 19720	Wattevilla
+T156	Person 19843 19849	Amédée
+T157	Location 19955 19965	Watteville
+T158	Location 20126 20134	Besançon
+T159	Location 20476 20486	Watleville
+T160	Date 20538 20542	1830
+T161	Location 20835 20845	Wattnvillc
+T162	Person 20898 20915	lesquelles Amédée
+T163	Location 20953 20961	Besançon
+T164	Location 20985 20991	Seules
+T165	Location 21578 21586	BALZAG.‘
+T166	Location 21947 21955	Besançon
+T167	Location 22065 22074	Philomène
+T168	Location 22210 22215	Paris
+T169	Date 22308 22312	i834
+T170	Person 22424 22430	Amédée
+T171	Location 22434 22440	Soulas
+T172	Location 22479 22489	Be— sançon
+T173	Location 22547 22551	Rupt
+T174	Location 22561 22569	Besançon
+T175	Location 22607 22630	Philomène de Watteville
+T176	Location 22715 22721	Amédée
+T177	Location 22801 22824	Philomène de Watteville
+T178	Location 22944 22948	Rupt
+T179	Person 23161 23170	Philomène
+T180	Location 23329 23335	France
+T181	Person 23653 23662	Philomène
+T182	Location 24102 24112	Walteville
+T183	Location 24240 24250	Watteville
+T184	Person 24606 24618	Albert Dürer
+T185	Location 24649 24656	Pérugin
+T186	Location 25138 25146	Besançon
+T187	Location 25270 25275	Paris
+T188	Location 25368 25374	Soulas
+T189	Person 25652 25665	Philomène ca—
+T190	Person 26120 26131	George Sand
+T191	Location 26203 26207	Sexe
+T192	Location 26424 26428	Rupt
+T193	Location 26673 26683	Watteville
+T194	Person 26770 26779	Philomène
+T195	Location 27117 27121	Rupt
+T196	Organization 27386 27402	Amédée de Seules
+T197	Location 27404 27409	Quand
+T198	Person 27699 27708	Philomène
+T199	Person 27817 27826	Philomène
+T200	Location 27916 27922	Seules
+T201	Location 28318 28322	Rupt
+T202	Person 28357 28366	Philomène
+T203	Person 28824 28830	Amédée
+T204	Person 28981 28990	Philomène
+T205	Location 29064 29070	Seules
+T206	Location 29357 29366	Philomène
+T207	Person 29429 29435	Amédée
+T208	Location 29696 29699	Qu’
+T209	Person 30021 30035	ALBERT SAVABUS
+T210	Person 30091 30100	Philomène
+T211	Location 30208 30214	Seules
+T212	Location 30238 30246	Besançon
+T213	Person 30516 30522	Amédée
+T214	Person 30606 30621	abbé de Grancey
+T215	Person 30623 30632	Philomène
+T216	Person 30723 30729	Amédée
+T217	Location 30733 30741	Souleyaz
+T218	Location 30788 30794	Seules
+T219	Location 30981 31007	Hôtel National un Parisien
+T220	Location 31123 31136	rue du Perron
+T221	Person 31524 31538	ALBERT SAVARON
+T222	Person 31553 31560	Savaron
+T223	Person 31591 31602	Phi— lomène
+T224	Location 31665 31672	Savarus
+T225	Location 31741 31749	Belgique
+T226	Person 31795 31801	Amédée
+T227	Person 31847 31854	Savaron
+T228	Location 31858 31865	Savarus
+T229	Location 31935 31942	Savarus
+T230	Location 32040 32047	Savarus
+T231	Person 32059 32075	reprit Philomène
+T232	Person 32087 32096	Philomène
+T233	Location 32171 32181	Watteville
+T234	Location 32207 32216	Continuez
+T235	Location 32218 32224	Amédée
+T236	Location 32334 32344	Be— sançon
+T237	Person 32346 32360	Albert Savaron
+T238	Location 32487 32495	Besançon
+T239	Location 32682 32689	Saverne
+T240	Person 32767 32773	Jérôme
+T241	Person 32836 32850	Albert Savarou
+T242	Location 32984 32994	Saint—Jean
+T243	Hour 33024 33035	huit heures
+T244	Hour 33120 33131	huit heures
+T245	Location 33358 33362	Cha-
+T246	Location 33386 33392	Soulas
+T247	Location 33449 33462	rue du Perron
+T248	Person 33585 33591	Jérôme
+T249	Person 33957 33973	Monsieur Savaron
+T250	Person 34337 34353	monsieur Savaron
+T251	Location 34487 34495	Besançon
+T252	Person 34570 34584	Albert Savaron
+T253	Location 34764 34775	Chavoucourt
+T254	Location 34781 34784	Oui
+T255	Person 34916 34931	abbé de Grancey
+T256	Person 35647 35654	Savaron
+T257	Location 35853 35863	Walteville
+T258	Location 35868 35871	Oui
+T259	Person 36001 36007	Pierre
+T260	Person 36978 36992	Albert Savaron
+T261	Person 37383 37389	Jérôme
+T262	Person 37453 37469	Monsieur Savaron
+T263	Location 38155 38160	Paris
+T264	Location 38194 38202	Besançon
+T265	Location 38528 38539	Chavoucourt
+T266	Location 38606 38613	Granrey
+T267	Location 38791 38796	Paris
+T268	Location 38989 38999	Walteville
+T269	Location 39297 39302	roman
+T270	Person 39308 39323	Philomène qu‘il
+T271	Location 39340 39345	roman
+T272	Location 39544 39553	Philomène
+T273	Person 39579 39585	Albert
+T274	Location 39658 39668	Wattevitlv
+T275	Person 39796 39808	Ruptl Amédée
+T276	Person 39914 39928	Albert Savaron
+T277	Person 39975 39989	Albert Savaron
+T278	Location 39993 40000	Savarus
+T279	Location 40218 40225	Grancey
+T280	Location 40414 40420	Seules
+T281	Location 40460 40467	Grancey
+T282	Location 40582 40591	Philomène
+T283	Location 41163 41170	Grancey
+T284	Location 41309 41319	Watteville
+T285	Person 41440 41449	Philomène
+T286	Person 41679 41688	Philomène
+T287	Location 41752 41764	Wat— teville
+T288	Person 41790 41799	Philomène
+T289	Location 41862 41869	Grancey
+T290	Person 42018 42027	Philomène
+T291	Person 42073 42087	Albert Savaron
+T292	Location 42267 42277	Wattcville
+T293	Location 42425 42430	Quand
+T294	Person 42711 42717	Albert
+T295	Location 42880 42885	Quand
+T296	Person 42925 42929	Dieu
+T297	Organization 43076 43096	université de France
+T298	Person 43459 43464	Agnès
+T299	Person 43469 43476	Molière
+T300	Location 43647 43651	Walt
+T301	Location 43761 43769	Besançon
+T302	Person 43792 43801	Philomène
+T303	Location 43805 43815	Wattevillc
+T304	Person 43858 43872	Albert Savaron
+T305	Location 43935 43939	Rupt
+T306	Location 44028 44032	quoi
+T307	Person 44218 44227	Philomène
+T308	Person 44590 44595	Agnès
+T309	Person 44737 44746	Philomène
+T310	Location 44844 44854	Saint—Jean
+T311	Person 44867 44873	Giroud
+T312	Hour 44995 45006	huit heures
+T313	Person 45840 45849	Philomène
+T314	Person 45887 45901	ALBERT SAVARUS
+T315	Location 46034 46044	Walteville
+T316	Location 46128 46132	Bupt
+T317	Person 46141 46150	Philomène
+T318	Person 46402 46416	Albert Savaron
+T319	Person 46502 46511	Philomène
+T320	Location 46614 46624	Wattoville
+T321	Location 46699 46707	Mariette
+T322	Person 46740 46749	Philomène
+T323	Location 46763 46771	Mariette
+T324	Person 47032 47041	Philomène
+T325	Hour 47445 47456	huit heures
+T326	Hour 47477 47488	huit heures
+T327	Person 47548 47554	Albert
+T328	Person 47659 47669	abbé Groud
+T329	Person 47797 47803	Albert
+T330	Location 47981 47991	Watleville
+T331	Person 47997 48011	Albert Sautron
+T332	Person 48069 48078	Philomène
+T333	Location 48180 48184	quoi
+T334	Location 48277 48286	Philomène
+T335	Location 48619 48622	Oui
+T336	Location 48778 48786	Mariette
+T337	Location 49018 49028	Watteville
+T338	Person 49141 49162	Giroud.erand Mariette
+T339	Location 49207 49216	Philomène
+T340	Person 49330 49336	Albert
+T341	Location 49495 49503	Besançon
+T342	Location 49505 49507	Oh
+T343	Person 49578 49587	Philomène
+T344	Person 49796 49806	Watleville
+T345	Location 49893 49897	sion
+T346	Location 49901 49909	Napoléon
+T347	Location 50365 50375	Wattevillc
+T348	Location 50596 50606	Watteville
+T349	Location 50664 50670	Soulas
+T350	Location 50687 50693	Soulas
+T351	Location 50767 50776	Philomène
+T352	Location 51073 51083	Walteville
+T353	Location 51171 51175	Wat—
+T354	Location 51296 51301	Swiss
+T355	Person 51355 51369	Albert Savaron
+T356	Person 51924 51933	Philomène
+T357	Location 52001 52011	Watteville
+T358	Location 52080 52088	Besançon
+T359	Location 52197 52208	Chavoncourt
+T360	Person 52211 52217	—- Oui
+T361	Location 52262 52268	Soulas
+T362	Location 52296 52301	Paris
+T363	Location 52368 52378	Watteville
+T364	Location 52530 52536	Seules
+T365	Location 52804 52806	Wa
+T366	Person 53104 53111	Savaron
+T367	Person 53139 53153	Albert Savaron
+T368	Location 53263 53265	D’
+T369	Person 53299 53306	Savaron
+T370	Location 53427 53435	Besançon
+T371	Person 53858 53865	Savaron
+T372	Location 53972 53980	Besançon
+T373	Organization 53999 54004	Revue
+T374	Organization 54030 54035	Revue
+T375	Location 54220 54228	Besançon
+T376	Location 54274 54282	Mulhouse
+T377	Location 54286 54290	Lyon
+T378	Location 54318 54322	Rhin
+T379	Location 54329 54334	Rhône
+T380	Location 54361 54371	Strasbourg
+T381	Location 54373 54381	Besançon
+T382	Organization 54499 54504	Revue
+T383	Person 54559 54565	Quelle
+T384	Location 54584 54594	Strasbourg
+T385	Location 54657 54663	France
+T386	Person 54829 54836	Savaron
+T387	Person 54936 54952	monsieur Boucher
+T388	Location 55156 55161	Dijon
+T389	Location 55164 55170	Salins
+T390	Location 55174 55184	Neufchâtel
+T391	Location 55194 55198	Jura
+T392	Location 55200 55205	Bourg
+T393	Location 55207 55213	Nantua
+T394	Location 55338 55343	Bugey
+T395	Location 55351 55357	Bresse
+T396	Location 55367 55372	Comté
+T397	Organization 55499 55504	Revue
+T398	Organization 55699 55704	Revue
+T399	Person 55721 55737	monsieur Boucher
+T400	Person 55884 55890	Albert
+T401	Person 55938 55952	Alfred Boucher
+T402	Person 55963 55969	Alfred
+T403	Location 55995 56003	Besançon
+T404	Person 56052 56058	Alfred
+T405	Person 56104 56110	Albert
+T406	Person 56215 56221	Alfred
+T407	Location 56247 56254	Savaron
+T408	Person 56282 56288	Alfred
+T409	Person 56290 56296	Albert
+T410	Person 56380 56387	Boucher
+T411	Person 56454 56460	Albert
+T412	Person 56512 56518	Alfred
+T413	Organization 56562 56567	Revue
+T414	Organization 56657 56662	Revue
+T415	Organization 56816 56821	Revue
+T416	Location 56871 56877	France
+T417	Person 56881 56887	Albert
+T418	Person 56952 56964	Signée A. S.
+T419	Location 57049 57057	Besançon
+T420	Organization 57076 57081	Revue
+T421	Location 57137 57148	Chavoncourt
+T422	Location 57214 57219	Comté
+T423	Person 57239 57248	Philomène
+T424	Organization 57265 57270	Revue
+T425	Location 57273 57283	Be— sançon
+T426	Location 57331 57334	toi
+T427	Person 57432 57441	Philomène
+T428	Location 57514 57524	Wattovillc
+T429	Organization 57575 57580	Revue
+T430	Person 57656 57665	Philomène
+T431	Person 57878 57887	DE BALZAC
+T432	Product 58201 58214	son coeur pur
+T433	Person 58299 58308	Philomène
+T434	Location 58486 58492	Albert
+T435	Location 59024 59030	Suisse
+T436	Location 59045 59048	Lu-
+T437	Location 59157 59164	Fluelen
+T438	Location 59274 59281	Lucerne
+T439	Location 59284 59291	Fluelen
+T440	Location 60041 60046	Quand
+T441	Location 60360 60367	Lucerne
+T442	Location 60407 60413	Suisse
+T443	Person 60444 60451	Léopold
+T444	Location 60678 60685	Lucerne
+T445	Location 60824 60831	Lucerne
+T446	Location 60837 60844	Léopold
+T447	Location 61161 61167	Suisse
+T448	Location 61259 61264	Paris
+T449	Location 61377 61384	Léopold
+T450	Location 61407 61412	Paris
+T451	Location 61498 61504	France
+T452	Person 61644 61652	Rodolphe
+T453	Person 61785 61793	Rodolphe
+T454	Person 61883 61897	ALBERT SAVARUS
+T455	Location 62017 62025	Rodolphe
+T456	Person 62073 62081	Rodolphe
+T457	Location 62984 62995	Rodolphefpt
+T458	Person 63355 63363	Rodolphe
+T459	Location 63721 63726	Quand
+T460	Location 63856 63859	Ro—
+T461	Location 64224 64231	Léopold
+T462	Location 64234 64242	Rodolphe
+T463	Person 64246 64254	Rodolphe
+T464	Location 64257 64264	Léopold
+T465	Location 64397 64405	Rodolphe
+T466	Person 64495 64503	Rodolphe
+T467	Person 64542 64549	Léopold
+T468	Location 64628 64635	Léopold
+T469	Person 64659 64667	Rodolphe
+T470	Location 64826 64840	Saint-Gotha‘rd
+T471	Person 65074 65082	Rodolphe
+T472	Location 65188 65195	Siiisse
+T473	Person 65508 65516	Rodolphe
+T474	Person 65593 65601	Rodolphe
+T475	Location 65830 65836	Suisse
+T476	Person 65883 65891	Rodolphe
+T477	Location 66001 66014	Saint-Gothard
+T478	Location 66038 66045	Léopold
+T479	Person 66126 66134	Rodolphe
+T480	Person 66152 66166	Quand Rodolphe
+T481	Organization 66241 66251	Extrait de
+T482	Location 66296 66303	Léopold
+T483	Person 66486 66500	madame Stopter
+T484	Location 66525 66535	Neufchâtol
+T485	Person 66755 66769	Fanny Lovelacc
+T486	Organization 66797 66805	Loretess
+T487	Person 66859 66869	Richardson
+T488	Person 66933 66946	Miss Lovclace
+T489	Location 67063 67070	Lucerne
+T490	Person 67174 67184	miss Fanny
+T491	Person 67298 67313	madame Bergmann
+T492	Person 67392 67397	Bella
+T493	Location 67429 67435	Majeur
+T494	Location 67620 67629	vieillard
+T495	Location 68107 68111	sion
+T496	Location 68250 68256	Gersau
+T497	Person 68420 68428	Bergmann
+T498	Person 68612 68622	miss Fanny
+T499	Location 68655 68664	vieillard
+T500	Location 68778 68785	Lucerne
+T501	Person 68871 68885	pensa Rodolphe
+T502	Person 68938 68946	Rodolphe
+T503	Location 69197 69205	Rodolphe
+T504	Location 69690 69699	Borromécs
+T505	Location 70053 70061	Afrique-
+T506	Location 70151 70157	Havane
+T507	Person 70391 70399	Rodolphe
+T508	Person 70563 70578	madame Bergmann
+T509	Person 70588 70597	DE BALZAG
+T510	Person 70636 70644	Bergmann
+T511	Location 70681 70691	Angleterre
+T512	Person 70804 70817	miss Lovelace
+T513	Person 71083 71091	Rodolphe
+T514	Person 71513 71521	Rodolphe
+T515	Location 71627 71632	Quand
+T516	Location 71650 71658	Bergmaun
+T517	Location 71909 71917	Briinnen
+T518	Location 71921 71928	Schwilz
+T519	Location 72188 72193	Quand
+T520	Location 72464 72479	jardin Bergmann
+T521	Person 73071 73079	Rodolphe
+T522	Person 73170 73183	miss Lovelace
+T523	Hour 73200 73211	onze heures
+T524	Location 73344 73350	Gersau
+T525	Person 73516 73524	Rodolphe
+T526	Location 73780 73789	Sardaigne
+T527	Person 74120 74130	miss Fanny
+T528	Location 74563 74569	Gersau
+T529	Location 74579 74581	Ï-
+T530	Location 74584 74593	Rodolph'ê
+T531	Person 74761 74769	Ani Gina
+T532	Person 74817 74825	Rodolphe
+T533	Person 75028 75037	tite Gina
+T534	Person 75300 75309	Francesca
+T535	Person 75343 75351	Rodolphe
+T536	Location 75389 75393	Gina
+T537	Location 75542 75546	Gina
+T538	Location 75669 75681	d’Angleterre
+T539	Person 75819 75827	Rodolphe
+T540	Location 75912 75921	Francesca
+T541	Location 75929 75933	Gina
+T542	Person 75961 75969	Rodolphe
+T543	Person 75972 75981	Francesca
+T544	Location 76024 76030	France
+T545	Location 76072 76083	Laissez—moi
+T546	Location 76089 76093	Voir
+T547	Person 76104 76112	Rodolphe
+T548	Location 76437 76442	Fran—
+T549	Location 76993 77001	Bbdolphd
+T550	Location 77316 77324	Francesl
+T551	Person 77385 77393	Rodolphe
+T552	Location 77479 77483	Gina
+T553	Location 77507 77510	Ro—
+T554	Person 77531 77546	‘àison’StOpfei‘
+T555	Person 77666 77674	Rodolphe
+T556	Person 77755 77762	Gina M’
+T557	Location 77850 77857	Lucerne
+T558	Location 78006 78013	Léopold
+T559	Person 78078 78086	Rodolphe
+T560	Location 78131 78138	Lucerne
+T561	Location 78255 78263	Rodolphe
+T562	Location 78328 78335	Lucerne
+T563	Location 78378 78385	Léopold
+T564	Location 78606 78612	France
+T565	Person 78638 78646	Rodolphe
+T566	Location 78667 78673	Gerbau
+T567	Person 78737 78752	ALBERT SAVA RUS
+T568	Location 78971 78977	Gersau
+T569	Location 79023 79032	Français-
+T570	Person 79079 79093	Quand Rodolphe
+T571	Person 79123 79131	Bergmann
+T572	Person 79142 79161	miss Fanny Lovelace
+T573	Person 79271 79279	Bergmann
+T574	Location 79290 79297	Italien
+T575	Person 79350 79358	Rodolphe
+T576	Person 79468 79477	Francesca
+T577	Location 79758 79766	Rodolphe
+T578	Hour 79805 79816	huit heures
+T579	Location 79821 79830	vieillard
+T580	Location 79921 79926	Quand
+T581	Person 79927 79936	Francesca
+T582	Person 79976 79984	Rodolphe
+T583	Person 80200 80209	Francesca
+T584	Person 80211 80223	tit Rodolphe
+T585	Person 80672 80681	Francesca
+T586	Location 80890 80895	Quand
+T587	Location 80932 80939	Rodol—'
+T588	Location 81098 81106	Rodolphe
+T589	Person 81152 81160	Rodolphe
+T590	Person 81174 81183	Francesca
+T591	Person 81312 81320	Rodolphe
+T592	Location 81402 81411	vieillard
+T593	Location 81440 81445	Chère
+T594	Location 81451 81459	Rodolphe
+T595	Location 81804 81812	Virginie
+T596	Location 82006 82008	Oh
+T597	Person 82556 82565	Francesca
+T598	Location 82756 82763	Joconde
+T599	Location 82811 82814	Oui
+T600	Person 83120 83129	Francesca
+T601	Person 83202 83210	Rodolphe
+T602	Person 83339 83348	Francesca
+T603	Person 83499 83518	regarda Rodolphe..i
+T604	Person 84144 84152	Rodolphe
+T605	Person 84166 84175	Francesca
+T606	Location 84275 84281	Naples
+T607	Location 84286 84293	Piémont
+T608	Location 84300 84307	Espagne
+T609	Person 84359 84363	Gina
+T610	Hour 84385 84406	onze heures ,personne
+T611	Person 84474 84482	Rodolphe
+T612	Location 84490 84494	Gina
+T613	Location 84747 84752	Milan
+T614	Location 84811 84819	Autriche
+T615	Location 84846 84855	Spielberg
+T616	Location 85077 85081	Gina
+T617	Location 85106 85113	Colonna
+T618	Location 85150 85159	Francesca
+T619	Person 85161 85169	Rodolphe
+T620	Location 85240 85245	Quand
+T621	Location 85301 85310	France<ca
+T622	Location 85442 85446	Gina
+T623	Person 85472 85489	Francesca Colonna
+T624	Person 85618 85626	Rodolphe
+T625	Location 85847 85858	Moyen- -Age
+T626	Person 86013 86022	Francesca
+T627	Person 86102 86110	Rodolphe
+T628	Location 86325 86334	Francesca
+T629	Location 86336 86340	Gina
+T630	Person 86437 86445	Rodolphe
+T631	Location 86574 86576	Re
+T632	Location 86652 86656	Gina
+T633	Location 86725 86732	Lucerne
+T634	Person 86755 86764	Francesca
+T635	Person 86779 86793	pensa Rodolphe
+T636	Person 86894 86898	Gina
+T637	Person 87030 87039	Francesca
+T638	Person 87503 87511	Rodolphe
+T639	Location 87553 87556	Oui
+T640	Location 88018 88024	Italie
+T641	Location 88144 88153	vieillard
+T642	Person 89214 89222	Rodolphe
+T643	Location 89399 89406	Stora—a
+T644	Location 89981 89986	Motr-
+T645	Person 90025 90031	-— Oui
+T646	Location 90215 90225	Frances‘ca
+T647	Person 90682 90691	DE BALZAC
+T648	Location 90757 90763	Rliigi
+T649	Person 90938 90947	Francesca
+T650	Location 90974 90982	Rodolphe
+T651	Organization 90999 91008	Ohl chère
+T652	Location 91241 91249	Rodolphe
+T653	Person 91254 91259	—— Hé
+T654	Location 91884 91889	Quand
+T655	Person 92159 92163	Dieu
+T656	Person 92682 92690	Rodolphe
+T657	Location 92694 92699	Fran—
+T658	Location 93123 93132	Francesca
+T659	Location 93193 93201	Qrondﬁnr
+T660	Person 93218 93226	Rodolphe
+T661	Person 93780 93784	Gina
+T662	Person 93939 93948	Francesca
+T663	Location 93983 93987	Tito
+T664	Location 94091 94095	Tito
+T665	Location 94241 94248	Italien
+T666	Person 94415 94423	Rodolphe
+T667	Location 94500 94504	Tito
+T668	Location 94524 94533	Francesca
+T669	Location 94553 94557	Gina
+T670	Location 94661 94665	quoi
+T671	Location 94679 94683	Tito
+T672	Location 94745 94749	Gina
+T673	Person 94780 94789	Francesca
+T674	Location 94844 94848	Tito
+T675	Location 94877 94883	Gersau
+T676	Person 95016 95024	Rodolphe
+T677	Location 95172 95176	Gina
+T678	Location 95207 95210	Oui
+T679	Person 95219 95228	Francesca
+T680	Location 95384 95388	Tito
+T681	Person 95393 95401	Rodolphe
+T682	Location 95479 95486	Colonna
+T683	Organization 95568 95582	Saint— Gothard
+T684	Location 95616 95623	Simplon
+T685	Location 95651 95660	Marseille
+T686	Location 95683 95689	France
+T687	Location 95732 95738	Genève
+T688	Person 95776 95784	Rodolphe
+T689	Location 95866 95872	Genève
+T690	Organization 95906 95922	Quatre—Can— tons
+T691	Person 96005 96013	Rodolphe
+T692	Location 96309 96313	Gina
+T693	Location 96392 96399	Sieilet
+T694	Person 96404 96413	Francesca
+T695	Location 96450 96454	Gina
+T696	Location 96510 96518	Rodolphe
+T697	Person 96589 96597	Rodolphe
+T698	Person 96687 96703	giiison Bergmann
+T699	Person 96820 96828	Rodolphe
+T700	Product 97208 97213	César
+T701	Person 97425 97434	Francesca
+T702	Person 97496 97504	Rodolphe
+T703	Location 97623 97628	Paris
+T704	Person 97668 97680	madame Murat
+T705	Location 97893 97899	Italie
+T706	Person 97951 97967	Povera Francesca
+T707	Person 98079 98092	Rodolphe crut
+T708	Person 98324 98340	ALBERT SAVARUS.‘
+T709	Person 98415 98423	Rodolphe
+T710	Person 99182 99188	Emilie
+T711	Person 99526 99535	Francesca
+T712	Person 99703 99711	Rodolphe
+T713	Person 100084 100092	Rodolphe
+T714	Person 100126 100136	Berg— mann
+T715	Location 100148 100157	Francesca
+T716	Location 100301 100306	Fran—
+T717	Location 100487 100496	vieillard
+T718	Person 100557 100566	Francesca
+T719	Location 100719 100727	Rodolphe
+T720	Location 100951 100959	Rodolphe
+T721	Location 100963 100972	Francesca
+T722	Person 101207 101216	Francesca
+T723	Location 101254 101260	Gersau
+T724	Person 101384 101391	Raphaël
+T725	Location 101442 101448	Naples
+T726	Location 101727 101735	Rodolphe
+T727	Location 101874 101881	Rodophe
+T728	Location 101990 101999	vieillard
+T729	Location 102106 102114	Rodolphe
+T730	Location 102147 102153	Genève
+T731	Location 102155 102161	Genève
+T732	Location 102199 102205	BALZAC
+T733	Location 102466 102471	Quand
+T734	Location 102491 102497	Genève
+T735	Location 102761 102765	quoi
+T736	Location 103324 103330	Genève
+T737	Organization 103605 103613	Milana1s
+T738	Location 103617 103623	Genève
+T739	Location 103631 103634	Nop
+T740	Location 103699 103706	Colonna
+T741	Location 103829 103842	Villa-Diodeti
+T742	Organization 103870 103875	Latin
+T743	Location 103935 103942	Colonna
+T744	Location 104015 104025	Napolitain
+T745	Person 104081 104086	Murat
+T746	Location 104156 104162	Genève
+T747	Location 104280 104287	Colonna
+T748	Location 104352 104358	Naples
+T749	Location 104435 104441	Genève
+T750	Organization 104668 104685	mémé des Genevois
+T751	Person 104689 104695	-— Oui
+T752	Person 104728 104738	Lord Byron
+T753	Date 104923 104926	11c
+T754	Location 104946 104951	Milan
+T755	Location 105147 105155	Rodolphe
+T756	Person 105180 105193	Vill_ Diodeti
+T757	Person 105214 105224	lord Byron
+T758	Location 105383 105389	Genève
+T759	Location 105423 105429	Suisse
+T760	Person 105677 105685	Rodolphe
+T761	Date 106013 106020	11 Calè
+T762	Location 106025 106035	Francesca'
+T763	Location 106179 106189	re- connut
+T764	Person 106538 106553	incv>se Colonne
+T765	Person 106640 106646	—- Oui
+T766	Location 106700 106708	Rodolphe
+T767	Location 106742 106748	Pourvu
+T768	Person 107202 107210	Rodolphe
+T769	Location 107531 107537	Genève
+T770	Location 107542 107546	Jura
+T771	Person 107820 107825	Jean1
+T772	Person 108026 108034	Rodolphe
+T773	Person 108396 108405	Francesca
+T774	Location 108494 108500	Gersàu
+T775	Organization 108538 108555	princesse Colonna
+T776	Person 108573 108581	Rodolphe
+T777	Person 108636 108645	Francesca
+T778	Person 108845 108854	FranCesca
+T779	Person 108895 108903	Rodolphe
+T780	Hour 108913 108924	neuf heures
+T781	Person 108936 108944	Rodolphe
+T782	Location 109291 109300	Francesca
+T783	Hour 109771 109774	1h1
+T784	Location 109898 109904	Genève
+T785	Location 109989 109995	Varèse
+T786	Person 110058 110066	Rodolphe
+T787	Person 110392 110401	Francesca
+T788	Person 110403 110412	Francesca
+T789	Person 110445 110459	ALBERT SAVARUS
+T790	Person 110482 110490	Rodolphe
+T791	Location 110653 110661	Rodolphe
+T792	Person 110761 110770	Francesca
+T793	Person 110779 110787	Rodolphe
+T794	Location 110888 110892	quoi
+T795	Person 110993 111009	manon Jeanranaud
+T796	Person 111083 111093	Berg— mann
+T797	Person 111328 111336	Rodolphe
+T798	Location 111431 111434	Ro—
+T799	Person 111512 111520	Rodolphe
+T800	Person 111604 111611	Colonna
+T801	Location 111615 111624	Francesca
+T802	Location 111626 111631	Quand
+T803	Location 111753 111758	Tinti
+T804	Person 111952 111970	Rodolphe Francesca
+T805	Person 112081 112097	princesse Rodol—
+T806	Location 112251 112257	Gersau
+T807	Person 112259 112267	Rodolphe
+T808	Location 112685 112693	Rodolphe
+T809	Location 113438 113444	Rodol-
+T810	Person 113453 113462	Francesca
+T811	Person 113925 113933	Rodolphe
+T812	Location 114019 114027	Rodolphe
+T813	Location 114247 114252	Tinti
+T814	Person 114282 114291	S. Ans.—î
+T815	Person 114491 114499	Rodolphe
+T816	Location 114836 114848	Méditerranée
+T817	Location 114895 114903	Rodolphe
+T818	Person 114958 114967	Francesca
+T819	Location 115099 115102	Qu’
+T820	Location 115141 115149	Rodolphe
+T821	Location 115320 115324	quoi
+T822	Location 115437 115442	Tinti
+T823	Person 115739 115747	Rodolphe
+T824	Location 116160 116167	Colonna
+T825	Location 116646 116655	Francesca
+T826	Location 116912 116918	Italie
+T827	Location 117085 117092	Colonna
+T828	Organization 117196 117213	princesse Colonna
+T829	Location 117460 117466	Sicile
+T830	Person 117468 117477	Francesca
+T831	Person 117636 117645	Francesca
+T832	Person 117963 117971	Rodolphe
+T833	Person 118029 118038	Francesca
+T834	Person 118228 118236	Rodolphe
+T835	Location 118258 118264	Genève
+T836	Location 118297 118302	Quand
+T837	Location 118836 118842	BALZAC
+T838	Person 119108 119117	Francesca
+T839	Person 119183 119191	Rodolphe
+T840	Organization 119318 119326	Rodolphe
+T841	Person 120121 120129	Rodolphe
+T842	Location 120238 120244	France
+T843	Location 120366 120375	Beauséant
+T844	Location 120456 120461	Nueii
+T845	Location 120479 120486	Colonna
+T846	Person 120542 120551	Francesca
+T847	Person 120583 120591	Rodolphe
+T848	Person 120711 120719	Rodolphe
+T849	Person 120773 120780	Candide
+T850	Person 120842 120851	Francesca
+T851	Person 121005 121014	Francesca
+T852	Location 121204 121210	Pardon
+T853	Person 121306 121315	Francesca
+T854	Person 121457 121466	Francesca
+T855	Location 121668 121674	Partez
+T856	Location 121728 121734	Naples
+T857	Person 121816 121825	Francesca
+T858	Location 121855 121860	Paris
+T859	Location 121862 121870	Rodolphe
+T860	Location 122018 122024	Genève
+T861	Person 122127 122135	Rodolphe
+T862	Person 122379 122387	Rodolphe
+T863	Location 122637 122645	Rodolphe
+T864	Location 122649 122654	Fran—
+T865	Person 122706 122714	Rodolphe
+T866	Organization 123115 123132	ministère Villèle
+T867	Person 123165 123173	Rodolphe
+T868	Location 123417 123423	Naples
+T869	Person 123662 123670	Rodolphe
+T870	Date 123926 123930	1830
+T871	Person 123973 123977	Dieu
+T872	Location 124396 124406	Watteville
+T873	Person 124609 124618	Philomène
+T874	Location 124907 124916	Philomène
+T875	Person 124941 124958	Francesca Colonna
+T876	Person 125013 125019	Albert
+T877	Person 125135 125144	Philomène
+T878	Person 125185 125191	Quelle
+T879	Person 125377 125383	Albert
+T880	Person 125701 125707	Albert
+T881	Person 126331 126337	Albert
+T882	Person 126527 126533	Albert
+T883	Organization 126564 126568	Rupt
+T884	Person 126970 126984	ALBERT SAVARUS
+T885	Location 127037 127043	Albert
+T886	Location 127192 127202	Watteville
+T887	Person 127312 127318	Albert
+T888	Person 127406 127412	Jérôme
+T889	Location 127430 127436	Albert
+T890	Location 127516 127522	Jérôme
+T891	Person 127524 127533	Philomène
+T892	Location 127552 127560	Mariette
+T893	Location 127585 127593	Mariette
+T894	Person 127597 127603	Jérôme
+T895	Location 127618 127626	Mariette
+T896	Person 127701 127709	Mariette
+T897	Location 127867 127877	Watteville
+T898	Person 128203 128209	Jérôme
+T899	Location 128280 128288	Mariette
+T900	Person 128522 128529	Savaron
+T901	Location 128564 128568	Rupt
+T902	Person 128899 128908	Philomène
+T903	Person 129217 129226	Philomène
+T904	Location 129376 129384	Mariette
+T905	Person 129418 129427	Philomène
+T906	Location 129508 129516	Mariette
+T907	Person 129532 129546	Jérôme a—t-_il
+T908	Person 129669 129678	Philomène
+T909	Person 129857 129866	Philomène
+T910	Location 129900 129908	Mariette
+T911	Person 129970 129979	Philomène
+T912	Person 130068 130074	Jérôme
+T913	Location 130130 130138	Mariette
+T914	Person 130173 130179	Jérôme
+T915	Location 130292 130300	Mariette
+T916	Location 130337 130344	Ecoutez
+T917	Location 130346 130354	Mariette
+T918	Location 130630 130638	Mariette
+T919	Location 130685 130687	D’
+T920	Person 130720 130729	Philomène
+T921	Location 130766 130772	Seules
+T922	Person 130903 130919	demanda Mariette
+T923	Person 130953 130969	monsieur Savaron
+T924	Person 130997 131003	Jérôme
+T925	Location 131033 131041	Mariette
+T926	Location 131055 131057	Oh
+T927	Person 131194 131203	Philomène
+T928	Location 131207 131215	Mariette
+T929	Person 131322 131330	Mon Dieu
+T930	Location 131387 131395	Mariette
+T931	Person 131398 131407	Philomène
+T932	Organization 131633 131647	Revue de l’Est
+T933	Location 131686 131694	Al— bert
+T934	Location 131700 131702	Oh
+T935	Organization 131902 131907	Revue
+T936	Location 131987 131989	I’
+T937	Organization 132058 132063	Revue
+T938	Organization 132187 132189	Va
+T939	Location 132280 132290	Watteville
+T940	Location 132400 132410	Neufchâtel
+T941	Location 132414 132419	Berne
+T942	Location 132424 132430	Genève
+T943	Location 132467 132473	Italie
+T944	Location 132541 132547	Majeur
+T945	Location 132551 132560	Belgirate
+T946	Person 132588 132597	Philomène
+T947	Location 132617 132625	Argaiolo
+T948	Person 132720 132738	princesse Soderini
+T949	Location 132866 132875	Lombardie
+T950	Location 132899 132905	Majeur
+T951	Location 132934 132940	Italie
+T952	Person 132962 132970	Mariette
+T953	Person 133013 133027	ALBERT SAVARON
+T954	Location 133028 133048	A LÊOPOLD HANNEQUÏN-
+T955	Location 133092 133100	Besançon
+T956	Location 133234 133237	Oui
+T957	Location 133239 133251	cher Léopold
+T958	Location 133407 133410	toi
+T959	Location 133572 133576	quoi
+T960	Location 133664 133667	toi
+T961	Location 133796 133801	Paris
+T962	Organization 134286 134296	Extrait de
+T963	Person 134488 134500	Albert Sava-
+T964	Location 134510 134517	Savarùs
+T965	Location 134539 134545	France
+T966	Location 134575 134583	Belgique
+T967	Person 134683 134692	Philomène
+T968	Location 135990 135995	Paris
+T969	Location 136994 137002	Napoléon
+T970	Location 137014 137027	Sainte—Hélène
+T971	Date 137066 137073	10 août
+T972	Person 137091 137100	Louis XVI
+T973	Location 137409 137417	Boulogne
+T974	Location 137585 137588	toi
+T975	Location 137749 137755	Saint—
+T976	Location 138646 138654	BALZÀG.‘
+T977	Location 138670 138676	Paris”
+T978	Location 138894 138898	quoi
+T979	Location 138913 138918	Paris
+T980	Location 139158 139166	Besançon
+T981	Location 139310 139314	quoi
+T982	Location 139497 139501	Voir
+T983	Location 139907 139915	BeSañçpﬁ
+T984	Organization 139945 139950	Revue
+T985	Product 140531 140543	Ïñi's to‘iit
+T986	Location 140589 140597	Besançon
+T987	Location 140710 140718	Besançon
+T988	Location 140758 140765	Choi‘si
+T989	Location 141990 141998	Ghapitre
+T990	Hour 142410 142421	huit heures
+T991	Event 142573 142592	affaire du Chapitre
+T992	Organization 142853 142877	adver— saire de la Ville
+T993	Person 142920 142934	ALBERT SAVARUS
+T994	Organization 143236 143245	Ministère
+T995	Person 143332 143349	Albert de Saverne
+T996	Location 143468 143476	Besançon
+T997	Location 143850 143855	Quand
+T998	Location 144372 144374	D’
+T999	Location 144417 144425	Besançon
+T1000	Location 144493 144496	toi
+T1001	Location 144852 144864	cher Léopold
+T1002	Location 146997 147003	Majeur
+T1003	Location 147194 147202	Argaiolo
+T1004	Location 147224 147231	Léopold
+T1005	Location 147566 147570	sion
+T1006	Person 147802 147811	Philomène
+T1007	Location 147929 147935	Albert
+T1008	Organization 148090 148095	Revue
+T1009	Person 148116 148122	Albert
+T1010	Person 148260 148266	Albert
+T1011	Location 148649 148659	Watteville
+T1012	Organization 149098 149123	con— tentieux du commerce
+T1013	Organization 149130 149135	Revue
+T1014	Location 149526 149534	Mariette
+T1015	Person 149554 149563	Philomène
+T1016	Location 149714 149724	Wattoville
+T1017	Person 149748 149758	D’ARGAIOLO
+T1018	Person 149767 149785	princesse Soderini
+T1019	Location 149791 149802	BELGIBA‘I‘E
+T1020	Location 149809 149815	Majeur
+T1021	Location 149817 149823	ITALIE
+T1022	Location 149908 149917	Balthasar
+T1023	Location 150002 150013	Chavoncourt
+T1024	Person 150037 150046	Philomène
+T1025	Person 150166 150172	Albert
+T1026	Location 150175 150182	Léopold
+T1027	Person 150298 150304	Albert
+T1028	Location 150566 150574	Mariette
+T1029	Person 150840 150849	Philomène
+T1030	Person 151065 151074	DE BALZAC
+T1031	Person 151286 151292	Albert
+T1032	Location 151324 151329	Quand
+T1033	Person 151330 151339	Philomène
+T1034	Location 151481 151487	Albert
+T1035	Location 152133 152138	Comté
+T1036	Location 152314 152318	quoi
+T1037	Location 152442 152448	Europe
+T1038	Location 152524 152527	Oui
+T1039	Location 152570 152580	Besan— con
+T1040	Location 152585 152593	Besançon
+T1041	Person 152628 152640	Sixte— Quint
+T1042	Person 152737 152744	Savaron
+T1043	Location 152748 152755	Savarus
+T1044	Person 152810 152828	princesse Soderini
+T1045	Location 152848 152856	Argaiolo
+T1046	Location 152977 152980	Oui
+T1047	Person 153288 153297	Francesca
+T1048	Location 153768 153771	toi
+T1049	Location 154079 154085	Gene-'
+T1050	Location 154171 154176	Milan
+T1051	Location 154625 154631	VEÏEHH
+T1052	Location 154763 154767	Gina
+T1053	Location 154920 154925	Paris
+T1054	Person 155356 155360	Dieu
+T1055	Location 155653 155662	Nouvelles
+T1056	Organization 155672 155677	Revue
+T1057	Location 155683 155692	Nouvelles
+T1058	Location 155957 155960	toi
+T1059	Location 156060 156065	plume
+T1060	Location 156169 156174	Paris
+T1061	Location 157915 157920	Alpes
+T1062	Organization 158033 158040	Q.dand'
+T1063	Person 158334 158342	Mon Dieu
+T1064	Location 158666 158670	Voir
+T1065	Location 159206 159215	Belgirate
+T1066	Person 159246 159260	ALBERT SAVARSU
+T1067	Organization 159375 159389	Revue de l’Est
+T1068	Location 159567 159574	Italien
+T1069	Location 159761 159770	Espérance
+T1070	Person 159849 159858	Philomène
+T1071	Person 159964 159972	Mariette
+T1072	Person 159978 159987	Philomène
+T1073	Location 160079 160085	Jérôme
+T1074	Person 160163 160169	Albert
+T1075	Location 160362 160370	Mariette
+T1076	Location 160376 160379	Oui
+T1077	Person 160460 160469	Philomène
+T1078	Person 160796 160800	Dieu
+T1079	Location 161286 161292	Soulas
+T1080	Person 161384 161393	Philomène
+T1081	Location 161408 161412	quoi
+T1082	Person 161539 161548	Philomène
+T1083	Location 161784 161792	Argaiolo
+T1084	Person 162187 162204	Albert de Savarus
+T1085	Location 162253 162261	Besançon
+T1086	Location 162412 162420	Besançon
+T1087	Location 162663 162671	Besançon
+T1088	Location 162752 162760	Besançon
+T1089	Location 162762 162770	Besançon
+T1090	Location 162841 162846	Doubs
+T1091	Location 162960 162965	Doubs
+T1092	Person 163231 163245	Albert Savaron
+T1093	Location 163249 163256	Savarus
+T1094	Location 163270 163275	Doubs
+T1095	Location 163714 163722	Besançon
+T1096	Location 163762 163772	Versailles
+T1097	Person 164044 164051	Savaron
+T1098	Location 164164 164170	France
+T1099	Location 164524 164532	Besançon
+T1100	Location 165173 165180	Léopold
+T1101	Location 165374 165381	Savarus
+T1102	Person 165384 165399	abbé de Grancey
+T1103	Location 165637 165644	Savarus
+T1104	Person 165660 165669	Philomène
+T1105	Location 165743 165750	Savarus
+T1106	Location 165814 165818	Rupt
+T1107	Location 165860 165866	Albert
+T1108	Location 166011 166021	Watteville
+T1109	Person 166274 166288	maître Jacques
+T1110	Location 166323 166333	Watteville
+T1111	Person 166342 166350	Modinier
+T1112	Location 166565 166575	Watteville
+T1113	Location 166833 166848	Dent de' Vilaid
+T1114	Location 166904 166909	Doubs
+T1115	Location 166911 166931	Wattevilleimagina de
+T1116	Person 168072 168085	Vilard— Quand
+T1117	Location 168166 168173	Vitara”
+T1118	Location 168360 168364	Ward
+T1119	Location 168636 168642	Rooney
+T1120	Location 168866 168871	Datum
+T1121	Person 169130 169148	lesquels Philomène
+T1122	Location 169198 169201	Qu’
+T1123	Location 169440 169445	Quand
+T1124	Location 169501 169510	Philomène
+T1125	Location 170225 170234	Philomène
+T1126	Person 170585 170593	Modinier
+T1127	Person 170695 170704	Philomène
+T1128	Location 170762 170767	Yüard
+T1129	Organization 170793 170806	peüto Suisse…
+T1130	Location 171000 171004	quoi
+T1131	Person 171014 171023	Philomène
+T1132	Location 171039 171041	Oh
+T1133	Location 171238 171245	Bicey_s
+T1134	Location 171288 171295	Nilard‘
+T1135	Person 171546 171555	Philomène
+T1136	Person 171656 171662	Quelle
+T1137	Location 171877 171883	Vilard
+T1138	Person 171889 171908	monsieur Chantonnit
+T1139	Date 171928 171932	1830
+T1140	Location 172196 172202	Riceys
+T1141	Person 172242 172260	abbé de Watteville
+T1142	Location 172288 172292	quoi
+T1143	Location 172372 172382	Watteville
+T1144	Location 172562 172569	Villard
+T1145	Location 172697 172703	Riceys
+T1146	Person 172778 172786	Modinier
+T1147	Location 173085 173091	Rioeys
+T1148	Location 173099 173105	Rooney
+T1149	Person 173401 173428	laquellemonsieur Chantonnit
+T1150	Location 173440 173446	Riceys
+T1151	Location 173514 173521	Suisse”
+T1152	Location 173622 173632	Neufchâtel
+T1153	Person 173671 173680	Philomène
+T1154	Location 173720 173728	Modinier
+T1155	Location 173785 173791	Vilard
+T1156	Person 173981 173988	Savaron
+T1157	Location 174078 174083	Gelui
+T1158	Location 174157 174167	Watteville
+T1159	Location 174463 174469	Rooney
+T1160	Location 174558 174566	Besançon
+T1161	Location 174604 174611	Graneoy
+T1162	Location 175022 175024	D’
+T1163	Location 175298 175306	Ghapitre
+T1164	Location 175324 175333	Wattevﬂle
+T1165	Person 175445 175452	Savaron
+T1166	Location 175541 175548	Ecoutez
+T1167	Person 175604 175611	Savaron
+T1168	Person 175753 175768	abbé de Grancey
+T1169	Person 175956 175970	ALBERT SAVARUS
+T1170	Person 176109 176124	abbé de Grancey
+T1171	Person 176205 176212	Savaron
+T1172	Location 176319 176329	Wàtteville
+T1173	Location 176480 176487	Léopold
+T1174	Person 176548 176563	abbé de Grancey
+T1175	Person 176612 176629	Albert de Saverne
+T1176	Location 176740 176750	Watteville
+T1177	Person 176799 176808	Philomène
+T1178	Location 176901 176908	Savarus
+T1179	Person 176998 177004	Albert
+T1180	Location 177099 177109	Watteville
+T1181	Location 177320 177330	Watteville
+T1182	Location 177353 177358	Paris
+T1183	Person 177454 177468	Saint— Germain
+T1184	Location 177651 177658	Savarus
+T1185	Location 177773 177780	Savarus
+T1186	Location 177896 177906	Watteville
+T1187	Person 178137 178151	reprit Savarus
+T1188	Location 178307 178317	Watteville
+T1189	Person 178339 178347	Girardet
+T1190	Location 178743 178746	Oui
+T1191	Person 178748 178770	mademoiselle Philomène
+T1192	Location 179052 179062	Watteville
+T1193	Person 179193 179208	abbé de Grancey
+T1194	Location 179257 179264	Savarus
+T1195	Location 179594 179604	Watteville
+T1196	Person 179649 179655	Albert
+T1197	Location 179781 179791	Watteville
+T1198	Person 179834 179842	Girardet
+T1199	Person 180019 180027	Girardet
+T1200	Location 180042 180049	Savarus
+T1201	Location 180225 180247	Graucey quitta Savarus
+T1202	Person 180487 180496	Philomène
+T1203	Location 180594 180600	Albert
+T1204	Person 180606 180621	abbé de Grancey
+T1205	Location 180751 180755	Rupt
+T1206	Location 180846 180856	Watteville
+T1207	Location 180864 180868	Rupt
+T1208	Person 180895 180899	Dieu
+T1209	Location 180993 180996	toi
+T1210	Location 181110 181113	Oui
+T1211	Location 181303 181306	toi
+T1212	Person 181526 181536	mon Albert
+T1213	Location 181561 181564	Qu’
+T1214	Person 181592 181601	Philomène
+T1215	Location 181676 181682	Soulas
+T1216	Location 181819 181825	Seules
+T1217	Location 181907 181917	Watteville
+T1218	Location 182092 182098	Soulas
+T1219	Person 182156 182165	Philomène
+T1220	Person 182242 182248	Amédée
+T1221	Location 182319 182325	Seules
+T1222	Person 182347 182356	Philomène
+T1223	Person 182757 182772	Monsieur Amédée
+T1224	Person 182936 182950	Albert Savaron
+T1225	Location 182954 182961	Séverus
+T1226	Date 183016 183020	1830
+T1227	Location 183332 183340	Chavonc'
+T1228	Person 183437 183444	Savaron
+T1229	Person 183459 183476	Albert de Savarus
+T1230	Location 183503 183510	Savarus
+T1231	Person 183847 183853	Amédée
+T1232	Location 183879 183883	Rupt
+T1233	Location 183926 183937	Chavonconrt
+T1234	Location 184200 184210	Angleterre
+T1235	Location 184446 184457	Chavoncourt
+T1236	Location 184712 184720	Besançon
+T1237	Location 185355 185363	Besançon
+T1238	Location 185513 185525	Chavoncou‘rt
+T1239	Location 185668 185679	Chavoncourt
+T1240	Location 185830 185839	Granvelle
+T1241	Person 185985 185994	Philomène
+T1242	Location 186163 186169	Soulas
+T1243	Location 186252 186262	Vauchelles
+T1244	Person 186305 186311	Amédée
+T1245	Location 186346 186354	Victoire
+T1246	Location 186519 186527	Victoire
+T1247	Location 186605 186616	Chavoncourt
+T1248	Location 186620 186628	Vauchel-
+T1249	Location 186660 186676	Ghav‘oncourt du“
+T1250	Person 186706 186712	Albert
+T1251	Person 186770 186779	Philomène
+T1252	Location 186878 186891	Louis—Phüÿape
+T1253	Organization 187070 187077	Berryer
+T1254	Location 187343 187351	Grenelle
+T1255	Organization 187356 187380	Ministère de l’Intérieur
+T1256	Location 187413 187421	Besançon
+T1257	Person 187491 187500	Philomène
+T1258	Location 187536 187542	Albert
+T1259	Location 187550 187556	BALZAC
+T1260	Location 187606 187612	Besan—
+T1261	Organization 187699 187708	Ministère
+T1262	Location 187839 187844	Quand
+T1263	Person 188076 188085	Philomène
+T1264	Location 188178 188184	Albert
+T1265	Person 188340 188346	Albert
+T1266	Location 188360 188366	Italie
+T1267	Location 188601 188605	quoi
+T1268	Location 188614 188620	Servir
+T1269	Person 188661 188670	Philomène
+T1270	Location 188711 188722	Watteville‘
+T1271	Person 188784 188800	monsieur Boucher
+T1272	Person 188916 188932	monsieur Boucher
+T1273	Location 188979 188986	Savarus
+T1274	Location 189060 189068	Girardot
+T1275	Organization 189091 189105	Revue de l’Est
+T1276	Organization 189550 189559	Ministère
+T1277	Location 189736 189744	Besançon
+T1278	Organization 189772 189786	Alfréd Boucher
+T1279	Person 189805 189811	Albert
+T1280	Location 189836 189843	Giancey
+T1281	Location 189898 189908	Vauchelles
+T1282	Person 189954 189960	Albert
+T1283	Location 190187 190198	Chavoncourt
+T1284	Location 190475 190477	D’
+T1285	Organization 190566 190576	Préfecture
+T1286	Location 190941 190943	Oh
+T1287	Location 190971 190978	Savarus
+T1288	Location 191105 191109	Rupt
+T1289	Person 191497 191511	Alfred Boucher
+T1290	Person 191543 191557	ALBERT SAVARUS
+T1291	Person 191711 191717	Albert
+T1292	Person 191812 191818	Alfred
+T1293	Location 191880 191887	Grancey
+T1294	Person 192688 192702	Albert Savarus
+T1295	Person 193115 193131	monsieur Boucher
+T1296	Location 193197 193211	Comité—Boucher
+T1297	Person 193213 193219	Albert
+T1298	Person 193280 193296	monsieur Boucher
+T1299	Person 193370 193384	Alfred Boucher
+T1300	Person 193788 193794	Albert
+T1301	Location 193931 193939	Besançon
+T1302	Person 194267 194273	Albert
+T1303	Person 194541 194547	Quelle
+T1304	Organization 194880 194893	AlbertSavaron
+T1305	Location 195202 195209	Savarus
+T1306	Location 195257 195265	Besançon
+T1307	Person 195627 195633	Albert
+T1308	Location 195645 195649	Yuma
+T1309	Person 195783 195791	Al- bert
+T1310	Location 195969 195977	Besançon
+T1311	Person 195993 196000	Savaron
+T1312	Location 196004 196011	Savarus
+T1313	Person 196043 196057	Alfred Boucher
+T1314	Location 196263 196274	Chavoncourt
+T1315	Person 196342 196350	Al- bert
+T1316	Location 196383 196397	Comité—Boucher
+T1317	Person 196442 196448	Albert
+T1318	Location 196588 196595	Savarus
+T1319	Location 196915 196922	Savarus
+T1320	Person 197231 197237	Albert
+T1321	Location 197459 197467	Al— bert
+T1322	Location 197883 197893	Angleterre
+T1323	Location 197976 197982	France
+T1324	Location 198051 198056	Fran—
+T1325	Organization 198205 198218	parti radical
+T1326	Location 198249 198260	Chavoncourt
+T1327	Person 198279 198290	vint Albert
+T1328	Organization 198413 198420	Berryer
+T1329	Person 198659 198665	Albert
+T1330	Location 198702 198706	Cha—
+T1331	Person 198790 198796	Albert
+T1332	Location 198892 198903	Chavoncourt
+T1333	Location 199123 199130	Grancey
+T1334	Person 199289 199303	Albert Savarus
+T1335	Location 199490 199498	Girardet
+T1336	Location 199559 199566	Grancey
+T1337	Location 199657 199664	Savarus
+T1338	Location 199743 199750	Savarus
+T1339	Person 199775 199791	monsieur Boucher
+T1340	Person 199978 199984	Albert
+T1341	Organization 199989 199999	Extrait de
+T1342	Hour 200206 200217	onze heures
+T1343	Person 200262 200268	Albert
+T1344	Location 200381 200389	Voltaire
+T1345	Location 200764 200769	Fran—
+T1346	Person 200992 200998	Quelle
+T1347	Person 201461 201476	abbé de Grancey
+T1348	Location 201575 201584	vieillard
+T1349	Person 201657 201672	Francesca Sode—
+T1350	Location 201806 201810	Mime
+T1351	Location 201825 201832	Par-deb
+T1352	Location 201970 201973	Oui
+T1353	Organization 202026 202041	TIEUX ran AMOUR
+T1354	Location 202226 202234	Besançon
+T1355	Location 202385 202393	Argaiolo
+T1356	Person 202503 202509	Albert
+T1357	Organization 203069 203075	D‘ièut
+T1358	Location 203895 203909	Comité—Boucher
+T1359	Person 204295 204301	Albert
+T1360	Person 204486 204492	Albert
+T1361	Person 204536 204543	Sidonie
+T1362	Location 204547 204558	Chavoncourt
+T1363	Person 204616 204623	Sidonie
+T1364	Location 204627 204638	Chaÿoncourt
+T1365	Person 204728 204734	Albert
+T1366	Person 204744 204759	trant Francesca
+T1367	Person 204877 204883	Albert
+T1368	Location 205111 205115	Rupt
+T1369	Location 205126 205137	Çhavonoourt
+T1370	Location 205535 205546	Chavonconrt
+T1371	Location 205753 205763	Watteville
+T1372	Location 205798 205806	Besançon
+T1373	Location 205808 205812	Amd—
+T1374	Location 205821 205827	Soulas
+T1375	Location 205831 205841	Vauchelles
+T1376	Location 205905 205915	Watteville
+T1377	Location 206021 206032	Chavoncourt
+T1378	Location 206042 206049	Sàvarus
+T1379	Location 206123 206134	Chavoncourt
+T1380	Location 206206 206216	Vauchelles
+T1381	Person 206326 206333	Sidonie
+T1382	Location 206420 206431	Chavoncourt
+T1383	Location 206546 206557	Chavoncourt
+T1384	Location 206572 206583	Chavoncourt
+T1385	Person 206830 206838	Mon Dieu
+T1386	Location 207339 207349	Watteville
+T1387	Person 207540 207546	Albert
+T1388	Location 207888 207892	Rupt
+T1389	Person 207923 207937	ALBERT SAVARUS
+T1390	Location 208092 208103	Chavouoburt
+T1391	Person 208137 208144	Sidonie
+T1392	Person 208307 208322	abbé de Grancey
+T1393	Organization 208638 208645	Berryer
+T1394	Location 208807 208817	Fitz—James
+T1395	Location 208820 208828	Toulouse
+T1396	Location 208864 208875	Wàtt'eville
+T1397	Location 208922 208929	Saverne
+T1398	Location 209145 209150	Chère
+T1399	Location 209174 209185	Chavoncourt
+T1400	Location 209355 209364	Sa'varu's
+T1401	Person 209367 209376	Philomène
+T1402	Location 209468 209475	Saverne
+T1403	Location 209590 209597	Sidonie
+T1404	Location 209615 209622	Savarus
+T1405	Person 209625 209634	Philomène
+T1406	Location 209723 209730	Savarus
+T1407	Location 209862 209868	Granœy
+T1408	Person 209920 209929	Philomène
+T1409	Location 210075 210086	Wattevill‘e
+T1410	Location 210091 210100	Philomène
+T1411	Location 210172 210178	Albert
+T1412	Person 210232 210241	Philomène
+T1413	Person 210282 210297	abbé de Grancey
+T1414	Location 210306 210315	Philomène
+T1415	Person 210350 210359	Philomène
+T1416	Person 210458 210473	abbé de Granaey
+T1417	Person 210553 210566	Philomène qu’
+T1418	Person 210652 210657	.— Qu
+T1419	Person 210879 210893	Albert Savaron
+T1420	Location 210897 210904	Saverne
+T1421	Hour 210967 210978	onze heures
+T1422	Location 211098 211106	Godenars
+T1423	Location 211238 211248	Vauchelles
+T1424	Person 211252 211267	abbé de Grancey
+T1425	Location 211269 211278	Philomène
+T1426	Person 211280 211286	Amédée
+T1427	Location 211290 211296	Soulas
+T1428	Location 211394 211402	Besançon
+T1429	Person 211438 211453	Albert Savaru's
+T1430	Person 211457 211472	abbé de Grancey
+T1431	Location 211650 211657	Saverne
+T1432	Location 211673 211685	Ghavon‘ceurt
+T1433	Location 211791 211796	Lisez
+T1434	Person 211859 211868	Philomène
+T1435	Person 212122 212131	Philomène
+T1436	Person 212191 212206	Albert Savarusl
+T1437	Person 212244 212253	Philomène
+T1438	Person 212365 212374	Philomène
+T1439	Location 212404 212411	Grancey
+T1440	Organization 212654 212666	Qur a—t— .il
+T1441	Person 212742 212751	Philomène
+T1442	Person 212935 212942	Sidonie
+T1443	Location 212965 212974	Philomène
+T1444	Location 213009 213017	Mariette
+T1445	Person 213082 213088	Albert
+T1446	Location 213161 213166	Paris
+T1447	Organization 213188 213202	Hôtel National
+T1448	Person 213325 213331	Jérôme
+T1449	Person 213480 213489	Philomène
+T1450	Location 213514 213522	Mariette
+T1451	Location 213580 213587	Savarùs
+T1452	Person 213652 213658	Jérôme
+T1453	Person 213980 213986	Jérôme
+T1454	Person 214402 214408	Jérôme
+T1455	Person 214421 214436	Albert Saÿàion‘
+T1456	Location 214456 214465	vieillard
+T1457	Person 214658 214670	Gentillet ui
+T1458	Person 214926 214943	monsieur Girardot
+T1459	Person 214997 215003	Jérôme
+T1460	Location 215166 215172	Jérôme
+T1461	Person 215298 215304	Jérôme
+T1462	Person 215341 215349	Girardet
+T1463	Person 215477 215483	Jérôme
+T1464	Location 215562 215565	Ge-
+T1465	Person 215575 215581	Jérôme
+T1466	Organization 215622 215637	Hôtel National?
+T1467	Person 215850 215865	abbé de Grancey
+T1468	Person 215871 215880	Philomène
+T1469	Person 215908 215925	monsieur Girardot
+T1470	Person 215959 215965	Jérôme
+T1471	Person 216023 216030	Savaron
+T1472	Person 216149 216158	Philomène
+T1473	Location 216294 216302	Besançon
+T1474	Person 216631 216635	Jean
+T1475	Person 216707 216721	Albert Savaron
+T1476	Location 216782 216790	Besançon
+T1477	Person 216962 216979	Albert de Saverne
+T1478	Location 217016 217024	Girardot
+T1479	Person 217048 217057	Philomène
+T1480	Location 217111 217119	Girardot
+T1481	Person 217172 217187	prince Soderini
+T1482	Person 217475 217492	Albert de Saverne
+T1483	Person 217494 217500	Jérôme
+T1484	Person 217504 217512	Mariette
+T1485	Person 217623 217632	Philomène
+T1486	Person 217701 217717	marier Philomène
+T1487	Location 217900 217905	Quand
+T1488	Location 218250 218256	Vilard
+T1489	Person 219017 219026	Philomène
+T1490	Location 219041 219047	Seules
+T1491	Person 219316 219325	Philomène
+T1492	Person 219439 219448	Philomène
+T1493	Location 219502 219510	BALZÀG.‘
+T1494	Person 219526 219532	Amédée
+T1495	Location 219536 219542	Soulas
+T1496	Location 219816 219822	Soulas
+T1497	Location 219904 219910	Seules
+T1498	Location 219921 219923	Oh
+T1499	Location 220044 220054	Watteville
+T1500	Person 220056 220072	reprit Philomène
+T1501	Location 220179 220181	Oh
+T1502	Location 220404 220414	Watteville
+T1503	Person 220465 220474	Philomène
+T1504	Location 220786 220790	Bupt
+T1505	Location 220848 220856	Besançon
+T1506	Location 220877 220887	Watteville
+T1507	Location 220936 220942	Soulas
+T1508	Person 220964 220970	Jérôme
+T1509	Location 221074 221084	Chartreuse
+T1510	Person 221182 221191	Philomène
+T1511	Location 221405 221415	Watteville
+T1512	Person 221433 221442	Philomène
+T1513	Location 221849 221859	Watteville
+T1514	Location 221879 221885	Soulas
+T1515	Person 221950 221959	Philomène
+T1516	Date 222285 222296	quinze août
+T1517	Location 222300 222308	Besançon
+T1518	Location 222346 222351	Quand
+T1519	Person 222396 222405	Philomène
+T1520	Location 222513 222519	Albert
+T1521	Person 222606 222615	Philomène
+T1522	Person 222865 222875	mon Albert
+T1523	Location 223197 223204	Phétoré
+T1524	Organization 223234 223250	duc ”de Chaulieu
+T1525	Location 223304 223312	Argaiolo
+T1526	Person 223450 223464	ALBERT SAVARUS
+T1527	Location 223511 223519	Florence
+T1528	Location 223558 223566	Argaiolo
+T1529	Location 223607 223613	Italie
+T1530	Person 223777 223786	Philomène
+T1531	Location 223948 223950	Oh
+T1532	Location 224155 224165	Watteville
+T1533	Location 224575 224585	Watteville
+T1534	Location 224661 224666	Quand
+T1535	Location 224813 224821	Besançon
+T1536	Location 224898 224903	Quand
+T1537	Location 224914 224924	Watteville
+T1538	Hour 224932 224943	huit heures
+T1539	Location 225006 225014	Besançon
+T1540	Location 225043 225053	Watleville
+T1541	Location 225122 225128	Riceys
+T1542	Location 225337 225345	Besançon
+T1543	Location 225683 225690	Héloïse
+T1544	Location 225694 225709	Père-L&— chaise
+T1545	Location 225788 225792	Rupt
+T1546	Person 225818 225827	Philomène
+T1547	Location 226057 226065	Girardot
+T1548	Person 226072 226087	abbé de Grancey
+T1549	Location 226127 226133	Albert
+T1550	Person 226308 226317	Francesca
+T1551	Location 226320 226326	Albert
+T1552	Location 226393 226403	Watteville
+T1553	Person 226433 226439	Albert
+T1554	Person 226477 226486	Francesca
+T1555	Person 226701 226707	Albert
+T1556	Location 226832 226840	Argaiolo
+T1557	Person 226924 226933	Philomène
+T1558	Person 226988 226999	Phi- lomène
+T1559	Person 227050 227058	Al- bert
+T1560	Person 227267 227276	Philomène
+T1561	Location 227288 227293	plume
+T1562	Person 227299 227305	Albert
+T1563	Person 227379 227388	Philomène
+T1564	Location 227439 227447	Argaiolo
+T1565	Person 227490 227496	Albert
+T1566	Location 227513 227522	Philomène
+T1567	Person 227711 227720	Francesca
+T1568	Person 228002 228017	abbé de Grancey
+T1569	Person 228019 228023	Dieu
+T1570	Location 228656 228666	Providence
+T1571	Location 228764 228768	quoi
+T1572	Person 229075 229079	Dieu
+T1573	Location 229141 229144	Qu’
+T1574	Person 229170 229176	Albert
+T1575	Person 229290 229305	prince Soderini
+T1576	Location 229336 229344	Argaiolo
+T1577	Location 229451 229457	Albert
+T1578	Person 229868 229877	Philomène
+T1579	Location 229884 229889	Quand
+T1580	Location 230043 230049	Amédée
+T1581	Location 230154 230157	Oui
+T1582	Location 230163 230172	Philomène
+T1583	Location 230221 230228	Grancey
+T1584	Location 230373 230379	Seules
+T1585	Person 230955 230964	Philomène
+T1586	Organization 231050 231060	Beli— gion
+T1587	Person 231265 231274	Philomène
+T1588	Location 231503 231509	Albert
+T1589	Person 231537 231554	Léopold Heunequin
+T1590	Location 231566 231571	Paris
+T1591	Person 231901 231904	Gur
+T1592	Person 232086 232095	Philomène
+T1593	Location 232115 232122	Graueey
+T1594	Person 232218 232224	Albert
+T1595	Person 232262 232271	Philomène
+T1596	Person 232294 232311	Léopold Hennequiu
+T1597	Location 232321 232329	Besançon
+T1598	Person 232628 232634	Albert
+T1599	Location 232637 232645	Girardel
+T1600	Location 232767 232772	Quand
+T1601	Person 233026 233043	Albert de Saverne
+T1602	Location 233106 233113	Léopold
+T1603	Location 233217 233225	Besançon
+T1604	Person 233311 233317	Albert
+T1605	Location 233398 233406	Grenoble
+T1606	Location 233861 233870	Belgirele
+T1607	Person 233903 233909	Albert
+T1608	Location 233994 234001	Londres
+T1609	Location 234008 234015	Londres
+T1610	Location 234052 234058	Naples
+T1611	Location 234067 234073	Naples
+T1612	Location 234114 234121	Rhétoré
+T1613	Location 234125 234130	Quand
+T1614	Person 234131 234137	Albert
+T1615	Location 234163 234171	Argaiolo
+T1616	Location 234183 234191	Florence
+T1617	Location 234419 234423	quoi
+T1618	Person 234438 234444	Albert
+T1619	Location 234634 234639	Paris
+T1620	Person 234987 234993	Albert
+T1621	Person 235359 235371	Albert ﬁrmes
+T1622	Location 235412 235418	BALZAC
+T1623	Person 235716 235727	Ordre- Wous
+T1624	Person 236578 236582	Dieu
+T1625	Person 236901 236905	Dieu
+T1626	Location 237443 237448	Samir
+T1627	Person 237453 237464	Brune- Yous
+T1628	Location 237683 237692	Philomène
+T1629	Location 237907 237913	Seules
+T1630	Person 237947 237953	Albert
+T1631	Location 238208 238214	Franco
+T1632	Location 238236 238246	Chartreuse
+T1633	Location 238324 238330	Seules
+T1634	Person 238391 238400	Philomène
+T1635	Location 238499 238506	Graueey
+T1636	Location 238739 238745	SoulﬂS
+T1637	Location 238865 238875	Watieyille
+T1638	Location 238883 238890	Famjtié
+T1639	Person 238909 238920	Phi— lomène
+T1640	Location 238950 238955	Paris
+T1641	Person 239032 239043	gur Saverne
+T1642	Location 239106 239114	Wat—Wine
+T1643	Person 239252 239265	ALBERT SAVARU
+T1644	Location 239386 239396	Watteville
+T1645	Person 239398 239407	Philomène
+T1646	Location 239454 239460	Seules
+T1647	Location 239536 239542	Seules
+T1648	Location 239642 239651	Philomène
+T1649	Location 239754 239760	Seules
+T1650	Person 239895 239904	Philomène
+T1651	Location 239922 239932	Watteville
+T1652	Location 240152 240161	Philomène
+T1653	Location 240217 240222	Paris
+T1654	Location 240361 240370	Philomène
+T1655	Location 240411 240417	Seules
+T1656	Location 240446 240450	Rupt
+T1657	Location 240556 240565	Philomène
+T1658	Location 240656 240661	Paris
+T1659	Location 240702 240709	Rhétoré
+T1660	Person 240787 240796	Philomène
+T1661	Date 241039 241043	1830
+T1662	Person 241073 241082	Philomène
+T1663	Location 241241 241258	Grande Chartreuse
+T1664	Person 241290 241307	Albert de Savarus
+T1665	Location 241371 241381	Watteville
+T1666	Location 241410 241418	Besançon
+T1667	Person 241444 241453	Philomène
+T1668	Person 241578 241591	Francesca So—
+T1669	Location 241628 241634	Albert
+T1670	Location 241791 241798	Rhétoré
+T1671	Person 241842 241848	Albert
+T1672	Organization 241874 241879	Opéra
+T1673	Person 241961 241970	Philomène
+T1674	Location 242028 242037	Philomène
+T1675	Person 242077 242083	Albert
+T1676	Person 242123 242140	Léopold Hannequin
+T1677	Location 242230 242237	Grancey
+T1678	Person 242450 242459	Philomène
+T1679	Location 242528 242538	Besan— con
+T1680	Location 242557 242567	Watteville
+T1681	Location 242720 242728	Besançon
+T1682	Location 242861 242867	Seules
+T1683	Location 242948 242954	Seules
+T1684	Location 243135 243145	Watteville
+T1685	Location 243415 243425	Watteville
+T1686	Location 243510 243518	Besançon
+T1687	Person 243755 243770	abbé de Grancey
+T1688	Location 243788 243792	sion
+T1689	Location 243816 243821	Loire
+T1690	Location 243894 243900	Watte—
+T1691	Location 244179 244189	Chartreuse
+T1692	Location 244273 244278	Paris
+T1693	Location 244295 244297	D’
+T1694	Organization 244297 244311	ALBERT savanes
+T1695	Person 244331 244344	Louis Grimaux
+T1696	Location 244346 244362	rue du Croissant
+T1697	Person 244480 244485	D’ÈVE
+T1698	Location 244525 244534	BOLOGNINI
+T1699	Person 244536 244549	NÉE VlMERGATI
+T1700	Location 244660 244665	Paris
+T1701	Location 244668 244673	Milan
+T1702	Person 244998 245005	Eugénie
+T1703	Location 245324 245331	Italien
+T1704	Location 245339 245348	constance
+T1705	Person 245391 245398	Eugénie
+T1706	Location 245488 245508	Vicolo dei Capuccini
+T1707	Person 245618 245631	Tre Monasteri
+T1708	Person 245815 245826	Carla Dalai
+T1709	Person 245829 245836	Raphaël
+T1710	Location 245839 245845	Titien
+T1711	Location 245848 245854	Allôri
+T1712	Location 245955 245960	Alpes
+T1713	Location 246094 246119	rue Neuve—des—Ma— thurins
+T1714	Hour 246123 246134	onze heures
+T1715	Location 246456 246465	latenture
+T1716	Location 247613 247617	Saxe
+T1717	Organization 247698 247708	Extrait de
+T1718	Person 247734 247743	DE BALZAG
+T1719	Location 247929 247935	Venise
+T1720	Location 248425 248444	Ferdinand du Tillet
+T1721	Location 248479 248484	Paris
+T1722	Person 248616 248620	Dieu
+T1723	Location 248638 248644	Tillet
+T1724	Location 248695 248704	Granville
+T1725	Location 248782 248788	France
+T1726	Location 248979 248989	Vandenesse
+T1727	Location 249009 249018	Granville
+T1728	Location 249068 249078	Vandenesse
+T1729	Location 249203 249213	Vandenesse
+T1730	Person 249279 249288	Ferdinand
+T1731	Location 249296 249302	Tillet
+T1732	Date 249457 249461	1830
+T1733	Location 249547 249553	France
+T1734	Person 249608 249627	Félix de Vandenesse
+T1735	Location 249860 249866	Tillct
+T1736	Location 249979 249989	Vandenesse
+T1737	Person 249991 250003	Danslc monde
+T1738	Location 250216 250225	Keæarouét
+T1739	Location 251114 251129	Marie—Angélique
+T1740	Person 251133 251148	Marie— Eugeênie
+T1741	Location 251394 251399	Paris
+T1742	Event 252989 252993	Noël
+T1743	Person 253234 253247	Granville ai—
+T1744	Person 253322 253335	Mario Macoque
+T1745	Location 253513 253521	Religion
+T1746	Person 253727 253732	Marie
+T1747	Location 255253 255261	Religion
+T1748	Location 256386 256395	Granville
+T1749	Location 256450 256459	Granville
+T1750	Location 256999 257010	Jésus—ûhﬁst
+T1751	Location 257054 257058	quoi
+T1752	Person 257865 257873	Hoffmann
+T1753	Person 257889 257894	D’ÈVE
+T1754	Location 258034 258041	Anspach
+T1755	Location 258256 258265	vieillard
+T1756	Person 258316 258321	Marie
+T1757	Location 258639 258646	Schmuke
+T1758	Location 258866 258873	Schmuke
+T1759	Person 258896 258901	Marie
+T1760	Location 259006 259011	Paris
+T1761	Location 259071 259080	Granville
+T1762	Location 259174 259181	Schmuke
+T1763	Location 259569 259574	Paris
+T1764	Location 259712 259725	Montemisselle
+T1765	Location 260357 260359	D’
+T1766	Person 260427 260432	Marie
+T1767	Organization 261052 261061	Mélo- die
+T1768	Person 261283 261292	Beethoven
+T1769	Location 261294 261299	Haydn
+T1770	Location 261301 261310	Paësiello
+T1771	Location 261312 261320	Cimarosa
+T1772	Location 261322 261328	Hummel
+T1773	Location 261535 261540	Quand
+T1774	Person 261749 261754	Marie
+T1775	Person 262667 262673	Quelle
+T1776	Person 262990 262994	Dieu
+T1777	Person 263947 263952	Marie
+T1778	Location 264555 264557	D’
+T1779	Location 265384 265393	Angélique
+T1780	Person 265409 265416	Eugénie
+T1781	Person 265598 265602	Dieu
+T1782	Location 265737 265744	Jérémie
+T1783	Location 265833 265838	Quand
+T1784	Person 266079 266084	Marie
+T1785	Person 266451 266460	DE BALZAC
+T1786	Location 267151 267160	Angélique
+T1787	Person 267164 267171	Eugénie
+T1788	Location 267407 267412	Quand
+T1789	Location 267829 267837	Religion
+T1790	Location 268394 268398	sion
+T1791	Person 268580 268587	Eugénie
+T1792	Person 269759 269775	Marie- Angélique
+T1793	Location 269779 269792	Marie-Eugénie
+T1794	Person 269959 269964	Agnès
+T1795	Person 270016 270021	Marie
+T1796	Person 270094 270101	Eugénie
+T1797	Location 270146 270155	Angélique
+T1798	Location 271399 271408	Angélique
+T1799	Person 271519 271526	Eugénie
+T1800	Person 271805 271812	Eugénie
+T1801	Location 271908 271917	Angélique
+T1802	Location 272067 272077	Vandenesse
+T1803	Person 272716 272724	Napoléon
+T1804	Location 272854 272860	Tillet
+T1805	Location 273848 273851	toi
+T1806	Person 274552 274557	D’ÈVE
+T1807	Location 274571 274574	Oui
+T1808	Person 275125 275131	Quelle
+T1809	Location 275247 275252	Songe
+T1810	Organization 275463 275479	Madame du Tillet
+T1811	Location 275811 275814	Oui
+T1812	Person 276418 276427	Ferdinand
+T1813	Organization 277134 277150	Madame du Tillet
+T1814	Hour 277831 277848	in— failliblement
+T1815	Location 278428 278431	toi
+T1816	Person 278709 278716	Eugénie
+T1817	Location 278736 278745	Angélique
+T1818	Location 278983 278986	toi
+T1819	Person 279047 279056	Ferdinand
+T1820	Location 279121 279131	Nucin- gen
+T1821	Person 279209 279218	Du Tillet
+T1822	Location 279437 279445	Nucingen
+T1823	Location 279709 279717	Léonarde
+T1824	Location 279860 279866	Tillet
+T1825	Location 279868 279871	Nu-
+T1826	Person 279948 279957	Ferdinand
+T1827	Location 279968 279974	Tillet
+T1828	Location 280163 280171	Nucingen
+T1829	Location 280197 280213	rue Saint—Lazare
+T1830	Location 280410 280415	Chère
+T1831	Location 280506 280516	Vandenesse
+T1832	Location 280557 280563	Tillet
+T1833	Hour 280611 280622	onze heures
+T1834	Location 280690 280696	Tillet
+T1835	Location 280953 280959	Tillet
+T1836	Person 281044 281049	Félix
+T1837	Person 281195 281202	Eugénie
+T1838	Location 281483 281491	Napoléon
+T1839	Person 281581 281590	Eugé— nie
+T1840	Location 281619 281625	Tillet
+T1841	Location 281774 281780	Tillet
+T1842	Location 281948 281958	Vandenesse
+T1843	Person 282105 282112	Eugénie
+T1844	Location 282181 282187	Tillet
+T1845	Location 282222 282228	France
+T1846	Location 282242 282250	Nucingen
+T1847	Organization 282279 282298	Chambre des députés
+T1848	Location 282512 282518	Tillet
+T1849	Location 282543 282549	Tillet
+T1850	Person 282626 282636	Charles X.
+T1851	Location 282681 282687	BALZAC
+T1852	Location 282966 282972	Tillet
+T1853	Location 283087 283097	Vandenesse
+T1854	Person 283250 283257	Eugénie
+T1855	Person 283616 283625	Du Tillet
+T1856	Location 283735 283744	Vernie‘il
+T1857	Location 284023 284029	Clichy
+T1858	Person 284566 284573	Eugénie
+T1859	Location 284645 284656	Vandene‘sse
+T1860	Location 284745 284747	D’
+T1861	Location 284844 284850	Tillet
+T1862	Location 284877 284881	quoi
+T1863	Organization 284994 285010	Madame du Tillet
+T1864	Location 285138 285144	Tillet
+T1865	Organization 285330 285346	Madame du Tillet
+T1866	Person 285358 285377	Félix de Vandenesse
+T1867	Person 285722 285741	Félix de Vandenesse
+T1868	Person 286064 286083	Félix de Vandenesse
+T1869	Person 286628 286633	Félix
+T1870	Location 286710 286715	Paris
+T1871	Person 286917 286928	lady Dudley
+T1872	Location 286967 286970	Fé-
+T1873	Location 286995 287000	roman
+T1874	Location 287078 287088	Manerville
+T1875	Person 287425 287430	Félix
+T1876	Location 287662 287671	Granville
+T1877	Location 288205 288213	Epictète
+T1878	Location 288323 288333	Vandenesse
+T1879	Location 288370 288379	Granville
+T1880	Organization 289127 289133	Esprit
+T1881	Location 289158 289166	Divinité
+T1882	Location 289441 289444	Fé-
+T1883	Location 289452 289462	Vandenesse
+T1884	Location 289705 289720	Marie—Angélique
+T1885	Person 289779 289784	Félix
+T1886	Location 289786 289799	rue du Rocher
+T1887	Person 290135 290144	Félix ex—
+T1888	Location 290632 290633	L
+T1889	Location 290850 290860	Vandenesse
+T1890	Person 290981 290986	Félix
+T1891	Person 291006 291011	Félix
+T1892	Person 291239 291244	Félix
+T1893	Person 291578 291583	Félix
+T1894	Location 292289 292294	roman
+T1895	Location 292300 292306	Astrc'
+T1896	Person 292351 292356	Félix
+T1897	Location 292669 292679	Vandenesse
+T1898	Person 293224 293228	Dieu
+T1899	Location 293943 293953	Vandenesse
+T1900	Location 294277 294287	Vandenesse
+T1901	Location 294631 294640	constance
+T1902	Location 294661 294671	Vandenesse
+T1903	Person 294926 294930	Dieu
+T1904	Person 295068 295073	Dante
+T1905	Location 295096 295100	Van-
+T1906	Location 295408 295430	Rivarol lisant Florian
+T1907	Person 295545 295548	Eve
+T1908	Location 295760 295770	Vandenesse
+T1909	Location 296228 296232	quoi
+T1910	Location 296701 296711	Vandenesse
+T1911	Organization 297086 297100	comtesse Marie
+T1912	Person 297327 297332	Félix
+T1913	Person 297807 297826	Félix de Vandenesse
+T1914	Person 298015 298027	Giulia Grisi
+T1915	Person 298198 298203	Félix
+T1916	Location 298240 298242	D’
+T1917	Location 298389 298399	Vandenesse
+T1918	Person 298535 298540	Marie
+T1919	Location 298643 298648	Félix
+T1920	Location 298788 298797	Listemère
+T1921	Person 299017 299025	Félix de
+T1922	Location 299026 299036	Vandenesse
+T1923	Person 299046 299055	DE BALZAC
+T1924	Location 299218 299223	Quand
+T1925	Location 299257 299267	Vandenesse
+T1926	Date 299444 299448	1830
+T1927	Location 299582 299588	Europe
+T1928	Organization 299640 299668	faubourg Saint-Germain honda
+T1929	Location 300005 300015	Vandenesse
+T1930	Location 300328 300332	Van—
+T1931	Location 300545 300551	Espard
+T1932	Location 300556 300566	Manerville
+T1933	Person 300568 300579	lady Dudley
+T1934	Person 300769 300774	Félix
+T1935	Person 301057 301062	Félix
+T1936	Person 301093 301098	Marie
+T1937	Location 301390 301399	Listomère
+T1938	Person 301447 301466	Félix de Vandenesse
+T1939	Location 301522 301527	Paris
+T1940	Person 301554 301559	Marie
+T1941	Person 301573 301594	Charles de Vandenesse
+T1942	Location 302088 302103	Marie—Angélique
+T1943	Location 302157 302161	Cha—
+T1944	Organization 303153 303160	Théâtre
+T1945	Location 303697 303702	Quand
+T1946	Location 303952 303956	Van—
+T1947	Location 304389 304394	Staël
+T1948	Location 304417 304422	Quand
+T1949	Location 304584 304594	Vandenesse
+T1950	Location 304720 304727	son-âme
+T1951	Location 304842 304852	Vandenesse
+T1952	Person 304940 304951	lady Dudley
+T1953	Location 304999 305008	Grandlieu
+T1954	Location 305094 305103	Rochegude
+T1955	Location 305338 305344	Espard
+T1956	Location 305447 305458	Saint—Hérem
+T1957	Location 305461 305466	Quand
+T1958	Person 305559 305570	lady Dudley
+T1959	Organization 305681 305686	Opéra
+T1960	Location 305712 305718	Espdrd
+T1961	Location 305794 305806	Mont— cornet
+T1962	Location 305827 305836	Grandlieu
+T1963	Location 306220 306224	quoi
+T1964	Organization 306353 306361	sa- lons
+T1965	Person 306379 306394	Félix de Vande'
+T1966	Location 306433 306443	Montcornet
+T1967	Location 306911 306917	Espard
+T1968	Location 306986 306995	Grandlieu
+T1969	Location 307332 307340	BaoulNa-
+T1970	Person 307423 307428	D’ÈVE
+T1971	Person 307474 307488	Emile Bloridet
+T1972	Location 307595 307602	Blondet
+T1973	Person 307839 307853	Raoul Na— than
+T1974	Person 308263 308268	Raoul
+T1975	Location 308331 308335	quoi
+T1976	Person 308598 308603	Raoul
+T1977	Person 308604 308610	Nathan
+T1978	Person 309677 309682	Raoul
+T1979	Person 309962 309967	Raoul
+T1980	Person 310183 310190	Molière
+T1981	Location 310483 310496	Chateaubriand
+T1982	Organization 310501 310508	Girodet
+T1983	Person 311486 311491	Raoul
+T1984	Location 311803 311808	Paris
+T1985	Location 312451 312453	D’
+T1986	Person 312751 312767	Vandenesse.— Les
+T1987	Person 312846 312853	—- Sii’
+T1988	Person 312956 312968	Raoul Nathan
+T1989	Location 313702 313709	Florine
+T1990	Person 313803 313809	Nathan
+T1991	Location 314074 314079	Pinto
+T1992	Organization 314130 314135	0déon
+T1993	Person 314541 314554	Emile Blondet
+T1994	Person 314631 314637	Nathan
+T1995	Date 314699 314729	vaudeville dix—huitième siècle
+T1996	Location 315359 315364	roman
+T1997	Organization 315932 315942	Extrait de
+T1998	Person 315975 315984	DE BALZAC
+T1999	Person 316212 316218	Nathan
+T2000	Person 316361 316377	André de Chénier
+T2001	Date 316582 316586	1830
+T2002	Location 317323 317329	Marsay
+T2003	Location 317463 317472	Richelieu
+T2004	Location 317539 317541	D’
+T2005	Person 317621 317626	Raoul
+T2006	Person 317763 317768	Raoul
+T2007	Organization 318504 318511	Eurotas
+T2008	Person 320405 320411	Nathan
+T2009	Location 321373 321378	Paris
+T2010	Location 321387 321392	Paris
+T2011	Person 321623 321628	Félix
+T2012	Location 321659 321664	plume
+T2013	Person 321723 321729	Nathan
+T2014	Location 322381 322386	Quand
+T2015	Location 322713 322720	Molière
+T2016	Location 322735 322740	Quand
+T2017	Person 322792 322797	Raoul
+T2018	Location 322839 322849	Montcornet
+T2019	Location 322941 322947	Marsay
+T2020	Location 322953 322962	Rastignac
+T2021	Person 322971 322982	Roche Hugon
+T2022	Person 323105 323118	Emile Blondet
+T2023	Person 323138 323144	Nathan
+T2024	Location 323258 323263	Raoul
+T2025	Location 323296 323306	Monlcornet
+T2026	Organization 323405 323410	Opéra
+T2027	Person 323456 323460	Dieu
+T2028	Person 323587 323599	Raoul Nathan
+T2029	Person 324047 324057	chez Raoul
+T2030	Person 324121 324124	Eve
+T2031	Location 324157 324170	rue du Rocher
+T2032	Person 324331 324336	Raoul
+T2033	Person 324490 324495	D’ÈVE
+T2034	Person 324684 324690	Nathan
+T2035	Person 324739 324744	Marie
+T2036	Person 324991 324996	Raoul
+T2037	Location 325053 325058	Camps
+T2038	Person 325277 325282	Raoul
+T2039	Person 325582 325585	Eve
+T2040	Location 325690 325695	Paris
+T2041	Location 325808 325812	Lune
+T2042	Person 325965 325970	Raoul
+T2043	Person 326083 326088	Marie
+T2044	Person 326267 326272	Félix
+T2045	Organization 326289 326297	Mon cher
+T2046	Location 326312 326318	Espard
+T2047	Location 326334 326339	Raoul
+T2048	Location 326529 326535	Espard
+T2049	Person 326561 326566	Raoul
+T2050	Location 326569 326576	Blondet
+T2051	Location 326787 326790	toi
+T2052	Person 326845 326850	Raoul
+T2053	Location 326856 326858	Oh
+T2054	Person 326886 326899	Emile Blondel
+T2055	Person 326922 326936	Lady Dudley t’
+T2056	Person 327004 327009	Raoul
+T2057	Location 327013 327020	Blondel
+T2058	Location 327046 327055	Rastignac
+T2059	Location 327284 327291	Blondet
+T2060	Location 327504 327513	Rastignac
+T2061	Location 327517 327524	Blondet
+T2062	Organization 327701 327715	comtesse Marie
+T2063	Location 327719 327729	Vandenesse
+T2064	Person 327873 327878	Raoul
+T2065	Location 328319 328328	Champagne
+T2066	Person 328330 328344	Raoul Nathans’
+T2067	Location 328474 328481	Florlne
+T2068	Location 328708 328713	Laure
+T2069	Organization 329055 329057	Va
+T2070	Location 329085 329094	Rastignac
+T2071	Location 329143 329148	Moïse
+T2072	Person 329167 329172	Raoul
+T2073	Person 329322 329325	Eve
+T2074	Location 329332 329345	rue du Rocher
+T2075	Location 329523 329527	Van—
+T2076	Location 329838 329845	Fraîche
+T2077	Person 330042 330047	Marie
+T2078	Person 330073 330078	Raoul
+T2079	Person 330082 330087	Félix
+T2080	Person 330235 330240	Raoul
+T2081	Person 330245 330261	Félix Vandenesse
+T2082	Person 330424 330435	lady Dudley
+T2083	Person 330709 330721	Raoul Nathan
+T2084	Location 330887 330897	Montcornet
+T2085	Person 330969 330974	Marie
+T2086	Person 330979 330984	Félix
+T2087	Person 331090 331102	Raoul Nathan
+T2088	Location 331138 331145	Florine
+T2089	Location 331230 331239	constance
+T2090	Person 331741 331746	Félix
+T2091	Person 331921 331926	Raoul
+T2092	Location 331935 331945	Vandenesse
+T2093	Person 332044 332055	lady Dudley
+T2094	Person 332063 332075	Marsay parut
+T2095	Location 332225 332232	Blondet
+T2096	Location 332252 332262	Vandenesse
+T2097	Person 332288 332300	Raoul Nathan
+T2098	Person 333827 333833	Rubens
+T2099	Date 334411 334430	dix—huitième siècle
+T2100	Person 334478 334487	Louis‘ XV
+T2101	Location 334586 334595	Re— phaël
+T2102	Organization 335439 335459	Europe scintillaiént
+T2103	Organization 336479 336499	inimoral lord Dudley
+T2104	Person 336534 336553	Félix de Vandenesse
+T2105	Person 336600 336606	Nathan
+T2106	Person 336790 336799	DE BALZAG
+T2107	Person 336843 336849	Nathan
+T2108	Location 337005 337016	Roche—Hagen
+T2109	Location 337170 337178	Nucingen
+T2110	Location 337402 337408	France
+T2111	Location 337605 337612	Blondet
+T2112	Location 337801 337811	Montcornet
+T2113	Person 337829 337835	Nathan
+T2114	Location 337975 337981	Marsay
+T2115	Location 337983 337989	Resti—
+T2116	Location 337996 338003	Blondet
+T2117	Location 338005 338015	Talleyrand
+T2118	Location 338221 338233	Mon ave— nir
+T2119	Location 338379 338389	Vandenesse
+T2120	Location 338532 338540	Lawrence
+T2121	Person 338659 338670	Lady Dudley
+T2122	Location 338741 338747	Vande—
+T2123	Location 338766 338776	Manerville
+T2124	Person 338826 338831	Félix
+T2125	Person 339257 339270	Félix de Van-
+T2126	Person 340487 340492	Marie
+T2127	Location 340750 340760	Mancrville
+T2128	Person 340832 340838	Nathan
+T2129	Person 340891 340896	Marie
+T2130	Location 341157 341159	D’
+T2131	Person 341200 341205	Félix
+T2132	Location 341308 341318	Manerville
+T2133	Person 341323 341328	Félix
+T2134	Person 341512 341517	Marie
+T2135	Location 341671 341691	rue Basse—du—Rempart
+T2136	Location 341698 341722	rue Neuve—des— Mathurins
+T2137	Person 341724 341729	Raoul
+T2138	Location 342125 342132	Florine
+T2139	Person 342200 342206	Nathan
+T2140	Person 342299 342304	Raoul
+T2141	Location 342486 342493	Florine
+T2142	Location 343310 343318	Napoléon
+T2143	Person 343410 343417	Molière
+T2144	Location 343421 343426	Talma
+T2145	Person 343707 343714	Florine
+T2146	Location 344706 344713	Decamps
+T2147	Person 344764 344777	Antonin Moine
+T2148	Person 344814 344828	Eugène Devéria
+T2149	Person 344873 344888	Louis Boulanger
+T2150	Person 344908 344918	lord Byron
+T2151	Location 344921 344929	Caroline
+T2152	Location 345353 345364	Michel—Ange
+T2153	Location 345483 345489	Vienne
+T2154	Location 345556 345567	Renaissance
+T2155	Location 345584 345589	Boule
+T2156	Location 345974 345979	Japon
+T2157	Person 346962 346978	Sophie Grignoult
+T2158	Location 347002 347009	Florine
+T2159	Person 347155 347167	Raoul Nathan
+T2160	Location 347284 347289	Raoul
+T2161	Location 347359 347366	Florine
+T2162	Person 347526 347532	Nathan
+T2163	Location 347803 347810	Florine
+T2164	Location 347970 347975	Quand
+T2165	Person 348242 348249	Florine
+T2166	Location 348584 348588	Flo-
+T2167	Location 348758 348763	Quand
+T2168	Location 348984 348990	Poppée
+T2169	Location 349349 349354	roman
+T2170	Location 350784 350791	Molière
+T2171	Location 351214 351221	Florine
+T2172	Person 351415 351422	Florine
+T2173	Organization 352502 352513	Crédit sans
+T2174	Location 352990 352995	Quand
+T2175	Location 353221 353224	Qu’
+T2176	Location 353533 353540	Florine
+T2177	Person 353872 353881	Euphrasie
+T2178	Location 353907 353916	Val—Noble
+T2179	Location 353918 353926	Mariette
+T2180	Person 353956 353965	DE BALZAG
+T2181	Location 353976 353981	Paris
+T2182	Location 354867 354874	Blondet
+T2183	Location 354876 354881	Finot
+T2184	Person 354883 354899	Etienne Lousteau
+T2185	Person 354937 354952	Félicien Vernon
+T2186	Location 354972 354979	Couture
+T2187	Location 354981 354987	Bixiou
+T2188	Location 354989 354998	Rastignac
+T2189	Person 355010 355023	Claude Vignon
+T2190	Location 355037 355045	Nucingcn
+T2191	Location 355062 355068	Tillet
+T2192	Person 355070 355075	Conti
+T2193	Location 355245 355252	Florine
+T2194	Location 356137 356142	Paris
+T2195	Location 356390 356397	Florine
+T2196	Person 356511 356524	quels Théâtre
+T2197	Location 357156 357161	Paris
+T2198	Location 357194 357198	Flo-
+T2199	Date 357430 357445	huitième siècle
+T2200	Location 357486 357491	Quand
+T2201	Location 357562 357569	Florine
+T2202	Hour 357763 357783	deux heures du matin
+T2203	Person 358152 358164	saint Genest
+T2204	Organization 358272 358279	Théâtre
+T2205	Person 358340 358345	D’ÈVE
+T2206	Location 358356 358363	Florine
+T2207	Location 359065 359070	Talma
+T2208	Location 359075 359081	Lekain
+T2209	Location 359086 359091	Baron
+T2210	Location 359096 359102	Contat
+T2211	Location 359121 359131	Champmeslé
+T2212	Location 359353 359360	Florine
+T2213	Person 359858 359865	Florine
+T2214	Person 359885 359890	Raoul
+T2215	Person 360348 360353	Raoul
+T2216	Location 360542 360552	Champmeslé
+T2217	Location 360569 360573	Mars
+T2218	Location 360576 360582	Monvel
+T2219	Location 360598 360605	Florine
+T2220	Person 360627 360632	Raoul
+T2221	Person 360917 360925	Louis XV
+T2222	Location 360965 360972	Florine
+T2223	Location 361024 361029	Raoul
+T2224	Person 361283 361288	Raoul
+T2225	Person 361412 361417	Félix
+T2226	Person 361747 361752	Raoul
+T2227	Location 361773 361777	Flo—
+T2228	Location 362047 362053	Marsay
+T2229	Person 362174 362179	Raoul
+T2230	Location 362190 362197	Florine
+T2231	Location 362224 362231	Blondet
+T2232	Person 362267 362272	Emile
+T2233	Person 362276 362281	Raoul
+T2234	Location 362351 362357	France
+T2235	Location 363065 363072	Blondet
+T2236	Person 363284 363290	Nathan
+T2237	Location 363330 363338	Napoléon
+T2238	Person 363655 363661	Nathan
+T2239	Organization 363858 363863	Revue
+T2240	Organization 363865 363874	La Presse
+T2241	Person 363940 363949	Nathan n’
+T2242	Location 363970 363977	Blondet
+T2243	Location 364010 364017	Blondet
+T2244	Person 364178 364183	Raoul
+T2245	Person 364425 364431	Nathan
+T2246	Location 364457 364464	Blondet
+T2247	Location 364503 364510	Florine
+T2248	Location 364574 364581	Blondel
+T2249	Location 364651 364656	Emile
+T2250	Person 364659 364665	-— Oui
+T2251	Person 364684 364689	Raoul
+T2252	Location 364717 364724	Florine
+T2253	Location 364918 364925	Blondet
+T2254	Location 365116 365123	Florine
+T2255	Location 365183 365190	Blondet
+T2256	Location 365263 365265	D’
+T2257	Location 365300 365307	Florine
+T2258	Location 365397 365400	Oui
+T2259	Person 365445 365450	Raoul
+T2260	Person 365760 365765	Raoul
+T2261	Location 365768 365775	Florine
+T2262	Location 365799 365804	Raoul
+T2263	Location 365953 365957	Flo—
+T2264	Location 366027 366033	Massol
+T2265	Location 366083 366089	Tillet
+T2266	Location 366115 366120	Finot
+T2267	Location 366171 366178	Plantin
+T2268	Organization 366236 366241	Revue
+T2269	Location 366243 366246	Oui
+T2270	Person 366269 366278	DE BALZAC
+T2271	Person 366374 366385	Claude Vlgn
+T2272	Person 366416 366431	Félicien Vernon
+T2273	Location 366493 366499	Trllet
+T2274	Person 366705 366710	Raoul
+T2275	Location 366716 366721	Quand
+T2276	Person 366753 366758	Raoul
+T2277	Person 366836 366843	Florine
+T2278	Location 366873 366879	Tillet
+T2279	Person 366883 366888	Raoul
+T2280	Location 366964 366971	Blondet
+T2281	Location 367059 367064	Paris
+T2282	Location 367067 367074	Florine
+T2283	Person 367413 367420	Florine
+T2284	Person 367921 367933	quante mille
+T2285	Location 367935 367942	Florine
+T2286	Location 368121 368126	Quand
+T2287	Location 368209 368214	David
+T2288	Location 368271 368276	Quand
+T2289	Person 368277 368287	vint Raoul
+T2290	Organization 368421 368440	Théâtre àla Chambre
+T2291	Location 368813 368821	Communal
+T2292	Location 368826 368839	Départemental
+T2293	Organization 368844 368858	Garde National
+T2294	Location 368863 368870	Fédéral
+T2295	Location 368874 368883	Impurtiul
+T2296	Location 369126 369133	Florine
+T2297	Person 369182 369189	Florine
+T2298	Location 369340 369345	Quand
+T2299	Location 369620 369627	Florine
+T2300	Location 369824 369828	Flo-
+T2301	Location 370240 370247	Florine
+T2302	Person 370276 370287	cria Bintou
+T2303	Person 370459 370486	Raoul apporta railleusement
+T2304	Person 370720 370725	Raoul
+T2305	Location 370733 370740	Blondet
+T2306	Location 370764 370771	Blondet
+T2307	Location 371010 371017	Florine
+T2308	Organization 371339 371357	chambre de Florine
+T2309	Location 371419 371424	Raoul
+T2310	Location 371559 371569	Vandenesse
+T2311	Person 371587 371592	Raoul
+T2312	Person 371697 371705	Louis XV
+T2313	Location 371817 371824	Florine
+T2314	Location 371865 371870	Raoul
+T2315	Person 371986 371991	Raoul
+T2316	Location 372088 372095	Florine
+T2317	Location 372142 372150	Fontaine
+T2318	Person 372710 372721	lady Dudley
+T2319	Person 372777 372782	Marie
+T2320	Person 372803 372808	Raoul
+T2321	Person 372847 372852	Raoul
+T2322	Person 372888 372893	Marie
+T2323	Person 373050 373055	Raoul
+T2324	Location 373117 373122	Marie
+T2325	Location 373288 373293	Raoul
+T2326	Location 373300 373305	Marie
+T2327	Person 373531 373540	Nathan n’
+T2328	Person 373584 373589	Raoul
+T2329	Person 373962 373967	Raoul
+T2330	Person 373969 373975	Quelle
+T2331	Person 374419 374424	Marie
+T2332	Person 374487 374492	D’ÈVE
+T2333	Person 374826 374831	Raoul
+T2334	Organization 376251 376256	Opéra
+T2335	Person 376292 376297	Raoul
+T2336	Person 376299 376304	Raoul
+T2337	Location 376482 376492	Vandenesse
+T2338	Location 376694 376702	Songilet
+T2339	Person 376886 376891	Raoul
+T2340	Person 377151 377156	Marie
+T2341	Person 377158 377163	Félix
+T2342	Person 377226 377232	Nathan
+T2343	Person 377336 377341	Raoul
+T2344	Person 377358 377363	Marie
+T2345	Location 377756 377761	Quand
+T2346	Location 378099 378104	Raoul
+T2347	Person 378488 378493	Raoul
+T2348	Person 378666 378685	Félix de Vandenesse
+T2349	Person 379313 379318	Félix
+T2350	Person 379378 379384	Nathan
+T2351	Location 379613 379619	Nathan
+T2352	Person 379634 379639	Félix
+T2353	Location 379720 379727	Floriue
+T2354	Location 379797 379803	Espard
+T2355	Person 379941 379946	Raoul
+T2356	Person 380126 380131	Raoul
+T2357	Location 380186 380192	Espard
+T2358	Location 380265 380271	Vande—
+T2359	Person 380329 380335	Nathan
+T2360	Person 380506 380525	Félix de Vandenesse
+T2361	Person 380650 380656	-— Oui
+T2362	Person 380662 380667	Raoul
+T2363	Organization 381259 381267	Mon cher
+T2364	Location 381428 381438	Vandenesse
+T2365	Person 381885 381898	Raoul fertil-
+T2366	Organization 382402 382410	Mon cher
+T2367	Location 382428 382438	Vandenesse
+T2368	Location 382535 382551	Jupiter Olympien
+T2369	Person 382634 382639	Raoul
+T2370	Person 382963 382968	Raoul
+T2371	Person 383001 383010	DE BALZAC
+T2372	Person 383054 383060	Nathan
+T2373	Hour 383624 383635	cinq heures
+T2374	Person 383751 383756	Raoul
+T2375	Person 384742 384747	Raoul
+T2376	Person 385282 385288	Nathan
+T2377	Person 385353 385364	lady Dudley
+T2378	Location 385415 385417	D’
+T2379	Person 385656 385662	Nathan
+T2380	Location 385695 385701	Dudley
+T2381	Location 385825 385835	Vandenesse
+T2382	Location 385980 385986	Dudley
+T2383	Location 386086 386091	Raoul
+T2384	Location 386109 386119	Vandenesse
+T2385	Person 386271 386282	lady Dudley
+T2386	Location 386295 386301	Espard
+T2387	Location 386308 386318	Manerville
+T2388	Person 386419 386424	Raoul
+T2389	Location 386468 386474	Espard
+T2390	Person 386532 386537	Félix
+T2391	Person 386567 386572	Raoul
+T2392	Person 386591 386596	Marie
+T2393	Location 386736 386741	Camps
+T2394	Location 386828 386833	Raoul
+T2395	Location 387609 387613	quoi
+T2396	Person 388588 388593	Raoul
+T2397	Location 388802 388808	Roland
+T2398	Person 388907 388912	Marie
+T2399	Organization 389009 389024	Cirque espagnol
+T2400	Location 389099 389102	toi
+T2401	Location 389113 389120	Blondet
+T2402	Person 389139 389144	Raoul
+T2403	Location 389298 389308	Vandenesse
+T2404	Location 389591 389598	Blondet
+T2405	Location 389625 389633	Mon cher
+T2406	Location 389722 389729	Florine
+T2407	Location 390136 390146	Vandènesse
+T2408	Person 390228 390234	Nathan
+T2409	Location 390548 390555	Blondet
+T2410	Person 390691 390696	Raoul
+T2411	Person 390779 390792	Saint— Honoré
+T2412	Location 390808 390815	Espard‘
+T2413	Location 390861 390870	Rastiguac
+T2414	Person 390930 390936	Nathan
+T2415	Person 391094 391099	D’EVE
+T2416	Person 391113 391118	Raoul
+T2417	Person 391140 391145	Marie
+T2418	Location 391169 391173	sion
+T2419	Person 391366 391372	Nathan
+T2420	Location 391798 391804	Espard
+T2421	Location 391827 391833	Nathan
+T2422	Location 391855 391861	Marsay
+T2423	Location 392025 392030	Quand
+T2424	Person 392048 392053	Raoul
+T2425	Location 392232 392238	Marsay
+T2426	Location 392292 392297	Raoul
+T2427	Location 392326 392335	Rastignac
+T2428	Location 392411 392414	Qu’
+T2429	Location 392461 392467	Espard
+T2430	Location 392566 392572	Marsay
+T2431	Person 392623 392629	Nathan
+T2432	Person 392633 392638	Marie
+T2433	Location 392673 392679	Marsay
+T2434	Location 392692 392701	Rastignac
+T2435	Location 392725 392731	Espard
+T2436	Location 392937 392942	Raoul
+T2437	Person 393082 393087	Raoul
+T2438	Person 393356 393361	Marie
+T2439	Location 393495 393500	Raoul
+T2440	Location 393528 393535	Florine
+T2441	Location 393794 393800	Marsay
+T2442	Person 393868 393873	Raoul
+T2443	Person 394104 394109	Rabat
+T2444	Person 394191 394196	Marie
+T2445	Location 394336 394341	Quand
+T2446	Location 395371 395376	Paris
+T2447	Date 395487 395507	dix— huitième siècle
+T2448	Person 395903 395909	Nathan
+T2449	Location 396116 396121	Quand
+T2450	Person 396797 396802	Raoul
+T2451	Person 397118 397137	Félix de Vandenesse
+T2452	Location 397165 397173	Boulogne
+T2453	Person 397186 397191	Raoul
+T2454	Person 397231 397237	Nathan
+T2455	Location 397582 397587	Masse
+T2456	Location 397595 397601	Tillet
+T2457	Location 397744 397749	Raoul
+T2458	Location 398106 398116	Vandenesse
+T2459	Person 398169 398174	Raoul
+T2460	Location 398315 398323	Boulogne
+T2461	Location 398483 398487	Van-
+T2462	Person 398714 398719	Marie
+T2463	Person 398897 398905	Raoul n’
+T2464	Location 399261 399271	Vandenesse
+T2465	Hour 399461 399481	deux heures du matin
+T2466	Hour 399522 399533	neuf heures
+T2467	Location 399893 399898	Quand
+T2468	Person 399918 399924	Nathan
+T2469	Organization 399963 399970	Théâtre
+T2470	Organization 399975 399982	Théâtre
+T2471	Organization 400006 400038	Chambre chez quelques créanciers
+T2472	Person 400086 400091	Marie
+T2473	Location 400213 400218	Quand
+T2474	Person 400726 400732	Nathan
+T2475	Location 400767 400775	Boulogne
+T2476	Location 401078 401081	Qu’
+T2477	Person 401101 401107	Nathan
+T2478	Person 401467 401473	Nathan
+T2479	Location 401542 401552	attristait
+T2480	Person 401896 401901	Marie
+T2481	Person 402280 402286	Nathan
+T2482	Organization 402682 402687	Opéra
+T2483	Person 402828 402837	DE BALZAC
+T2484	Person 402842 402848	Quelle
+T2485	Person 402989 402995	-— Oui
+T2486	Person 403015 403021	Nathan
+T2487	Person 403586 403591	Raoul
+T2488	Location 403629 403635	Espard
+T2489	Person 403938 403944	Nathan
+T2490	Location 404656 404661	Raoul
+T2491	Person 404853 404858	Raoul
+T2492	Location 404950 404957	Auteuil
+T2493	Location 404960 404968	Boulogne
+T2494	Person 405080 405085	Raoul
+T2495	Person 405255 405260	Raoul
+T2496	Person 405314 405319	Marie
+T2497	Person 405559 405564	Marie
+T2498	Person 405649 405654	Raoul
+T2499	Person 406183 406188	Raoul
+T2500	Person 406314 406319	Raoul
+T2501	Location 406377 406379	D’
+T2502	Person 406679 406684	D’ÈVE
+T2503	Person 407117 407122	Raoul
+T2504	Location 407134 407138	quoi
+T2505	Person 407300 407305	Marie
+T2506	Person 407347 407352	Raoul
+T2507	Person 407721 407726	Marie
+T2508	Person 407939 407946	Florine
+T2509	Person 408031 408036	Marie
+T2510	Person 408055 408061	Nathan
+T2511	Person 408214 408223	Charles X
+T2512	Person 408388 408393	Raoul
+T2513	Person 408616 408621	Marie
+T2514	Person 408655 408660	Raoul
+T2515	Person 408862 408878	Etienne Lousteau
+T2516	Person 408930 408945	Félicien Vernon
+T2517	Person 408950 408963	Claude Vignon
+T2518	Person 409013 409018	Raoul
+T2519	Location 409042 409048	Marsay
+T2520	Person 409112 409117	Raoul
+T2521	Location 409248 409255	Gymnase
+T2522	Location 409311 409314	Na—
+T2523	Person 409505 409516	lady Dudley
+T2524	Location 409601 409608	Gymnase
+T2525	Person 409717 409726	Louis XIV
+T2526	Person 409749 409760	lady Dudley
+T2527	Location 409789 409795	Espard
+T2528	Person 410027 410032	Marie
+T2529	Location 410045 410052	Gymnase
+T2530	Location 410157 410169	Beaumarchais
+T2531	Person 410175 410186	lady Dudley
+T2532	Person 410203 410212	Nathan n’
+T2533	Person 410229 410236	Molière
+T2534	Location 410257 410263	Espard
+T2535	Location 410707 410712	Quand
+T2536	Person 410713 410732	Marie de Vandenesse
+T2537	Location 410752 410763	Saint—Hérem
+T2538	Location 410791 410794	Na—
+T2539	Location 410886 410896	Vandenesse
+T2540	Location 410985 410990	Raoul
+T2541	Person 411070 411075	Raoul
+T2542	Location 411124 411131	Florine
+T2543	Location 411733 411741	Moniteur
+T2544	Location 411903 411910	Floride
+T2545	Location 412048 412053	Raoul
+T2546	Location 412074 412080	Massol
+T2547	Person 412347 412360	Nathan repré-
+T2548	Location 412465 412471	Massol
+T2549	Location 413038 413046	Nucingen
+T2550	Person 413209 413215	Nathan
+T2551	Person 413271 413276	Raoul
+T2552	Person 413339 413348	Du Tillet
+T2553	Person 413413 413421	Raoul n’
+T2554	Location 413484 413492	Nucingen
+T2555	Location 413495 413504	Rastignac
+T2556	Location 413647 413655	Nucingen
+T2557	Location 413671 413677	France
+T2558	Person 413814 413819	Raoul
+T2559	Person 414007 414013	Nathan
+T2560	Person 414392 414398	Nathan
+T2561	Location 414464 414470	Tillet
+T2562	Person 414487 414498	Nuein—_ gen
+T2563	Location 414510 414518	Nucingcn
+T2564	Person 414529 414534	Raoul
+T2565	Location 414582 414592	Vandenesse
+T2566	Location 414695 414702	Florine
+T2567	Location 414878 414891	Saint—Germain
+T2568	Person 414894 414900	Nathan
+T2569	Location 414911 414919	Nucingen
+T2570	Location 414923 414932	Rasttgnec
+T2571	Location 414952 414959	Blondet
+T2572	Person 415628 415633	Raoul
+T2573	Person 415737 415746	Du Tillet
+T2574	Person 415804 415811	Florine
+T2575	Location 416081 416087	Tillet
+T2576	Person 416101 416106	Raoul
+T2577	Location 416284 416286	D’
+T2578	Person 416575 416580	Raoul
+T2579	Location 416733 416740	Florine
+T2580	Person 416826 416831	Raoul
+T2581	Location 417035 417042	Florine
+T2582	Location 417302 417309	Florine
+T2583	Location 417434 417441	Florine
+T2584	Person 417531 417540	Louis XIV
+T2585	Person 417567 417572	Raoul
+T2586	Person 417574 417584	chez Raoul
+T2587	Person 417586 417592	Nathan
+T2588	Person 417738 417743	Raoul
+T2589	Person 417800 417805	Raoul
+T2590	Location 417857 417864	Florine
+T2591	Location 417948 417955	Florine
+T2592	Location 417984 417988	Mars
+T2593	Person 418086 418092	Nathan
+T2594	Person 418495 418501	Nathan
+T2595	Person 418534 418540	Nathan
+T2596	Location 418720 418727	Florine
+T2597	Person 418922 418931	DE BALZAG
+T2598	Location 418950 418957	Florine
+T2599	Location 419049 419053	sion
+T2600	Location 419223 419226	Na—
+T2601	Location 419241 419248	Florine
+T2602	Location 419435 419442	Florine
+T2603	Location 419458 419463	Marie
+T2604	Person 419521 419527	Nathan
+T2605	Person 419893 419898	Marie
+T2606	Person 419966 419971	Horst
+T2607	Location 420066 420071	Paris
+T2608	Location 420195 420202	Florine
+T2609	Person 420219 420224	Raoul
+T2610	Location 420376 420378	D’
+T2611	Person 420439 420445	Nathan
+T2612	Location 420651 420656	Baoul
+T2613	Person 420720 420726	Nathan
+T2614	Location 420923 420925	D’
+T2615	Location 420994 421001	Tillet'
+T2616	Location 421081 421088	Blondet
+T2617	Location 421236 421243	Florine
+T2618	Person 421250 421256	Nathan
+T2619	Location 421270 421276	Tillet
+T2620	Person 421278 421287	Du Tillet
+T2621	Location 421490 421496	Tillet
+T2622	Person 421618 421624	Nathan
+T2623	Location 421698 421705	Florine
+T2624	Location 421768 421776	Boulogne
+T2625	Location 421811 421822	Lous‘teaul’
+T2626	Location 421884 421890	Clichy
+T2627	Person 421929 421936	Florine
+T2628	Location 422001 422004	toi
+T2629	Location 422141 422147	Tillet
+T2630	Person 422262 422267	Raoul
+T2631	Person 422300 422321	Félix de Vande- nesse
+T2632	Location 422426 422429	Na—
+T2633	Location 422566 422571	plume
+T2634	Person 422756 422761	Raoul
+T2635	Person 423072 423077	D’EVE
+T2636	Location 423284 423289	plume
+T2637	Person 423664 423670	Nathan
+T2638	Person 423768 423773	Raoul
+T2639	Person 423856 423861	Marie
+T2640	Person 423865 423870	Raoul
+T2641	Location 423914 423922	Boulogne
+T2642	Person 424005 424010	Raoul
+T2643	Person 424486 424491	Raoul
+T2644	Organization 424560 424568	le Monde
+T2645	Location 424613 424620	Florine
+T2646	Person 425000 425007	Florine
+T2647	Location 425346 425350	sion
+T2648	Location 425525 425532	Florine
+T2649	Person 425617 425622	Raoul
+T2650	Location 425756 425762	Marsay
+T2651	Person 425780 425785	Raoul
+T2652	Location 425826 425836	Vandenesse
+T2653	Person 425900 425906	Nathan
+T2654	Person 426289 426294	Félix
+T2655	Person 426399 426404	Raoul
+T2656	Person 426729 426735	Nathan
+T2657	Location 426997 427007	Vandenesse
+T2658	Person 427050 427061	demanda Fé—
+T2659	Location 427283 427289	Espard
+T2660	Location 427291 427296	Marre
+T2661	Location 427300 427305	Raoul
+T2662	Person 427388 427393	Raoul
+T2663	Person 427473 427478	Félix
+T2664	Person 427480 427486	Nathan
+T2665	Person 427983 427988	Raoul
+T2666	Person 428064 428070	Quelle
+T2667	Location 428145 428155	Vandenesse
+T2668	Person 428480 428485	Raoul
+T2669	Location 428497 428504	Florine
+T2670	Location 428528 428530	D’
+T2671	Location 428659 428665	Nathan
+T2672	Person 428754 428759	Raoul
+T2673	Person 428794 428799	Marie
+T2674	Location 428833 428839	Tillet
+T2675	Location 428916 428921	Raoul
+T2676	Location 428977 428985	Gigonnet
+T2677	Location 429178 429184	Tillet
+T2678	Location 429194 429196	D’
+T2679	Person 429214 429220	Nathan
+T2680	Person 429262 429268	Nathan
+T2681	Person 429295 429304	Du Tillet
+T2682	Location 429326 429331	Raoul
+T2683	Location 429365 429373	Gigonnet
+T2684	Person 429494 429499	Raoul
+T2685	Person 429805 429810	Raoul
+T2686	Location 429832 429839	Florine
+T2687	Location 429845 429852	Blondel
+T2688	Location 429870 429878	Gigonnet
+T2689	Location 429936 429945	Réveillon
+T2690	Location 430137 430143	Tillet
+T2691	Location 430276 430283	Blondet
+T2692	Location 430451 430458	Florine
+T2693	Location 430620 430626	Tillet
+T2694	Person 431132 431139	Florine
+T2695	Person 431193 431198	Raoul
+T2696	Location 431420 431427	Florine
+T2697	Person 431601 431607	Nathan
+T2698	Person 431738 431747	Du Tillet
+T2699	Person 431771 431777	Nathan
+T2700	Location 431863 431868	Masse
+T2701	Person 431943 431948	Raoul
+T2702	Location 432042 432048	Clichy
+T2703	Person 432086 432093	Florine
+T2704	Location 432268 432273	Médée
+T2705	Location 432789 432796	Blondet
+T2706	Location 432808 432814	Vernon
+T2707	Location 432816 432821	Finot
+T2708	Location 432825 432830	Masse
+T2709	Location 432993 432999	Tillet
+T2710	Location 433175 433182	Florine
+T2711	Person 433221 433227	Nathan
+T2712	Location 433360 433367	Blondet
+T2713	Person 433476 433482	Nathan
+T2714	Location 433532 433539	Florine
+T2715	Person 433666 433675	Nathan n’
+T2716	Person 434440 434446	Nathan
+T2717	Person 434844 434850	Nathan
+T2718	Person 435059 435064	Raoul
+T2719	Location 435339 435343	quoi
+T2720	Person 435597 435602	Marie
+T2721	Person 435653 435662	DE BALZAC
+T2722	Person 435674 435685	lady Dudley
+T2723	Person 435688 435693	Raoul
+T2724	Location 435875 435880	Marie
+T2725	Location 436070 436083	Sainte—Hélène
+T2726	Location 436085 436087	D’
+T2727	Location 436124 436129	Paris
+T2728	Person 436191 436196	Raoul
+T2729	Person 436285 436293	Raoul n’
+T2730	Location 436336 436339	Qu’
+T2731	Person 436355 436364	Marie en'
+T2732	Person 436498 436503	Marie
+T2733	Location 436624 436626	D’
+T2734	Person 436672 436677	Marie
+T2735	Location 436714 436718	quoi
+T2736	Location 436864 436867	toi
+T2737	Location 437391 437394	Oui
+T2738	Person 437599 437604	Marie
+T2739	Person 437834 437839	Marie
+T2740	Location 438060 438066	France
+T2741	Person 438173 438178	Marie
+T2742	Person 438188 438193	Raoul
+T2743	Location 438311 438314	Qu’
+T2744	Location 438364 438370	Espard
+T2745	Person 438420 438426	Nathan
+T2746	Location 438590 438601	Espard pout
+T2747	Person 438722 438733	lady Dudley
+T2748	Location 438790 438796	Espard
+T2749	Location 438843 438851	Comtesse
+T2750	Location 438889 438899	Vandenesse
+T2751	Location 438941 438946	Quand
+T2752	Location 438956 438962	Espard
+T2753	Person 439003 439008	Félix
+T2754	Location 439061 439074	rue du Rocher
+T2755	Person 439076 439081	Marie
+T2756	Hour 439189 439200	huit heures
+T2757	Location 439236 439241	Raoul
+T2758	Location 439759 439765	Tillet
+T2759	Location 439836 439841	Raoul
+T2760	Hour 439954 439965	neuf heures
+T2761	Location 440116 440122	Tillet
+T2762	Location 440246 440256	Vandenesse
+T2763	Person 440669 440675	Nathan
+T2764	Person 440717 440724	Florine
+T2765	Person 440822 440836	Où travaille-H
+T2766	Person 441258 441264	Nathan
+T2767	Person 441426 441432	Nathan
+T2768	Person 441540 441545	Raoul
+T2769	Location 441656 441663	Blondet
+T2770	Person 441796 441801	Raoul
+T2771	Person 441958 441963	Raoul
+T2772	Person 442301 442307	Nathan
+T2773	Person 442412 442417	Félix
+T2774	Location 442772 442778	Tillet
+T2775	Location 442926 442932	Tillet
+T2776	Organization 443008 443018	Extrait de
+T2777	Person 443081 443102	Félix de Vande- nesse
+T2778	Person 443147 443152	Marie
+T2779	Person 443348 443357	Du Tillet
+T2780	Person 443438 443444	Nathan
+T2781	Location 443531 443536	Raoul
+T2782	Location 443543 443550	Florine
+T2783	Person 443782 443787	Raoul
+T2784	Location 443930 443938	Gigonnet
+T2785	Organization 443940 443956	Madame du Tillet
+T2786	Organization 444094 444100	Tillet
+T2787	Person 444185 444191	Nathan
+T2788	Person 444429 444445	François Quillet
+T2789	Person 444489 444495	Nathan
+T2790	Person 444548 444557	Du Tillet
+T2791	Person 444593 444599	Nathan
+T2792	Location 444690 444695	Quand
+T2793	Person 445005 445010	Marie
+T2794	Person 445034 445040	Nathan
+T2795	Location 445458 445464	Tillet
+T2796	Person 445657 445664	Eugénie
+T2797	Person 445737 445757	Delphine de Nucingen
+T2798	Organization 445943 445949	Tillet
+T2799	Person 446049 446055	Nathan
+T2800	Location 446517 446527	Vandenesse
+T2801	Location 446706 446716	Vandenesse
+T2802	Location 446719 446725	Nathan
+T2803	Location 446951 446956	Paris
+T2804	Person 447159 447168	DE BALZAC
+T2805	Location 447517 447526	Granvrlle
+T2806	Location 447551 447560	Normandie
+T2807	Location 447699 447704	Quand
+T2808	Person 447705 447710	Marie
+T2809	Location 447742 447748	Bayeux
+T2810	Location 447850 447853	Oui
+T2811	Location 447966 447975	Normandie
+T2812	Location 447989 447998	Granvrlle
+T2813	Person 448200 448206	Nathan
+T2814	Person 448639 448645	Nathan
+T2815	Person 448681 448692	lady Dudley
+T2816	Person 448694 448700	Quelle
+T2817	Person 448726 448732	Quelle
+T2818	Person 449182 449187	Marie
+T2819	Location 449509 449515	Tillet
+T2820	Person 449633 449639	Quelle
+T2821	Person 449856 449861	Félix
+T2822	Person 450038 450043	Félix
+T2823	Person 450057 450062	Marie
+T2824	Location 450075 450080	Quand
+T2825	Person 450307 450312	Marie
+T2826	Person 450335 450341	Nathan
+T2827	Location 450366 450373	Quillet
+T2828	Organization 450482 450487	Opéra
+T2829	Person 450618 450623	Félix
+T2830	Location 450664 450670	Tillet
+T2831	Person 450718 450723	Marie
+T2832	Location 451192 451200	Nucingen
+T2833	Person 451417 451423	Nathan
+T2834	Location 451469 451476	Schmuke
+T2835	Location 451663 451671	Nucingen
+T2836	Location 451770 451777	Schmuke
+T2837	Location 452022 452028	Pourvu
+T2838	Location 452047 452055	Nucingen
+T2839	Person 452153 452157	Dieu
+T2840	Organization 452170 452175	Opéra
+T2841	Location 452180 452187	Schmuke
+T2842	Location 452218 452224	Nevers
+T2843	Person 452238 452243	Conti
+T2844	Organization 452690 452695	Opéra
+T2845	Person 452898 452903	Raoul
+T2846	Organization 453228 453235	Opéra !
+T2847	Location 453317 453323	Tillet
+T2848	Location 453336 453341	Marie
+T2849	Person 453595 453600	Raoul
+T2850	Location 453786 453792	Vande-
+T2851	Location 453938 453943	Raoul
+T2852	Person 454029 454036	Eugénie
+T2853	Person 454163 454170	Eugénie
+T2854	Location 454302 454308	Tillet
+T2855	Person 454515 454520	Raoul
+T2856	Location 454543 454549	Tillet
+T2857	Person 454629 454634	Raoul
+T2858	Location 454685 454691	Tillet
+T2859	Location 454738 454743	Raoul
+T2860	Location 455020 455026	Tillet
+T2861	Person 455084 455090	Nathan
+T2862	Location 455245 455255	Vandcnesse
+T2863	Organization 455339 455344	Opéra
+T2864	Hour 455390 455401	huit heures
+T2865	Hour 455420 455431	huit heures
+T2866	Person 455449 455454	Conti
+T2867	Location 455539 455542	Ne—
+T2868	Location 455560 455567	Schmuke
+T2869	Location 455965 455970	Seine
+T2870	Location 456326 456333	Schmuke
+T2871	Location 456498 456505	Schmuke
+T2872	Location 456842 456847	Cérès
+T2873	Location 457052 457058	Vienne
+T2874	Location 457329 457336	Schmuke
+T2875	Location 457630 457637	Schmuke
+T2876	Location 458095 458102	Sebmuke
+T2877	Location 458983 458992	Mobicarte
+T2878	Location 459155 459162	Schmuke
+T2879	Organization 459197 459202	Monde
+T2880	Location 459434 459442	Schmulre
+T2881	Location 459569 459576	Schmuke
+T2882	Location 459606 459613	Utrecht
+T2883	Location 460772 460779	Schmuke
+T2884	Location 461002 461010	Schmulce
+T2885	Location 461772 461781	Souis-che
+T2886	Location 462809 462814	Fitte
+T2887	Location 462842 462849	Schmuke
+T2888	Person 463084 463090	Nathan
+T2889	Organization 463432 463452	Schnmkel I lle haipô
+T2890	Person 463456 463462	-— Oui
+T2891	Location 463608 463615	Schmuke
+T2892	Person 463768 463786	Hoffmann te Perlin
+T2893	Person 464151 464162	azurèze Ire
+T2894	Location 464385 464387	Oh
+T2895	Person 464953 464970	Cécile de Raphaël
+T2896	Location 465215 465222	Schmuke
+T2897	Person 465325 465349	koi êtes—cts tone fenm‘e
+T2898	Location 465450 465457	Schmuke
+T2899	Location 465662 465669	Schmuke
+T2900	Location 466262 466271	vieillard
+T2901	Location 466787 466794	BALZAGJ
+T2902	Location 466895 466902	Schmuke
+T2903	Location 467093 467100	Schmuke
+T2904	Location 467253 467261	Nucingen
+T2905	Location 467863 467873	Vandenesse
+T2906	Location 467968 467976	Nucingen
+T2907	Location 468195 468203	Nucingen
+T2908	Person 468371 468382	Sti Schmuke
+T2909	Location 468407 468414	Ansbach
+T2910	Location 468496 468504	Nucingen
+T2911	Location 468861 468871	Vandenesse
+T2912	Location 469607 469612	Quand
+T2913	Location 469668 469674	Tillet
+T2914	Location 469682 469688	Nathan
+T2915	Location 469718 469726	Nucingen
+T2916	Person 469863 469868	Raoul
+T2917	Location 470096 470105	Rastignac
+T2918	Location 470188 470196	Nucingen
+T2919	Location 470210 470219	Rastignac
+T2920	Person 470537 470542	D’ÈVE
+T2921	Location 470581 470587	Tillet
+T2922	Location 470662 470671	Rastignac
+T2923	Location 470777 470783	Pourvu
+T2924	Person 470828 470837	Nu— cmgen
+T2925	Location 470895 470901	Tillet
+T2926	Location 470927 470935	Gigonnet
+T2927	Location 470941 470944	Qu’
+T2928	Location 471144 471152	Gigonnet
+T2929	Person 471211 471220	Du Tillet
+T2930	Location 471326 471332	Tillet
+T2931	Location 471725 471733	Gigonnet
+T2932	Location 471799 471805	Tillet
+T2933	Organization 471808 471824	Madame du Tillet
+T2934	Person 471970 471996	chambre.-Demandez Virginie
+T2935	Organization 472022 472035	Où allez—vous
+T2936	Location 472043 472049	Tillet
+T2937	Location 472398 472406	Gigonnet
+T2938	Person 472445 472454	Du Tillet
+T2939	Location 472531 472534	Qu’
+T2940	Location 472779 472785	Tillet
+T2941	Location 473031 473037	Tillet
+T2942	Location 473112 473117	Raoul
+T2943	Person 473278 473284	Nathan
+T2944	Person 473468 473475	Eugénie
+T2945	Person 473681 473688	Eugénie
+T2946	Location 473740 473746	Tillet
+T2947	Location 473867 473873	Vande-
+T2948	Location 473917 473925	Nucingen
+T2949	Person 473976 473981	Félix
+T2950	Organization 473983 473999	Madame du Tillet
+T2951	Person 474029 474034	Félix
+T2952	Location 474078 474085	Eugénie
+T2953	Person 474333 474340	Eugénie
+T2954	Person 474552 474558	Nathan
+T2955	Person 474668 474673	Félix
+T2956	Location 474899 474909	Vandenesse
+T2957	Person 474991 474997	Quelle
+T2958	Organization 475432 475448	Madame du Tillet
+T2959	Person 475466 475483	Félix de Vandesse
+T2960	Organization 475533 475549	Banque de France
+T2961	Location 475576 475584	Nucingen
+T2962	Location 475867 475877	Vandenesse
+T2963	Location 475915 475923	Nucingen
+T2964	Location 475951 475961	Vandenesse
+T2965	Location 476052 476062	Vandenesse
+T2966	Location 476317 476323	France
+T2967	Location 476848 476856	Nucingen
+T2968	Person 477005 477011	Nathan
+T2969	Location 477066 477075	Rastignac
+T2970	Location 477099 477105	France
+T2971	Location 477219 477229	Vandenesse
+T2972	Location 477315 477324	Rastignac
+T2973	Person 477420 477427	Florine
+T2974	Location 477484 477491	Florine
+T2975	Organization 477590 477595	Opéra
+T2976	Person 477638 477644	Nathan
+T2977	Location 477816 477823	Schmuke
+T2978	Location 477860 477870	Vandenesse
+T2979	Person 478023 478029	Nathan
+T2980	Person 478122 478128	Nathan
+T2981	Person 478275 478280	Marie
+T2982	Person 478324 478329	Raoul
+T2983	Hour 478425 478436	cinq heures
+T2984	Person 478540 478546	Nathan
+T2985	Person 478618 478623	Félix
+T2986	Person 478653 478658	Raoul
+T2987	Organization 478687 478692	Opéra
+T2988	Person 478785 478791	Nathan
+T2989	Location 478797 478804	Florine
+T2990	Location 478846 478854	Comtesse
+T2991	Person 478994 479000	Nathan
+T2992	Person 479013 479020	Florine
+T2993	Person 479197 479202	Félix
+T2994	Organization 479239 479244	Opéra
+T2995	Person 479265 479270	Marie
+T2996	Person 479627 479633	Nathan
+T2997	Location 479670 479677	Florine
+T2998	Person 479711 479718	Florine
+T2999	Person 479750 479755	Marie
+T3000	Location 479799 479806	Quillet
+T3001	Person 479981 479987	Nathan
+T3002	Location 480684 480690	Tillet
+T3003	Organization 480822 480830	Nucingen
+T3004	Location 480866 480873	Florine
+T3005	Location 481078 481086	Belgique
+T3006	Date 481109 481120	déﬁnitif 21
+T3007	Person 481121 481130	Du Tillet
+T3008	Location 481134 481142	Nucingen
+T3009	Location 481146 481151	Masse
+T3010	Person 481276 481282	Nathan
+T3011	Person 481593 481599	Nathan
+T3012	Person 482052 482061	DE BALZAC
+T3013	Person 482128 482134	Nathan
+T3014	Location 482138 482145	Florine
+T3015	Person 482419 482425	Nathan
+T3016	Person 482574 482588	Florine bouil-
+T3017	Location 482618 482623	Alpes
+T3018	Person 482636 482642	Nathan
+T3019	Location 483006 483017	Souffres-tü
+T3020	Person 483019 483024	Marie
+T3021	Person 483497 483502	Marie
+T3022	Person 483516 483522	Nathan
+T3023	Person 483675 483680	Marie
+T3024	Location 483926 483933	Schmuke
+T3025	Person 484027 484032	Marie
+T3026	Person 484306 484311	Marie
+T3027	Person 484526 484530	Dieu
+T3028	Location 484556 484559	toi
+T3029	Location 484758 484765	Florine
+T3030	Organization 485260 485277	Société refuse de
+T3031	Person 486024 486035	Lady Dudtey
+T3032	Person 486061 486066	D’ÈVE
+T3033	Location 486079 486085	Espard
+T3034	Location 486097 486107	Manerville
+T3035	Location 486354 486357	toi
+T3036	Person 486539 486544	Félix
+T3037	Person 486701 486706	Marie
+T3038	Person 486985 486990	Félix
+T3039	Person 487383 487388	Marie
+T3040	Location 487728 487731	toi
+T3041	Person 487770 487787	Florine elle-même
+T3042	Location 487986 487989	toi
+T3043	Location 488044 488046	D’
+T3044	Location 488151 488157	Italie
+T3045	Organization 488288 488293	Opéra
+T3046	Location 488403 488410	Florine
+T3047	Organization 488567 488572	Opéra
+T3048	Person 488574 488580	Nathan
+T3049	Person 488759 488764	Marie
+T3050	Person 488791 488808	Nathan Vandenesse
+T3051	Location 488890 488893	Na—
+T3052	Location 489004 489008	Flo-
+T3053	Person 489015 489021	Nathan
+T3054	Location 489058 489065	Florine
+T3055	Person 489143 489151	alla s ’
+T3056	Location 489228 489238	Vandenesse
+T3057	Location 489275 489283	Explique
+T3058	Location 489284 489287	toi
+T3059	Location 489303 489310	Florine
+T3060	Person 489390 489395	Raoul
+T3061	Location 489459 489461	D’
+T3062	Person 489473 489480	Florine
+T3063	Person 489486 489491	Félix
+T3064	Organization 489615 489617	Va
+T3065	Person 489629 489635	Nathan
+T3066	Location 490042 490049	Florine
+T3067	Organization 490178 490180	Va
+T3068	Location 490385 490388	toi
+T3069	Location 490464 490467	toi
+T3070	Location 490546 490552	Clichy
+T3071	Location 490641 490648	Florine
+T3072	Person 490680 490686	Nathan
+T3073	Location 490776 490779	toi
+T3074	Location 490881 490883	D’
+T3075	Location 490914 490921	Florine
+T3076	Location 491050 491053	toi
+T3077	Location 491091 491098	Florine
+T3078	Person 491261 491266	Félix
+T3079	Location 491335 491339	Flo—
+T3080	Person 491353 491359	Nathan
+T3081	Person 491582 491589	Florine
+T3082	Person 491729 491734	Marie
+T3083	Location 491804 491809	Raoul
+T3084	Person 491811 491817	Quelle
+T3085	Person 491944 491949	Raoul
+T3086	Location 491991 491998	Florine
+T3087	Person 492109 492115	Nathan
+T3088	Person 492176 492181	Félix
+T3089	Person 492200 492218	Florine stupéfaite
+T3090	Location 492334 492344	Vandenesse
+T3091	Location 492369 492376	Florine
+T3092	Location 492582 492586	Van-
+T3093	Location 492657 492664	Florine
+T3094	Location 492737 492747	Vandenesse
+T3095	Location 492943 492950	Florine
+T3096	Location 493020 493030	Vandenesse
+T3097	Organization 493074 493092	chambre de Florine
+T3098	Location 493142 493148	Nathan
+T3099	Location 493402 493409	Florine
+T3100	Location 493579 493586	Florine
+T3101	Location 493601 493606	BALZÀ
+T3102	Location 493607 493608	L
+T3103	Person 493859 493873	Suis—je sottel
+T3104	Location 493878 493885	Florine
+T3105	Person 493951 493957	Nathan
+T3106	Location 494062 494067	Marie
+T3107	Location 494069 494076	Florine
+T3108	Location 494103 494106	Oui
+T3109	Location 494201 494211	Vandenesse
+T3110	Location 494358 494368	Vandenesse
+T3111	Location 494382 494389	Florine
+T3112	Location 494512 494519	Florine
+T3113	Location 494840 494850	Vandenesse
+T3114	Person 494885 494890	—— Hé
+T3115	Location 494989 494999	Vandenesse
+T3116	Location 495108 495115	Florine
+T3117	Person 495407 495415	Raoul n’
+T3118	Location 495571 495578	Schmuke
+T3119	Location 495597 495604	Florlne
+T3120	Location 495643 495653	Vandenesse
+T3121	Person 495844 495849	Raoul
+T3122	Person 495976 495985	Nathan n’
+T3123	Location 496090 496097	Blondet
+T3124	Location 496132 496140	Vandesse
+T3125	Location 496156 496161	Laure
+T3126	Location 496168 496175	Béatrix
+T3127	Location 496224 496229	plume
+T3128	Person 496233 496250	Théophile Gautier
+T3129	Location 496717 496724	Blondet
+T3130	Person 497121 497126	Marie
+T3131	Person 497165 497171	Nathan
+T3132	Location 497187 497194	Béatrix
+T3133	Organization 497199 497207	Mon cher
+T3134	Location 497209 497216	Béatrix
+T3135	Person 497257 497265	Dante n’
+T3136	Location 497306 497313	Béatrix
+T3137	Location 497527 497532	Quand
+T3138	Location 497655 497661	Suisse
+T3139	Location 497673 497679	Soleil
+T3140	Location 497683 497688	Pérou
+T3141	Person 497786 497795	Du Tillet
+T3142	Person 497826 497832	Nathan
+T3143	Location 497978 497983	Quand
+T3144	Location 498020 498026	Italie
+T3145	Location 498043 498053	Vandenesse
+T3146	Location 498063 498068	Paris
+T3147	Person 498087 498093	Nathan
+T3148	Location 498133 498138	Félix
+T3149	Location 498164 498171	Blondet
+T3150	Location 498306 498320	Champs-Elysées
+T3151	Organization 498325 498339	comtesse Marie
+T3152	Location 498421 498428	Florine
+T3153	Person 498583 498589	Nathan
+T3154	Location 498601 498611	Vandenesse
+T3155	Location 498681 498686	Raoul
+T3156	Person 499686 499691	Raoul
+T3157	Person 499741 499754	Louis Grimaux
+T3158	Location 499756 499772	rue du Croissant

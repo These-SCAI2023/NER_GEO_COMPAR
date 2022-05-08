@@ -1,0 +1,2275 @@
+T1	Location 7 13	JEANNE
+T2	Location 31 46	PREMIÈRE PARTIE
+T3	Location 59 65	JEANNE
+T4	Person 79 87	Nannette
+T5	Location 133 137	Cher
+T6	Person 199 207	Nannette
+T7	Person 525 533	Nannette
+T8	Organization 848 854	PARTIR
+T9	Person 1106 1114	Nannette
+T10	Person 1445 1453	Nannette
+T11	Person 1990 1998	Nannette
+T12	Location 2406 2412	JEANNE
+T13	Person 2639 2647	Nannette
+T14	Person 2667 2675	Nannette
+T15	Location 2895 2899	Noël
+T16	Person 2905 2920	CREMIÈRE PARTIE
+T17	Location 3271 3280	Cathorino
+T18	Person 3284 3290	Jeanne
+T19	Person 3313 3321	Nannette
+T20	Person 3546 3554	Nannette
+T21	Person 3774 3782	Nannette
+T22	Person 3937 3945	Mon Dieu
+T23	Person 4368 4372	Dieu
+T24	Location 4392 4398	JEANNE
+T25	Product 4558 4576	re- prends courage
+T26	Location 4663 4678	PREMIÈRE PARTIE
+T27	Person 4771 4784	Pourquoi done
+T28	Location 4798 4806	Nannotte
+T29	Person 4858 4866	Nannette
+T30	Location 4909 4913	Cher
+T31	Person 5499 5505	Jeanne
+T32	Location 5515 5522	granges
+T33	Person 5901 5909	Nannette
+T34	Location 6076 6082	JEANNE
+T35	Location 6117 6126	Gathorino
+T36	Location 6180 6188	Nannotte
+T37	Person 6206 6223	Catherine Leblane
+T38	Product 6228 6230	Eh
+T39	Person 6238 6247	Catherine
+T40	Person 6485 6489	Dieu
+T41	Person 6709 6718	Guillaume
+T42	Person 6958 6967	Catherine
+T43	Person 6994 7000	Jeanne
+T44	Person 7026 7030	Dieu
+T45	Person 7246 7255	Catherine
+T46	Location 7369 7384	PREMIÈRE PARTIE
+T47	Person 7424 7432	Nannette
+T48	Person 7518 7526	Nannette
+T49	Location 7593 7599	Joanne
+T50	Person 7861 7869	Nannette
+T51	Person 7927 7933	Jeanne
+T52	Person 8064 8072	Nannette
+T53	Person 8117 8123	Jeanne
+T54	Location 8675 8681	JEANNE
+T55	Product 8974 8976	Eh
+T56	Person 9057 9063	Jeanne
+T57	Location 9132 9138	Jeunne
+T58	Product 9308 9310	Eh
+T59	Organization 9522 9532	Nan- nette
+T60	Person 9687 9693	Dumont
+T61	Person 10054 10060	Jeanne
+T62	Person 10119 10125	PARTIE
+T63	Person 10300 10315	Guillaume de m'
+T64	Person 10339 10348	Catherine
+T65	Person 10405 10414	Catherine
+T66	Person 10629 10640	Manc Dumont
+T67	Person 10752 10761	Catherine
+T68	Person 10926 10931	Merci
+T69	Location 10951 10960	Catherine
+T70	Product 11066 11068	Eh
+T71	Location 11414 11420	JEANNS
+T72	Person 11618 11624	Jeanne
+T73	Person 11696 11709	Madame Dumont
+T74	Person 11731 11737	Jeanne
+T75	Person 11872 11878	Jeanne
+T76	Person 12031 12037	Dumont
+T77	Person 12128 12134	Jeanne
+T78	Person 12215 12221	Dumont
+T79	Person 12410 12416	Jeanne
+T80	Organization 12536 12538	Tu
+T81	Location 12649 12664	PREMIÈRE PARTIE
+T82	Person 12673 12679	Jeanne
+T83	Location 12886 12892	Isaure
+T84	Location 12896 12905	Madeleine
+T85	Person 13174 13180	Dumont
+T86	Person 13232 13238	Dumont
+T87	Location 13265 13271	Isauro
+T88	Person 13311 13317	Jeanne
+T89	Person 13388 13397	Catherine
+T90	Location 13503 13509	Jeanre
+T91	Product 13846 13848	Eh
+T92	Location 13968 13974	JEANNE
+T93	Person 13986 13990	Dieu
+T94	Person 14127 14144	Pourquoi mendioz-
+T95	Person 14312 14320	Nannette
+T96	Person 14325 14334	Catherine
+T97	Person 14452 14456	Dieu
+T98	Person 14488 14497	Catherine
+T99	Person 14567 14575	Nannette
+T100	Person 14686 14694	Nannette
+T101	Person 14838 14847	Catherine
+T102	Person 15155 15164	Catherine
+T103	Person 15237 15246	Catherine
+T104	Location 15288 15303	PREMIÈRE PARTIE
+T105	Person 15325 15334	Jeanne de
+T106	Location 15357 15362	hilla
+T107	Person 15516 15535	maître Guillaume de
+T108	Person 15708 15716	Nannette
+T109	Person 15809 15825	maître Guillaume
+T110	Person 15938 15944	Jeanne
+T111	Organization 16018 16028	Nan- nette
+T112	Person 16092 16098	Jeanne
+T113	Person 16141 16149	Nannette
+T114	Person 16245 16254	ma Jeanne
+T115	Person 16331 16339	Nannette
+T116	Person 16376 16386	Jeanne les
+T117	Person 16560 16568	Nannette
+T118	Person 16770 16781	Jeanne vou-
+T119	Location 16850 16856	JEANNE
+T120	Person 17018 17026	Nannette
+T121	Person 17293 17301	Nannette
+T122	Person 17346 17352	Jeanne
+T123	Person 17531 17539	Nannette
+T124	Person 17550 17558	Nannette
+T125	Person 17564 17570	Jeanne
+T126	Person 17624 17630	Jeanne
+T127	Organization 17730 17740	Nan- nette
+T128	Person 17785 17794	Catherine
+T129	Person 17893 17901	Nannette
+T130	Person 17943 17948	Marie
+T131	Person 17980 17990	Jeanne les
+T132	Person 18087 18095	Nannette
+T133	Person 18159 18163	Dieu
+T134	Location 18186 18201	PREMIÈRE PARTIE
+T135	Person 18296 18299	Du-
+T136	Person 18384 18392	Nannette
+T137	Person 18439 18445	Jeanne
+T138	Person 18607 18613	Jeanne
+T139	Location 18659 18667	Nannotte
+T140	Person 18894 18902	Nannette
+T141	Location 18976 18985	Catherine
+T142	Product 18990 19003	Mère Nannette
+T143	Person 19057 19061	Dieu
+T144	Person 19103 19112	Catherine
+T145	Person 19141 19157	maître Guillaume
+T146	Person 19243 19251	Nannette
+T147	Person 19272 19281	Catherine
+T148	Person 19325 19331	Jeanne
+T149	Person 19404 19412	Nannette
+T150	Person 19546 19555	Guillaume
+T151	Location 19594 19600	JEANNE
+T152	Location 19618 19627	Catherine
+T153	Person 19691 19700	Guillaume
+T154	Person 19801 19810	Catherine
+T155	Location 19920 19935	PREMIÈRE PARTIE
+T156	Person 20075 20091	maître Guillaume
+T157	Person 20105 20113	Nannette
+T158	Organization 20323 20335	Mon pain n 2
+T159	Person 20475 20481	Jeanne
+T160	Person 20580 20596	maître Guillaume
+T161	Location 21025 21029	Noël
+T162	Person 21206 21215	Guillaume
+T163	Person 21322 21330	Nannette
+T164	Location 21382 21388	JEANNE
+T165	Person 21421 21429	Nannette
+T166	Person 21487 21503	maître Guillaume
+T167	Person 21545 21554	Catherine
+T168	Person 21604 21620	maître Guillaume
+T169	Person 21622 21631	Catherine
+T170	Person 21813 21820	le euré
+T171	Location 21870 21879	Catherine
+T172	Person 22159 22166	le euré
+T173	Person 22598 22604	Jeanne
+T174	Organization 22804 22810	PARTIR
+T175	Person 23118 23125	le euré
+T176	Person 23193 23199	Dumont
+T177	Person 23304 23312	Nannette
+T178	Person 23403 23412	Catherine
+T179	Person 23496 23502	Jeanne
+T180	Organization 23524 23532	por- tes
+T181	Person 23693 23701	Nannette
+T182	Person 24201 24207	Jeanne
+T183	Person 24364 24370	Jeanne
+T184	Person 24414 24422	Nannette
+T185	Person 24510 24519	Catherine
+T186	Location 24650 24656	Jeanne
+T187	Location 24793 24799	Jeanno
+T188	Person 24812 24818	Dumont
+T189	Person 24834 24840	Jeanne
+T190	Person 25062 25070	Nannette
+T191	Organization 25090 25092	Tu
+T192	Person 25288 25297	ma Jeanne
+T193	Location 25461 25476	PREMIÈRE PARTIE
+T194	Person 25748 25754	Dumont
+T195	Location 25855 25861	Joanne
+T196	Person 26012 26019	Auguste
+T197	Location 26087 26093	Jeanno
+T198	Person 26147 26153	Isaure
+T199	Person 26187 26193	Jeanne
+T200	Person 26374 26380	Jeanne
+T201	Organization 26425 26427	Tu
+T202	Organization 26507 26509	Tu
+T203	Product 26667 26669	Eh
+T204	Person 26708 26714	Jeanne
+T205	Person 26740 26746	Dümont
+T206	Person 26763 26775	Jeanne pour-
+T207	Location 26879 26885	JKANNE
+T208	Location 26967 26975	Nannotte
+T209	Person 27091 27099	Nannette
+T210	Person 27227 27233	Jeanne
+T211	Location 27265 27270	boire
+T212	Person 27367 27379	Jeanne sauvo
+T213	Person 27411 27417	Jeanne
+T214	Person 27605 27616	tite Jeanne
+T215	Person 28045 28051	Jeanne
+T216	Location 28275 28290	PREMIÈRE PARTIE
+T217	Person 28366 28372	Jeanne
+T218	Person 28794 28800	Dumont
+T219	Person 28898 28907	Catherine
+T220	Location 28946 28954	Nannette
+T221	Person 29123 29129	Jeanne
+T222	Person 29149 29157	Nannette
+T223	Person 29285 29294	Catherine
+T224	Person 29374 29380	Isaure
+T225	Person 29399 29405	Jeanne
+T226	Person 29430 29436	Isaure
+T227	Person 29488 29494	Jeanne
+T228	Person 29515 29523	Nannette
+T229	Person 29557 29563	Dumont
+T230	Location 29581 29587	JEANNE
+T231	Person 29675 29683	Nannette
+T232	Person 29711 29720	Catherine
+T233	Person 29753 29759	Dumont
+T234	Person 29869 29875	Isaure
+T235	Location 29939 29945	Joanne
+T236	Person 29967 29977	Dieu merci
+T237	Person 30160 30168	Nannette
+T238	Person 30413 30419	Dumont
+T239	Person 30549 30555	Isaure
+T240	Person 30577 30583	Jeanne
+T241	Person 30615 30621	Isaure
+T242	Person 30669 30675	Jeanne
+T243	Organization 30704 30706	Tu
+T244	Person 30751 30757	Jeanne
+T245	Person 30842 30850	Nannette
+T246	Location 30860 30875	PREMIÈRE PARTIE
+T247	Organization 31045 31047	Tu
+T248	Person 31652 31660	Nannette
+T249	Person 32009 32017	Nannette
+T250	Person 32033 32042	Dumont la
+T251	Organization 32126 32135	JEANNE 27
+T252	Location 32137 32143	Isauro
+T253	Location 32184 32190	Joanne
+T254	Person 32195 32203	Mon Dieu
+T255	Location 32216 32222	Isauro
+T256	Person 32334 32345	tite Jeanne
+T257	Location 33032 33038	Sophie
+T258	Person 33050 33056	Isaure
+T259	Person 33208 33215	Auguste
+T260	Person 33220 33229	Mon frère
+T261	Location 33347 33353	Jeanne
+T262	Location 33413 33428	PREMIÈRE PARTIE
+T263	Person 33524 33530	Dumont
+T264	Person 33640 33646	Jeanne
+T265	Person 33683 33689	Dumont
+T266	Person 34012 34018	Jeanne
+T267	Person 34146 34152	Isaure
+T268	Person 34545 34551	Isaure
+T269	Person 34570 34576	Jeanne
+T270	Person 34592 34598	Isaure
+T271	Person 34725 34731	Jeanne
+T272	Location 34802 34808	JEANNE
+T273	Person 34907 34913	Jeanne
+T274	Person 34964 34970	Isaure
+T275	Person 35136 35142	Sophie
+T276	Person 35601 35607	Isaure
+T277	Person 35731 35737	Dumont
+T278	Person 35888 35894	Jeanne
+T279	Location 36000 36007	Auguste
+T280	Person 36184 36190	Jeanne
+T281	Person 36287 36302	PREMIÈRE PARTIE
+T282	Person 36313 36321	Nannette
+T283	Person 36325 36334	Catherine
+T284	Person 36398 36406	Nannette
+T285	Person 36449 36455	Jeanne
+T286	Person 36600 36608	Nannette
+T287	Person 36762 36775	maître Tixier
+T288	Location 36792 36802	Grand-Bail
+T289	Person 36813 36819	Jeanne
+T290	Person 36883 36891	Nannette
+T291	Person 36899 36907	mon Dieu
+T292	Person 36983 36989	Dumont
+T293	Person 37035 37046	Mlle Isaure
+T294	Person 37322 37331	Catherine
+T295	Person 37349 37355	Jeanne
+T296	Location 37540 37546	JEANNE
+T297	Person 37552 37558	Jeanne
+T298	Person 37628 37634	Jeanne
+T299	Organization 37995 38005	Nan- nette
+T300	Person 38090 38098	Nannette
+T301	Person 38128 38137	Catherine
+T302	Person 38144 38150	Jeanne
+T303	Person 38269 38277	Nannette
+T304	Person 38596 38602	Jeanne
+T305	Location 38932 38947	PREMIÈRE PARTIE
+T306	Person 39180 39186	Jeanne
+T307	Person 39229 39235	Jeanne
+T308	Person 39304 39310	Dumont
+T309	Person 39312 39318	Sophie
+T310	Location 39434 39440	Isaure
+T311	Person 39624 39630	Jeanne
+T312	Product 39710 39712	Eh
+T313	Person 39727 39733	Dumont
+T314	Person 40147 40155	Nannette
+T315	Location 40237 40243	JKANNE
+T316	Person 40249 40255	Jeanne
+T317	Person 40301 40310	at Isaure
+T318	Person 40461 40467	Jeanne
+T319	Location 40500 40506	Isaure
+T320	Person 40743 40749	Dumont
+T321	Person 40770 40776	Jeanne
+T322	Person 40822 40828	Dumont
+T323	Person 40894 40902	Nannette
+T324	Person 41313 41319	Jeanne
+T325	Location 41532 41547	PREMIÈRE PARTIE
+T326	Organization 41735 41737	Tu
+T327	Person 41992 42000	Nannette
+T328	Person 42081 42089	Nannette
+T329	Person 42228 42234	Jeanne
+T330	Person 42278 42284	Sophie
+T331	Person 42308 42314	Jeanne
+T332	Person 42796 42802	Jeanne
+T333	Person 42854 42860	Jeanne
+T334	Person 42910 42916	Dumont
+T335	Person 43159 43165	Jeanne
+T336	Person 43190 43196	Dumont
+T337	Person 43308 43314	Jeanne
+T338	Person 43454 43460	Isaure
+T339	Person 43533 43541	Nannette
+T340	Person 43570 43576	Jeanne
+T341	Person 43615 43621	Isaure
+T342	Organization 43641 43643	Tu
+T343	Person 43660 43666	Jeanne
+T344	Person 43760 43766	Dumont
+T345	Person 43790 43796	Jeanne
+T346	Person 43823 43832	Catherine
+T347	Location 44053 44068	PREMIÈRE PARTIE
+T348	Person 44073 44078	Merci
+T349	Person 44326 44330	Dieu
+T350	Person 44401 44408	Jacques
+T351	Person 44459 44465	Jeanne
+T352	Person 44516 44525	Catherine
+T353	Person 44880 44884	Dieu
+T354	Person 44945 44953	Nannette
+T355	Person 45026 45034	Nannette
+T356	Person 45114 45123	Catherine
+T357	Person 45147 45153	Jeanne
+T358	Person 45218 45226	Nannette
+T359	Location 45432 45438	JEANNE
+T360	Location 45453 45462	Catherine
+T361	Person 45543 45549	Dumont
+T362	Person 45650 45659	Catherine
+T363	Person 45771 45779	Nannette
+T364	Person 45794 45805	tite Jeanne
+T365	Person 45848 45854	Dumont
+T366	Person 45929 45933	Dieu
+T367	Person 46201 46205	Dieu
+T368	Product 46532 46545	Mère Nannette
+T369	Location 46680 46695	PREMIÈRE PARTIE
+T370	Person 46783 46787	Dieu
+T371	Location 46833 46839	Jennne
+T372	Person 46946 46959	More Nannatte
+T373	Organization 47113 47126	potito Jennne
+T374	Person 47170 47176	Jeanne
+T375	Person 47191 47197	Dumont
+T376	Date 47270 47288	diman- che suivant
+T377	Person 47290 47296	Sophie
+T378	Person 47532 47536	Dieu
+T379	Person 47546 47554	Nannette
+T380	Person 47706 47712	Dumont
+T381	Person 47888 47895	le euré
+T382	Location 48107 48113	JEANNE
+T383	Person 48243 48251	Nannette
+T384	Organization 48412 48425	potito Jounno
+T385	Person 48481 48487	Jeanne
+T386	Person 48655 48661	Dumont
+T387	Person 48770 48776	Jeanne
+T388	Person 48856 48862	Isaure
+T389	Person 49140 49147	Dieu de
+T390	Person 49287 49293	Jeanne
+T391	Person 49297 49303	Isaure
+T392	Person 49517 49523	Dumont
+T393	Person 49537 49543	Jeanne
+T394	Location 49574 49589	PREMIÈRE PARTIE
+T395	Location 49685 49688	So-
+T396	Person 49953 49959	Jeanne
+T397	Person 49963 49969	Isaure
+T398	Person 50093 50099	Dumont
+T399	Person 50123 50129	Jeanne
+T400	Person 50248 50256	Nannette
+T401	Person 50390 50396	Jeanne
+T402	Person 50418 50424	Dumont
+T403	Person 50427 50433	Jeanne
+T404	Person 50494 50500	Dumont
+T405	Person 50887 50893	Jeanne
+T406	Location 50998 51004	JEANNp
+T407	Person 51132 51140	Nannette
+T408	Person 51330 51336	Dumont
+T409	Person 51348 51354	Jeanne
+T410	Person 51640 51644	Dieu
+T411	Person 51699 51705	Jeanne
+T412	Person 51724 51732	Nannette
+T413	Person 51818 51824	Dumont
+T414	Person 51919 51927	Nannette
+T415	Person 51958 51964	Jeanne
+T416	Person 51995 51998	Du-
+T417	Person 52032 52047	Comment fais-tu
+T418	Person 52049 52055	Jeanne
+T419	Person 52418 52424	Jeanne
+T420	Location 52467 52482	PREMIÈRE PARTIE
+T421	Person 52586 52592	Joanne
+T422	Person 52617 52625	Nannette
+T423	Person 52641 52647	Jeanne
+T424	Person 52719 52727	Nannette
+T425	Person 52889 52897	Nannette
+T426	Person 52931 52937	Jeanne
+T427	Organization 53099 53109	Nan- nette
+T428	Person 53390 53396	Jeanne
+T429	Person 53561 53569	Nannette
+T430	Location 53878 53884	JEANNE
+T431	Person 53898 53906	Nannette
+T432	Person 53933 53939	Jeanne
+T433	Person 54453 54461	Nannette
+T434	Person 54619 54626	le euré
+T435	Person 54742 54746	Dieu
+T436	Person 54824 54832	Nannette
+T437	Person 54899 54907	Nannette
+T438	Person 55006 55012	Jeanne
+T439	Person 55120 55126	Dumont
+T440	Location 55253 55268	PREMIÈRE PARTIE
+T441	Person 55306 55312	Jeanne
+T442	Person 55354 55360	Isaure
+T443	Person 55365 55369	Jele
+T444	Person 55524 55528	Dieu
+T445	Person 55637 55645	Nannette
+T446	Person 55791 55795	Dieu
+T447	Person 55853 55859	Jeanne
+T448	Person 56241 56247	Dumont
+T449	Location 56479 56484	boire
+T450	Person 56535 56543	Nannette
+T451	Person 56555 56561	Jeanne
+T452	Person 56585 56593	Nannette
+T453	Organization 56659 56661	Tu
+T454	Person 56679 56685	Jeanne
+T455	Location 56718 56724	JEANNE
+T456	Person 56811 56817	Jeanne
+T457	Location 57030 57033	toi
+T458	Product 57371 57373	Eh
+T459	Person 57467 57472	Merci
+T460	Person 57479 57487	Nannette
+T461	Person 57622 57630	Nannette
+T462	Person 57694 57702	Nannette
+T463	Person 57800 57804	Dieu
+T464	Organization 58157 58167	Nan- nette
+T465	Person 58233 58239	Jeanne
+T466	Person 58387 58393	Jeanne
+T467	Person 58437 58445	Nannette
+T468	Location 58655 58663	Nannotte
+T469	Person 58751 58757	Jeanne
+T470	Person 58942 58948	Jeanne
+T471	Person 59014 59022	Nannette
+T472	Location 59359 59364	boire
+T473	Location 59499 59505	JKANNE
+T474	Person 59540 59548	Nannette
+T475	Person 59576 59582	Jeanne
+T476	Person 59735 59743	Nannette
+T477	Person 59854 59860	Jeanne
+T478	Person 59933 59939	Jeanne
+T479	Location 59970 59976	Jeanne
+T480	Person 60149 60155	Jeanne
+T481	Location 60833 60848	PREMIÈRE PARTIE
+T482	Location 60853 60859	Jeunne
+T483	Person 60978 60984	Jeanne
+T484	Location 61124 61130	JEANNE
+T485	Person 61227 61235	Nannette
+T486	Person 61252 61260	Nannette
+T487	Person 61466 61472	Jeanne
+T488	Person 61624 61630	Jeanne
+T489	Person 61864 61878	maître Gerbaud
+T490	Person 61945 61951	Jeanne
+T491	Location 62231 62238	Gerbaud
+T492	Person 62306 62320	Maître Gerbaud
+T493	Location 62484 62499	PREMIÈRE PARTIE
+T494	Person 62601 62609	Nannette
+T495	Person 62628 62634	Jeanne
+T496	Location 62830 62837	Gerbaud
+T497	Person 63001 63007	Jeanne
+T498	Person 63064 63072	Nannette
+T499	Person 63249 63263	Maître Gerbaud
+T500	Person 63450 63464	Maître Gerbaud
+T501	Person 63509 63515	Jeanne
+T502	Location 63561 63568	Gerbaud
+T503	Person 63898 63904	JEANNE
+T504	Person 63972 63979	Gerbaud
+T505	Person 64059 64065	Jeanne
+T506	Person 64243 64251	Nannette
+T507	Location 64270 64277	Gerbaud
+T508	Location 64476 64483	Gerbaud
+T509	Location 64531 64537	Jeanne
+T510	Person 64555 64569	maître Gerbaud
+T511	Location 64766 64769	toi
+T512	Person 64934 64940	Jeanne
+T513	Location 65188 65203	PREMIÈRE PARTIE
+T514	Location 65568 65574	Jeanne
+T515	Location 65601 65608	Gerbaud
+T516	Person 65670 65676	Jeanne
+T517	Event 65738 65742	Noël
+T518	Person 66195 66201	Jeanne
+T519	Person 66208 66215	lo curé
+T520	Location 66235 66241	Joanne
+T521	Person 66278 66284	Jeanne
+T522	Person 66462 66471	DK JEANNE
+T523	Person 66487 66493	Jeanne
+T524	Person 66530 66538	Nannette
+T525	Person 66604 66608	Dieu
+T526	Person 66697 66708	Mmes Dumont
+T527	Location 67001 67011	Grand-Bail
+T528	Person 67221 67227	Jeanne
+T529	Person 67377 67388	Mmes Dumont
+T530	Person 67462 67468	Tixier
+T531	Location 67482 67492	Grand-Bail
+T532	Person 67528 67534	Jeanne
+T533	Person 67540 67546	Sophie
+T534	Location 67623 67626	toi
+T535	Location 67881 67889	PREMIÈRE
+T536	Person 67890 67896	PARTIE
+T537	Person 67915 67922	le euré
+T538	Person 67928 67948	Jeanne au Grand-Bail
+T539	Location 68081 68092	Saint- Jean
+T540	Product 68097 68108	Mère Tixier
+T541	Person 68313 68319	Jeanne
+T542	Person 68326 68340	Maître Gerbaud
+T543	Person 68585 68593	Nannette
+T544	Location 68762 68765	toi
+T545	Location 68930 68936	Joanne
+T546	Location 68965 68973	Nannotte
+T547	Person 69010 69017	Gerbaud
+T548	Location 69140 69146	JEANNE
+T549	Location 69222 69229	Gerbaud
+T550	Person 69311 69317	Jeanne
+T551	Person 69495 69503	Nannette
+T552	Location 69548 69558	Grand-Bail
+T553	Person 69771 69777	Jeanne
+T554	Person 69796 69810	maître Gerbaud
+T555	Person 70082 70090	Nannette
+T556	Person 70214 70222	Mon Dieu
+T557	Person 70297 70305	Nannette
+T558	Person 70329 70343	Apaisetoi done
+T559	Location 70439 70449	Grand-Bail
+T560	Person 70530 70536	Jeanne
+T561	Person 70568 70579	grand Louis
+T562	Person 70665 70671	PARTIE
+T563	Location 70686 70692	JEANNE
+T564	Product 70698 70737	ciel du lit; puis, quand tout fut rangé
+T565	Person 70774 70780	Jeanne
+T566	Person 70826 70832	Tixier
+T567	Location 70868 70874	JEANNE
+T568	Location 70878 70885	SERVICE
+T569	Organization 70894 70908	SECONDE PARTIE
+T570	Location 70911 70917	JEANNE
+T571	Location 70921 70928	SERVICE
+T572	Location 70931 70937	Joanne
+T573	Person 70999 71005	Jeanne
+T574	Person 71271 71279	Nannette
+T575	Person 71306 71319	Maître Tixier
+T576	Person 71494 71500	Jeanne
+T577	Person 71509 71531	comment maître Gerbaud
+T578	Location 71725 71732	Gerbaud
+T579	Organization 71806 71820	SECONDE PARTIE
+T580	Person 71912 71918	Jeanne
+T581	Person 72118 72124	Jeanne
+T582	Product 72238 72262	tu as du temps pour tout
+T583	Location 72487 72490	toi
+T584	Location 72538 72545	Gerbaud
+T585	Product 72558 72580	tu te charges toujours
+T586	Location 72646 72649	toi
+T587	Person 72650 72657	Solange
+T588	Location 72767 72770	toi
+T589	Person 72775 72786	Grand Louis
+T590	Person 72806 72817	Grand Louis
+T591	Person 73163 73169	Jeanne
+T592	Person 73244 73249	grand
+T593	Person 73250 73255	Louis
+T594	Location 73261 73267	JEANNE
+T595	Location 73271 73278	SERVICE
+T596	Location 73323 73334	Meunet-sur-
+T597	Location 73337 73342	Vatan
+T598	Location 74039 74046	Solange
+T599	Location 74177 74184	Solange
+T600	Person 74191 74197	Jeanne
+T601	Person 74199 74210	grand Louis
+T602	Person 74452 74463	grand Louis
+T603	Location 74631 74639	Bretagne
+T604	Location 74682 74689	Flandre
+T605	Person 74784 74794	saint Loup
+T606	Organization 74808 74822	SECONDE PARTIE
+T607	Person 75172 75178	Jeanne
+T608	Person 75251 75259	Nannette
+T609	Person 75444 75450	Jeanne
+T610	Person 75601 75612	grand Louis
+T611	Person 76182 76193	grand Louis
+T612	Location 76332 76338	JEANNE
+T613	Location 76342 76349	SERVICE
+T614	Person 76381 76392	grand Louis
+T615	Person 76429 76440	grand Louis
+T616	Person 76591 76597	Jeanne
+T617	Location 76688 76695	Solange
+T618	Person 76710 76719	Jeanne no
+T619	Location 76769 76774	boire
+T620	Organization 76820 76822	Tu
+T621	Person 76851 76862	grand Louis
+T622	Person 77395 77400	Marie
+T623	Location 77517 77520	toi
+T624	Location 77652 77658	Meunet
+T625	Person 77716 77722	Jeanne
+T626	Organization 77771 77785	SECONDE PARTIE
+T627	Person 77788 77799	grand Louis
+T628	Location 77912 77918	Joanne
+T629	Person 77977 77990	Maître Tixier
+T630	Person 78000 78006	Jeanne
+T631	Person 78055 78061	Jeanne
+T632	Person 78214 78220	Jeanne
+T633	Location 78260 78267	Gerbaud
+T634	Person 78313 78321	Nannette
+T635	Person 78509 78515	Jeanne
+T636	Person 78600 78608	Nannette
+T637	Person 78744 78750	Jeanne
+T638	Location 79105 79111	JEANNE
+T639	Location 79115 79122	SERVICE
+T640	Person 79361 79370	ma Jeanne
+T641	Product 79491 79493	Eh
+T642	Person 79519 79532	maître Tixier
+T643	Location 79670 79676	Jeanne
+T644	Person 80068 80074	Jeanne
+T645	Person 80080 80086	Jeanne
+T646	Location 80098 80105	Solange
+T647	Person 80146 80152	Jeanne
+T648	Location 80159 80166	Solange
+T649	Organization 80439 80441	Tu
+T650	Organization 80521 80535	SECONDE PARTIE
+T651	Person 82061 82067	Jeanne
+T652	Location 82092 82098	JEANNE
+T653	Location 82102 82109	SERVICE
+T654	Location 82128 82135	Solange
+T655	Person 82244 82251	Solange
+T656	Person 82352 82358	Jeanne
+T657	Location 82483 82490	Solange
+T658	Location 82540 82546	Jeanne
+T659	Location 82654 82657	So-
+T660	Person 82784 82791	Solange
+T661	Person 82903 82909	Tixier
+T662	Location 83006 83013	Solange
+T663	Location 83128 83135	Solange
+T664	Person 83215 83219	Dieu
+T665	Location 83246 83249	toi
+T666	Person 83285 83296	grand Louis
+T667	Organization 83348 83362	SECONDE PARTIE
+T668	Location 83398 83405	Solange
+T669	Person 83409 83420	José- phine
+T670	Person 83454 83467	maître Tixier
+T671	Person 83507 83517	Jeanne sa-
+T672	Location 83690 83696	Louise
+T673	Person 83820 83828	Mon Dieu
+T674	Organization 84017 84019	Tu
+T675	Location 84080 84087	Solange
+T676	Person 84144 84163	continua Marguerite
+T677	Organization 84283 84285	Tu
+T678	Person 84322 84328	Jeanne
+T679	Location 84446 84449	toi
+T680	Location 84517 84524	Solange
+T681	Person 84630 84636	Jeanne
+T682	Location 84820 84826	JEANNE
+T683	Person 84844 84850	Jeanne
+T684	Location 84957 84967	Marguerite
+T685	Person 85015 85024	ma Jeanne
+T686	Location 85166 85172	Louise
+T687	Person 85270 85276	Jeanne
+T688	Person 85294 85303	ma Jeanne
+T689	Person 85600 85606	Jeanne
+T690	Person 85630 85641	grand Louis
+T691	Person 85672 85678	Jeanne
+T692	Location 85688 85691	So-
+T693	Person 85965 85971	Tixier
+T694	Organization 86227 86241	SECONDE PARTIR
+T695	Person 86269 86280	grand Louis
+T696	Person 86368 86379	grand Louis
+T697	Person 86526 86532	Jeanne
+T698	Person 86580 86591	grand Louis
+T699	Person 86648 86659	grand Louis
+T700	Person 86784 86795	Grand Louis
+T701	Person 86807 86813	Jeanne
+T702	Person 86822 86828	Jeanne
+T703	Person 86871 86882	grand Louis
+T704	Person 86976 86987	grand Louis
+T705	Person 87039 87045	Jeanne
+T706	Person 87275 87283	Mon Dieu
+T707	Location 87365 87368	toi
+T708	Person 87377 87383	Jeanne
+T709	Person 87518 87529	grand Louis
+T710	Location 87560 87566	JEANNE
+T711	Location 87570 87577	SERVICE
+T712	Person 87716 87727	grand Louis
+T713	Person 87845 87851	Jeanne
+T714	Person 87940 87951	grand Louis
+T715	Person 88357 88363	Jeanne
+T716	Person 88420 88426	Jeanne
+T717	Person 88445 88456	grand Louis
+T718	Person 88562 88568	Jeanne
+T719	Person 88617 88628	Grand Louis
+T720	Person 88653 88659	Jeanne
+T721	Person 88691 88704	maître Tixier
+T722	Location 88866 88873	Hautes-
+T723	Organization 88879 88893	SECONDE PARTIE
+T724	Person 88904 88915	grand Louis
+T725	Person 88951 88957	Jeanne
+T726	Person 89059 89065	Jeanne
+T727	Product 89088 89101	maître Tixier
+T728	Person 89151 89162	grand Louis
+T729	Person 89377 89383	Jeanne
+T730	Person 89403 89409	Jeanne
+T731	Person 89419 89430	grand Louis
+T732	Location 89519 89529	Grand-Bail
+T733	Person 89565 89571	Jeanne
+T734	Person 89602 89608	Tixier
+T735	Person 89808 89820	saint Martin
+T736	Location 90080 90086	Jeanne
+T737	Location 90289 90295	JEANNE
+T738	Location 90299 90306	SERVICE
+T739	Person 90322 90328	Jeanne
+T740	Person 90372 90385	maître Tixier
+T741	Person 90494 90507	Pourquoi done
+T742	Person 90535 90541	Jeanne
+T743	Person 90898 90909	Grand Louis
+T744	Person 91023 91029	Jeanne
+T745	Person 91092 91098	Jeanne
+T746	Location 91115 91117	JM
+T747	Person 91131 91142	Grand Louis
+T748	Person 91148 91154	Jeanne
+T749	Person 91176 91183	le euré
+T750	Person 91419 91425	Jeanne
+T751	Location 91492 91497	Tenez
+T752	Person 91605 91614	Joséphine
+T753	Person 91670 91676	Jeanne
+T754	Organization 91693 91707	SECONDE PARTIE
+T755	Location 92011 92016	boire
+T756	Person 92165 92178	Maître Tixier
+T757	Location 92568 92573	Paris
+T758	Person 93022 93029	le euré
+T759	Location 93097 93103	JEANNE
+T760	Location 93107 93114	SERVICE
+T761	Person 93251 93255	Dieu
+T762	Person 93861 93868	Dieu de
+T763	Product 94112 94114	Eh
+T764	Organization 94355 94369	SECONDE PARTIE
+T765	Person 94493 94506	Pourquoi done
+T766	Product 95449 95451	Eh
+T767	Location 95538 95544	JEANNE
+T768	Location 95548 95555	SERVICE
+T769	Person 95563 95571	Mon Dieu
+T770	Organization 95881 95895	SECONDE PARTIE
+T771	Organization 96396 96406	Grand-Bail
+T772	Person 96593 96606	maître Tixier
+T773	Location 97336 97342	JEANNE
+T774	Location 97346 97353	SERVICE
+T775	Product 97759 97761	Eh
+T776	Person 98526 98537	grand Louis
+T777	Organization 98789 98803	SECONLE PARTIE
+T778	Person 99356 99360	Dieu
+T779	Person 99708 99712	Dieu
+T780	Person 99903 99912	Jeanne de
+T781	Location 100088 100094	JEANNE
+T782	Location 100098 100105	SERVICE
+T783	Location 100142 100152	Grand-Bail
+T784	Person 100260 100273	maître Tixier
+T785	Person 100596 100602	Tixier
+T786	Person 100657 100663	Jeanne
+T787	Person 100675 100686	grand Louis
+T788	Person 100707 100715	Mon Dieu
+T789	Person 101472 101478	Dumont
+T790	Person 101504 101510	Jeanne
+T791	Organization 101593 101607	SECONDE PARTIE
+T792	Location 101797 101807	Grand-Bail
+T793	Person 102045 102051	Dumont
+T794	Person 102892 102903	père Tixier
+T795	Location 102907 102913	JEANNE
+T796	Location 102917 102924	SERVICE
+T797	Location 103523 103533	Grand-Bail
+T798	Person 103633 103637	Dieu
+T799	Person 103855 103859	Dieu
+T800	Person 104266 104270	Dieu
+T801	Organization 104340 104354	SÉCONDE PARTIE
+T802	Person 104379 104392	maître Tixier
+T803	Person 104616 104629	maître Tixier
+T804	Person 104810 104816	Jeanne
+T805	Person 104820 104827	Solange
+T806	Product 105397 105402	Tu as
+T807	Person 105523 105536	maître Tixier
+T808	Location 105555 105562	SERVICE
+T809	Person 105568 105581	Maitro Tixior
+T810	Organization 105645 105655	Saint-Jean
+T811	Person 105657 105670	maître Tixier
+T812	Person 105851 105862	grand Louis
+T813	Location 105875 105878	toi
+T814	Person 106054 106065	grand Louis
+T815	Location 106177 106180	toi
+T816	Person 106182 106188	Claude
+T817	Location 106271 106281	Saint-Jean
+T818	Location 106290 106302	Saint-Pierre
+T819	Person 106359 106365	Claude
+T820	Location 106545 106555	Marguerite
+T821	Organization 106767 106781	SECONDE PARTIE
+T822	Person 106859 106863	Dieu
+T823	Organization 106968 106970	Tu
+T824	Location 106993 106996	toi
+T825	Location 106998 107008	Marguerite
+T826	Person 107027 107032	Marie
+T827	Organization 107049 107061	Chétif- Bail
+T828	Product 107082 107084	Eh
+T829	Person 107205 107211	Jeanne
+T830	Person 107287 107297	Marguerite
+T831	Organization 107414 107416	Tu
+T832	Location 107467 107470	toi
+T833	Person 107479 107485	Jeanne
+T834	Organization 107934 107944	Saint-Jean
+T835	Person 108131 108137	Jeanne
+T836	Location 108213 108219	JEANNE
+T837	Location 108223 108230	SERVICE
+T838	Person 108623 108628	Merci
+T839	Person 108667 108673	Jeanne
+T840	Location 108686 108696	Marguerite
+T841	Person 108723 108729	Jeanne
+T842	Location 108767 108777	Marguerite
+T843	Person 108938 108948	Marguerite
+T844	Location 109094 109097	toi
+T845	Person 109247 109253	Jeanne
+T846	Location 109364 109374	Marguerite
+T847	Organization 109658 109672	SECONDE PARTIE
+T848	Product 109887 109889	Eh
+T849	Person 110334 110340	Jeanne
+T850	Organization 110345 110347	Tu
+T851	Location 111060 111066	JEANNE
+T852	Location 111070 111077	SERVICE
+T853	Person 111099 111105	Jeanne
+T854	Location 111108 111118	Marguerite
+T855	Location 111131 111141	Marguerite
+T856	Person 111152 111158	Jeanne
+T857	Person 111371 111381	Marguerite
+T858	Location 111398 111401	toi
+T859	Organization 111416 111418	Tu
+T860	Person 111448 111452	Dieu
+T861	Person 111499 111505	Claude
+T862	Location 111827 111830	toi
+T863	Person 111943 111947	Dieu
+T864	Person 112031 112037	Dumont
+T865	Person 112101 112110	Ma Jeanne
+T866	Person 112174 112178	Dieu
+T867	Person 112218 112224	Dumont
+T868	Location 112403 112417	SECONDE PARTIE
+T869	Person 112503 112510	Dieu de
+T870	Person 112637 112641	Dieu
+T871	Person 112774 112782	Nannette
+T872	Person 112988 112998	Marguerite
+T873	Person 113090 113100	Jeanne out
+T874	Person 113112 113122	Marguerite
+T875	Location 113141 113151	Grand-Bail
+T876	Person 113154 113160	Jeanne
+T877	Organization 113220 113230	Saint-Jean
+T878	Location 113361 113367	Joanne
+T879	Person 113631 113637	Jeanne
+T880	Person 113784 113790	Jeanne
+T881	Location 113827 113833	JEANNE
+T882	Location 113837 113844	SERVIUK
+T883	Person 114114 114120	Jeanne
+T884	Person 114469 114475	Jeanne
+T885	Person 114718 114723	Colis
+T886	Person 114729 114735	Jeanne
+T887	Location 115231 115237	Tixier
+T888	Organization 115385 115399	SECONDR PARTIE
+T889	Organization 115446 115448	Tu
+T890	Person 115491 115497	Jeanne
+T891	Person 115529 115540	grand Louis
+T892	Person 115546 115554	Mon Dieu
+T893	Person 115591 115597	Jeanne
+T894	Location 115627 115633	JEANNE
+T895	Location 115637 115644	SERVICE
+T896	Person 115677 115688	grand Louis
+T897	Person 115709 115714	Colis
+T898	Person 116076 116085	ma Jeanne
+T899	Person 116268 116274	Jeanne
+T900	Person 116423 116434	grand Louis
+T901	Person 116533 116539	Jeanne
+T902	Person 116634 116645	grand Louis
+T903	Person 116793 116799	Jeanne
+T904	Person 116806 116817	grand Louis
+T905	Person 116928 116939	grand Louis
+T906	Person 117029 117034	Colis
+T907	Organization 117193 117207	SECONDE PARTIE
+T908	Person 117333 117338	Colis
+T909	Person 117388 117399	grand Louis
+T910	Person 117601 117607	Jeanne
+T911	Location 117799 117808	Joséphine
+T912	Organization 117973 117975	Tu
+T913	Person 118002 118008	Jeanne
+T914	Person 118031 118038	Solange
+T915	Person 118085 118098	maître Tixier
+T916	Person 118262 118273	grand Louis
+T917	Location 118280 118286	Jeanne
+T918	Person 118317 118322	Colis
+T919	Person 118434 118439	Merci
+T920	Person 118441 118452	grand Louis
+T921	Location 118497 118503	JEANNE
+T922	Location 118507 118514	SERVICR
+T923	Person 118832 118838	Jeanne
+T924	Person 119269 119275	Dumont
+T925	Person 119371 119382	Mlle Isaure
+T926	Location 119453 119459	Louise
+T927	Person 119462 119473	Grand Louis
+T928	Person 119570 119576	Jeanne
+T929	Organization 119876 119890	SECONDE PARTIE
+T930	Person 119893 119904	grand Louis
+T931	Person 119983 119989	Jeanne
+T932	Person 120125 120136	grand Louis
+T933	Person 120512 120523	grand Louis
+T934	Product 120801 120806	Tu as
+T935	Person 120838 120851	maître Tixier
+T936	Person 121041 121047	Jeanne
+T937	Person 121226 121232	Jeanne
+T938	Person 121267 121279	Jeanne toute
+T939	Location 121398 121405	SERVICR
+T940	Person 121421 121432	grand Louis
+T941	Person 121485 121498	maître Tixier
+T942	Person 121533 121538	Colis
+T943	Person 121822 121831	Ma Jeanne
+T944	Location 121846 121849	toi
+T945	Person 122366 122377	grand Louis
+T946	Location 122438 122453	Pierres- Folles
+T947	Location 122592 122595	toi
+T948	Person 122653 122666	maître Tixier
+T949	Person 122672 122678	Jeanne
+T950	Person 122682 122693	grand Louis
+T951	Organization 122739 122746	SECONDE
+T952	Person 122747 122753	PARTIE
+T953	Location 122755 122765	Marguerite
+T954	Location 122782 122792	Grand-Bail
+T955	Person 122831 122837	Jeanna
+T956	Location 122972 122982	Marguerite
+T957	Person 123032 123042	Jeanne out
+T958	Location 123097 123100	toi
+T959	Person 123119 123127	Mon Dieu
+T960	Person 123134 123143	ma Jeanne
+T961	Location 123278 123288	Périnnerie
+T962	Product 123622 123624	Eh
+T963	Location 123632 123642	Marguerite
+T964	Location 123886 123896	Marguerite
+T965	Location 123926 123929	toi
+T966	Organization 124016 124018	Tu
+T967	Location 124123 124130	SERVICE
+T968	Person 124161 124167	Tixier
+T969	Location 124180 124190	Marguerite
+T970	Person 124269 124275	Tixier
+T971	Location 124296 124306	Marguerite
+T972	Location 124456 124466	Périnnerie
+T973	Location 124543 124553	Marguerite
+T974	Person 124947 124953	Jeanne
+T975	Location 124966 124976	Marguerite
+T976	Person 124996 125002	Tixier
+T977	Person 125189 125198	ma Jeanne
+T978	Person 125244 125250	Jeanne
+T979	Person 125282 125295	maître Tixier
+T980	Organization 125368 125382	SECONDE PARTIE
+T981	Person 125405 125411	Jeanne
+T982	Person 125590 125595	ot Ja
+T983	Location 125739 125749	Marguerite
+T984	Person 125911 125917	Jeanne
+T985	Location 126375 126377	AL
+T986	Person 126379 126386	le euré
+T987	Person 126422 126435	Maître Tixier
+T988	Person 126509 126516	le euré
+T989	Person 126518 126528	Marguerite
+T990	Person 126799 126807	Jeanne y
+T991	Person 126827 126833	Jeanne
+T992	Person 127103 127107	Dieu
+T993	Person 127386 127399	maître Tixier
+T994	Person 127471 127475	Dieu
+T995	Person 127825 127831	Tixier
+T996	Location 128152 128156	Mar-
+T997	Organization 128165 128179	SECONDE PARTIE
+T998	Location 128195 128198	toi
+T999	Person 128200 128206	Jeanne
+T1000	Location 128299 128309	Marguerite
+T1001	Person 128319 128325	Jeanne
+T1002	Location 128328 128338	Marguerite
+T1003	Person 128446 128452	Jeanne
+T1004	Person 128474 128483	Ma Jeanne
+T1005	Location 128663 128673	Marguerite
+T1006	Person 128823 128829	Jeanne
+T1007	Organization 128891 128893	Tu
+T1008	Location 129353 129359	JEANNE
+T1009	Location 129363 129370	SERVICE
+T1010	Person 129396 129402	Jeanne
+T1011	Location 129431 129441	Grand-Bail
+T1012	Person 129451 129457	Jeanne
+T1013	Location 129830 129835	boire
+T1014	Person 130459 130465	Jeanne
+T1015	Person 130495 130501	Dumont
+T1016	Organization 130792 130806	SECONDE PARTIE
+T1017	Person 131035 131041	Tixier
+T1018	Person 131189 131195	Tixier
+T1019	Location 131347 131353	Jeanne
+T1020	Person 131464 131475	grand Louis
+T1021	Location 131491 131497	Louise
+T1022	Person 131568 131574	Jeanne
+T1023	Person 131649 131660	grand Louis
+T1024	Person 131741 131747	Jeanne
+T1025	Person 131889 131900	Grand Louis
+T1026	Person 131909 131915	Jeanne
+T1027	Person 131968 131973	Louis
+T1028	Person 132004 132010	Jeanne
+T1029	Person 132067 132073	Jeanne
+T1030	Location 132203 132209	JEANNE
+T1031	Location 132213 132220	SERVICE
+T1032	Organization 132308 132310	Tu
+T1033	Person 132569 132574	Merci
+T1034	Person 132576 132587	grand Louis
+T1035	Person 132718 132726	mon Dieu
+T1036	Person 132821 132832	grand Louis
+T1037	Location 133006 133013	Solange
+T1038	Location 133080 133089	Joséphine
+T1039	Person 133336 133345	ma Jeanne
+T1040	Person 133438 133449	grand Louis
+T1041	Location 133679 133693	SECONDE PARLIE
+T1042	Person 133922 133928	Jeanne
+T1043	Person 133987 134000	Maître Tixier
+T1044	Person 134016 134027	grand Louis
+T1045	Location 134071 134077	Jennne
+T1046	Person 134334 134347	maître Tixier
+T1047	Person 134576 134582	Jeanne
+T1048	Person 134651 134657	Jeanne
+T1049	Person 134659 134670	grand Louis
+T1050	Product 134944 134949	Tu as
+T1051	Person 134958 134967	ma Jeanne
+T1052	Location 134998 135005	SERVICE
+T1053	Person 135012 135017	Louis
+T1054	Person 135159 135166	Solange
+T1055	Location 135322 135328	Joanne
+T1056	Location 135497 135503	Jeunne
+T1057	Location 135612 135621	Jusserand
+T1058	Person 135804 135817	maître Tixier
+T1059	Person 135926 135935	Guillaume
+T1060	Location 136042 136049	Solange
+T1061	Organization 136065 136067	Tu
+T1062	Person 136149 136162	maître Tixier
+T1063	Location 136313 136320	Solange
+T1064	Organization 136363 136377	SECONDE PARTIE
+T1065	Person 136431 136440	Guillaume
+T1066	Person 136699 136708	Guillaume
+T1067	Location 136739 136746	Solange
+T1068	Person 136995 137004	Guillaume
+T1069	Person 137059 137075	maître Jusserand
+T1070	Person 137292 137306	Guillaume nete
+T1071	Product 137346 137348	Eh
+T1072	Person 137356 137372	maître Jusserand
+T1073	Person 137494 137500	Jeanne
+T1074	Location 137784 137790	JEANNE
+T1075	Location 137794 137801	SERVICE
+T1076	Location 138087 138094	Solange
+T1077	Location 138115 138125	Grand-Bail
+T1078	Person 138127 138140	maître Tixier
+T1079	Person 138437 138443	Jeanne
+T1080	Person 138492 138499	Solange
+T1081	Location 138629 138638	Jusserand
+T1082	Person 138960 138967	le euré
+T1083	Person 138980 138986	Dumont
+T1084	Person 139045 139058	Maître Tixier
+T1085	Location 139273 139288	SL -ONDE PARTIE
+T1086	Person 139293 139301	Mon Dieu
+T1087	Person 139308 139314	Tixier
+T1088	Location 139513 139520	Solange
+T1089	Location 139594 139597	toi
+T1090	Person 139698 139711	maître Tixier
+T1091	Person 139970 139976	Dumont
+T1092	Location 140074 140081	Solange
+T1093	Person 140121 140127	Jeanne
+T1094	Person 140144 140150	Jeanne
+T1095	Location 140600 140606	JEANNE
+T1096	Location 140610 140617	SERVICE
+T1097	Person 140680 140686	Jeanne
+T1098	Person 140901 140907	Jeanne
+T1099	Location 141148 141157	Joséphine
+T1100	Person 141297 141303	Jeanne
+T1101	Location 141324 141330	Louise
+T1102	Person 141603 141609	Jeanne
+T1103	Location 141677 141684	Solange
+T1104	Person 141773 141784	Grand Louis
+T1105	Person 141858 141865	Solange
+T1106	Organization 141902 141912	Saint-Jean
+T1107	Person 141914 141925	Grand Louis
+T1108	Location 141932 141938	Jeanne
+T1109	Product 141944 141949	Tu as
+T1110	Person 141974 141980	Jeanne
+T1111	Organization 142052 142066	SRCONDR PARTIE
+T1112	Location 142073 142082	Joséphine
+T1113	Person 142147 142158	Grand Louis
+T1114	Person 142255 142268	maître Tixier
+T1115	Person 142291 142300	ma Jeanne
+T1116	Person 142430 142441	grand Louis
+T1117	Person 142470 142483	maître Tixier
+T1118	Person 142620 142631	grand Louis
+T1119	Person 142813 142824	José- phine
+T1120	Person 142875 142880	Simon
+T1121	Person 143320 143326	Jeanne
+T1122	Location 143523 143528	José-
+T1123	Location 143534 143540	JEANNE
+T1124	Location 143544 143551	SERVICE
+T1125	Location 143809 143815	Jeunne
+T1126	Person 144075 144086	grand Louis
+T1127	Person 144120 144133	Maître Tixier
+T1128	Location 144357 144366	Joséphine
+T1129	Person 144461 144467	Jeanne
+T1130	Location 144629 144635	Louise
+T1131	Location 144779 144788	Joséphine
+T1132	Person 144792 144797	Simon
+T1133	Organization 144894 144908	SECONDE PARTIK
+T1134	Person 144948 144954	Jeanne
+T1135	Person 145010 145016	Jeanne
+T1136	Person 145020 145031	grand Louis
+T1137	Person 145111 145118	le euré
+T1138	Person 145140 145146	Jeanne
+T1139	Person 145260 145271	père Tixior
+T1140	Location 145285 145295	Grand-Bail
+T1141	Location 145339 145344	boire
+T1142	Person 145373 145394	JEANNE ÉPOUSE ET MÈRE
+T1143	Organization 145403 145419	TROISIÈME PARTIE
+T1144	Person 145422 145443	JEANNE ÉPOUSE ET MÈRE
+T1145	Person 145473 145486	maitre Tixier
+T1146	Person 145489 145495	Jeanne
+T1147	Person 145526 145535	Joséphine
+T1148	Location 145564 145570	Louise
+T1149	Person 145632 145642	tre Tixier
+T1150	Person 145760 145766	Jeanne
+T1151	Organization 146315 146331	TROISIÈME PARTIE
+T1152	Person 146497 146503	Tixier
+T1153	Person 146743 146751	Mon Dieu
+T1154	Person 146835 146848	Maître Tixier
+T1155	Person 146897 146903	Jeanne
+T1156	Location 147108 147114	Louise
+T1157	Location 147467 147473	Jeanne
+T1158	Person 147576 147587	père Tixier
+T1159	Person 147693 147700	le euré
+T1160	Location 147830 147836	JEANNE
+T1161	Person 147845 147852	ET MÈRE
+T1162	Person 148071 148077	Jeanne
+T1163	Person 148090 148101	grand Louis
+T1164	Person 148304 148317	maître Tixier
+T1165	Person 148330 148343	maître Tixier
+T1166	Person 148573 148587	Étienne Durand
+T1167	Person 148841 148847	Jeanne
+T1168	Location 148914 148919	boire
+T1169	Person 148932 148937	Merci
+T1170	Person 149043 149049	Jeanne
+T1171	Location 149120 149136	TROISIÈME PARTIE
+T1172	Person 149337 149347	tre Tixier
+T1173	Person 150173 150186	Pourquoi done
+T1174	Person 150543 150564	JEANNE ÉPOUSE ET MÈRE
+T1175	Location 150858 150861	toi
+T1176	Person 150932 150937	Merci
+T1177	Person 150939 150950	père Tixier
+T1178	Location 151001 151010	Joséphine
+T1179	Person 151013 151026	Maitre Tixier
+T1180	Person 151082 151088	Jeanne
+T1181	Location 151093 151096	toi
+T1182	Location 151098 151107	Joséphine
+T1183	Person 151342 151355	Maître Tixier
+T1184	Product 151551 151553	Eh
+T1185	Person 151561 151574	maître Tixier
+T1186	Person 151691 151696	Simon
+T1187	Person 151863 151879	TROISIÈME PARTIE
+T1188	Person 151931 151941	Jeanne les
+T1189	Person 152770 152776	Jeanne
+T1190	Person 152816 152830	Étienne Durand
+T1191	Location 152839 152848	Joséphine
+T1192	Person 152864 152877	Maître Tixier
+T1193	Person 152918 152925	Dieu de
+T1194	Person 153184 153190	Jeanne
+T1195	Person 153225 153246	JEANNE ÉPOUSE ET MÈRE
+T1196	Person 153442 153448	Jeanne
+T1197	Person 153531 153544	maître Tixier
+T1198	Person 153984 153997	maître Tixier
+T1199	Person 154018 154032	Étienne Durand
+T1200	Person 154069 154080	José- phine
+T1201	Person 154222 154231	Joséphine
+T1202	Person 154333 154344	père Tixier
+T1203	Location 154528 154537	Joséphine
+T1204	Organization 154601 154617	TROISIÈME PARTIE
+T1205	Location 154620 154629	Joséphine
+T1206	Person 154663 154669	Jeanne
+T1207	Person 154868 154881	maître Tixier
+T1208	Person 155275 155279	Dieu
+T1209	Person 155459 155463	Dieu
+T1210	Person 155745 155749	Dieu
+T1211	Person 155946 155953	KT MERK
+T1212	Person 156068 156074	Tixier
+T1213	Person 156373 156377	Dieu
+T1214	Person 156753 156757	Dieu
+T1215	Person 156851 156857	Tixier
+T1216	Location 156893 156898	Tenez
+T1217	Person 157006 157010	Dieu
+T1218	Organization 157434 157450	TROISIÈME PARTIR
+T1219	Location 158320 158325	Tenez
+T1220	Person 158380 158384	Dieu
+T1221	Person 158552 158565	maître Tixier
+T1222	Person 158648 158661	maître Tixier
+T1223	Location 158824 158830	JEANNE
+T1224	Person 158838 158845	RT MÈRE
+T1225	Location 158970 158977	Ri-haut
+T1226	Person 159384 159388	Dieu
+T1227	Person 159430 159443	maître Tixier
+T1228	Person 159899 159903	Dieu
+T1229	Person 159942 159955	Maître Tixier
+T1230	Person 160188 160194	Tixier
+T1231	Person 160308 160314	Jeanne
+T1232	Person 160345 160361	TROISIÈME PARTIR
+T1233	Person 160364 160377	Maître Tixlor
+T1234	Person 160407 160418	grand Louis
+T1235	Location 160439 160444	boire
+T1236	Location 160488 160494	Louise
+T1237	Location 160567 160572	Grise
+T1238	Location 160680 160693	Blanche dépé-
+T1239	Person 161041 161055	Étienne Durand
+T1240	Location 161124 161129	Grise
+T1241	Location 161136 161143	Blanche
+T1242	Person 161187 161193	Durand
+T1243	Person 161203 161216	maître Tixier
+T1244	Person 161502 161515	maître Tixier
+T1245	Person 161638 161649	grand Louis
+T1246	Location 161665 161668	toi
+T1247	Person 161696 161707	grand Louis
+T1248	Person 161721 161742	JEANNE ÉPOUSE ET MÈRE
+T1249	Organization 161790 161802	oflicior aé-
+T1250	Event 162224 162238	foire de Vatan
+T1251	Person 162443 162453	tre Tixier
+T1252	Person 162486 162500	Étienne Durand
+T1253	Location 162551 162560	Joséphine
+T1254	Person 162609 162622	Maître Tixter
+T1255	Person 162651 162664	Maître Tixier
+T1256	Location 162671 162677	Jeanne
+T1257	Person 162807 162818	grand Louis
+T1258	Person 162880 162885	Grise
+T1259	Location 162892 162899	Blanche
+T1260	Person 163147 163163	TROISIÈME PARTIE
+T1261	Location 163284 163293	Joséphine
+T1262	Person 163498 163512	Étienne Durand
+T1263	Location 163646 163652	Tixier
+T1264	Person 163700 163709	Joséphine
+T1265	Person 163769 163775	Jeanne
+T1266	Location 163808 163816	Nannotte
+T1267	Person 163819 163825	Jeanne
+T1268	Person 163885 163896	grand Louis
+T1269	Person 163985 163993	Nannette
+T1270	Person 163999 164005	Jeanne
+T1271	Location 164178 164184	Louise
+T1272	Person 164203 164212	Guillaume
+T1273	Person 164241 164249	Nannette
+T1274	Product 164462 164464	Eh
+T1275	Person 164478 164491	maître Tixier
+T1276	Person 164614 164635	JEANNE ÉPOUSE ET MÈRE
+T1277	Location 164823 164829	Louise
+T1278	Person 164837 164843	Jeanne
+T1279	Location 165194 165203	Joséphine
+T1280	Person 165332 165346	Étienne Durand
+T1281	Location 165382 165391	Joséphine
+T1282	Person 165394 165408	Étienne Durand
+T1283	Location 165475 165485	Grand-Bail
+T1284	Location 165562 165571	Joséphine
+T1285	Person 165785 165798	maître Tixier
+T1286	Location 165880 165887	Afrique
+T1287	Organization 165897 165913	TROISIÈME PARTIE
+T1288	Person 165931 165942	père Tixier
+T1289	Product 166856 166858	Eh
+T1290	Person 167354 167375	JEANNE ÉPOUSE ET MÈRE
+T1291	Person 167988 167999	père Tixier
+T1292	Person 168232 168245	maître Tixier
+T1293	Person 168322 168327	Simon
+T1294	Organization 168850 168866	TROISIÈME PARTIE
+T1295	Person 169052 169057	Simon
+T1296	Product 169120 169125	Tu as
+T1297	Person 169262 169273	père Tixier
+T1298	Person 169398 169404	Jeanne
+T1299	Person 169438 169444	Jeanne
+T1300	Person 169472 169483	Grand Louis
+T1301	Person 169972 169983	grand Louis
+T1302	Location 170049 170054	Colis
+T1303	Person 170164 170185	JEANNE ÉPOUSE ET MÈRE
+T1304	Person 170258 170264	Tixier
+T1305	Person 170532 170538	Jeanne
+T1306	Person 170702 170708	Isaure
+T1307	Person 170830 170841	père Tixier
+T1308	Person 170886 170892	Dumont
+T1309	Person 170943 170949	Jeanne
+T1310	Person 171419 171425	Jeanne
+T1311	Person 171530 171536	Jeanne
+T1312	Organization 171600 171616	TROISIÈME PARTIE
+T1313	Person 171692 171703	grand Louis
+T1314	Person 171801 171812	grand Louis
+T1315	Person 171996 172004	Mon Dieu
+T1316	Person 172043 172049	Jeanne
+T1317	Person 172177 172183	Jeanne
+T1318	Person 172233 172246	maître Tixier
+T1319	Person 172376 172387	Grand Louis
+T1320	Person 172560 172569	Dar- naud
+T1321	Person 172877 172890	Maitre Tixier
+T1322	Location 172930 172936	JEANNE
+T1323	Person 172944 172951	KT MÈRE
+T1324	Person 172975 172981	Jeanne
+T1325	Person 173073 173079	Jeanne
+T1326	Person 173127 173135	Nannette
+T1327	Person 173203 173209	Isaure
+T1328	Person 173430 173436	Jeanne
+T1329	Person 173800 173806	Tixier
+T1330	Person 173820 173826	Jeanne
+T1331	Person 173912 173921	ma Jeanne
+T1332	Location 174010 174018	Nannette
+T1333	Organization 174306 174322	TROISIÈME PARTIE
+T1334	Person 174729 174735	Durand
+T1335	Person 175007 175013	Dumont
+T1336	Person 175037 175043	Jeanne
+T1337	Person 175098 175104	Dumont
+T1338	Person 175220 175226	lsaure
+T1339	Person 175324 175330	Jeanne
+T1340	Person 175339 175342	Du-
+T1341	Person 175604 175609	Louis
+T1342	Person 175825 175846	JEANNE ÉPOUSE ET MÈRE
+T1343	Person 175853 175859	Jeanne
+T1344	Organization 175887 175897	Saint-Jean
+T1345	Person 176008 176014	Jeanne
+T1346	Person 176133 176143	tre Tixier
+T1347	Location 176223 176233	Grand-Bail
+T1348	Person 176243 176257	Étienne Durand
+T1349	Location 176459 176465	Louise
+T1350	Location 176537 176543	Louise
+T1351	Person 176949 176957	Nannette
+T1352	Person 177073 177084	grand Louis
+T1353	Organization 177274 177290	TROISIENE PARTIE
+T1354	Location 177552 177558	Louise
+T1355	Location 177565 177576	grand Louis
+T1356	Organization 177636 177656	viluin lit de Joanne
+T1357	Location 177721 177724	toi
+T1358	Product 177886 177891	Tu as
+T1359	Location 177908 177914	Louise
+T1360	Person 177964 177970	Jeanne
+T1361	Location 178448 178454	Louise
+T1362	Person 178565 178578	maître Tixier
+T1363	Location 178656 178662	JEANNE
+T1364	Location 178673 178677	MERE
+T1365	Product 179131 179133	Eh
+T1366	Location 179277 179287	Bordinerie
+T1367	Person 179610 179621	père Tixier
+T1368	Organization 179851 179853	Tu
+T1369	Person 180205 180216	grand Louis
+T1370	Organization 180240 180256	TROISIÈME PARTIE
+T1371	Person 180523 180536	Pourquoi done
+T1372	Location 180562 180567	boire
+T1373	Location 180617 180622	boire
+T1374	Person 180662 180673	grand Louis
+T1375	Organization 180859 180861	Tu
+T1376	Person 180984 180990	Jeanne
+T1377	Person 181036 181049	maître Tixier
+T1378	Person 181058 181064	Jeanne
+T1379	Location 181117 181123	Louise
+T1380	Person 181222 181230	Nannette
+T1381	Person 181287 181293	Jeanne
+T1382	Person 181301 181308	Sylvain
+T1383	Person 181327 181338	père Tixier
+T1384	Location 181345 181351	Jeanne
+T1385	Person 181530 181536	Jeanne
+T1386	Person 181539 181560	JEANNE ÉPOUSE ET MÈRE
+T1387	Person 181903 181914	grand Louis
+T1388	Person 182150 182161	père Tixier
+T1389	Person 182405 182411	Jeanne
+T1390	Location 182414 182420	Louise
+T1391	Location 182534 182540	Louise
+T1392	Person 182547 182553	Jeanne
+T1393	Location 182809 182815	Louise
+T1394	Person 182958 182964	Jeanne
+T1395	Organization 182986 183002	TROISIÈME PARTIE
+T1396	Person 183120 183126	Jeanne
+T1397	Person 183270 183283	Pourquoi done
+T1398	Person 183301 183307	Jeanne
+T1399	Person 183606 183617	grand Louis
+T1400	Person 183639 183645	Jeanne
+T1401	Person 183712 183723	grand Louis
+T1402	Location 183967 183970	toi
+T1403	Person 184091 184097	Jeanne
+T1404	Person 184246 184252	Jeanne
+T1405	Person 184293 184314	JEANNE ÉPOUSE ET MÈRE
+T1406	Location 184369 184375	Louise
+T1407	Person 184466 184477	grand Louis
+T1408	Person 184531 184539	Nannette
+T1409	Location 184673 184683	Grand-Bail
+T1410	Person 185012 185025	maître Tixier
+T1411	Location 185243 185246	toi
+T1412	Person 185474 185484	Dieu merci
+T1413	Person 185661 185674	maître Tixier
+T1414	Organization 185696 185712	TROISIÈME PARTIE
+T1415	Person 185988 185994	Jeanne
+T1416	Person 186010 186021	grand Louis
+T1417	Location 186141 186151	Marguerite
+T1418	Person 186167 186173	Claude
+T1419	Person 186178 186188	Ma Solange
+T1420	Person 186272 186278	Dumont
+T1421	Person 186280 186286	Claude
+T1422	Person 186296 186306	Marguerite
+T1423	Location 186509 186515	Louise
+T1424	Location 186588 186594	Jeanne
+T1425	Location 186650 186653	toi
+T1426	Location 187047 187053	Jeanne
+T1427	Location 187070 187076	Louise
+T1428	Person 187137 187151	Étienne Durand
+T1429	Location 187231 187237	JEANNE
+T1430	Location 187248 187252	MERE
+T1431	Person 187370 187383	Maître Tixier
+T1432	Product 187633 187638	Tu as
+T1433	Person 188147 188154	le euré
+T1434	Person 188245 188251	Jeanne
+T1435	Location 188302 188308	Louise
+T1436	Person 188386 188392	Jeanne
+T1437	Location 188533 188543	Grand-Bail
+T1438	Organization 188589 188605	TROISIÈME PARTIE
+T1439	Location 188627 188634	Solange
+T1440	Person 188701 188710	ma Jeanne
+T1441	Person 188716 188729	maître Tixier
+T1442	Person 189136 189144	Nannette
+T1443	Person 189306 189312	Jeanne
+T1444	Location 189657 189663	Jeanne
+T1445	Person 189668 189674	Jeanne
+T1446	Location 189964 189970	JEANNE
+T1447	Person 189978 189985	RT MÈRE
+T1448	Person 190185 190196	grand Louis
+T1449	Person 190317 190323	Jeanne
+T1450	Person 190425 190431	Jeanne
+T1451	Location 190437 190446	Joséphine
+T1452	Person 190494 190500	Dumont
+T1453	Product 190542 190547	Tu as
+T1454	Location 190564 190573	Joséphine
+T1455	Person 190662 190666	Dieu
+T1456	Person 190748 190756	Nannette
+T1457	Person 190853 190866	maître Tixier
+T1458	Location 191048 191054	Louise
+T1459	Product 191318 191323	Tu as
+T1460	Location 191354 191357	toi
+T1461	Organization 191372 191388	TROISIÈME PARTIE
+T1462	Person 191391 191404	maître Tixier
+T1463	Person 191621 191628	le euré
+T1464	Person 192035 192046	père Tixier
+T1465	Location 192388 192394	France
+T1466	Location 192526 192531	Paris
+T1467	Location 192808 192813	Paris
+T1468	Person 192822 192835	JEANNE EPOUSE
+T1469	Person 192836 192843	ET MÈRE
+T1470	Person 193047 193058	grand Louis
+T1471	Person 193094 193107	Maitre Tixier
+T1472	Location 193127 193133	Jeanne
+T1473	Person 193153 193166	maître Tixier
+T1474	Person 193195 193201	Jeanne
+T1475	Person 193303 193316	Maître Tixier
+T1476	Location 193575 193578	toi
+T1477	Person 193786 193797	grand Louis
+T1478	Person 194185 194201	TROISIÈME PARTIE
+T1479	Person 194402 194408	Jeanne
+T1480	Location 194588 194594	Jeunne
+T1481	Product 194689 194691	Eh
+T1482	Person 194729 194735	Jeanne
+T1483	Person 194839 194850	père Tixier
+T1484	Product 195085 195087	Eh
+T1485	Location 195130 195136	Louise
+T1486	Person 195321 195334	maître Tixier
+T1487	Person 195473 195486	maître Tixier
+T1488	Person 195538 195559	JEANNE ÉPOUSE ET MÈRE
+T1489	Person 195577 195583	Dumont
+T1490	Location 195595 195601	Jeanno
+T1491	Person 195615 195621	Dumont
+T1492	Location 195643 195649	Jeunne
+T1493	Person 195757 195763	Jeanne
+T1494	Person 195778 195784	Isaure
+T1495	Person 195849 195862	maître Tixier
+T1496	Person 195971 195977	Dumont
+T1497	Person 196052 196059	Auguste
+T1498	Person 196182 196188	Sophie
+T1499	Person 196276 196282	Jeanne
+T1500	Person 196429 196436	Sylvain
+T1501	Person 196533 196541	Nannette
+T1502	Location 196607 196617	Grand-Bail
+T1503	Organization 196678 196688	Nan- nette
+T1504	Location 196710 196716	Louise
+T1505	Person 196760 196771	ton Sylvain
+T1506	Person 196774 196780	Jeanne
+T1507	Person 196829 196835	fsaure
+T1508	Organization 196846 196862	TROISIÈME PARTIR
+T1509	Person 196937 196943	Jeanne
+T1510	Person 196991 196997	Sophie
+T1511	Person 197012 197018	Jeanne
+T1512	Person 197314 197322	Nannette
+T1513	Location 197451 197457	Louise
+T1514	Person 197585 197593	Nannette
+T1515	Person 197770 197781	Jeanne pas-
+T1516	Person 197959 197965	Jeanne
+T1517	Person 197971 197984	Pourquoi done
+T1518	Location 198240 198246	JEANNE
+T1519	Person 198254 198261	ET MÈRE
+T1520	Location 198359 198362	Eee
+T1521	Organization 198525 198541	TRUISIÈNE PARTIE
+T1522	Person 198750 198765	Comment fais-tu
+T1523	Location 198772 198775	toi
+T1524	Person 199155 199165	Qui est-ce
+T1525	Location 199195 199202	Jeanne”
+T1526	Person 199212 199226	Étienne Durand
+T1527	Person 199242 199255	maître Tixier
+T1528	Location 199259 199269	Grand-Bail
+T1529	Person 199422 199433	grand Louis
+T1530	Person 199522 199527	Lee 7
+T1531	Person 199529 199535	Jeanne
+T1532	Person 199695 199701	Isaure
+T1533	Person 199861 199868	K# MÈRE
+T1534	Person 199875 199880	Henri
+T1535	Person 200206 200220	Étienne Durand
+T1536	Person 200714 200725	Grand Louis
+T1537	Person 200828 200839	père Tixier
+T1538	Person 200865 200871	Jeanne
+T1539	Person 200987 200995	Nannette
+T1540	Person 201040 201047	Sylvain
+T1541	Person 201109 201120	grand Louis
+T1542	Location 201168 201177	Grand-Bal
+T1543	Person 201210 201223	maître Tixier
+T1544	Person 201373 201389	TROISIEME PARTIE
+T1545	Person 201427 201432	Colis
+T1546	Person 201434 201440	Jeanne
+T1547	Person 201474 201478	Paul
+T1548	Person 201526 201532	Isaure
+T1549	Location 201561 201567	Jeanno
+T1550	Person 201570 201574	Paul
+T1551	Person 201601 201607	lsaure
+T1552	Person 201618 201624	Jeanne
+T1553	Person 201692 201698	Jeanne
+T1554	Person 201701 201709	ton Paul
+T1555	Person 201945 201950	Merci
+T1556	Person 202111 202117	Jeanne
+T1557	Organization 202363 202365	Tu
+T1558	Person 202431 202436	Henri
+T1559	Person 202783 202804	JEANNE ÉPOUSE ET MÈRE
+T1560	Person 202890 202896	Jeanne
+T1561	Person 203378 203384	Jeanne
+T1562	Person 203428 203434	Jeanne
+T1563	Person 203599 203604	Henri
+T1564	Person 203732 203738	Isaure
+T1565	Location 203764 203770	Jeanne
+T1566	Person 203824 203830	Jeanne
+T1567	Person 203899 203905	Jeanne
+T1568	Organization 204053 204069	TROISIÈME PARTIE
+T1569	Person 205179 205185	Isaure
+T1570	Person 205276 205285	Jeanne de
+T1571	Person 205455 205476	JEANNE ÉPOUSE ET MÈRE
+T1572	Person 205554 205560	Jeanne
+T1573	Person 205585 205591	Jeanne
+T1574	Person 205616 205622	Isaure
+T1575	Person 205709 205715	Dumont
+T1576	Person 205743 205749	Jeanne
+T1577	Person 205950 205956	Dumont
+T1578	Person 205980 205986	Jeanne
+T1579	Person 206120 206126	Jeanne
+T1580	Person 206344 206355	Grand Louis
+T1581	Person 206512 206518	Jeanne
+T1582	Person 206704 206715	grand Louis
+T1583	Person 206794 206800	Jeanne
+T1584	Location 206810 206826	TROISIÈME PARTIE
+T1585	Person 206939 206945	Jeanne
+T1586	Person 207158 207169	Grand Louis
+T1587	Location 207281 207287	Jeanne
+T1588	Person 207507 207515	Nannette
+T1589	Person 207556 207564	Nannette
+T1590	Person 207589 207595	Jeanne
+T1591	Person 207732 207745	Maître Tixier
+T1592	Location 207762 207768	Louisc
+T1593	Person 207862 207873	grand Louis
+T1594	Location 207943 207951	Nannette
+T1595	Person 208238 208259	JEANNE ÉPOUSE ET MÈRE
+T1596	Person 208299 208305	Jeanne
+T1597	Person 208796 208807	grand Louis
+T1598	Person 209016 209022	Jeanne
+T1599	Person 209153 209159	Jeanne
+T1600	Person 209295 209299	Paul
+T1601	Person 209330 209338	Nannette
+T1602	Person 209497 209509	ear Nannette
+T1603	Person 209555 209559	Paul
+T1604	Organization 209581 209597	TROISIÈME PARTIE
+T1605	Person 209758 209762	Paul
+T1606	Person 209850 209856	Jeanne
+T1607	Person 210290 210296	Jeanne
+T1608	Person 210334 210338	Paul
+T1609	Person 210563 210567	Paul
+T1610	Person 210642 210653	grand Louis
+T1611	Person 210724 210730	Jeanne
+T1612	Person 210881 210892	grand Louis
+T1613	Person 210937 210963	JEANNE RPQOUSE El MÊRE 161
+T1614	Person 211031 211039	Nannette
+T1615	Person 211493 211497	Paul
+T1616	Person 211747 211751	Dieu
+T1617	Person 211891 211899	Nannette
+T1618	Person 211926 211930	Paul
+T1619	Person 212270 212278	Nannette
+T1620	Person 212322 212342	182 TROISIÈME PARTIE
+T1621	Person 212507 212514	le euré
+T1622	Person 212653 212659	Jeanne
+T1623	Person 212821 212832	grand Louis
+T1624	Person 212934 212945	père Tixier
+T1625	Person 212979 212987	Nannette
+T1626	Person 213051 213058	Sylvain
+T1627	Person 213218 213224	Jeanne
+T1628	Person 213510 213523	Maître Tixier
+T1629	Person 213610 213621	grand Louis
+T1630	Location 213789 213795	JEANNE
+T1631	Person 213804 213811	ET MÈRE
+T1632	Person 213932 213938	Jeanne
+T1633	Location 214034 214044	Grand-Bail
+T1634	Person 214107 214111	Dieu
+T1635	Person 214233 214242	Ma Jeanne
+T1636	Person 214326 214339	maître Tixier
+T1637	Person 214364 214369	Colis
+T1638	Person 214432 214443	grand Louis
+T1639	Location 214588 214594	Louise
+T1640	Person 214908 214913	Colis
+T1641	Person 214947 214960	maître Tixier
+T1642	Person 215090 215101	grand Louis
+T1643	Person 215142 215147	Colis
+T1644	Organization 215247 215263	TROISIÈME PARTIE
+T1645	Person 215266 215272	Jeanne
+T1646	Person 215503 215508	Colis
+T1647	Location 215532 215538	Jeanne
+T1648	Person 215555 215561	Jeanne
+T1649	Person 215802 215807	Colis
+T1650	Person 215827 215832	Colis
+T1651	Person 215838 215844	Jeanne
+T1652	Person 215921 215927	Jeanne
+T1653	Person 216067 216072	Colis
+T1654	Person 216124 216135	grand Louis
+T1655	Person 216208 216218	Père Colis
+T1656	Product 216308 216313	Tu as
+T1657	Person 216442 216447	Colis
+T1658	Person 216453 216459	Jeanne
+T1659	Person 216526 216539	JEANNE EPOUSE
+T1660	Location 216543 216547	MERE
+T1661	Person 216567 216572	Colis
+T1662	Person 216715 216726	grand Louis
+T1663	Product 217198 217200	Eh
+T1664	Person 217273 217284	grand Louis
+T1665	Person 217405 217415	Jeanne les
+T1666	Person 217631 217642	grand Louis
+T1667	Person 217720 217729	ma Jeanne
+T1668	Person 217792 217798	Jeanne
+T1669	Person 217841 217846	Colis
+T1670	Person 217877 217888	grand Louis
+T1671	Person 217933 217938	Colis
+T1672	Organization 217999 218015	TROISIÈME PARTIE
+T1673	Person 218201 218212	grand Louis
+T1674	Person 218392 218402	Père Colis
+T1675	Person 218408 218414	Jeanne
+T1676	Person 218545 218551	Jeanne
+T1677	Person 218604 218615	grand Louis
+T1678	Person 218729 218734	Colis
+T1679	Person 218880 218885	Colis
+T1680	Person 219116 219121	Colis
+T1681	Person 219153 219164	Grand Lonis
+T1682	Person 219314 219335	JEANNE ÉPOUSE ET MÈRE
+T1683	Person 219342 219348	Jeanne
+T1684	Person 219383 219388	Colis
+T1685	Person 219571 219582	Grand Louis
+T1686	Person 219616 219627	père Tixier
+T1687	Person 219651 219662	père Tixier
+T1688	Person 219684 219695	grand Louis
+T1689	Person 219748 219761	Maître Tixier
+T1690	Product 220120 220125	Tu as
+T1691	Person 220303 220314	Grand Louis
+T1692	Person 220405 220411	Jeanne
+T1693	Organization 220593 220609	TROISIÈME PARTIE
+T1694	Person 220801 220807	Jeanne
+T1695	Person 220889 220893	Paul
+T1696	Person 220962 220970	Nannette
+T1697	Person 221004 221011	Sylvain
+T1698	Person 221026 221033	le euré
+T1699	Person 221074 221080	Jeanne
+T1700	Person 221273 221284	père Tixier
+T1701	Person 221320 221326	Jeanne
+T1702	Location 221430 221436	Louise
+T1703	Person 221605 221618	Maître Tixier
+T1704	Person 221639 221645	Jeanne
+T1705	Person 221670 221683	maître Tixier
+T1706	Person 221695 221701	Jeanne
+T1707	Person 221790 221796	Jeanne
+T1708	Person 221829 221835	Jeanne
+T1709	Person 221889 221900	grand Louis
+T1710	Person 221961 221982	JEANNE ÉPOUSE ET MÈRE
+T1711	Person 222147 222160	Maître Tixier
+T1712	Person 222166 222172	Jeanne
+T1713	Product 222356 222361	Tu as
+T1714	Person 222373 222379	Jeanne
+T1715	Person 222481 222485	Paul
+T1716	Person 222774 222780	Jeanne
+T1717	Person 222870 222876	Dumont
+T1718	Person 223131 223142	grand Louis
+T1719	Organization 223431 223447	TROISIÈME PARTIE
+T1720	Person 223581 223587	Jeanne
+T1721	Person 223828 223834	Dumont
+T1722	Person 223843 223849	fsaure
+T1723	Location 223871 223877	Jeanne
+T1724	Person 223906 223912	Isaure
+T1725	Person 223932 223938	Jeanne
+T1726	Person 224756 224767	grand Louis
+T1727	Person 224796 224817	JEANNE ÉPOUSE ET MÈRE
+T1728	Person 224890 224896	Jeanne
+T1729	Product 225065 225067	Eh
+T1730	Location 225287 225292	boire
+T1731	Person 225619 225630	Grand Louis
+T1732	Person 225692 225703	grand Louis
+T1733	Person 225752 225757	Colis
+T1734	Person 225794 225800	Jeanne
+T1735	Person 225889 225897	Nannette
+T1736	Person 226074 226081	Sylvain
+T1737	Person 226112 226116	Paul
+T1738	Organization 226174 226190	TROISIÈME PARTIE
+T1739	Person 226365 226371	Jeanne
+T1740	Person 227123 227134	grand Louis
+T1741	Person 227638 227649	grand Louis
+T1742	Person 227691 227697	Jeanne
+T1743	Person 227733 227754	JEANNE ÉPOUSE ET MÈRE
+T1744	Person 227903 227907	Dieu
+T1745	Location 227924 227927	toi
+T1746	Person 228088 228097	Jeanne l'
+T1747	Person 228142 228153	grand Louis
+T1748	Person 228388 228399	grand Louis
+T1749	Person 228465 228471	Jeanne
+T1750	Person 228645 228651	Jeanne
+T1751	Hour 228689 228709	deux heures du matin
+T1752	Person 228711 228726	grand Louis ou-
+T1753	Person 228911 228917	Jeanne
+T1754	Person 229010 229021	grand Louis
+T1755	Organization 229128 229144	TROISIÈME PARTIE
+T1756	Person 229211 229215	Dieu
+T1757	Location 229272 229278	Jeanne
+T1758	Person 229380 229391	Grand Louis
+T1759	Person 229448 229454	Jeanne
+T1760	Person 229577 229583	Jeanne
+T1761	Person 229673 229679	Jeanne
+T1762	Person 229767 229771	Dieu
+T1763	Person 229987 229993	Jeanne
+T1764	Person 230297 230301	Dieu
+T1765	Person 230432 230436	Dieu
+T1766	Location 230442 230448	JEANNE
+T1767	Location 230459 230463	MÈRE
+T1768	Person 230481 230492	grand Louis
+T1769	Person 230495 230501	Jeanne
+T1770	Person 230686 230690	Dieu
+T1771	Person 230692 230696	Paul
+T1772	Person 230868 230879	grand Louis
+T1773	Person 230883 230894	père Tixier
+T1774	Person 230962 230968	Jeanne
+T1775	Person 231006 231019	Maître Tixier
+T1776	Person 231055 231066	grand Louis
+T1777	Person 231298 231304	Jeanne
+T1778	Person 231437 231448	grand Louis
+T1779	Person 231480 231489	ma Jeanne
+T1780	Person 231632 231645	maître Tixier
+T1781	Organization 231836 231852	TROISIEME PARTIR
+T1782	Person 231893 231897	Dieu
+T1783	Person 231953 231959	Jeanne
+T1784	Location 231970 231980	Marguerite
+T1785	Person 232030 232041	père Tixier
+T1786	Location 232495 232501	Louise
+T1787	Location 232513 232521	Nannette
+T1788	Person 232556 232567	grand Louis
+T1789	Person 232619 232631	JEANNE VEUVE
+T1790	Organization 232641 232657	QUATRIÈME PARTIE
+T1791	Person 232659 232671	JEANNE VEUVE
+T1792	Person 232719 232732	maître Tixier
+T1793	Person 232743 232749	Jeanne
+T1794	Person 233100 233111	père Tixier
+T1795	Organization 233447 233463	QUATRIÈME PARTIE
+T1796	Location 233500 233506	Jeanne
+T1797	Person 233511 233517	Jeanne
+T1798	Person 233627 233634	le euré
+T1799	Person 233938 233944	Jeanne
+T1800	Person 234007 234011	Dieu
+T1801	Person 234853 234865	JEANNE VEUVE
+T1802	Location 234910 234914	Dieu
+T1803	Person 235150 235154	Dieu
+T1804	Person 235198 235204	Jeanne
+T1805	Person 235235 235241	Isaure
+T1806	Person 235283 235288	Louis
+T1807	Person 235345 235358	maître Tixier
+T1808	Person 235446 235455	ma Jeanne
+T1809	Person 235464 235475	père Tixier
+T1810	Person 235667 235676	ma Jeanne
+T1811	Person 235741 235752	Louis tox-e
+T1812	Person 235770 235781	père Tixier
+T1813	Person 235816 235822	Jeanne
+T1814	Person 235993 235997	Paul
+T1815	Organization 236170 236180	Nan- nette
+T1816	Organization 236224 236240	QUATHIÈME PARTIE
+T1817	Person 236425 236435	Dieu merci
+T1818	Person 236540 236544	Dieu
+T1819	Person 236577 236583	Isaure
+T1820	Person 236639 236645	Jeanne
+T1821	Person 236685 236690	Louis
+T1822	Person 236973 236979	Jeanne
+T1823	Location 237084 237090	Jeanne
+T1824	Person 237133 237138	Louis
+T1825	Location 237141 237155	Sainte-Solange
+T1826	Location 237254 237262	Nannette
+T1827	Location 237295 237309	Sainte-Solange
+T1828	Person 237425 237435	Entends-tu
+T1829	Location 237455 237465	Marguerite
+T1830	Person 237597 237601	Dieu
+T1831	Location 237640 237647	Solange
+T1832	Person 237651 237663	JEANNE VEUVE
+T1833	Person 237894 237898	Dieu
+T1834	Person 238234 238249	cria Marguerite
+T1835	Location 238295 238311	Sainte-So- lange
+T1836	Person 238598 238608	Marguerite
+T1837	Person 238614 238620	Jeanne
+T1838	Person 238688 238692	Dieu
+T1839	Location 238742 238745	toi
+T1840	Person 238758 238762	Dieu
+T1841	Location 238862 238876	Sainte-Solange
+T1842	Organization 238906 238908	Tu
+T1843	Organization 239008 239024	QUATRIÈME PARTIE
+T1844	Person 239135 239141	Jeanne
+T1845	Person 239159 239163	Dieu
+T1846	Location 239328 239338	Marguerite
+T1847	Location 239379 239393	Sainte-Solange
+T1848	Person 239522 239526	Dieu
+T1849	Location 239725 239735	Marguerite
+T1850	Organization 239906 239908	Tu
+T1851	Person 239923 239929	Jeanne
+T1852	Location 240018 240028	Marguerite
+T1853	Person 240061 240071	Marguerite
+T1854	Person 240077 240083	Jeanne
+T1855	Person 240179 240185	Jeanne
+T1856	Person 240375 240387	JEANNE VEUVE
+T1857	Person 240732 240738	Jeanne
+T1858	Person 240747 240754	le euré
+T1859	Person 240793 240799	Claude
+T1860	Person 241162 241166	Dieu
+T1861	Person 241404 241414	Marguerite
+T1862	Location 241453 241456	toi
+T1863	Person 241607 241616	ma Jeanne
+T1864	Organization 241901 241917	QUATRIÈME PARTIE
+T1865	Person 241922 241928	Jeanne
+T1866	Location 242016 242026	Marguerite
+T1867	Person 242224 242228	Dieu
+T1868	Person 242370 242377	le euré
+T1869	Person 242559 242569	Jeanne fût
+T1870	Person 242813 242819	Jeanne
+T1871	Location 242854 242864	Marguerite
+T1872	Person 242982 242989	lo curé
+T1873	Person 243002 243009	Sylvain
+T1874	Person 243021 243027	Jeanne
+T1875	Person 243045 243052	le euré
+T1876	Person 243074 243085	mon Sylvain
+T1877	Person 243296 243302	Jeanne
+T1878	Person 243340 243352	JEANNE VEUVE
+T1879	Person 244239 244245	Jeanne
+T1880	Location 244288 244295	Sylvain
+T1881	Person 244409 244415	Jeanne
+T1882	Person 244440 244445	Louis
+T1883	Person 244469 244474	Louis
+T1884	Person 244683 244699	QUATRIÈMF PARTIE
+T1885	Person 245063 245069	Jeanne
+T1886	Person 245151 245156	Louis
+T1887	Organization 245231 245233	Tu
+T1888	Person 245257 245263	Jeanne
+T1889	Person 245486 245490	Dieu
+T1890	Person 245546 245552	Jeanne
+T1891	Person 245741 245745	Dieu
+T1892	Product 245791 245793	Eh
+T1893	Person 245800 245806	Jeanne
+T1894	Location 245851 245856	Louis
+T1895	Person 245858 245876	donne-moi Nannette
+T1896	Person 246036 246041	Merci
+T1897	Person 246113 246122	mon Louis
+T1898	Person 246173 246185	JEANNE VEUVE
+T1899	Location 246275 246283	Nannotte
+T1900	Person 246336 246342	Isaure
+T1901	Organization 246364 246374	Nan- nette
+T1902	Person 246957 246968	ma Nannette
+T1903	Location 247136 247139	toi
+T1904	Product 247245 247263	ma fille; tu auras
+T1905	Person 247316 247322	Isaure
+T1906	Location 247383 247386	toi
+T1907	Organization 247536 247552	QUATRIÈME PARTIE
+T1908	Person 247647 247655	Nannette
+T1909	Person 247724 247731	le euré
+T1910	Person 247794 247798	Dieu
+T1911	Person 247832 247840	Nannette
+T1912	Location 248030 248033	Out
+T1913	Person 248035 248041	Jeanne
+T1914	Person 248130 248138	Nannette
+T1915	Person 248167 248170	Du-
+T1916	Location 248213 248216	toi
+T1917	Location 248418 248425	Séatino
+T1918	Person 248454 248460	Jeanne
+T1919	Location 248464 248472	Nunnette
+T1920	Person 248498 248503	Louis
+T1921	Person 248533 248539	Dumont
+T1922	Person 248546 248552	Isaure
+T1923	Person 248603 248608	Louis
+T1924	Person 248727 248733	Jeanne
+T1925	Person 248768 248780	JEANNE VEUVE
+T1926	Person 248811 248817	lsaure
+T1927	Location 248874 248877	Ini
+T1928	Organization 249039 249049	Nan- nette
+T1929	Person 249413 249421	Nannette
+T1930	Person 249592 249600	Mon Dieu
+T1931	Person 249610 249616	Jeanne
+T1932	Person 249912 249918	Jeanne
+T1933	Location 250088 250100	Tréchanderin
+T1934	Organization 250177 250193	QUATRIÈME PARTIE
+T1935	Person 250204 250212	Nannette
+T1936	Hour 250335 250356	trois heures du matin
+T1937	Location 250576 250584	Nannotte
+T1938	Location 250589 250592	toi
+T1939	Location 250731 250737	Jeanne
+T1940	Person 250918 250926	Nannette
+T1941	Person 250954 250959	Louis
+T1942	Person 251251 251259	Nannette
+T1943	Person 251502 251508	Jeanne
+T1944	Person 251554 251566	JEANNE VEUVE
+T1945	Person 251621 251626	Louis
+T1946	Person 251901 251905	Dieu
+T1947	Person 252014 252018	Paul
+T1948	Person 252314 252320	Jeanne
+T1949	Person 252356 252362	Jeanne
+T1950	Person 252524 252535	père Tixier
+T1951	Person 252561 252567	Jeanne
+T1952	Person 252622 252636	Étienne Durand
+T1953	Person 252655 252661	Jeanne
+T1954	Person 252813 252820	le euré
+T1955	Organization 253001 253017	QUATIIÈNE PANTIE
+T1956	Person 253453 253457	Paul
+T1957	Person 253531 253538	Sylvain
+T1958	Person 254088 254099	Mon Sylvain
+T1959	Person 254248 254256	Nannette
+T1960	Person 254313 254317	Paul
+T1961	Person 254445 254449	Paul
+T1962	Person 254497 254500	Fon
+T1963	Person 254603 254615	JEANNE VEUVE
+T1964	Person 254849 254853	Paul
+T1965	Location 255073 255079	France
+T1966	Person 255199 255210	Mon Sylvain
+T1967	Location 255250 255257	Maurice
+T1968	Person 255262 255269	Sylvain
+T1969	Location 255331 255338	Maurice
+T1970	Person 255363 255367	Paul
+T1971	Person 255466 255470	Paul
+T1972	Person 255531 255537	Pierre
+T1973	Person 255551 255557	Claude
+T1974	Person 255591 255597	Jeanne
+T1975	Location 255646 255656	Marguerite
+T1976	Person 255739 255745	Pierre
+T1977	Person 255791 255797	Jeanne
+T1978	Location 255835 255839	Mar-
+T1979	Person 255851 255867	QUATRIÈME PARTIE
+T1980	Person 255961 255971	Marguerite
+T1981	Person 256036 256042	Pierre
+T1982	Person 256091 256100	ma Jeanne
+T1983	Person 256176 256190	Étienne Durand
+T1984	Person 256195 256201	Jeanne
+T1985	Person 256209 256219	Marguerite
+T1986	Person 256230 256235	Louis
+T1987	Person 256259 256265	Pierre
+T1988	Location 256532 256538	Jeunne
+T1989	Person 256629 256635	Claude
+T1990	Person 256659 256665	Jeanne
+T1991	Location 256674 256679	boire
+T1992	Location 256894 256904	Marguerite
+T1993	Location 256928 256938	Grand-Bail
+T1994	Person 256986 256992	Pierre
+T1995	Location 257031 257037	Claude
+T1996	Location 257061 257067	Jeanne
+T1997	Organization 257600 257610	Saint-Jean
+T1998	Person 257889 257902	Pourquoi done
+T1999	Person 258002 258008	Claude
+T2000	Person 258052 258058	Jeanne
+T2001	Person 258278 258284	Claude
+T2002	Person 258447 258463	QUATRIÈME PARTIE
+T2003	Person 258466 258472	Pierre
+T2004	Person 258478 258484	Jeanne
+T2005	Person 258506 258512	Jeanne
+T2006	Person 258600 258606	Pierre
+T2007	Location 258623 258628	Louis
+T2008	Person 258660 258673	Pourquoi done
+T2009	Person 258691 258697	Pierre
+T2010	Person 258735 258739	Dieu
+T2011	Person 258745 258755	Qui est-ce
+T2012	Person 258843 258847	Dieu
+T2013	Person 258867 258877	Entends-tu
+T2014	Person 258879 258885	Pierre
+T2015	Person 258893 258897	Dieu
+T2016	Person 258999 259008	Pierre la
+T2017	Person 259020 259026	Pierre
+T2018	Person 259032 259038	Jeanne
+T2019	Person 259249 259253	Dieu
+T2020	Person 259472 259479	le euré
+T2021	Person 259542 259548	Pierre
+T2022	Person 259604 259611	le euré
+T2023	Person 259650 259662	JEANNE VEUVE
+T2024	Location 260400 260406	Jeunne
+T2025	Person 260441 260446	Louis
+T2026	Person 260652 260656	Dieu
+T2027	Person 260790 260794	Dieu
+T2028	Location 260861 260865	eure
+T2029	Person 260978 260983	Louis
+T2030	Person 260992 260996	Dieu
+T2031	Organization 261124 261140	QUATRIÈMK PARTIE
+T2032	Person 261456 261460	Dieu
+T2033	Person 261531 261536	Louis
+T2034	Person 261576 261582	Jeanne
+T2035	Person 261660 261664	Dieu
+T2036	Person 261669 261675	Jeanne
+T2037	Location 261683 261693	Marguerite
+T2038	Person 261718 261724	Jeanne
+T2039	Person 261735 261741	Pierre
+T2040	Person 261756 261766	Marguerite
+T2041	Location 261804 261814	Marguerite
+T2042	Person 261864 261870	Pierre
+T2043	Person 262082 262090	mon Dieu
+T2044	Person 262338 262344	Claude
+T2045	Person 262377 262383	Claude
+T2046	Person 262398 262410	JEANNE VEUVE
+T2047	Location 262999 263009	Marguerite
+T2048	Person 263058 263064	Pierre
+T2049	Person 263110 263114	Dieu
+T2050	Person 263119 263125	Jeanne
+T2051	Person 263345 263351	Pierre
+T2052	Person 263382 263388	Pierre
+T2053	Organization 263723 263729	PARTIR
+T2054	Person 263985 263989	Dieu
+T2055	Location 264387 264397	Marguerite
+T2056	Location 264404 264410	Pierre
+T2057	Person 264516 264522	Pierre
+T2058	Location 264661 264671	Marguerite
+T2059	Location 264694 264700	Joanne
+T2060	Location 264703 264713	Marguerite
+T2061	Person 264727 264733	Jeanne
+T2062	Person 264826 264832	Pierre
+T2063	Person 264880 264893	Pourquoi done
+T2064	Person 264960 264972	JEANNE VEUVE
+T2065	Location 264979 264985	Jennne
+T2066	Person 265003 265010	le euré
+T2067	Person 265052 265058	Pierre
+T2068	Location 265266 265272	Jeunne
+T2069	Person 265281 265291	Marguerite
+T2070	Person 265330 265336	Pierre
+T2071	Location 265685 265692	Bourges
+T2072	Person 265728 265734	Pierre
+T2073	Organization 266231 266247	QUATRIÈME PARTIE
+T2074	Person 266259 266264	Louis
+T2075	Person 266343 266349	Jeanne
+T2076	Location 266602 266612	Marguerite
+T2077	Person 266674 266679	Louis
+T2078	Person 266900 266906	Jeanne
+T2079	Person 267121 267126	Louis
+T2080	Person 267168 267180	Jeanne toute
+T2081	Person 267295 267299	Dieu
+T2082	Person 267454 267459	Louis
+T2083	Person 267534 267538	Dieu
+T2084	Location 267601 267604	toi
+T2085	Person 267611 267623	JEANNE VEUVE
+T2086	Organization 267725 267727	Tu
+T2087	Person 267748 267753	Louis
+T2088	Person 267766 267770	Dieu
+T2089	Person 267900 267906	Jeanne
+T2090	Person 267912 267917	Louis
+T2091	Person 267950 267955	Louis
+T2092	Person 268123 268129	Jeanne
+T2093	Location 268169 268172	toi
+T2094	Location 268231 268239	Issoudun
+T2095	Organization 268935 268951	QUATRIÈME PARTIE
+T2096	Person 269916 269921	Louis
+T2097	Person 270376 270382	Isaure
+T2098	Person 270443 270448	Louis
+T2099	Person 270476 270488	JEANNE VEUVE
+T2100	Person 270553 270557	Dieu
+T2101	Location 270849 270855	Jennne
+T2102	Person 270958 270966	Nannette
+T2103	Location 271007 271014	Solange
+T2104	Person 271042 271048	Jeanne
+T2105	Person 271091 271099	mon Jean
+T2106	Person 271253 271263	Ma Solange
+T2107	Person 271302 271310	Nannette
+T2108	Organization 271421 271423	Tu
+T2109	Location 271436 271443	Solange
+T2110	Location 271807 271816	Jusserand
+T2111	Organization 271863 271872	QUATRIÈME
+T2112	Person 271873 271879	PARTIE
+T2113	Location 272111 272118	Solange
+T2114	Person 272120 272128	Nannette
+T2115	Person 272234 272238	Jean
+T2116	Person 272415 272421	Jeanne
+T2117	Location 272647 272654	Solange
+T2118	Person 272672 272677	Louis
+T2119	Person 272717 272725	Nannette
+T2120	Person 272750 272754	Jean
+T2121	Person 272923 272928	Louis
+T2122	Location 272974 272978	Jean
+T2123	Person 273036 273040	Dieu
+T2124	Product 273222 273224	Eh
+T2125	Person 273301 273307	Dumont
+T2126	Person 273314 273326	JEANNE VEUVE
+T2127	Person 273340 273348	Nannette
+T2128	Person 273440 273448	Nannette
+T2129	Organization 273493 273512	maîtresse Jusserand
+T2130	Person 273570 273578	Nannette
+T2131	Location 273584 273591	Solange
+T2132	Person 273747 273761	Jean Jusserand
+T2133	Person 273928 273932	Dieu
+T2134	Person 273973 273981	Nannette
+T2135	Person 273997 274001	Jean
+T2136	Location 274210 274222	Embrasse-moi
+T2137	Person 274224 274235	ma Nannette
+T2138	Location 274241 274248	Solange
+T2139	Person 274360 274366	Jeanne
+T2140	Person 274389 274397	Nannette
+T2141	Person 274404 274410	Isaure
+T2142	Person 274413 274419	Jeanne
+T2143	Location 274464 274469	Louis
+T2144	Organization 274612 274628	QUATRIÈME PARTIE
+T2145	Person 274754 274760	Isaure
+T2146	Person 274982 274988	Jeanne
+T2147	Person 275207 275215	Nannette
+T2148	Person 275305 275311	Jeanne
+T2149	Person 275328 275336	Nannette
+T2150	Person 275430 275438	Nannette
+T2151	Person 275481 275495	Jean Jusserand
+T2152	Person 275944 275950	Jeanne
+T2153	Person 276079 276091	JEANNE VEUVE
+T2154	Person 276183 276191	Nannette
+T2155	Person 276402 276408	Jeanne
+T2156	Person 276612 276616	Dieu
+T2157	Location 276648 276656	Nannette
+T2158	Location 276718 276721	toi
+T2159	Location 276741 276747	Mudamè
+T2160	Person 276928 276934	Isaure
+T2161	Person 276957 276962	Louis
+T2162	Person 276967 276973	Jeanne
+T2163	Person 276983 276989	Isaure
+T2164	Person 277022 277027	Louis
+T2165	Person 277434 277450	QUATRIÈME PARTIR
+T2166	Person 278049 278055	Isaurv
+T2167	Person 278095 278100	Louis
+T2168	Organization 278394 278396	Tu
+T2169	Person 278436 278441	Louis
+T2170	Location 278556 278564	Nannette
+T2171	Person 278572 278578	Jeanne
+T2172	Location 278632 278639	Sylvain
+T2173	Person 278645 278649	Paul
+T2174	Person 278694 278708	Sylvain répon-
+T2175	Person 278848 278859	Jean Jusse-
+T2176	Person 278862 278874	JEANNE VEUVE
+T2177	Person 279031 279035	Paul
+T2178	Person 279040 279046	Jeanne
+T2179	Location 279176 279179	Is-
+T2180	Person 279223 279229	Jeanne
+T2181	Person 279327 279331	Paul
+T2182	Person 279626 279630	Paul
+T2183	Organization 279682 279694	onrecon- nut
+T2184	Location 279838 279844	Jeanne
+T2185	Person 279929 279933	Paul
+T2186	Person 279936 279942	Jeanne
+T2187	Location 280066 280074	Nannette
+T2188	Person 280096 280103	Sylvain
+T2189	Person 280399 280413	asia QUATRIÊME
+T2190	Person 280414 280420	PARTIE
+T2191	Person 280499 280505	Jeanne
+T2192	Person 281253 281259	Jeanne
+T2193	Location 281311 281315	Paul
+T2194	Person 281318 281324	Jeanne
+T2195	Person 281380 281386	Jeanne
+T2196	Person 281394 281398	Paul
+T2197	Person 281624 281631	Sylvain
+T2198	Person 281753 281757	Paul
+T2199	Person 281763 281775	JEANNE VEUVE
+T2200	Person 282015 282020	Louis
+T2201	Location 282041 282045	Jeax
+T2202	Location 282235 282240	Louis
+T2203	Person 282286 282292	Jeanne
+T2204	Person 283213 283217	Dieu
+T2205	Person 283287 283291	Jean
+T2206	Person 283309 283314	Louis
+T2207	Person 283345 283361	QUATRIÈME PARTIE
+T2208	Person 283364 283368	Paul
+T2209	Location 283461 283464	Ini
+T2210	Person 283469 283473	Paul
+T2211	Location 283525 283533	Nannette
+T2212	Person 283568 283574	Jeanne
+T2213	Person 283614 283619	Louis
+T2214	Location 283747 283751	Paul
+T2215	Person 284144 284155	grand Louis
+T2216	Person 284230 284236	Jeanne
+T2217	Person 284468 284472	Paul
+T2218	Person 284576 284580	Paul
+T2219	Person 284801 284813	JEANNE VEUVE
+T2220	Person 285181 285186	Louis
+T2221	Person 285364 285368	Jean
+T2222	Organization 285453 285463	Nan- nette
+T2223	Person 285682 285688	Jeanne
+T2224	Person 285733 285737	Paul
+T2225	Location 285775 285783	Issoudun
+T2226	Location 285813 285821	Issoudun
+T2227	Person 285846 285850	Paul
+T2228	Organization 286138 286154	QUATRIÈME PARTIE
+T2229	Location 286306 286313	Bourges
+T2230	Person 286881 286887	Jeanne
+T2231	Person 287227 287231	Dieu
+T2232	Location 287360 287365	Berry
+T2233	Person 287663 287675	JEANNE VEUVE
+T2234	Organization 288196 288212	QUATRIÈME PARTIE
+T2235	Location 288225 288233	Nannette
+T2236	Person 288237 288244	Sylvain
+T2237	Person 288376 288383	Dieu de
+T2238	Person 288669 288676	Sylvain
+T2239	Person 288773 288777	Paul
+T2240	Person 288946 288950	Jean
+T2241	Person 289446 289450	Dieu
+T2242	Person 289473 289478	Louis
+T2243	Person 289586 289592	Jeanne
+T2244	Person 289627 289631	Paul
+T2245	Person 289639 289651	JEANNE VEUVR
+T2246	Person 289658 289664	Jeanne
+T2247	Person 289694 289698	Paul
+T2248	Person 289825 289832	Sylvain
+T2249	Location 289874 289879	Louis
+T2250	Person 289881 289889	Paul ré-
+T2251	Location 289953 289960	Sylvain
+T2252	Person 290013 290017	Paul
+T2253	Person 290099 290104	Louis
+T2254	Person 290198 290202	Jean
+T2255	Person 290345 290354	mon Louis
+T2256	Person 290364 290368	Jean
+T2257	Location 290409 290412	toi
+T2258	Person 290447 290452	Louis
+T2259	Person 290458 290465	Sylvain
+T2260	Person 290467 290471	Jean
+T2261	Location 290490 290493	toi
+T2262	Location 290614 290617	toi
+T2263	Person 290632 290636	Jean
+T2264	Person 290654 290660	Jeanne
+T2265	Person 290839 290845	Dumont
+T2266	Person 290847 290851	Jean
+T2267	Person 290944 290949	Louis
+T2268	Organization 291070 291086	QUATRIÈME PARTIR
+T2269	Person 291649 291653	Paul
+T2270	Location 291748 291754	Louise
+T2271	Person 291773 291779	Jeanne
+T2272	Person 291969 291980	grand Louis
+T2273	Person 292079 292083	Paul
+T2274	Person 292379 292385	Jeanne
+T2275	Location 292573 292577	oc s

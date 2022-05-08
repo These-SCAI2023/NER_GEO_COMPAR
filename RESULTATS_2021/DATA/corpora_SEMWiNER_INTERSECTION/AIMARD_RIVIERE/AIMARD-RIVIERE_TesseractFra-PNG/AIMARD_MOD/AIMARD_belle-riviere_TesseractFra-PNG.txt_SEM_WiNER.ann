@@ -1,0 +1,4848 @@
+T1	Person 3 16	FORT DUQUESNE
+T2	Person 27 40	DE JUMONVJLLE
+T3	Organization 42 45	Peu
+T4	Person 76 85	Louis XIV
+T5	Person 94 102	Louis XV
+T6	Location 146 150	Nord
+T7	Location 168 174	France
+T8	Location 272 278	Canada
+T9	Location 294 309	Nouvelle-France
+T10	Location 381 391	Angleterre
+T11	Location 1077 1083	France
+T12	Location 1124 1130	Canada
+T13	Location 1376 1383	Indiens
+T14	Organization 1420 1436	LA BELLE RIVIERE
+T15	Location 1505 1506	A
+T16	Location 1547 1562	Nouvelle-France
+T17	Location 1666 1673	Mexique
+T18	Location 1707 1709	Or
+T19	Location 1894 1900	France
+T20	Organization 1912 1914	Le
+T21	Location 1915 1921	Canada
+T22	Organization 2001 2003	C’
+T23	Location 2079 2095	Amérique du Nord
+T24	Location 2168 2174	Ferney
+T25	Location 2234 2240	France
+T26	Location 2422 2430	Amérique
+T27	Location 2467 2469	La
+T28	Organization 2837 2839	C’
+T29	Organization 2947 2949	Le
+T30	Date 2950 2961	27 mai 1754
+T31	Location 3193 3197	Ohio
+T32	Location 3220 3233	Belle—Rivière
+T33	Location 3282 3290	Virginie
+T34	Location 3305 3317	l’Angleterre
+T35	Location 3320 3322	La
+T36	Location 3696 3703	Indiens
+T37	Location 4001 4013	Royal-Marine
+T38	Person 4234 4247	Peaux— Rouges
+T39	Organization 4296 4304	LA BELLE
+T40	Location 4393 4397	Puis
+T41	Organization 4478 4480	Le
+T42	Organization 4558 4560	Le
+T43	Location 4981 4989	Dinwidie
+T44	Location 5008 5016	Virginie
+T45	Location 5130 5134	Ohio
+T46	Organization 5311 5313	Le
+T47	Organization 5314 5330	major Washington
+T48	Location 5366 5376	Washington
+T49	Location 5454 5466	l’Angleterre
+T50	Person 5509 5513	Ward
+T51	Location 5601 5605	Ohio
+T52	Location 5682 5684	La
+T53	Location 5731 5741	Gontrecœur
+T54	Organization 5757 5770	fort Duquesne
+T55	Location 5810 5820	Pittsbourg
+T56	Location 5848 5858	États-Unis
+T57	Location 5866 5876	Contrecœur
+T58	Person 6123 6136	Royal— Marine
+T59	Person 6331 6344	de Jumonville
+T60	Person 6350 6363	de Jumonville
+T61	Location 6549 6559	Gontrecœur
+T62	Organization 6737 6739	Le
+T63	Person 6746 6759	de Jumonville
+T64	Organization 7023 7025	Le
+T65	Organization 7188 7197	LA BELLLE
+T66	Organization 7210 7212	Le
+T67	Organization 7272 7274	Le
+T68	Location 7275 7283	Canadien
+T69	Location 7295 7299	Enﬁn
+T70	Person 7383 7392	Capitaine
+T71	Person 7440 7460	de Jumonville releve
+T72	Location 7554 7562	Canadien
+T73	Location 7793 7796	toi
+T74	Person 7798 7804	Berger
+T75	Person 7882 7884	de
+T76	Location 7885 7895	Jumonville
+T77	Person 7914 7920	Berger
+T78	Organization 7953 7955	Le
+T79	Location 7956 7964	Canadien
+T80	Organization 8006 8008	C’
+T81	Organization 9729 9739	LA BELLE 1
+T82	Location 9818 9822	Enﬁn
+T83	Organization 10010 10012	Ge
+T84	Organization 10363 10379	LA BELLE RIVIERE
+T85	Person 10421 10427	Berger
+T86	Location 10677 10688	Bois-Brûlés
+T87	Person 10866 10879	de Jumonville
+T88	Person 10882 10888	Berger
+T89	Person 11118 11121	Qu’
+T90	Organization 11234 11236	Le
+T91	Location 11237 11245	Canadien
+T92	Location 11264 11267	Non
+T93	Person 11292 11298	—— Non
+T94	Person 11325 11331	Berger
+T95	Person 11337 11340	Qu’
+T96	Location 11384 11388	quoi
+T97	Person 11489 11502	de Jumonville
+T98	Location 11559 11562	toi
+T99	Location 11648 11656	Canadien
+T100	Person 11732 11738	Berger
+T101	Person 11827 11836	Capitaine
+T102	Location 11899 11903	quoi
+T103	Organization 12025 12041	mon brave Berger
+T104	Person 12242 12248	—— Non
+T105	Person 12340 12345	De la
+T106	Location 12357 12359	N’
+T107	Person 12393 12399	Berger
+T108	Person 12472 12478	Berger
+T109	Person 12502 12515	de Jumonville
+T110	Location 12598 12601	Oui
+T111	Organization 12642 12662	LA BELLE RI.VI_ÈRE 7
+T112	Location 12772 12775	Oui
+T113	Person 12777 12782	—— Tu
+T114	Person 12795 12802	—-— Oui
+T115	Location 12864 12869	Merci
+T116	Location 12877 12885	Canadien
+T117	Organization 12995 12997	C’
+T118	Location 13080 13086	Québec
+T119	Organization 13395 13397	Le
+T120	Person 13512 13525	de Jumonville
+T121	Person 13668 13677	ﬁt Berger
+T122	Person 13706 13712	—— Oui
+T123	Location 13884 13886	La
+T124	Location 14153 14161	Amérique
+T125	Organization 14216 14218	Le
+T126	Location 14219 14227	Canadien
+T127	Organization 14271 14273	Le
+T128	Person 14280 14302	de Jumonville continua
+T129	Location 14407 14409	Tu
+T130	Person 14511 14517	Berger
+T131	Location 14594 14596	Ah
+T132	Person 14610 14619	Capitaine
+T133	Location 14707 14715	Amérique
+T134	Person 15043 15059	LA BELLE RIVIERE
+T135	Location 15087 15095	Canadien
+T136	Location 15141 15142	A
+T137	Location 15143 15147	quoi
+T138	Location 15156 15158	Ah
+T139	Location 15647 15650	Oui
+T140	Organization 15676 15678	C’
+T141	Organization 15871 15873	G1
+T142	Location 16023 16024	J
+T143	Organization 16197 16199	Le
+T144	Organization 16316 16318	Le
+T145	Location 16686 16688	S’
+T146	Location 16748 16751	Non
+T147	Person 16795 16801	Berger
+T148	Location 17017 17018	J
+T149	Location 17029 17035	ajouta
+T150	Location 17374 17377	Non
+T151	Organization 17614 17632	LA BELLE RIVIÈRE 9
+T152	Person 17742 17748	Berger
+T153	Organization 17891 17893	C’
+T154	Person 18115 18124	ﬁt Berger
+T155	Person 18344 18348	Dieu
+T156	Location 18350 18352	Tu
+T157	Person 18411 18415	Boni
+T158	Location 18546 18548	Ah
+T159	Organization 18646 18648	Le
+T160	Location 18813 18816	Non
+T161	Person 18856 18862	—— Non
+T162	Person 18901 18910	ﬁt Berger
+T163	Location 18939 18942	Oui
+T164	Organization 18947 18960	Tu te trompes
+T165	Person 19218 19220	M'
+T166	Location 19281 19285	Hein
+T167	Location 19341 19351	Jumouville
+T168	Location 19369 19377	Canadien
+T169	Organization 19621 19637	LA BELLE RIVIERE
+T170	Location 19691 19694	Oui
+T171	Location 19699 19701	La
+T172	Organization 19951 19953	Le
+T173	Location 19988 19990	La
+T174	Location 20035 20049	vieille Europe
+T175	Location 20502 20506	Soit
+T176	Organization 20767 20769	C’
+T177	Person 20817 20823	Berger
+T178	Location 20843 20845	Tu
+T179	Person 20876 20880	Dieu
+T180	Organization 21059 21061	Va
+T181	Organization 21063 21065	Va
+T182	Location 21077 21084	plaisir
+T183	Location 21085 21087	Tu
+T184	Person 21226 21232	Berger
+T185	Location 21263 21269	Indien
+T186	Organization 21700 21713	Peaux- Rouges
+T187	Location 22139 22140	J
+T188	Location 22228 22229	A
+T189	Organization 22261 22269	LA BELLE
+T190	Location 22470 22476	Indien
+T191	Location 22650 22658	Canadien
+T192	Person 22791 22797	Berger
+T193	Location 22821 22829	L’Indien
+T194	Organization 22854 22856	Le
+T195	Location 23084 23090	Indien
+T196	Person 23130 23133	Qu’
+T197	Organization 23185 23187	Le
+T198	Location 23295 23303	Canadien
+T199	Organization 23308 23310	Où
+T200	Location 23336 23346	Peau—Rouge
+T201	Person 23360 23366	Berger
+T202	Organization 23435 23437	Le
+T203	Location 23562 23572	Sans-Piste
+T204	Location 23621 23624	Non
+T205	Organization 23655 23657	Le
+T206	Organization 23882 23884	Le
+T207	Location 23885 23895	Peau—Rouge
+T208	Location 23956 23966	Sans—Piste
+T209	Organization 24135 24137	Où
+T210	Person 24197 24200	Bon
+T211	Location 24207 24212	Venez
+T212	Location 24401 24405	Puis
+T213	Location 24410 24422	Peau- -Bouge
+T214	Organization 24703 24719	LA BELLE RIVIERE
+T215	Organization 25050 25052	F1
+T216	Organization 25065 25084	LE MAJOR WASHiNGTON
+T217	Person 25135 25148	de Jumonville
+T218	Location 25375 25379	Ohio
+T219	Location 25667 25674	Indiens
+T220	Location 25711 25713	La
+T221	Location 25975 25982	Indiens
+T222	Organization 26039 26041	Le
+T223	Event 26434 26437	JO…
+T224	Hour 26562 26573	sept heures
+T225	Location 26807 26815	Dinwidie
+T226	Location 26834 26842	Virginie
+T227	Location 26915 26919	Ohio
+T228	Location 26995 26996	A
+T229	Location 27741 27743	LW
+T230	Person 27750 27760	H. GEFFROY
+T231	Organization 27846 27854	LA BELLE
+T232	Location 28033 28043	Washington
+T233	Location 28593 28594	A
+T234	Organization 28876 28878	C’
+T235	Person 29138 29153	L‘enseigne Ward
+T236	Organization 29310 29326	major Washington
+T237	Location 29331 29334	Non
+T238	Location 29549 29557	Amérique
+T239	Person 29599 29603	Ward
+T240	Organization 29796 29806	Petit- F01
+T241	Location 29822 29826	Ohio
+T242	Organization 29875 29888	fort Duquesne
+T243	Location 29962 29970	Amérique
+T244	Person 30355 30362	Ward 11
+T245	Location 30690 30693	TFT
+T246	Organization 30722 30730	LA BELLE
+T247	Location 30810 30822	l’Angleterre
+T248	Organization 31072 31074	Le
+T249	Organization 31075 31091	major Washington
+T250	Person 31582 31586	Ward
+T251	Organization 31680 31682	Le
+T252	Location 31757 31767	Washington
+T253	Person 31830 31836	—— Oui
+T254	Organization 31972 31974	Le
+T255	Organization 32240 32242	Le
+T256	Location 32406 32416	Washington
+T257	Person 32510 32523	monsieur Ward
+T258	Organization 32566 32568	Le
+T259	Location 32730 32732	La
+T260	Location 32773 32779	France
+T261	Location 32783 32795	l’Angleterre
+T262	Location 32884 32888	Ward
+T263	Organization 33406 33422	LA BELLE RIVIERE
+T264	Person 33444 33448	Ward
+T265	Location 33728 33731	Moi
+T266	Person 33794 33798	Ward
+T267	Location 33855 33865	Washington
+T268	Person 33928 33942	Expliquez-vous
+T269	Location 33954 33962	Pourquoi
+T270	Location 33983 33991	Pourquoi
+T271	Person 33994 34000	—— Oui
+T272	Organization 34072 34074	C’
+T273	Person 34156 34169	monsieur Ward
+T274	Person 34487 34502	L‘enseigne Ward
+T275	Person 34602 34606	Ward
+T276	Person 34704 34707	Bon
+T277	Location 34948 34952	Ohio
+T278	Person 35122 35128	—— Oui
+T279	Location 35297 35303	ajouta
+T280	Location 35315 35325	Washington
+T281	Location 35721 35731	Washington
+T282	Person 35755 35759	Ward
+T283	Location 35803 35805	La
+T284	Location 35932 35935	Non
+T285	Location 36145 36149	Ward
+T286	Location 36342 36352	Washington
+T287	Location 36936 36948	l’Angleterre
+T288	Organization 37216 37218	Le
+T289	Location 37269 37279	Washington
+T290	Location 37594 37602	Celle—ei
+T291	Organization 37714 37727	fort Duquesne
+T292	Location 37738 37740	Ah
+T293	Organization 37759 37761	Ge
+T294	Location 37821 37825	Ohio
+T295	Organization 37884 37886	C’
+T296	Organization 37969 37985	LA BELLE RIVIERE
+T297	Location 38381 38389	Virginie
+T298	Location 38398 38400	Ah
+T299	Person 38542 38555	grommela Ward
+T300	Location 38575 38585	Washington
+T301	Location 39135 39139	quoi
+T302	Organization 39299 39312	fort Duquesne
+T303	Location 39438 39440	La
+T304	Organization 39795 39797	C’
+T305	Location 39814 39815	A
+T306	Location 39834 39844	Washington
+T307	Organization 39919 39921	Le
+T308	Location 39943 39947	quoi
+T309	Organization 40091 40099	LA BELLE
+T310	Person 40552 40565	monsieur Ward
+T311	Organization 40749 40751	Le
+T312	Person 40930 40935	De la
+T313	Person 40937 40941	01te
+T314	Person 41164 41168	Ward
+T315	Location 41627 41628	A
+T316	Organization 41722 41724	Le
+T317	Organization 41725 41741	major Washington
+T318	Event 41944 41971	enseigne Wind s ’enveloppa‘
+T319	Person 42029 42042	Ponce- Pilate
+T320	Location 42240 42244	quoi
+T321	Organization 42260 42262	C’
+T322	Location 42321 42329	Amérique
+T323	Organization 42412 42432	LA BELLE li lV lÈ RE
+T324	Organization 42473 42475	Le
+T325	Organization 42491 42493	Le
+T326	Organization 42910 42912	Le
+T327	Person 42919 42932	de Jumonville
+T328	Location 43295 43297	Ah
+T329	Person 43316 43322	Berger
+T330	Location 43366 43369	Oui
+T331	Person 43397 43400	Qu’
+T332	Location 43498 43502	Hein
+T333	Location 43633 43634	A
+T334	Person 43661 43668	—-— Oui
+T335	Person 43776 43782	Berger
+T336	Location 43816 43824	Monsieur
+T337	Person 44129 44133	Dieu
+T338	Organization 44336 44347	Kouha—Handé
+T339	Location 44429 44431	La
+T340	Organization 44831 44844	Tu te trompes
+T341	Location 44948 44955	GEFFROY
+T342	Organization 45030 45049	LA BELLE lthlÈ l‘tE
+T343	Organization 45477 45479	C’
+T344	Organization 45674 45687	fort Duquesne
+T345	Person 45808 45821	de Jumonville
+T346	Person 45832 45838	Berger
+T347	Organization 45948 45950	Le
+T348	Person 46087 46095	-— Merci
+T349	Person 46097 46103	Berger
+T350	Location 46485 46491	France
+T351	Location 46560 46564	quoi
+T352	Organization 46584 46588	Bon!
+T353	Person 46610 46623	Dis-moi adieu
+T354	Location 46648 46653	Adieu
+T355	Location 46694 46695	A
+T356	Location 46924 46928	quoi
+T357	Person 47000 47005	—— Tu
+T358	Organization 47138 47140	Le
+T359	Organization 47313 47332	LA BELLE RIVÏÈRE 23
+T360	Location 47456 47463	Indiens
+T361	Location 47482 47489	Indiens
+T362	Location 47615 47622	Indiens
+T363	Person 47711 47718	—— Soit
+T364	Person 47743 47747	Dieu
+T365	Person 47952 47958	Berger
+T366	Person 48065 48071	—— Oui
+T367	Location 48102 48108	ajouta
+T368	Person 48114 48127	de Jumonville
+T369	Organization 48171 48173	C’
+T370	Location 48235 48238	Oui
+T371	Person 48277 48285	‘ Berger
+T372	Location 48631 48638	Indiens
+T373	Organization 48727 48729	Le
+T374	Location 48828 48836	Canadien
+T375	Organization 49307 49309	Le
+T376	Hour 49469 49480	sept heures
+T377	Person 49749 49752	Qu’
+T378	Person 49790 49800	—— Yankées
+T379	Location 49898 49905	Indiens
+T380	Person 50064 50072	LA BELLE
+T381	Location 50177 50181	Nord
+T382	Organization 50215 50217	Où
+T383	Location 50234 50236	La
+T384	Location 50353 50359	ajouta
+T385	Organization 50404 50406	Le
+T386	Location 50416 50426	Jumouville
+T387	Location 50601 50605	Puis
+T388	Person 50623 50629	Berger
+T389	Person 50717 50723	Berger
+T390	Organization 50775 50777	Le
+T391	Location 50778 50786	Canadien
+T392	Location 50892 50895	Non
+T393	Person 51171 51184	de Jumonville
+T394	Organization 51277 51279	C’
+T395	Person 51394 51400	—— Non
+T396	Organization 51953 51955	Le
+T397	Location 51965 51966	J
+T398	Organization 52044 52054	Washington
+T399	Person 52055 52058	s ’
+T400	Location 52350 52356	France
+T401	Location 52428 52430	La
+T402	Location 52466 52467	J
+T403	Organization 52525 52541	LA BELLE RIVIERE
+T404	Organization 52770 52786	major Washington
+T405	Person 52868 52881	de Jumonville
+T406	Location 52980 52986	France
+T407	Location 53279 53280	J
+T408	Organization 53505 53507	Le
+T409	Person 53752 53765	de Jumonville
+T410	Location 53974 53981	Indiens
+T411	Organization 54156 54158	Le
+T412	Organization 54159 54184	major Washington lui—mème
+T413	Person 54185 54197	s ’interposa
+T414	Location 54312 54322	Contrecœur
+T415	Location 54781 54791	Washington
+T416	Location 54975 54982	Indiens
+T417	Location 55079 55086	Archium
+T418	Organization 55131 55139	LA BELLE
+T419	Person 55177 55183	Berger
+T420	Location 55197 55205	Canadien
+T421	Location 55210 55221	Kouha-Handé
+T422	Person 55635 55659	Berger alla pieusement s
+T423	Location 55720 55722	La
+T424	Location 55781 55789	Canadien
+T425	Location 55896 55907	Kouha-Handé
+T426	Organization 56052 56054	C’
+T427	Person 56138 56151	de Jumonville
+T428	Location 56186 56196	Peau-Rouge
+T429	Organization 56223 56225	Le
+T430	Location 56226 56234	Canadien
+T431	Organization 56510 56512	C’
+T432	Location 57059 57070	Kouha—Handé
+T433	Person 57142 57149	—-— Oui
+T434	Person 57365 57378	de Jumonville
+T435	Person 57432 57438	Berger
+T436	Location 57622 57631	Peut—être
+T437	Organization 57730 57752	1.1 13 autvum mn Temps
+T438	Organization 57777 57793	LA BELLE RIVIÈRE
+T439	Person 57912 57917	De la
+T440	Organization 58323 58325	Le
+T441	Person 58587 58606	DE LA BELLE HIVlÈBE
+T442	Organization 58621 58623	F1
+T443	Location 58648 58671	Amérique septentrionale
+T444	Location 58706 58710	Ohio
+T445	Location 58916 58922	Canada
+T446	Location 58930 58936	France
+T447	Location 58963 58975	Man'ongohela
+T448	Location 58984 58993	Alleghany
+T449	Location 59118 59122	Ohio
+T450	Location 59140 59150	Mississipi
+T451	Organization 59165 59175	Meschaeébé
+T452	Location 59224 59226	La
+T453	Location 59899 59906	Indiens
+T454	Location 59984 59988	quoi
+T455	Location 60216 60217	A
+T456	Location 60292 60300	Duquesne
+T457	Organization 61129 61131	Le
+T458	Location 61396 61397	A
+T459	Location 62703 62705	.”
+T460	Organization 63344 63346	C’
+T461	Location 63402 63404	La
+T462	Organization 63464 63472	LA BELLE
+T463	Location 63654 63660	France
+T464	Location 63694 63696	La
+T465	Location 64006 64008	LW
+T466	Location 64019 64026	GEFFROY
+T467	Organization 64085 64101	LA BELLE RIVIÈRE
+T468	Organization 64106 64108	Le
+T469	Location 64712 64718	Dieppe
+T470	Location 64725 64729	Caen
+T471	Location 64734 64738	Vire
+T472	Location 64745 64753	Gaudebec
+T473	Organization 64886 64888	Le
+T474	Location 65301 65303	La
+T475	Location 65855 65857	Or
+T476	Hour 65963 65983	huit heures du matin
+T477	Person 67181 67189	LA BELLE
+T478	Organization 67732 67735	Peu
+T479	Location 67795 67796	A
+T480	Person 67856 67859	s ’
+T481	Person 68244 68247	s ’
+T482	Organization 68318 68320	C’
+T483	Location 69750 69754	Enﬁn
+T484	Organization 70041 70049	LA BELLE
+T485	Location 70062 70066	Enﬁn
+T486	Location 70885 70887	La
+T487	Location 71055 71059	Puis
+T488	Location 71760 71762	La
+T489	Location 71826 71835	Alleghany
+T490	Location 71956 71958	La
+T491	Location 71972 71979	Phoebus
+T492	Location 72189 72191	S’
+T493	Organization 72657 72665	LA BELLE
+T494	Location 72843 72847	Enﬁn
+T495	Location 72948 72950	La
+T496	Organization 73394 73405	feuil- lage
+T497	Person 73450 73455	De la
+T498	Person 73457 73462	01 te
+T499	Location 73909 73910	A
+T500	Location 74021 74030	Alleghany
+T501	Location 74088 74089	A
+T502	Organization 74473 74475	C’
+T503	Location 74903 74915	Royal—Marine
+T504	Location 75029 75039	Versailles
+T505	Location 75293 75295	La
+T506	Organization 75550 75565	LA BELLE RI VIÈ
+T507	Person 75566 75568	RE
+T508	Location 75904 75906	Ah
+T509	Organization 76084 76086	Le
+T510	Location 76110 76112	La
+T511	Location 76374 76380	Indien
+T512	Location 76411 76421	Peau—Rouge
+T513	Location 76747 76754	Indiens
+T514	Location 76811 76813	N’
+T515	Location 76887 76897	Peau-Rouge
+T516	Person 76958 76968	Jeune ﬁlle
+T517	Location 76971 76979	L’Indien
+T518	Location 77190 77198	L’Indien
+T519	Organization 78150 78166	LA BELLE RIVIERE
+T520	Location 78171 78173	La
+T521	Location 78206 78208	La
+T522	Location 78446 78456	Peau—Rouge
+T523	Location 78537 78543	DÉSERT
+T524	Location 79066 79076	Peau-Rouge
+T525	Organization 79296 79298	Le
+T526	Organization 79820 79828	Ahi hahl
+T527	Location 79858 79861	Non
+T528	Location 79960 79966	Indien
+T529	Location 80013 80016	toi
+T530	Person 80018 80030	Rameau-d’Or“
+T531	Location 80105 80108	Moi
+T532	Location 80269 80272	toi
+T533	Organization 80355 80371	LA BELLE RIVIERE
+T534	Person 80373 80379	—— Non
+T535	Location 80560 80571	Rameau-d‘Or
+T536	Location 80780 80785	Voilà
+T537	Location 80810 80812	Tu
+T538	Person 80952 80963	Rameau—d Or
+T539	Location 81105 81107	La
+T540	Location 81245 81246	A
+T541	Location 81735 81743	Gordieul
+T542	Organization 81990 81992	Où
+T543	Location 82236 82242	ajouta
+T544	Person 82249 82255	Pardon
+T545	Organization 82299 82301	Où
+T546	Organization 82410 82412	Va
+T547	Person 82420 82426	Pardon
+T548	Location 82547 82548	W
+T549	Organization 82572 82592	Vv'Aïv-5Wætpﬁ“ W‘_ “
+T550	Location 82639 82641	WW
+T551	Person 82689 82700	Rameau—d’Or
+T552	Organization 83008 83011	Peu
+T553	Location 83075 83082	GEFFROY
+T554	Organization 83205 83221	LA BELLE RIVIERE
+T555	Organization 83527 83529	C’
+T556	Location 84317 84325	L’Indien
+T557	Organization 84409 84411	C’
+T558	Organization 84668 84670	Le
+T559	Location 85277 85284	Rameau—
+T560	Location 85287 85289	Or
+T561	Location 85302 85305	Oui
+T562	Person 85308 85320	Rameau-d’ Or
+T563	Organization 85440 85442	Le
+T564	Organization 85499 85501	C’
+T565	Organization 85584 85603	LA BELLE RIVIERE 39
+T566	Location 85607 85608	A
+T567	Organization 85663 85665	Le
+T568	Person 85880 85891	Rameau—d’Or
+T569	Location 85965 85968	Non
+T570	Organization 85993 85995	Où
+T571	Person 86293 86304	Rameau-d’Or
+T572	Organization 86416 86421	Tenez
+T573	Organization 86491 86493	C’
+T574	Person 86528 86539	Rameau-d’Or
+T575	Location 86584 86585	A
+T576	Location 86670 86676	Indien
+T577	Organization 87179 87181	Le
+T578	Location 87435 87439	Puis
+T579	Person 87692 87703	Rameau—d Or
+T580	Organization 88063 88079	Jeune Canadienne
+T581	Organization 88172 88180	LA BELLE
+T582	Location 88254 88263	Rameau-d’
+T583	Location 88354 88356	La
+T584	Person 88432 88435	Qu’
+T585	Location 88740 88742	N’
+T586	Location 88797 88799	La
+T587	Location 88946 88948	Ah
+T588	Location 89207 89211	quoi
+T589	Location 89282 89284	S’
+T590	Location 89396 89398	Ah
+T591	Person 89437 89443	—— Oui
+T592	Location 89565 89567	Tu
+T593	Person 89614 89625	Rameau-d’Or
+T594	Location 89708 89710	La
+T595	Organization 89998 90000	C’
+T596	Person 90160 90163	s ’
+T597	Person 90211 90214	s ’
+T598	Person 90282 90292	Jeune ﬁlle
+T599	Organization 90676 90684	LA BELLE
+T600	Organization 91603 91605	C’
+T601	Organization 91631 91633	Le
+T602	Organization 91810 91812	Le
+T603	Organization 91869 91885	Jeune Canadienne
+T604	Organization 92430 92435	Tenez
+T605	Location 92578 92580	La
+T606	Location 92595 92606	Rameau—d’Or
+T607	Location 92798 92802	quoi
+T608	Location 92951 92956	Merci
+T609	Location 93193 93195	Or
+T610	Location 93248 93254	ajouta
+T611	Location 93292 93294	VÏ
+T612	Organization 93347 93355	LA BELLE
+T613	Organization 93437 93439	C’
+T614	Organization 93533 93538	Tenez
+T615	Location 93554 93556	La
+T616	Person 93726 93730	Dieu
+T617	Location 94121 94125	Enﬁn
+T618	Location 94195 94197	La
+T619	Organization 94216 94218	C’
+T620	Person 94245 94249	Dieu
+T621	Organization 94432 94434	Le
+T622	Person 94456 94467	Rameau—d’Or
+T623	Organization 94525 94527	Le
+T624	Location 94692 94695	Oui
+T625	Person 94725 94729	Dieu
+T626	Organization 94811 94813	Le
+T627	Person 95037 95048	Rameau—d’Or
+T628	Organization 95069 95071	Le
+T629	Location 95234 95239	Dites
+T630	Location 95323 95328	Merci
+T631	Person 95358 95362	Dieu
+T632	Location 95456 95459	Oui
+T633	Organization 95747 95749	Le
+T634	Organization 95835 95854	LA BELLE RIVIERE 43
+T635	Person 96534 96545	Rameau—d’Or
+T636	Location 97175 97177	Ah
+T637	Location 97221 97229	Pourquoi
+T638	Location 97761 97767	Indien
+T639	Location 97990 97993	Oui
+T640	Organization 98027 98035	LA BELLE
+T641	Location 98184 98186	Or
+T642	Person 98332 98346	Expliquez-vous
+T643	Organization 98511 98513	Le
+T644	Person 98745 98756	Rameau-d’Or
+T645	Location 98998 99001	Non
+T646	Person 99253 99256	s ’
+T647	Location 99515 99516	A
+T648	Location 100158 100160	La
+T649	Organization 100616 100635	LA BELLE RIVIERE 45
+T650	Location 100646 100647	A
+T651	Location 100688 100689	A
+T652	Location 100690 100694	quoi
+T653	Location 101029 101031	LW
+T654	Person 101038 101050	H. GEFÏ<‘ROY
+T655	Organization 101172 101180	LA BELLE
+T656	Location 102095 102099	quoi
+T657	Organization 102235 102237	Le
+T658	Person 102333 102341	—— Louis
+T659	Person 102348 102353	Louis
+T660	Location 102419 102427	Pourquoi
+T661	Location 102504 102510	France
+T662	Location 102596 102602	France
+T663	Location 102646 102649	Oui
+T664	Location 102718 102724	Angèle
+T665	Location 102748 102754	Angèle
+T666	Location 102867 102875	Pourquoi
+T667	Location 102910 102916	Angèle
+T668	Location 103062 103064	N’
+T669	Date 103067 103079	croyez 11enl
+T670	Person 103278 103281	Bon
+T671	Organization 103522 103541	LA BELLE RIVIÈRE 47
+T672	Person 103543 103554	Rameau—d’Or
+T673	Organization 103680 103682	Le
+T674	Location 103960 103964	Soit
+T675	Location 104081 104082	A
+T676	Organization 104148 104161	fort Duquesne
+T677	Organization 104167 104169	Le
+T678	Organization 104170 104183	fort Duquesne
+T679	Organization 104367 104369	C’
+T680	Location 104396 104397	A
+T681	Person 104565 104570	Louis
+T682	Person 104576 104580	Dieu
+T683	Person 104994 104999	Louis
+T684	Person 105105 105111	Angèle
+T685	Location 105116 105121	Merci
+T686	Person 105213 105217	Dieu
+T687	Person 105292 105296	Dieu
+T688	Person 105434 105439	Louis
+T689	Location 105679 105681	La
+T690	Location 105764 105775	Rameau-d‘Or
+T691	Organization 105936 105946	LA BELLE l
+T692	Location 105947 105953	IVIÈRE
+T693	Location 105976 105983	plaisir
+T694	Location 106074 106080	Angèle
+T695	Location 106253 106256	Non
+T696	Location 106359 106362	Moi
+T697	Location 106613 106614	A
+T698	Person 106623 106628	Louis
+T699	Location 106663 106669	Angèle
+T700	Person 106684 106687	Bon
+T701	Location 106699 106710	Rameau—d’Or
+T702	Location 106713 106715	La
+T703	Location 106816 106829	Penserez—vous
+T704	Organization 107216 107229	fort Duquesne
+T705	Person 107232 107239	—— Soit
+T706	Person 107307 107318	Rameau—d’Or
+T707	Person 107362 107368	Angèle
+T708	Location 107686 107696	Peau-Rouge
+T709	Organization 107785 107798	fort Duquesne
+T710	Person 108177 108185	LA BELLE
+T711	Person 108208 108212	L’ON
+T712	Location 108227 108228	J
+T713	Organization 108279 108281	Le
+T714	Person 108288 108312	Louis Coulon de Villiers
+T715	Location 108350 108362	Royal-Marine
+T716	Organization 108385 108398	fort Duquesne
+T717	Organization 108582 108595	fort Duquesne
+T718	Location 108724 108726	Or
+T719	Person 108739 108750	de Villiers
+T720	Location 108967 108976	Jérusalem
+T721	Location 109003 109011	Bouillon
+T722	Location 109076 109082	Europe
+T723	Location 109092 109096	Asie
+T724	Location 109119 109124	Terre
+T725	Person 109137 109155	Coulon de Villiers
+T726	Person 109499 109517	Coulon de Villiers
+T727	Location 109663 109669	Canada
+T728	Person 109964 109972	Villiers
+T729	Location 109997 110005	Carignan
+T730	Location 110044 110060	Nouvelle-Orléans
+T731	Organization 110374 110376	Le
+T732	Person 110381 110392	de Villiers
+T733	Location 110425 110431	canada
+T734	Location 110630 110632	A=
+T735	Organization 110646 110662	LA BELLE RIVIERE
+T736	Person 110888 110905	Louis de Villiers
+T737	Location 110970 110975	Paris
+T738	Location 110993 110995	I’
+T739	Person 111065 111073	Louis XV
+T740	Location 111078 111087	Bien—Aimé
+T741	Organization 111252 111254	Le
+T742	Location 111319 111329	Amé- rique
+T743	Organization 111394 111396	Le
+T744	Person 111409 111417	Louis XV
+T745	Person 111527 111538	de Villiers
+T746	Location 111586 111591	Havre
+T747	Location 111705 111711	Québec
+T748	Organization 111762 111764	Le
+T749	Location 111833 111843	Versailles
+T750	Location 111990 111996	Québec
+T751	Event 112010 112043	fatalité naturelle de la jeunesse
+T752	Person 112076 112093	Louis de Villiers
+T753	Location 112339 112344	Océan
+T754	Location 112564 112574	Versailles
+T755	Location 112603 112609	France
+T756	Organization 112776 112778	Le
+T757	Person 112785 112796	de Villiers
+T758	Location 112862 112868	Québec
+T759	Location 113089 113091	La
+T760	Person 113390 113403	BELLE RIVIERE
+T761	Location 113502 113508	Québec
+T762	Location 113602 113607	Paris
+T763	Location 113616 113622	Québec
+T764	Organization 113710 113718	Don Juan
+T765	Person 113944 113961	Louis de Villiers
+T766	Location 114203 114209	Québec
+T767	Location 114377 114378	A
+T768	Location 114676 114682	Canada
+T769	Location 115284 115290	Québec
+T770	Organization 115558 115560	C’
+T771	Location 115809 115814	Clara
+T772	Person 115815 115825	de Maleval
+T773	Person 115831 115841	de Maleval
+T774	Organization 116268 116284	LA BELLE RIVIERE
+T775	Organization 116408 116410	C’
+T776	Location 116456 116461	Clara
+T777	Person 116462 116472	de Maleval
+T778	Location 116504 116510	Grande
+T779	Location 117114 117116	La
+T780	Organization 117390 117392	Le
+T781	Person 117399 117410	de Villiers
+T782	Person 117903 117920	Louis de Villiers
+T783	Person 117963 117973	de Maleval
+T784	Organization 118087 118089	Le
+T785	Person 118096 118107	de Villiers
+T786	Organization 118176 118178	Le
+T787	Person 118406 118417	de Villiers
+T788	Person 118454 118464	de Maleval
+T789	Location 118593 118599	Europe
+T790	Organization 118686 118688	Le
+T791	Location 118989 118995	sienne
+T792	Location 119026 119028	LW
+T793	Organization 119145 119161	LA BELLE RIVIERE
+T794	Organization 119166 119168	Ge
+T795	Organization 119361 119363	Le
+T796	Product 119364 119373	singe s ’
+T797	Organization 119388 119390	Le
+T798	Organization 119391 119407	perroquet Bianco
+T799	Person 119426 119430	Nick
+T800	Person 119585 119591	Bianco
+T801	Person 119755 119765	de Maleval
+T802	Organization 119787 119789	Le
+T803	Person 119862 119866	Nick
+T804	Person 119947 119953	Bianco
+T805	Person 119968 119971	s ’
+T806	Location 120197 120203	Bianco
+T807	Person 120265 120274	0 Maleval
+T808	Organization 120345 120347	Le
+T809	Organization 120374 120376	Le
+T810	Product 120393 120398	s s ’
+T811	Person 120432 120442	de Maleval
+T812	Location 120511 120513	La
+T813	Location 120605 120609	Puis
+T814	Person 120691 120695	Nick
+T815	Organization 120698 120700	Le
+T816	Person 120848 120859	de Villiers
+T817	Organization 120889 120891	Le
+T818	Location 121289 121291	Ah
+T819	Person 121362 121372	de Maleval
+T820	Organization 121475 121477	Le
+T821	Organization 121642 121658	LA BELLE RIVIERE
+T822	Organization 121666 121668	Le
+T823	Location 121669 121677	Canadien
+T824	Person 121807 121824	Louis de Villiers
+T825	Person 121861 121867	Bianco
+T826	Location 121969 121971	La
+T827	Location 122380 122382	La
+T828	Location 122490 122496	Bianco
+T829	Person 122522 122532	de Maleval
+T830	Person 122736 122747	de Villiers
+T831	Organization 122903 122905	Le
+T832	Person 123169 123186	Louis de Villiers
+T833	Location 123326 123328	La
+T834	Location 123378 123380	Or
+T835	Location 123481 123483	La
+T836	Person 123904 123915	de Villiers
+T837	Organization 123952 123954	Le
+T838	Organization 124281 124289	LA BELLE
+T839	Person 124308 124316	Louis XV
+T840	Person 124448 124459	de Villiers
+T841	Location 124659 124667	Duquesne
+T842	Location 125001 125007	Québec
+T843	Person 125091 125101	Menneville
+T844	Person 125351 125362	de Villiers
+T845	Organization 125434 125447	fort Duquesne
+T846	Person 125630 125640	de Maleval
+T847	Location 125782 125784	La
+T848	Person 126128 126138	de Maleval
+T849	Person 126419 126436	Louis de Villiers
+T850	Location 126503 126509	Québec
+T851	Organization 126671 126687	LA BELLE RIVIERE
+T852	Person 126697 126708	DETTE PAYÉE
+T853	Organization 126710 126712	Le
+T854	Person 126734 126745	de Villiers
+T855	Location 126780 126787	Rivière
+T856	Organization 126910 126923	fort Duquesne
+T857	Location 126953 126958	Clara
+T858	Person 126959 126969	de Maleval
+T859	Location 127269 127275	Québec
+T860	Location 127279 127281	La
+T861	Organization 127447 127449	C’
+T862	Person 128016 128027	Rameau-d’Or
+T863	Location 128329 128333	Puis
+T864	Organization 128366 128368	Le
+T865	Person 128878 128895	Louis de Villiers
+T866	Person 129005 129019	BE LLE RIVIÈRE
+T867	Location 129128 129134	Québec
+T868	Person 129270 129276	Angèle
+T869	Organization 129291 129293	Le
+T870	Location 129349 129351	La
+T871	Person 129394 129399	Louis
+T872	Person 129471 129482	Rameau-d’Or
+T873	Organization 129687 129700	fort Duquesne
+T874	Location 129942 129948	Maudit
+T875	Location 130255 130266	Rameau-d‘Or
+T876	Person 130337 130348	de Villiers
+T877	Organization 130389 130391	Le
+T878	Organization 130851 130853	Ge
+T879	Organization 130907 130909	Le
+T880	Location 131456 131458	Tu
+T881	Organization 131837 131856	LA BELLE RIVIERE 59
+T882	Person 131998 132009	de Villiers
+T883	Location 132044 132055	Rameau-d‘Or
+T884	Location 132240 132246	Angèle
+T885	Organization 132297 132299	Le
+T886	Organization 132517 132519	Le
+T887	Person 132526 132537	de Villiers
+T888	Person 132612 132623	Rameau-d’Or
+T889	Person 132668 132673	Louis
+T890	Location 132686 132688	La
+T891	Location 132713 132714	A
+T892	Person 133512 133523	de Villiers
+T893	Person 133792 133795	s ’
+T894	Location 133918 133929	Rameau—d‘Or
+T895	Organization 134262 134264	C’
+T896	Location 134384 134386	La
+T897	Location 134454 134460	Angèle
+T898	Location 134684 134685	A
+T899	Person 134686 134693	L_l Nl—
+T900	Location 134861 134862	A
+T901	Person 134881 134883	IÈ
+T902	Person 134884 134886	RE
+T903	Organization 134971 134984	fort Duquesne
+T904	Organization 135521 135523	Le
+T905	Location 136460 136462	S’
+T906	Location 136901 136907	Angèle
+T907	Location 136995 136996	A
+T908	Organization 137167 137169	Le
+T909	Organization 137449 137451	Le
+T910	Organization 137541 137560	la proie de bandits
+T911	Location 137761 137768	Indiens
+T912	Location 138240 138247	GEFFROY
+T913	Organization 138316 138328	LA BELLE 111
+T914	Organization 138396 138398	Le
+T915	Organization 138713 138715	Ge
+T916	Organization 139708 139710	Le
+T917	Location 139947 139953	Angèle
+T918	Person 140310 140316	—— Non
+T919	Location 140684 140687	Oui
+T920	Location 141223 141225	La
+T921	Person 141405 141413	LA BELLE
+T922	Location 141652 141654	La
+T923	Organization 142169 142171	Le
+T924	Person 142512 142523	de Villiers
+T925	Person 142765 142776	Rameau—d’Or
+T926	Person 143111 143116	Louis
+T927	Location 143158 143164	Angèle
+T928	Location 143557 143564	Indiens
+T929	Person 143637 143641	Dieu
+T930	Person 143965 143976	de Villiers
+T931	Location 144118 144119	W
+T932	Organization 144153 144161	LA BELLE
+T933	Location 144178 144180	La
+T934	Location 144291 144293	La
+T935	Organization 144702 144704	Le
+T936	Person 144826 144837	Rameau-d'Or
+T937	Location 144932 144943	Rameau-d‘Or
+T938	Organization 144984 144997	fort Duquesne
+T939	Location 145401 145403	Or
+T940	Person 145447 145458	de Villiers
+T941	Location 145578 145580	Or
+T942	Organization 145608 145610	Le
+T943	Person 145621 145624	s ’
+T944	Location 145695 145703	Monsieur
+T945	Location 145987 145993	Parlez
+T946	Person 146367 146372	Louis
+T947	Person 146453 146457	Dieu
+T948	Organization 146717 146719	Le
+T949	Location 146859 146863	Soit
+T950	Organization 146955 146974	LA BELLE RIVIERE 65
+T951	Person 147005 147008	Qu’
+T952	Person 147030 147033	Qu’
+T953	Person 147614 147625	Rameau-d’Or
+T954	Organization 147804 147806	C’
+T955	Person 147812 147823	Rameau-d’Or
+T956	Person 147922 147933	de Villiers
+T957	Location 148035 148040	Merci
+T958	Organization 148281 148283	Le
+T959	Person 148381 148386	Louis
+T960	Location 148421 148427	Angèle
+T961	Organization 148740 148742	Le
+T962	Organization 148927 148929	C’
+T963	Location 149014 149020	Angèle
+T964	Person 149099 149110	Rameau—d’Or
+T965	Organization 149299 149315	LA BELLE RIVIERE
+T966	Organization 149328 149342	GHAUMIÈBE DU 1
+T967	Person 149395 149412	Louis de Villiers
+T968	Organization 149611 149624	fort Duquesne
+T969	Organization 149629 149631	Le
+T970	Location 149644 149650	Québec
+T971	Person 149760 149771	de Villiers
+T972	Location 149807 149813	Grigny
+T973	Location 149838 149845	Guyenne
+T974	Person 149914 149924	de Maleval
+T975	Location 150685 150691	Québec
+T976	Organization 150907 150909	Le
+T977	Location 150919 150925	Grigny
+T978	Person 150961 150972	de Villiers
+T979	Location 151002 151004	La
+T980	Organization 151283 151296	fort Duquesne
+T981	Location 151704 151706	La
+T982	Organization 151899 151918	LA BELLE RIVIERE 67
+T983	Location 152049 152055	Québec
+T984	Location 152472 152478	Grigny
+T985	Person 152525 152536	de Villiers
+T986	Location 152727 152729	S’
+T987	Person 153422 153433	de Villiers
+T988	Person 154023 154034	de Villiers
+T989	Person 154048 154059	Rameau—d’Or
+T990	Location 154169 154175	sienne
+T991	Location 154201 154205	Puis
+T992	Person 154407 154424	Louis de Villiers
+T993	Location 154603 154609	ajouta
+T994	Organization 154670 154686	LA BELLE RIVIERE
+T995	Location 154694 154695	J
+T996	Person 154713 154731	Coulon de Villiers
+T997	Organization 154734 154736	Le
+T998	Location 154831 154845	Royal- -Marine
+T999	Organization 154878 154891	fort Duquesne
+T1000	Organization 154907 154909	Le
+T1001	Person 154916 154927	de Villiers
+T1002	Location 154949 154955	Anèèle
+T1003	Organization 155118 155120	Le
+T1004	Location 155310 155318	Monsieur
+T1005	Person 155754 155757	s ’
+T1006	Organization 156093 156106	fort Duquesne
+T1007	Location 156133 156139	Grigny
+T1008	Person 156159 156170	de Villiers
+T1009	Organization 156278 156280	Le
+T1010	Location 156639 156641	Or
+T1011	Person 156725 156728	s ’
+T1012	Person 156795 156806	de Villiers
+T1013	Location 156833 156839	Angèle
+T1014	Person 157186 157191	Louis
+T1015	Location 157204 157210	Angèle
+T1016	Organization 157298 157300	Le
+T1017	Organization 157959 157975	LA BELLE RIVIERE
+T1018	Person 158236 158247	de Villiers
+T1019	Location 158285 158291	Angèle
+T1020	Organization 158589 158597	LA BELLE
+T1021	Organization 159164 159167	Peu
+T1022	Person 159271 159282	de Villiers
+T1023	Organization 160082 160084	Le
+T1024	Person 160091 160102	de Villiers
+T1025	Location 160275 160277	La
+T1026	Location 160388 160392	Soit
+T1027	Location 160396 160402	Europe
+T1028	Location 160412 160420	Amérique
+T1029	Organization 160857 160859	Le
+T1030	Organization 161173 161175	C’
+T1031	Location 161223 161229	Angèle
+T1032	Organization 161302 161304	Le
+T1033	Organization 161352 161371	LA BELLE RIVIERE 71
+T1034	Person 161574 161585	de Villiers
+T1035	Organization 161734 161736	Le
+T1036	Location 161830 161835	Voilà
+T1037	Person 161913 161919	Angèle
+T1038	Location 162014 162015	A
+T1039	Location 162080 162086	Angèle
+T1040	Organization 162204 162206	C’
+T1041	Person 162393 162399	—— Oui
+T1042	Location 162416 162422	Angèle
+T1043	Person 162765 162776	de Villiers
+T1044	Organization 162968 162970	C’
+T1045	Location 163053 163061	Pourquoi
+T1046	Organization 163122 163124	Le
+T1047	Organization 163344 163346	C’
+T1048	Organization 163410 163412	Le
+T1049	Organization 163499 163512	fort Duquesne
+T1050	Organization 163647 163663	LA BELLE RIVIERE
+T1051	Location 163707 163713	Québec
+T1052	Person 163716 163722	—— Oui
+T1053	Location 163925 163928	Oui
+T1054	Location 164135 164136	A
+T1055	Location 164177 164178	A
+T1056	Organization 164830 164832	Le
+T1057	Location 165462 165468	Canada
+T1058	Location 165602 165606	quoi
+T1059	Location 165658 165666	Monsieur
+T1060	Location 165785 165800	Nouvelle-France
+T1061	Location 166156 166159	Oui
+T1062	Person 166427 166433	—— Que
+T1063	Organization 166640 166659	LA BELLE RIVIERE 73
+T1064	Location 166692 166698	Europe
+T1065	Organization 166990 166992	Le
+T1066	Organization 167105 167107	Le
+T1067	Person 167240 167262	Duquesne de Menneville
+T1068	Person 167381 167384	Qu’
+T1069	Organization 167712 167714	Le
+T1070	Location 167854 167864	Versailles
+T1071	Organization 168020 168022	Le
+T1072	Location 168219 168221	Ah
+T1073	Organization 168821 168823	Le
+T1074	Organization 168919 168921	Le
+T1075	Organization 169111 169113	Le
+T1076	Organization 169773 169789	LA BELLE mvn‘cne
+T1077	Person 169899 169903	Dieu
+T1078	Location 170084 170088	Puis
+T1079	Organization 170300 170302	Le
+T1080	Organization 170317 170333	Nouvelle- France
+T1081	Location 170607 170609	Or
+T1082	Location 171576 171582	Europe
+T1083	Organization 171670 171672	C’
+T1084	Location 172068 172076	Carignan
+T1085	Organization 172905 172913	LA BELLE
+T1086	Location 173428 173436	Carignan
+T1087	Location 173543 173548	Voilà
+T1088	Person 173654 173665	de Villiers
+T1089	Person 173746 173752	—- Non
+T1090	Location 173836 173842	Angèle
+T1091	Location 174214 174219	Merci
+T1092	Location 174316 174322	ajouta
+T1093	Organization 174636 174638	Le
+T1094	Location 174785 174793	Monsieur
+T1095	Location 174877 174880	Non
+T1096	Location 174935 174936	Y
+T1097	Person 175057 175070	de Jumonville
+T1098	Location 175098 175106	Amérique
+T1099	Location 175142 175148	Québec
+T1100	Location 175176 175189	tort Duquesne
+T1101	Location 175354 175357	Oui
+T1102	Organization 175870 175878	LA BELLE
+T1103	Person 176123 176129	—— Que
+T1104	Person 176171 176182	de Villiers
+T1105	Person 176336 176339	s ’
+T1106	Person 176572 176589	Louis de Villiers
+T1107	Location 176778 176784	Angèle
+T1108	Location 177042 177048	Angèle
+T1109	Person 177114 177121	—— Bien
+T1110	Location 177219 177227	Pourquoi
+T1111	Person 177250 177259	mon Louis
+T1112	Location 177417 177425	Pourquoi
+T1113	Person 177495 177499	Dieu
+T1114	Location 177644 177650	Angèle
+T1115	Person 177687 177703	Pourquoi suis-ie
+T1116	Organization 177890 177898	LA BELLE
+T1117	Location 177901 177906	VIÈRE
+T1118	Location 178094 178100	ajouta
+T1119	Location 178113 178123	Jumonville
+T1120	Organization 178154 178156	C’
+T1121	Person 178244 178257	de Jumonville
+T1122	Organization 178340 178347	L1V- 11
+T1123	Person 178351 178363	H. GEI—‘FRO\
+T1124	Organization 178496 178512	LA BELLE mvu‘aan
+T1125	Location 178517 178519	La
+T1126	Person 178594 178599	Louis
+T1127	Location 178649 178655	Angèle
+T1128	Person 178729 178732	Qu’
+T1129	Location 178745 178751	Parlez
+T1130	Person 178782 178788	—— Oui
+T1131	Location 179024 179026	Tu
+T1132	Person 179037 179043	Angèle
+T1133	Person 179076 179085	Mon Louis
+T1134	Location 179178 179180	Tu
+T1135	Location 179245 179258	Vierge Sainte
+T1136	Location 179505 179514	Vraiment“
+T1137	Location 179519 179522	Oui
+T1138	Location 179807 179809	N’
+T1139	Location 179873 179875	S’
+T1140	Person 179974 179980	Angèle
+T1141	Location 180116 180119	toi
+T1142	Location 180322 180325	Moi
+T1143	Location 180493 180496	toi
+T1144	Location 180506 180509	toi
+T1145	Organization 180608 180616	Don Juan
+T1146	Location 180650 180660	Versailles
+T1147	Organization 180710 180712	C’
+T1148	Location 180887 180893	Angèle
+T1149	Location 181153 181154	A
+T1150	Organization 181185 181201	LA BELLE RIVIÈRE
+T1151	Location 181214 181216	La
+T1152	Organization 181366 181368	Le
+T1153	Location 181592 181594	La
+T1154	Organization 181634 181636	Le
+T1155	Location 181687 181697	Peau-Rouge
+T1156	Product 182072 182085	asseyez- vous
+T1157	Organization 182105 182107	Le
+T1158	Location 182916 182925	Peut—ètre
+T1159	Organization 182995 182997	C’
+T1160	Location 183040 183045	Voilà
+T1161	Person 183207 183231	Louis Coulon de Villiers
+T1162	Location 183254 183262	Canadien
+T1163	Person 183358 183382	Louis Coulon de Villiers
+T1164	Person 183606 183633	Pierre-Jean—Baptiste Berger
+T1165	Location 183748 183758	Jumenville
+T1166	Person 183764 183773	Mon frère
+T1167	Organization 183869 183877	LA BELLE
+T1168	Location 183893 183896	Oui
+T1169	Person 183980 183987	-— Enﬁn
+T1170	Location 184180 184188	Canadien
+T1171	Organization 184240 184242	Où
+T1172	Location 184261 184266	Venez
+T1173	Organization 184299 184301	Où
+T1174	Location 184358 184366	Pourquoi
+T1175	Location 184651 184659	Canadien
+T1176	Location 184736 184742	Parlez
+T1177	Person 184749 184753	Dieu
+T1178	Person 184790 184799	Mon frère
+T1179	Person 185061 185072	de Villiers
+T1180	Person 185164 185167	s ’
+T1181	Person 185244 185249	Louis
+T1182	Location 185276 185279	Oui
+T1183	Person 185327 185337	Jeune ﬁlle
+T1184	Location 185509 185512	Oui
+T1185	Person 185547 185558	de Villiers
+T1186	Location 185579 185585	Berger
+T1187	Person 185609 185615	Berger
+T1188	Location 185634 185640	Angèle
+T1189	Location 185722 185727	Allez
+T1190	Location 185739 185743	Soit
+T1191	Location 185879 185884	Merci
+T1192	Person 185886 185892	Angèle
+T1193	Location 185917 185922	Adieu
+T1194	Person 186075 186083	LA BELLE
+T1195	Location 186249 186254	Voilà
+T1196	Person 186448 186457	ﬁt Berger
+T1197	Person 186532 186538	—— Oui
+T1198	Location 186635 186639	Soit
+T1199	Location 186849 186858	Alleghany
+T1200	Organization 186891 186893	Le
+T1201	Location 187349 187357	Pourquoi
+T1202	Person 187706 187712	Berger
+T1203	Person 187734 187745	de Villiers
+T1204	Location 188038 188049	Kouha-Handé
+T1205	Person 188087 188092	Roger
+T1206	Location 188177 188181	Enﬁn
+T1207	Organization 188315 188325	LA BELLE 1
+T1208	Organization 188443 188445	Le
+T1209	Location 188566 188571	Venez
+T1210	Person 188577 188583	Berger
+T1211	Organization 188716 188718	Le
+T1212	Person 188871 188877	Berger
+T1213	Person 188968 188974	—— Oui
+T1214	Location 189136 189144	Canadien
+T1215	Organization 189288 189290	C’
+T1216	Location 189877 189880	Oui
+T1217	Organization 189916 189918	Le
+T1218	Person 190022 190028	Berger
+T1219	Organization 190069 190071	Le
+T1220	Location 190300 190304	Enﬁn
+T1221	Location 190386 190394	Canadien
+T1222	Location 190761 190767	Parlez
+T1223	Date 190943 190951	11_HWÊWŒ
+T1224	Organization 190959 190978	LA BELLE RIVIERE 83
+T1225	Person 191343 191352	Mon frère
+T1226	Person 191387 191391	Dieu
+T1227	Person 191515 191521	Berger
+T1228	Organization 191628 191630	Le
+T1229	Person 191885 191891	Berger
+T1230	Location 191981 191985	Enﬁn
+T1231	Location 192003 192008	Merci
+T1232	Person 192255 192259	Ward
+T1233	Person 192261 192279	Georges Washington
+T1234	Person 192394 192403	Capitaine
+T1235	Person 192409 192415	Berger
+T1236	Location 192489 192494	Merci
+T1237	Person 192643 192649	Berger
+T1238	Organization 192666 192668	Le
+T1239	Person 192675 192686	de Villiers
+T1240	Person 192821 192830	Capitaine
+T1241	Location 192918 192926	Pourquoi
+T1242	Location 192983 192985	La
+T1243	Location 193083 193087	Puis
+T1244	Organization 193319 193321	C’
+T1245	Location 193376 193381	Adieu
+T1246	Person 193393 193399	—— Non
+T1247	Organization 193587 193603	LA BELLE RIVIERE
+T1248	Location 193748 193749	A
+T1249	Location 194055 194059	Soit
+T1250	Location 194167 194172	Merci
+T1251	Organization 194239 194241	Le
+T1252	Organization 194290 194292	Le
+T1253	Location 194388 194390	La
+T1254	Person 194512 194518	Berger
+T1255	Location 195105 195111	ajouta
+T1256	Organization 195224 195226	Où
+T1257	Organization 195267 195280	fort Duquesne
+T1258	Hour 195379 195390	sept heures
+T1259	Location 195392 195394	La
+T1260	Person 195421 195424	Bon
+T1261	Location 195550 195552	La
+T1262	Organization 195784 195786	Le
+T1263	Organization 195834 195847	FORT DUQUESNE
+T1264	Location 195895 195901	France
+T1265	Location 195993 196001	lac Érié
+T1266	Location 196018 196028	Mississipi
+T1267	Location 196085 196086	W
+T1268	Organization 196173 196189	LA BELLE RIVIERE
+T1269	Person 196194 196199	De la
+T1270	Location 196250 196259	Louisiane
+T1271	Location 196266 196272	Canada
+T1272	Location 196350 196357	Indiens
+T1273	Person 196631 196653	Duquesne de Menneville
+T1274	Location 196688 196694	France
+T1275	Location 196720 196728	Longueil
+T1276	Organization 197285 197287	Le
+T1277	Location 197394 197398	Ohio
+T1278	Organization 197645 197662	capi- taine Marin
+T1279	Location 197757 197766	Alleghany
+T1280	Location 197813 197817	Ohio
+T1281	Organization 197821 197834	Belle—Rivière
+T1282	Organization 197837 197839	Le
+T1283	Person 197850 197855	Marin
+T1284	Location 198123 198131	Virginie
+T1285	Location 198316 198320	Ohio
+T1286	Person 198495 198513	Georges Washington
+T1287	Location 198555 198565	Washington
+T1288	Location 198793 198799	France
+T1289	Location 198943 198956	Belle-Rivière
+T1290	Location 199038 199046	Virginie
+T1291	Organization 199200 199219	LA BELLE RIVIERE 87
+T1292	Location 199385 199389	Ohio
+T1293	Organization 199517 199519	Le
+T1294	Organization 199520 199536	major Washington
+T1295	Organization 199714 199718	Ward
+T1296	Location 199763 199767	Ohio
+T1297	Organization 199859 199861	C’
+T1298	Person 200035 200057	Villiers de Jumonville
+T1299	Organization 200483 200506	Gincinnatus améri— cain
+T1300	Location 200618 200626	New—York
+T1301	Location 201082 201088	Canada
+T1302	Location 201243 201245	La
+T1303	Person 201302 201315	Royal- Marine
+T1304	Location 201322 201329	Guyenne
+T1305	Location 201696 201709	Belle—Rivière
+T1306	Organization 202134 202136	Le
+T1307	Person 202147 202164	Louis de Villiers
+T1308	Person 202171 202186	Canadien Berger
+T1309	Organization 202606 202614	LA BELLE
+T1310	Location 202763 202770	Guyenne
+T1311	Location 202813 202814	A
+T1312	Person 202896 202899	s ’
+T1313	Location 203115 203117	La
+T1314	Person 203260 203271	de Villiers
+T1315	Location 203390 203396	Québec
+T1316	Location 203427 203430	Oui
+T1317	Person 203492 203498	Grigny
+T1318	Location 203512 203515	Oui
+T1319	Location 203602 203604	Ah
+T1320	Person 203706 203717	Rameau—d’Or
+T1321	Organization 203792 203805	Ge cher baron
+T1322	Person 203846 203857	de Villiers
+T1323	Location 203931 203937	Grigny
+T1324	Location 204007 204011	quoi
+T1325	Person 204275 204286	de Villiers
+T1326	Person 204693 204703	Contrecœur
+T1327	Organization 204727 204740	fort Duquesne
+T1328	Location 204952 204959	Guyenne
+T1329	Organization 205200 205202	Le
+T1330	Person 205211 205233	Duquesne de Menneville
+T1331	Person 205380 205385	Marin
+T1332	Location 205529 205530	A
+T1333	Location 205545 205557	Royal—Marine
+T1334	Location 205681 205683	La
+T1335	Person 205798 205809	de Villiers
+T1336	Location 206284 206292	Canadien
+T1337	Location 206465 206468	Oui
+T1338	Location 206537 206539	La
+T1339	Person 206632 206638	Berger
+T1340	Location 206777 206780	Oui
+T1341	Location 206951 206956	Voilà
+T1342	Location 206995 207005	Gontrecœur
+T1343	Location 207092 207097	Merci
+T1344	Person 207247 207256	Mon frère
+T1345	Person 207298 207302	Dieu
+T1346	Person 207602 207608	Berger
+T1347	Location 207667 207676	Nam-—vw“—
+T1348	Organization 207747 207755	LA BELLE
+T1349	Location 207905 207915	Sans-Piste
+T1350	Location 207932 207940	Canadien
+T1351	Location 207990 208000	Gontrecœur
+T1352	Person 208226 208237	de Villiers
+T1353	Organization 208259 208261	C’
+T1354	Person 208636 208647	de Villiers
+T1355	Location 208735 208738	Non
+T1356	Person 208845 208856	de Villiers
+T1357	Organization 208951 208953	Le
+T1358	Location 208954 208962	Canadien
+T1359	Person 209126 209137	de Villiers
+T1360	Person 209154 209164	Gontrecœur
+T1361	Person 209249 209265	Armand de Grigny
+T1362	Location 209423 209434	Risque—Tout
+T1363	Location 209671 209681	Menneville
+T1364	Location 209700 209702	La
+T1365	Organization 209860 209862	Le
+T1366	Location 209914 209916	Ah
+T1367	Location 209957 209958	J
+T1368	Person 210474 210478	Dieu
+T1369	Organization 210608 210627	LA BELLE RIVIERE 91
+T1370	Organization 210700 210702	C’
+T1371	Location 210957 210959	La
+T1372	Person 211126 211130	Dieu
+T1373	Person 211188 211199	de Villiers
+T1374	Location 211303 211304	J
+T1375	Location 211331 211335	quoi
+T1376	Organization 211631 211644	baie d’Hudson
+T1377	Person 211690 211696	—— Oui
+T1378	Location 211958 211960	Or
+T1379	Location 212241 212242	A
+T1380	Location 212243 212247	quoi
+T1381	Location 212355 212363	Canadien
+T1382	Location 212615 212619	Nord
+T1383	Location 212785 212792	Indiens
+T1384	Location 213119 213124	Voilà
+T1385	Location 213342 213345	Non
+T1386	Organization 213391 213393	Le
+T1387	Organization 213439 213452	baie d’Hudson
+T1388	Location 213555 213563	Virginie
+T1389	Organization 213670 213686	LA BELLE RIVIERE
+T1390	Organization 213742 213744	Le
+T1391	Organization 214067 214069	Le
+T1392	Organization 214369 214371	C’
+T1393	Location 214682 214690	Pourquoi
+T1394	Person 214755 214761	Berger
+T1395	Location 214912 214914	S’
+T1396	Person 215210 215216	Berger
+T1397	Person 215446 215457	de Villiers
+T1398	Person 215552 215564	Mille grâces
+T1399	Location 215728 215734	ajouta
+T1400	Person 215735 215741	Berger
+T1401	Person 215804 215808	Dieu
+T1402	Location 215847 215857	Contrecœur
+T1403	Location 215976 215986	Gontrecœur
+T1404	Person 215997 216008	de Villiers
+T1405	Location 216015 216023	Canadien
+T1406	Location 216077 216084	Guyenne
+T1407	Location 216184 216190	Grigny
+T1408	Person 216204 216215	de Villiers
+T1409	Organization 216256 216269	fort Duquesne
+T1410	Location 216290 216292	La
+T1411	Location 216389 216397	CAMPAGNE
+T1412	Location 216640 216647	GEFFROY
+T1413	Person 216837 216850	BELLE BlVIÈRE
+T1414	Person 217118 217128	Contrecœur
+T1415	Organization 217343 217356	fort Duquesne
+T1416	Location 217363 217365	La
+T1417	Location 217519 217525	ajouta
+T1418	Location 217568 217574	Grigny
+T1419	Location 217693 217699	Berger
+T1420	Location 217737 217738	J
+T1421	Location 217811 217818	Guyenne
+T1422	Location 217842 217854	Royal-Marine
+T1423	Location 217905 217907	Te
+T1424	Location 217926 217929	toi
+T1425	Location 218003 218006	toi
+T1426	Location 218012 218024	Pardonne-moi
+T1427	Person 218035 218041	Armand
+T1428	Location 218043 218045	La
+T1429	Person 218198 218211	de Jumonville
+T1430	Organization 218300 218313	fort Duquesne
+T1431	Location 218342 218352	Gontrecœur
+T1432	Location 218390 218393	toi
+T1433	Organization 218397 218399	Le
+T1434	Location 218409 218415	Grigny
+T1435	Location 218516 218524	Veuillez
+T1436	Location 218725 218735	Contrecœur
+T1437	Organization 218836 218838	Le
+T1438	Organization 218951 218953	Le
+T1439	Person 219076 219085	ﬁt Berger
+T1440	Location 219208 219213	Merci
+T1441	Person 219215 219221	Berger
+T1442	Person 219232 219243	de Villiers
+T1443	Location 219343 219346	Oui
+T1444	Location 219540 219550	Gontrecœur
+T1445	Person 219590 219603	de Jumonville
+T1446	Organization 219620 219639	LA BELLE RIVIÈRE 95
+T1447	Person 219641 219647	—— Que
+T1448	Location 219714 219721	Grignyr
+T1449	Person 219857 219868	de Villiers
+T1450	Organization 220008 220010	Le
+T1451	Location 220104 220110	ajouta
+T1452	Location 220200 220206	Grigny
+T1453	Person 220246 220252	Pardon
+T1454	Person 220312 220323	de Villiers
+T1455	Location 220400 220404	quoi
+T1456	Location 220464 220466	N’
+T1457	Person 220494 220502	Villiers
+T1458	Organization 220751 220764	fort Duquesne
+T1459	Location 221162 221169	Euryale
+T1460	Location 221171 221177	Oreste
+T1461	Organization 221238 221240	C’
+T1462	Organization 221367 221369	Le
+T1463	Person 221396 221407	de Villiers
+T1464	Person 221410 221416	—— Que
+T1465	Organization 221449 221451	C’
+T1466	Person 221554 221557	s ’
+T1467	Location 221626 221633	Pardieu
+T1468	Location 221660 221668	Laquelle
+T1469	Location 222196 222201	Allez
+T1470	Location 222280 222286	Berger
+T1471	Person 222298 222300	de
+T1472	Person 222301 222309	Villiers
+T1473	Organization 222405 222420	LA BELLE mvnäan
+T1474	Location 222626 222634	Canadien
+T1475	Person 222862 222866	Dieu
+T1476	Person 222885 222891	Berger
+T1477	Person 223204 223215	de Villiers
+T1478	Location 223434 223435	A
+T1479	Location 223444 223450	Grigny
+T1480	Person 223541 223557	Armand de Grigny
+T1481	Organization 223863 223865	Le
+T1482	Location 223947 223953	Bellou
+T1483	Location 224219 224225	Grigny
+T1484	Location 224262 224269	Guyenne
+T1485	Location 224380 224385	Paris
+T1486	Location 224411 224417	Dieppe
+T1487	Location 224426 224441	Nouvelle-France
+T1488	Person 224533 224544	de Villiers
+T1489	Location 224678 224684	Europe
+T1490	Location 225207 225209	La
+T1491	Location 225320 225321	A
+T1492	Organization 225477 225496	LA BELLE RIVIERE 97
+T1493	Location 225683 225689	Québec
+T1494	Location 225698 225706	Montréal
+T1495	Location 225806 225807	A
+T1496	Person 226520 226531	de Villiers
+T1497	Location 227612 227618	Grigny
+T1498	Person 227802 227813	de Villiers
+T1499	Person 227881 227887	Armand
+T1500	Person 228048 228053	Louis
+T1501	Location 228179 228187	Bordeaux
+T1502	Location 228194 228204	Versailles
+T1503	Person 228366 228371	Louis
+T1504	Location 228402 228413	Réﬂéchissez
+T1505	Organization 228611 228620	LA BELLLE
+T1506	Organization 228633 228635	C’
+T1507	Location 229378 229383	Merci
+T1508	Person 229385 229390	Louis
+T1509	Location 229439 229446	plaisir
+T1510	Person 229517 229523	—— Oui
+T1511	Person 229531 229542	de Villiers
+T1512	Person 229818 229824	Berger
+T1513	Location 229858 229861	toi
+T1514	Location 229917 229925	Canadien
+T1515	Person 230242 230256	monsieur Louis
+T1516	Location 230343 230349	Grigny
+T1517	Person 230590 230604	monsieur Louis
+T1518	Location 230631 230637	France
+T1519	Person 230971 230981	Gontrecœur
+T1520	Location 231000 231003	toi
+T1521	Person 231272 231286	monsieur Louis
+T1522	Organization 231326 231336	Cana- dien
+T1523	Organization 231492 231494	C’
+T1524	Organization 231807 231826	LA BELLE RIVIÈRE 99
+T1525	Location 231828 231835	Indiens
+T1526	Person 232057 232071	monsieur Louis
+T1527	Organization 232243 232252	Fort bien
+T1528	Location 232310 232317	Guyenne
+T1529	Location 232324 232330	Royal-
+T1530	Person 232333 232339	Marine
+T1531	Location 232575 232582	Indiens
+T1532	Person 232788 232802	monsieur Louis
+T1533	Location 232848 232856	Duquesne
+T1534	Person 233334 233348	monsieur Louis
+T1535	Organization 233706 233708	C’
+T1536	Person 233801 233815	monsieur Louis
+T1537	Location 233857 233861	Alll
+T1538	Person 234105 234115	Gontrecœur
+T1539	Organization 235006 235022	LA BELLE RIVIERE
+T1540	Organization 235032 235034	C’
+T1541	Person 235347 235351	Dieu
+T1542	Location 235356 235361	Voilà
+T1543	Person 235372 235386	monsieur Louis
+T1544	Organization 235535 235537	C’
+T1545	Person 235697 235703	Armand
+T1546	Location 235710 235713	Moi
+T1547	Person 235812 235817	Louis
+T1548	Location 236038 236044	Bergen
+T1549	Location 236090 236098	Laquelle
+T1550	Person 236100 236114	monsieur Louis
+T1551	Organization 236120 236122	C’
+T1552	Person 236212 236215	Bon
+T1553	Location 236289 236290	A
+T1554	Person 236310 236324	monsieur Louis
+T1555	Organization 236329 236331	C’
+T1556	Organization 236529 236531	C’
+T1557	Location 236584 236585	A
+T1558	Location 236643 236646	toi
+T1559	Person 236718 236732	monsieur Louis
+T1560	Organization 236819 236821	Le
+T1561	Person 236823 236829	Jan ad
+T1562	Location 236990 236997	Indiens
+T1563	Person 237184 237195	de Villiers
+T1564	Person 237255 237261	Armand
+T1565	Organization 237488 237490	C’
+T1566	Location 237595 237596	A
+T1567	Organization 237624 237644	LA BELLE RIVIERE 401
+T1568	Organization 238133 238135	Le
+T1569	Location 238136 238144	Canadien
+T1570	Location 238206 238209	Non
+T1571	Location 238238 238242	Hein
+T1572	Organization 238324 238326	C’
+T1573	Location 238380 238386	Parlez
+T1574	Organization 238413 238427	Mon cher Louis
+T1575	Organization 238596 238612	LA BELLE RIVIÈRE
+T1576	Person 238650 238654	Boni
+T1577	Person 238929 238934	Louis
+T1578	Location 238939 238941	La
+T1579	Location 238954 238963	Maleval‘l
+T1580	Organization 238968 238970	C’
+T1581	Location 239045 239046	A
+T1582	Organization 239128 239130	C’
+T1583	Organization 239403 239405	Le
+T1584	Person 239550 239554	Dieu
+T1585	Person 239763 239769	Armand
+T1586	Person 239778 239795	Louis de Villiers
+T1587	Location 239902 239906	quoi
+T1588	Person 239939 239945	Armand
+T1589	Organization 240007 240009	Le
+T1590	Location 240115 240119	Hein
+T1591	Location 240337 240341	Soit
+T1592	Location 240433 240434	J
+T1593	Location 240613 240614	A
+T1594	Location 240640 240646	Québec
+T1595	Location 240737 240743	France
+T1596	Person 240746 240752	—— Non
+T1597	Person 240880 240883	s ’
+T1598	Organization 240963 240971	LA BELLE
+T1599	Person 240985 240991	—— Oui
+T1600	Location 240996 240998	Ah
+T1601	Person 241306 241311	Louis
+T1602	Person 241421 241427	Armand
+T1603	Person 241455 241466	de Villiers
+T1604	Organization 241507 241509	Le
+T1605	Location 241519 241525	Grigny
+T1606	Location 241607 241609	La
+T1607	Person 241643 241653	de Maleval
+T1608	Location 241769 241770	A
+T1609	Person 241881 241887	Armand
+T1610	Location 242432 242438	ajouta
+T1611	Person 242448 242459	de Villiers
+T1612	Location 242583 242587	quoi
+T1613	Location 242912 242914	La
+T1614	Location 243114 243117	Oui
+T1615	Person 243119 243124	Louis
+T1616	Location 243265 243280	Mon cher Armand
+T1617	Organization 243340 243356	LA BELLE RIVIERE
+T1618	Person 243582 243593	de Villiers
+T1619	Organization 243674 243687	fort Duquesne
+T1620	Location 243864 243877	COUPE-JARHETS
+T1621	Hour 243896 243907	sept heures
+T1622	Organization 244077 244079	Le
+T1623	Location 244089 244095	Grigny
+T1624	Person 244259 244270	de Villiers
+T1625	Location 244293 244295	Or
+T1626	Location 244436 244442	Grigny
+T1627	Organization 244640 244642	Le
+T1628	Location 244893 244899	Angèle
+T1629	Organization 245215 245217	Le
+T1630	Organization 245767 245787	LA BELLE RIVIÈRE 105
+T1631	Location 246204 246206	La
+T1632	Organization 246235 246237	Le
+T1633	Location 246831 246837	Angèle
+T1634	Location 247146 247152	Angèle
+T1635	Person 247345 247350	Louis
+T1636	Location 247543 247544	A
+T1637	Location 247757 247762	Voilà
+T1638	Location 247886 247891	Merci
+T1639	Location 247896 247908	bien- -aimée
+T1640	Person 248328 248334	—— Non
+T1641	Organization 248369 248371	C’
+T1642	Organization 248870 248886	LA BELLE RIVIÈRE
+T1643	Location 249398 249404	Angèle
+T1644	Organization 249551 249554	Oui
+T1645	Person 250082 250096	Expliquez-vous
+T1646	Location 250163 250166	Oui
+T1647	Organization 250419 250421	Le
+T1648	Location 250621 250627	Angèle
+T1649	Location 250819 250822	Oui
+T1650	Person 250896 250904	Duquesne
+T1651	Person 250982 250987	Louis
+T1652	Person 251268 251273	Louis
+T1653	Person 251420 251426	—— Non
+T1654	Organization 251680 251688	LA BELLE
+T1655	Organization 251942 251944	C’
+T1656	Person 251983 251989	Angèle
+T1657	Organization 252113 252115	C’
+T1658	Location 252278 252280	La
+T1659	Person 252492 252497	Louis
+T1660	Location 252591 252597	Angèle
+T1661	Location 252977 252979	Ah
+T1662	Person 253044 253050	Angèle
+T1663	Location 253396 253402	Angèle
+T1664	Person 253740 253745	Louis
+T1665	Location 253799 253805	Vierge
+T1666	Location 253866 253875	Peut—ètre
+T1667	Person 254154 254158	Dieu
+T1668	Location 254475 254478	Oui
+T1669	Organization 254598 254604	VW”'”M
+T1670	Person 254652 254665	BELLE RIVIERE
+T1671	Person 254839 254844	Louis
+T1672	Organization 254889 254902	fort Duquesne
+T1673	Location 255203 255204	J
+T1674	Location 255345 255351	Angèle
+T1675	Location 255468 255470	Ah
+T1676	Person 255495 255505	mon Angèle
+T1677	Person 255547 255552	Louis
+T1678	Person 255770 255777	J’obéis
+T1679	Person 255802 255819	Louis de Villiers
+T1680	Location 255879 255885	Parlez
+T1681	Organization 255979 255981	C’
+T1682	Location 256012 256014	Ah
+T1683	Location 256181 256187	Angèle
+T1684	Person 256238 256243	Louis
+T1685	Organization 256245 256247	C’
+T1686	Person 256306 256318	Chère Angèle
+T1687	Location 256480 256489	mon Louis
+T1688	Person 256663 256668	Louis
+T1689	Organization 257171 257173	Le
+T1690	Organization 257274 257294	LA BELLE RIVIERE 109
+T1691	Location 257547 257549	La
+T1692	Location 257578 257585	plaisir
+T1693	Person 257621 257630	mon Louis
+T1694	Location 257741 257748	GEFFROY
+T1695	Organization 257796 257814	LA BELL 11 RIVIERE
+T1696	Person 257837 257843	Angelo
+T1697	Person 257910 257917	—— Bien
+T1698	Person 258021 258030	mon Louis
+T1699	Person 258082 258086	Dieu
+T1700	Location 258145 258151	Angèle
+T1701	Location 258172 258180	Pourquoi
+T1702	Person 258269 258274	Louis
+T1703	Person 258523 258528	Louis
+T1704	Organization 258665 258667	Le
+T1705	Location 259015 259017	S’
+T1706	Location 259110 259111	A
+T1707	Location 259292 259294	La
+T1708	Person 259576 259579	s ’
+T1709	Location 260054 260055	A
+T1710	Organization 260131 260150	La fatigue physique
+T1711	Organization 260512 260514	Le
+T1712	Organization 260815 260828	fort Duquesne
+T1713	Organization 261107 261109	Le
+T1714	Person 261116 261127	de Villiers
+T1715	Organization 261220 261243	Vive Dieui s’écria—t—il
+T1716	Location 261289 261291	Ah
+T1717	Organization 261343 261345	Le
+T1718	Location 262213 262214	A
+T1719	Organization 263021 263037	LA BELLE RIVIERE
+T1720	Person 263961 263972	de Villiers
+T1721	Person 264691 264708	Louis de Villiers
+T1722	Organization 265057 265059	Le
+T1723	Person 265403 265416	Mille perdons
+T1724	Location 265659 265666	Espagne
+T1725	Person 265679 265692	Charles Quint
+T1726	Location 265698 265701	Non
+T1727	Location 265725 265727	Ah
+T1728	Location 265732 265735	Oui
+T1729	Organization 265818 265838	LA BELLE RIVIERE MSÏ
+T1730	Location 266690 266692	Ah
+T1731	Person 266785 266789	Dieu
+T1732	Person 267160 267166	—— Que
+T1733	Person 267202 267210	—-— Ceci
+T1734	Location 267337 267346	Descartes
+T1735	Location 267413 267419	ajouta
+T1736	Person 267441 267458	Louis de Villiers
+T1737	Location 267512 267517	Voilà
+T1738	Location 268027 268031	quoi
+T1739	Organization 268351 268367	LA BELLE RIVIERE
+T1740	Person 268593 268610	Louis de Villiers
+T1741	Organization 268720 268722	C’
+T1742	Organization 268734 268736	Le
+T1743	Location 268755 268764	Descartes
+T1744	Organization 268905 268907	Le
+T1745	Location 269320 269328	Monsieur
+T1746	Person 269413 269425	don Palamède
+T1747	Location 269457 269464	Bivar y
+T1748	Location 269465 269471	Garpio
+T1749	Location 269493 269496	Cid
+T1750	Person 269547 269554	Hidalgo
+T1751	Location 269978 269981	Moi
+T1752	Person 270012 270024	don Palamède
+T1753	Location 270109 270114	Allez
+T1754	Location 270446 270447	J
+T1755	Organization 270481 270484	V--
+T1756	Organization 270536 270556	LA BELLE RIVIERE 415
+T1757	Organization 270965 270972	hidalgo
+T1758	Person 271069 271072	Qu’
+T1759	Organization 271829 271834	Bon !
+T1760	Organization 271974 271976	C’
+T1761	Person 272032 272038	—— Qu’
+T1762	Location 272163 272166	Cid
+T1763	Location 272172 272177	Merci
+T1764	Location 272425 272429	Hein
+T1765	Location 272732 272740	Monsieur
+T1766	Organization 272747 272754	hidalgo
+T1767	Person 272793 272814	don Palamède Bernardo
+T1768	Location 272818 272825	Bivar y
+T1769	Organization 273148 273164	LA BELLE RIVIERE
+T1770	Location 273529 273537	Monsieur
+T1771	Location 273940 273945	Voilà
+T1772	Organization 273995 274000	Bon !
+T1773	Person 274136 274148	don Palamède
+T1774	Location 274289 274292	Moi
+T1775	Location 274572 274575	Moi
+T1776	Organization 274597 274599	Le
+T1777	Organization 274836 274838	Le
+T1778	Location 275265 275270	Voilà
+T1779	Organization 275344 275349	Tenez
+T1780	Organization 275397 275404	hidalgo
+T1781	Location 275986 275991	Iam-n
+T1782	Person 276349 276359	“_ GEFFROY
+T1783	Organization 276419 276435	LA BELLE RIVIÈRE
+T1784	Location 276531 276536	Coups
+T1785	Location 276679 276684	Voilà
+T1786	Location 277088 277090	Ah
+T1787	Person 277129 277141	don Palamède
+T1788	Location 277183 277186	Oui
+T1789	Location 277673 277691	señor don Palamèdè
+T1790	Location 277759 277764	Allez
+T1791	Location 277848 277854	Galpio
+T1792	Person 278103 278106	s ’
+T1793	Date 278431 278440	11mac'es‘
+T1794	Organization 278949 278957	LA BELLE
+T1795	Organization 278986 278988	Le
+T1796	Person 278995 279006	de Villiers
+T1797	Organization 279136 279149	fort Duquesne
+T1798	Location 279378 279380	La
+T1799	Organization 280031 280033	Le
+T1800	Person 280058 280068	de Maleval
+T1801	Organization 280578 280580	Le
+T1802	Organization 280610 280612	Le
+T1803	Person 280619 280630	de Villiers
+T1804	Location 280761 280771	Jumenville
+T1805	Location 281062 281064	La
+T1806	Person 281094 281105	de Villiers
+T1807	Location 281227 281232	MTLWW
+T1808	Organization 281314 281322	LA BELLE
+T1809	Organization 281465 281467	Le
+T1810	Person 282178 282194	Armand de Grigny
+T1811	Organization 282197 282199	Le
+T1812	Person 282539 282550	de Villiers
+T1813	Location 282641 282644	Moi
+T1814	Organization 283000 283013	Belle Rivière
+T1815	Location 283268 283271	Oui
+T1816	Location 283403 283407	quoi
+T1817	Organization 284141 284161	LA BELLE RIVIÈBE 121
+T1818	Person 284428 284432	Dieu
+T1819	Location 284643 284647	quoi
+T1820	Organization 285107 285109	Le
+T1821	Organization 285251 285253	C’
+T1822	Person 285470 285482	mons Satanas
+T1823	Location 285568 285572	quoi
+T1824	Location 285856 285862	Pélage
+T1825	Person 285876 285897	don Palamède Bernardo
+T1826	Location 285901 285908	Bivar y
+T1827	Location 286356 286363	Espagne
+T1828	Organization 286733 286749	LA BELLE RIVIÈRE
+T1829	Location 286832 286838	Québec
+T1830	Person 286899 286905	Pardon
+T1831	Location 286943 286949	Grigny
+T1832	Person 287142 287152	de Maleval
+T1833	Location 287268 287271	Oui
+T1834	Location 287391 287396	Voilà
+T1835	Organization 287450 287452	C’
+T1836	Location 287515 287522	Pardieu
+T1837	Person 287645 287655	Charles IX
+T1838	Organization 287760 287762	Le
+T1839	Organization 287834 287836	Où
+T1840	Location 288043 288047	Soit
+T1841	Location 288546 288551	Venez
+T1842	Location 288623 288634	Rameau—d‘Or
+T1843	Location 288638 288649	Risque-Tout
+T1844	Location 288839 288849	Gonirecœnr
+T1845	Location 288916 288923	Rameau—
+T1846	Person 289137 289140	Qu’
+T1847	Organization 289364 289382	BELLE- RIVIERE 123
+T1848	Person 289821 289836	Canadien Berger
+T1849	Person 289878 289884	Berger
+T1850	Location 289900 289911	Rameau-d‘Or
+T1851	Location 289916 289919	Oui
+T1852	Organization 290019 290021	C’
+T1853	Location 290074 290076	Ah
+T1854	Location 290217 290218	A
+T1855	Location 290275 290277	Ah
+T1856	Location 290561 290572	Risque-Tout
+T1857	Person 290728 290734	Grigny
+T1858	Person 290987 290998	de Villiers
+T1859	Person 291084 291094	Gontrecœur
+T1860	Person 291223 291229	—— Oui
+T1861	Person 291364 291375	de Villiers
+T1862	Location 291684 291695	Risque—Tout
+T1863	Organization 292213 292229	LA BELLE RIVIERE
+T1864	Location 292503 292505	La
+T1865	Person 292656 292668	don Palamède
+T1866	Location 292788 292792	quoi
+T1867	Organization 293239 293243	Bon!
+T1868	Organization 293894 293896	C’
+T1869	Person 294266 294272	—— Qu’
+T1870	Person 294644 294650	Grigny
+T1871	Location 294894 294902	Regardez
+T1872	Organization 294917 294919	Le
+T1873	Organization 295062 295078	LA BELLE RIVIÈRE
+T1874	Organization 295547 295549	Le
+T1875	Location 295575 295582	Malevul
+T1876	Person 295640 295646	Armand
+T1877	Organization 295676 295678	C’
+T1878	Location 295735 295736	A
+T1879	Location 295779 295783	quoi
+T1880	Location 296076 296077	A
+T1881	Organization 296090 296098	LA BELLE
+T1882	Person 296399 296403	Dieu
+T1883	Organization 296693 296695	C’
+T1884	Location 296816 296818	Ah
+T1885	Location 296908 296911	Oui
+T1886	Person 296918 296926	—— Louis
+T1887	Person 296937 296942	Louis
+T1888	Location 297020 297030	Versailles
+T1889	Location 297036 297044	Pourquoi
+T1890	Person 297195 297205	de Maleval
+T1891	Location 297587 297596	Charmante
+T1892	Location 297643 297644	A
+T1893	Location 297693 297695	La
+T1894	Location 297932 297936	Soit
+T1895	Person 298303 298309	Berger
+T1896	Location 298313 298324	Kouha-Handé
+T1897	Location 298654 298656	La
+T1898	Organization 298762 298780	LA BELLE RIVIÈRE l
+T1899	Person 298799 298809	DE MALEVAL
+T1900	Organization 299014 299027	fort Duquesne
+T1901	Location 299076 299087	Contr.ecœur
+T1902	Organization 299155 299168	fort Duquesne
+T1903	Location 299208 299221	Saint—Laurent
+T1904	Organization 299228 299241	Saint—Laurent
+T1905	Person 299262 299277	Jacques Cartier
+T1906	Location 299408 299409	A
+T1907	Location 299487 299496	Anticosti
+T1908	Location 299533 299544	Monts-Pelés
+T1909	Location 299638 299648	Atlantique
+T1910	Location 300504 300508	Puis
+T1911	Location 300777 300788	Aujourd‘hui
+T1912	Organization 300803 300817	Saint- Laurent
+T1913	Organization 301263 301279	LA BELLE RIVIERE
+T1914	Location 301448 301461	Saint-Laurent
+T1915	Location 301487 301498	Montmorency
+T1916	Location 301814 301825	Montmorency
+T1917	Person 302141 302144	s ’
+T1918	Location 302189 302202	Saint—Laurent
+T1919	Location 302205 302209	Soit
+T1920	Location 303184 303185	A
+T1921	Location 303239 303250	Montmorency
+T1922	Person 303433 303443	de Maleval
+T1923	Person 303537 303545	M‘aleval
+T1924	Location 303677 303679	La
+T1925	Person 303722 303732	de Maleval
+T1926	Location 303736 303742	Québec
+T1927	Person 303762 303772	de Maleval
+T1928	Organization 304123 304143	LA BELLE RIVIERE 129
+T1929	Person 304145 304150	De la
+T1930	Organization 304262 304264	C’
+T1931	Person 304364 304388	Louis Coulon de Villiers
+T1932	Organization 304397 304410	fort Duquesne
+T1933	Location 304503 304504	A
+T1934	Person 305181 305191	de Maleval
+T1935	Location 305492 305493	A
+T1936	Location 305674 305680	Venise
+T1937	Organization 305891 305893	Le
+T1938	Hour 305977 305988	neuf heures
+T1939	Location 305997 305999	La
+T1940	Location 306471 306474	Oui
+T1941	Organization 306559 306572	brus- quement
+T1942	Person 306658 306662	01te
+T1943	Organization 306855 306863	LA BELLE
+T1944	Person 307041 307054	Prévenez Jean
+T1945	Person 307099 307103	Jean
+T1946	Location 307389 307393	Jean
+T1947	Organization 307687 307689	C’
+T1948	Location 307927 307929	La
+T1949	Person 308185 308190	Julie
+T1950	Location 308305 308308	Oui
+T1951	Person 308321 308325	Jean
+T1952	Location 308342 308346	quoi
+T1953	Person 308350 308354	Jean
+T1954	Location 308383 308385	La
+T1955	Location 308406 308409	Oui
+T1956	Person 308426 308430	Jean
+T1957	Person 308564 308569	Julie
+T1958	Person 308599 308606	Julie s
+T1959	Person 308637 308641	Jean
+T1960	Location 308690 308692	Ah
+T1961	Person 308850 308856	—— Qu’
+T1962	Location 308876 308878	La
+T1963	Location 309157 309159	La
+T1964	Organization 309555 309562	T‘“ =.Æ
+T1965	Person 309582 309592	1.11 BELLE
+T1966	Organization 309978 309980	Le
+T1967	Location 310193 310199	Grande
+T1968	Location 311132 311134	La
+T1969	Organization 311198 311209	Où vas—t tu
+T1970	Person 311236 311242	Sonner
+T1971	Location 311433 311441	Pourquoi
+T1972	Location 311603 311609	Pardon
+T1973	Person 311724 311729	Léona
+T1974	Location 311733 311743	Bois—Tracy
+T1975	Organization 311750 311752	C’
+T1976	Location 311763 311765	Tu
+T1977	Location 311803 311806	Oui
+T1978	Location 312069 312074	Julie
+T1979	Location 312144 312149	Voilà
+T1980	Person 312187 312190	Qu’
+T1981	Location 312242 312244	Tu
+T1982	Location 312333 312339	Québec
+T1983	Organization 312385 312393	LA BELLE
+T1984	Location 312435 312437	Tu
+T1985	Location 312475 312476	A
+T1986	Organization 312818 312820	C’
+T1987	Location 313188 313193	Voilà
+T1988	Organization 313336 313340	Bon!
+T1989	Organization 313639 313642	Peu
+T1990	Location 313790 313792	La
+T1991	Location 313810 313812	La
+T1992	Person 313986 313991	Julie
+T1993	Person 314004 314014	de Maleval
+T1994	Location 314192 314195	Non
+T1995	Location 314266 314268	La
+T1996	Person 314422 314438	Léon de Rostaing
+T1997	Location 314488 314494	ajouta
+T1998	Location 314637 314645	Montréal
+T1999	Organization 314705 314707	C’
+T2000	Location 315068 315071	Oui
+T2001	Location 315144 315151	plaisir
+T2002	Organization 315178 315180	C’
+T2003	Organization 315275 315291	LA BELLE RIVIERE
+T2004	Person 315440 315443	Qu’
+T2005	Location 315606 315607	A
+T2006	Location 315667 315672	Allez
+T2007	Person 315674 315679	Julie
+T2008	Location 315682 315684	La
+T2009	Location 315789 315796	GEFFROY
+T2010	Organization 315863 315871	LA BELLE
+T2011	Person 315995 316005	de Maleval
+T2012	Person 316205 316210	Julie
+T2013	Person 316352 316362	de Maleval
+T2014	Person 316451 316456	Julie
+T2015	Location 316815 316822	plaisir
+T2016	Person 316877 316884	—— Bien
+T2017	Organization 317047 317049	C’
+T2018	Person 317091 317096	Julie
+T2019	Location 317253 317260	plaisir
+T2020	Organization 317373 317375	Le
+T2021	Person 317501 317506	Julie
+T2022	Person 317632 317642	de Maleval
+T2023	Location 318206 318208	La
+T2024	Person 318314 318319	Léona
+T2025	Location 318492 318493	W
+T2026	Organization 318507 318515	LA BELLE
+T2027	Person 318543 318550	Camille
+T2028	Location 318590 318595	Léona
+T2029	Person 318646 318656	de Maleval
+T2030	Location 318819 318825	France
+T2031	Location 319086 319091	Léoua
+T2032	Location 319093 319096	toi
+T2033	Location 319227 319239	Pardonne-moi
+T2034	Person 319250 319257	Camille
+T2035	Location 319371 319373	La
+T2036	Organization 319591 319593	C’
+T2037	Location 319642 319648	Québec
+T2038	Person 319935 319940	Léona
+T2039	Person 320143 320148	Léona
+T2040	Location 320186 320188	Tu
+T2041	Location 320205 320208	toi
+T2042	Person 320210 320217	Camille
+T2043	Person 320282 320289	Camille
+T2044	Location 320379 320382	Oui
+T2045	Location 320563 320566	toi
+T2046	Location 320708 320711	toi
+T2047	Location 320855 320860	Merci
+T2048	Location 320879 320881	Tu
+T2049	Location 321147 321153	Poitou
+T2050	Location 321175 321185	Beauregard
+T2051	Location 321315 321316	A
+T2052	Person 321328 321337	Louis XIV
+T2053	Location 321496 321506	Versailles
+T2054	Location 321531 321532	A
+T2055	Person 321844 321861	LA— BELLE RIVIERE
+T2056	Location 321904 321909	Paris
+T2057	Location 321976 321983	Orléans
+T2058	Organization 322028 322042	duc de Bourbon
+T2059	Location 322068 322078	Beauregard
+T2060	Organization 322339 322341	Le
+T2061	Location 322425 322433	Commercy
+T2062	Location 322478 322483	Paris
+T2063	Location 322485 322487	La
+T2064	Location 322647 322650	Oui
+T2065	Location 323165 323167	La
+T2066	Location 323206 323208	La
+T2067	Location 323256 323258	La
+T2068	Organization 323346 323348	Le
+T2069	Location 323361 323367	Fleury
+T2070	Organization 323419 323433	duc de Bourbon
+T2071	Organization 323445 323447	Le
+T2072	Organization 323541 323543	Le
+T2073	Organization 324144 324146	Le
+T2074	Person 324561 324571	de Maleval
+T2075	Location 324598 324603	Léona
+T2076	Location 324643 324660	Léona—Adèle-Lucie
+T2077	Person 324759 324766	Camille
+T2078	Organization 324769 324771	C’
+T2079	Organization 324865 324885	LA BELLE RIVIERE 137
+T2080	Organization 325066 325068	Le
+T2081	Location 325325 325332	Camille
+T2082	Location 325649 325659	Beauregard
+T2083	Organization 327554 327557	Peu
+T2084	Organization 327974 327976	Le
+T2085	Organization 328147 328155	LA BELLE
+T2086	Person 328266 328284	Aujourd‘hui Pierre
+T2087	Person 328337 328343	Jeanne
+T2088	Person 328396 328401	André
+T2089	Person 329076 329083	Camille
+T2090	Location 329141 329143	La
+T2091	Location 329202 329204	Tu
+T2092	Organization 331294 331304	LA BELLE R
+T2093	Location 331389 331392	Oui
+T2094	Organization 331441 331443	Le
+T2095	Person 331522 331526	Dieu
+T2096	Location 331630 331640	Beauregard
+T2097	Location 332328 332338	Beauregard
+T2098	Location 332505 332515	Beauregard
+T2099	Organization 333972 333974	Le
+T2100	Location 334138 334139	A
+T2101	Location 334151 334152	A
+T2102	Organization 334210 334227	LA BELLE RIVIERE_
+T2103	Location 334618 334628	Beauregard
+T2104	Location 334655 334660	Merci
+T2105	Location 334969 334970	A
+T2106	Location 334971 334975	quoi
+T2107	Location 335157 335158	A
+T2108	Location 335160 335161	A
+T2109	Person 335420 335436	Armand de Grigny
+T2110	Location 335537 335547	Beauregard
+T2111	Location 335558 335561	Oui
+T2112	Person 335765 335773	Léona de
+T2113	Location 335774 335784	Beauregard
+T2114	Organization 336080 336082	Le
+T2115	Location 336253 336257	Enﬁn
+T2116	Location 336612 336616	Puis
+T2117	Location 336820 336821	A
+T2118	Organization 336830 336846	LA BELLE RIVIÈRE
+T2119	Location 337238 337239	A
+T2120	Location 337240 337244	quoi
+T2121	Person 337320 337325	Léona
+T2122	Location 337375 337377	LW
+T2123	Location 337550 337552	F°
+T2124	Location 337579 337584	BELLE
+T2125	Organization 337653 337655	Le
+T2126	Person 337818 337828	de Maleval
+T2127	Person 338141 338146	Léona
+T2128	Location 338340 338342	La
+T2129	Organization 338501 338503	Où
+T2130	Person 338525 338530	Leona
+T2131	Location 338655 338658	Non
+T2132	Location 338764 338766	La
+T2133	Location 338801 338804	Non
+T2134	Organization 338957 338960	Oui
+T2135	Location 339086 339088	La
+T2136	Location 339504 339506	Tu
+T2137	Person 339529 339536	Camille
+T2138	Location 339770 339776	Grigny
+T2139	Organization 340053 340074	LA BELLE RIVÎ‘ÉRE 143
+T2140	Organization 341183 341185	Le
+T2141	Organization 341841 341843	Le
+T2142	Date 341909 341917	c11rosse
+T2143	Organization 342149 342151	Le
+T2144	Location 342159 342169	Beauregard
+T2145	Person 342362 342365	s ’
+T2146	Location 342415 342419	Joie
+T2147	Organization 342546 342548	Le
+T2148	Person 342717 342731	BE LLE RIVIÈRÈ
+T2149	Location 344197 344202	Suite
+T2150	Location 344266 344269	Non
+T2151	Location 344594 344599	Allez
+T2152	Location 344870 344871	J
+T2153	Organization 344926 344928	Où
+T2154	Location 345525 345526	J
+T2155	Organization 345662 345678	LA BELLE RIVIERE
+T2156	Location 345900 345906	Grigny
+T2157	Person 346770 346776	—— Que
+T2158	Location 346934 346936	Ah
+T2159	Organization 347116 347118	Le
+T2160	Person 347188 347196	Mon Dieu
+T2161	Location 347532 347540	Pourquoi
+T2162	Organization 347972 347974	C’
+T2163	Person 348047 348054	—— Jel’
+T2164	Location 348313 348322	A bientôt
+T2165	Location 348539 348540	W
+T2166	Organization 348670 348686	LA BELLE RÏVIÈRE
+T2167	Person 349164 349169	André
+T2168	Location 349229 349230	A
+T2169	Organization 349330 349332	Le
+T2170	Person 349638 349646	Philippe
+T2171	Organization 349922 349924	C’
+T2172	Person 350116 350121	Léona
+T2173	Location 350145 350148	toi
+T2174	Person 350187 350194	Camille
+T2175	Location 350199 350202	Oui
+T2176	Location 350447 350449	Tu
+T2177	Location 350533 350540	Hermine
+T2178	Location 350544 350550	Grigny
+T2179	Person 350669 350676	Camille
+T2180	Location 350841 350843	Te
+T2181	Location 350939 350945	Grigny
+T2182	Person 351061 351067	—— Oui
+T2183	Location 351072 351077	Léona
+T2184	Person 351092 351098	Armand
+T2185	Location 351185 351192	Hermine
+T2186	Location 351207 351210	toi
+T2187	Organization 351418 351438	LA BELLE RIVIERE 147
+T2188	Organization 351482 351484	Le
+T2189	Person 352012 352019	Camille
+T2190	Person 352038 352043	Léona
+T2191	Person 352092 352097	—— Tu
+T2192	Organization 352520 352522	Le
+T2193	Location 352532 352538	Grigny
+T2194	Person 353012 353017	Léona
+T2195	Location 353535 353537	N’
+T2196	Organization 353794 353796	Le
+T2197	Person 353863 353875	Bois— Tracyl
+T2198	Location 353950 353954	Gom-
+T2199	Person 354077 354083	Armand
+T2200	Organization 354156 354164	LA BELLE
+T2201	Person 354419 354422	Qu’
+T2202	Person 354566 354571	Léona
+T2203	Organization 354646 354648	C’
+T2204	Person 354658 354664	Armand
+T2205	Person 354696 354701	Léona
+T2206	Location 355203 355213	Beauregard
+T2207	Location 355294 355297	Oui
+T2208	Location 355299 355300	A
+T2209	Location 355698 355708	Beauregard
+T2210	Person 355864 355875	Bois- Tracy
+T2211	Organization 355929 355931	Le
+T2212	Person 355943 355957	Bois—'.l‘rac‘y
+T2213	Person 355978 355983	Léona
+T2214	Person 356454 356460	Armand
+T2215	Organization 357135 357143	LA BELLE
+T2216	Location 357609 357619	Bois—Tracy
+T2217	Location 357654 357661	GEFFROY
+T2218	Organization 357757 357773	LA BELLE RIVIERE
+T2219	Person 357925 357933	Mon Dieu
+T2220	Person 357958 357961	s ’
+T2221	Organization 358011 358013	Le
+T2222	Organization 358213 358215	Le
+T2223	Person 358643 358646	Qu’
+T2224	Location 359167 359170	Oui
+T2225	Location 359541 359549	Pourquoi
+T2226	Person 360209 360215	41 Mon
+T2227	Organization 360439 360457	BE LLE RIVIERE 151
+T2228	Person 360461 360467	—— Non
+T2229	Organization 360587 360589	Le
+T2230	Person 361045 361054	Mon frère
+T2231	Organization 361377 361379	Le
+T2232	Location 361566 361572	Armand
+T2233	Organization 361679 361681	C’
+T2234	Location 362558 362560	La
+T2235	Location 362708 362710	La
+T2236	Person 362978 362984	Armand
+T2237	Location 363074 363079	Merci
+T2238	Organization 363317 363319	C’
+T2239	Person 363531 363541	1.11 BELLE
+T2240	Person 363556 363562	Armand
+T2241	Person 363698 363703	Léona
+T2242	Location 363795 363798	Non
+T2243	Person 363800 363805	Léona
+T2244	Location 363894 363900	Parlez
+T2245	Person 363960 363965	Léona
+T2246	Location 364005 364006	J
+T2247	Person 364403 364408	Leona
+T2248	Person 364906 364911	Léona
+T2249	Person 364941 364944	s ’
+T2250	Organization 365241 365243	C’
+T2251	Person 365293 365298	Léona
+T2252	Location 365363 365368	Adieu
+T2253	Location 365458 365461	Oui
+T2254	Location 365536 365546	Beauregard
+T2255	Location 365611 365617	Grigny
+T2256	Organization 365741 365743	Le
+T2257	Organization 365783 365785	Le
+T2258	Person 365833 365839	Armand
+T2259	Location 365923 365925	La
+T2260	Person 366008 366014	Armand
+T2261	Location 366164 366170	ajouta
+T2262	Organization 366268 366270	C’
+T2263	Location 366321 366327	Grigny
+T2264	Person 366349 366355	Armand
+T2265	Location 366463 366473	Beauregard
+T2266	Location 366480 366484	Soit
+T2267	Location 366744 366748	Puis
+T2268	Person 366780 366785	Léona
+T2269	Person 366865 366871	Armand
+T2270	Location 366988 366990	Ah
+T2271	Person 367096 367101	Léona
+T2272	Organization 367222 367242	CHARMANTES Vll-‘ÈRES
+T2273	Location 367278 367283	Léona
+T2274	Location 367299 367301	Tu
+T2275	Person 367331 367338	Camille
+T2276	Person 367361 367364	s ’
+T2277	Location 367558 367560	La
+T2278	Location 367721 367727	Grigny
+T2279	Person 367935 367939	Dieu
+T2280	Organization 368561 368577	LA BELLE RIVIERE
+T2281	Location 368718 368724	Grigny
+T2282	Location 369116 369126	Beauregard
+T2283	Location 369254 369262	Monsieur
+T2284	Organization 369500 369502	Le
+T2285	Location 369512 369518	Grigny
+T2286	Location 369654 369664	Beauregard
+T2287	Organization 369794 369800	Armand
+T2288	Person 369985 369994	Mon frère
+T2289	Location 370537 370538	A
+T2290	Person 370608 370620	Beau— regard
+T2291	Location 370723 370729	Armand
+T2292	Person 370880 370886	Armand
+T2293	Organization 371225 371245	LA BELLE RIVIERE 155
+T2294	Person 371531 371537	Armand
+T2295	Organization 371643 371645	Le
+T2296	Location 371655 371661	Grigny
+T2297	Location 371957 371962	Adieu
+T2298	Location 371964 371969	Léona
+T2299	Location 372079 372084	Adieu
+T2300	Person 372292 372298	Armand
+T2301	Location 372537 372542	Adieu
+T2302	Person 372566 372572	Armand
+T2303	Location 372577 372581	Puis
+T2304	Location 372680 372690	Beauregard
+T2305	Organization 372790 372792	Le
+T2306	Location 373321 373323	La
+T2307	Location 373571 373572	A
+T2308	Organization 373702 373718	LA BELLE RIVIERE
+T2309	Location 373853 373858	Léoua
+T2310	Location 374035 374038	Oui
+T2311	Location 374264 374272	Monsieur
+T2312	Person 374315 374319	Dieu
+T2313	Location 374510 374513	Oui
+T2314	Person 374561 374566	Léona
+T2315	Location 375362 375367	Léona
+T2316	Person 375404 375415	Bois— Tracy
+T2317	Organization 375536 375538	Le
+T2318	Location 375985 375988	Non
+T2319	Person 376087 376092	Léona
+T2320	Person 376202 376207	Léona
+T2321	Organization 376457 376473	LA BELLE RIVIÈRE
+T2322	Organization 376495 376497	Le
+T2323	Location 377045 377052	GEFFROY
+T2324	Organization 377150 377158	LA BELLE
+T2325	Location 377966 377976	Bois-Tracy
+T2326	Organization 378081 378083	Le
+T2327	Location 378095 378105	Bois-Tracy
+T2328	Location 378295 378303	Monsieur
+T2329	Organization 378600 378602	Le
+T2330	Location 378652 378654	Or
+T2331	Person 380192 380197	Leona
+T2332	Location 380256 380257	J
+T2333	Organization 380285 380305	LA BELLE mvn‘cnu 159
+T2334	Person 380670 380675	Léona
+T2335	Person 380925 380930	Léona
+T2336	Person 381060 381064	Dieu
+T2337	Person 381262 381270	Philippe
+T2338	Person 381498 381503	Léona
+T2339	Person 381802 381809	Camille
+T2340	Organization 381844 381846	Le
+T2341	Location 382453 382461	Monsieur
+T2342	Location 382612 382616	Hein
+T2343	Person 382686 382691	Leona
+T2344	Location 383245 383250	Merci
+T2345	Location 383323 383324	A
+T2346	Person 383348 383361	BELLE RIVIERE
+T2347	Organization 383442 383444	Le
+T2348	Location 383510 383520	Beauregard
+T2349	Person 383666 383669	s ’
+T2350	Person 383766 383775	Mon frère
+T2351	Organization 384129 384131	Le
+T2352	Location 384205 384211	Grigny
+T2353	Organization 384215 384217	Le
+T2354	Location 384455 384465	Beauregard
+T2355	Location 384612 384617	Paris
+T2356	Organization 384652 384654	Le
+T2357	Location 384823 384833	Versailles
+T2358	Organization 384880 384882	Le
+T2359	Person 384996 385007	Bois— Tracy
+T2360	Location 385416 385420	Enﬁn
+T2361	Location 385545 385546	J
+T2362	Location 385584 385591	Grignyr
+T2363	Location 385739 385741	La
+T2364	Location 385754 385764	Bois-Tracy
+T2365	Person 386024 386037	BELLE RIVIERE
+T2366	Person 386277 386282	Léona
+T2367	Organization 386370 386372	Le
+T2368	Location 386546 386552	Canada
+T2369	Location 386685 386691	Québec
+T2370	Location 386723 386726	toi
+T2371	Person 386744 386750	—— Que
+T2372	Location 386771 386776	Léoua
+T2373	Location 386858 386862	Soit
+T2374	Location 386936 386938	Tu
+T2375	Person 387095 387106	Bois- Tracy
+T2376	Location 387523 387527	quoi
+T2377	Location 387702 387708	France
+T2378	Location 388126 388130	quoi
+T2379	Location 388152 388158	Québec
+T2380	Location 388242 388250	Pourquoi
+T2381	Person 388326 388333	Camille
+T2382	Location 388340 388343	Oui
+T2383	Location 388384 388387	toi
+T2384	Location 388402 388408	Canada
+T2385	Location 388801 388807	France
+T2386	Organization 388901 388917	LA BELLE RIVIERE
+T2387	Organization 388921 388923	Ge
+T2388	Location 388970 388980	Versailles
+T2389	Person 389047 389065	Coulon de Villiers
+T2390	Organization 389067 389069	C’
+T2391	Location 389201 389203	Tu
+T2392	Location 389379 389381	Te
+T2393	Location 389632 389634	Tu
+T2394	Person 389677 389683	—— Non
+T2395	Location 389727 389729	Ah
+T2396	Location 390009 390011	Ah
+T2397	Location 390137 390140	Oui
+T2398	Person 390142 390147	Léona
+T2399	Person 390606 390616	de Maleval
+T2400	Person 390921 390931	de Maleval
+T2401	Organization 390934 390936	Le
+T2402	Person 390948 390960	don Palamède
+T2403	Location 391005 391006	A
+T2404	Location 391064 391065	A
+T2405	Person 391109 391112	s ’
+T2406	Organization 391520 391540	LA BELLE RIVIÈRE 163
+T2407	Person 391556 391565	DE SAT-lN
+T2408	Location 391585 391591	DÉSERT
+T2409	Organization 391598 391600	Le
+T2410	Location 391870 391872	La
+T2411	Person 392164 392167	s ’
+T2412	Organization 392207 392209	Le
+T2413	Person 392734 392745	de Villiers
+T2414	Location 392761 392767	Grigny
+T2415	Location 392826 392832	Berger
+T2416	Location 392836 392847	Kouha-Handé
+T2417	Location 392889 392900	Rameau—d’Or
+T2418	Location 392907 392918	Risque-Tout
+T2419	Location 393086 393088	La
+T2420	Person 393647 393664	LAy BELLE RIVIERE
+T2421	Organization 393725 393743	Anse-aux- Marigots
+T2422	Person 393805 393816	de Villiers
+T2423	Person 393907 393922	Mon cher Berger
+T2424	Organization 394095 394097	Le
+T2425	Location 394256 394264	Pourquoi
+T2426	Person 394299 394305	Berger
+T2427	Organization 394518 394520	C’
+T2428	Person 394592 394606	monsieur Louis
+T2429	Person 394934 394948	monsieur Louis
+T2430	Person 395220 395226	—— Que
+T2431	Location 395271 395275	Ohio
+T2432	Person 395302 395316	monsieur Louis
+T2433	Location 395324 395335	Manongahela
+T2434	Location 395875 395878	Non
+T2435	Person 395880 395894	monsieur Louis
+T2436	Organization 396081 396085	Bon!
+T2437	Location 396165 396168	Non
+T2438	Organization 396179 396181	Lo
+T2439	Location 396280 396287	plaisir
+T2440	Location 396305 396311	Berger
+T2441	Person 396484 396490	LÉGA L
+T2442	Location 396492 396497	Seine
+T2443	Organization 396552 396572	LA BELLE RIVIERE 465
+T2444	Location 396658 396660	La
+T2445	Location 397096 397099	Luv
+T2446	Location 397206 397207	A
+T2447	Person 397208 397217	BELLE 111
+T2448	Location 397340 397348	Pourquoi
+T2449	Location 397537 397545	Monsieur
+T2450	Person 397802 397810	Villiers
+T2451	Person 397832 397846	monsieur Louis
+T2452	Person 398279 398285	Berger
+T2453	Organization 398355 398357	Le
+T2454	Organization 398498 398500	Le
+T2455	Location 398531 398542	Kouha-Haudé
+T2456	Organization 398647 398649	Le
+T2457	Person 398834 398840	Berger
+T2458	Organization 398949 398951	Le
+T2459	Location 399226 399228	La
+T2460	Location 399405 399409	quoi
+T2461	Location 400040 400041	W
+T2462	Organization 400116 400132	LA BELLE RIVIERE
+T2463	Location 400444 400455	Kouha—Handé
+T2464	Organization 400567 400569	Le
+T2465	Person 400606 400612	Berger
+T2466	Location 400775 400781	ajouta
+T2467	Location 400794 400800	Grigny
+T2468	Person 400999 401005	Berger
+T2469	Product 401043 401051	quoi s ’
+T2470	Organization 401496 401498	C’
+T2471	Location 401894 401899	Voilà
+T2472	Location 401938 401944	ajouta
+T2473	Location 402094 402102	Pourquoi
+T2474	Location 402180 402186	Indien
+T2475	Person 402312 402315	s ’
+T2476	Organization 402958 402974	LA BELLE RIVIERE
+T2477	Location 403174 403178	Hein
+T2478	Organization 403219 403221	Le
+T2479	Location 403314 403325	Kouha-Handé
+T2480	Location 403365 403367	Ah
+T2481	Person 403513 403527	Expliquez-vous
+T2482	Organization 403540 403542	C’
+T2483	Person 403679 403693	monsieur Louis
+T2484	Person 403695 403703	Mon Dieu
+T2485	Location 403946 403950	quoi
+T2486	Person 404009 404015	—— Oui
+T2487	Location 404040 404042	Ah
+T2488	Location 404076 404081	Merci
+T2489	Person 404083 404097	monsieur Louis
+T2490	Location 404119 404123	quoi
+T2491	Location 404362 404366	Soit
+T2492	Organization 404424 404426	C’
+T2493	Organization 404502 404504	Le
+T2494	Location 404921 404928	Indiens
+T2495	Person 404960 404966	Berger
+T2496	Location 405249 405253	quoi
+T2497	Location 405294 405295	A
+T2498	Organization 405595 405600	Tenez
+T2499	Person 405606 405612	Berger
+T2500	Organization 405728 405748	LA BELLE RIVIERE 169
+T2501	Location 405861 405865	quoi
+T2502	Organization 406089 406091	C’
+T2503	Person 406147 406153	Berger
+T2504	Person 406786 406797	Rameau-d’Or
+T2505	Location 406801 406812	Risque—Tout
+T2506	Person 406865 406878	reprit Berger
+T2507	Organization 407042 407046	Bon!
+T2508	Person 407052 407055	s ’
+T2509	Person 407533 407539	Berger
+T2510	Organization 407612 407614	Le
+T2511	Person 408004 408010	Berger
+T2512	Organization 408153 408155	Le
+T2513	Person 408230 408236	Chew y
+T2514	Location 408295 408303	L’Indien
+T2515	Location 408479 408481	La
+T2516	Location 408582 408583	A
+T2517	Organization 408664 408680	LA BELLE RIVIERE
+T2518	Person 408789 408795	Berger
+T2519	Location 409013 409024	Kouha—Handé
+T2520	Location 409255 409257	La
+T2521	Organization 409376 409378	C’
+T2522	Location 409843 409848	Voilà
+T2523	Person 409982 409996	monsieur Louis
+T2524	Organization 410095 410097	C’
+T2525	Person 410147 410153	Berger
+T2526	Location 410338 410340	La
+T2527	Location 410381 410389	L’Indien
+T2528	Person 410588 410602	monsieur Louis
+T2529	Person 410665 410672	—— Bien
+T2530	Organization 410691 410693	Le
+T2531	Person 410829 410835	—— Oui
+T2532	Person 410837 410851	monsieur Louis
+T2533	Organization 410901 410903	Le
+T2534	Organization 410941 410943	C’
+T2535	Location 411052 411059	plaisir
+T2536	Organization 411152 411173	LA BELLE RIVIÈR.E 171
+T2537	Organization 411338 411340	Le
+T2538	Person 411347 411358	de Villiers
+T2539	Organization 411429 411445	mon brave Berger
+T2540	Person 411469 411473	Dieu
+T2541	Location 411479 411482	toi
+T2542	Person 411490 411497	-— Enﬁn
+T2543	Person 411499 411513	monsieur Louis
+T2544	Location 411669 411677	Canadien
+T2545	Person 411730 411740	IE DE NUlT
+T2546	Location 411755 411757	La
+T2547	Location 411793 411810	Anse—aux-Marigots
+T2548	Organization 412489 412491	Le
+T2549	Organization 412609 412611	Le
+T2550	Person 412776 412788	Kouha— Handé
+T2551	Person 412996 413010	monsieur Louis
+T2552	Location 413098 413100	La
+T2553	Location 413340 413346	Berger
+T2554	Organization 413360 413370	Peau-Rouge
+T2555	Organization 413486 413502	LA BELLE RIVIERE
+T2556	Location 413675 413681	Indien
+T2557	Location 413881 413889	Amérique
+T2558	Person 414890 414893	s ’
+T2559	Person 414928 414934	Berger
+T2560	Person 415029 415043	monsieur Louis
+T2561	Person 415235 415246	Rameau-d’Or
+T2562	Person 415418 415430	Risque- Tout
+T2563	Location 415433 415435	La
+T2564	Person 415588 415594	Berger
+T2565	Location 415596 415599	Moi
+T2566	Location 416181 416204	Amérique septentrionale
+T2567	Organization 416250 416252	Le
+T2568	Location 416314 416322	Nouveau-
+T2569	Location 416371 416372	A
+T2570	Person 416388 416400	DÉPOT LEGA L
+T2571	Location 416431 416432	J
+T2572	Organization 416459 416475	LA BELLE RIVIERE
+T2573	Organization 416490 416492	Le
+T2574	Organization 416544 416549	Monde
+T2575	Location 416997 417000	LlV
+T2576	Organization 417066 417085	LA BELLE ll.lVlÈltE
+T2577	Location 417239 417241	La
+T2578	Location 417904 417911	Indiens
+T2579	Location 418049 418056	Indiens
+T2580	Organization 418958 418960	Le
+T2581	Location 419047 419055	Amérique
+T2582	Location 419256 419264	Canadien
+T2583	Location 419544 419546	La
+T2584	Person 419555 419561	Berger
+T2585	Location 419863 419865	.”
+T2586	Organization 419891 419899	LA BELLE
+T2587	Organization 420350 420355	Tenez
+T2588	Organization 420466 420468	Le
+T2589	Location 420909 420910	A
+T2590	Location 421153 421157	lage
+T2591	Organization 421258 421260	C’
+T2592	Organization 421316 421318	Le
+T2593	Organization 421930 421932	Le
+T2594	Location 422175 422177	La
+T2595	Organization 422791 422807	LA BELLE RIVIERE
+T2596	Organization 423024 423026	C’
+T2597	Organization 423166 423168	Le
+T2598	Person 423223 423229	Berger
+T2599	Organization 423277 423279	C’
+T2600	Person 423695 423701	Berger
+T2601	Location 423720 423727	Indiens
+T2602	Person 423851 423854	Qu’
+T2603	Location 424414 424421	Indiens
+T2604	Person 424619 424625	Berger
+T2605	Location 424684 424695	Kouha-Handé
+T2606	Location 424737 424745	Canadien
+T2607	Organization 424773 424775	Le
+T2608	Location 424894 424896	Te
+T2609	Location 425087 425090	toi
+T2610	Person 425611 425617	Berger
+T2611	Location 425671 425678	Indiens
+T2612	Organization 425696 425712	LA BELLE RIVIERE
+T2613	Location 425756 425767	Kouka—Handé
+T2614	Location 425945 425952	Indiens
+T2615	Organization 426140 426142	Le
+T2616	Location 426191 426200	Gamarades
+T2617	Organization 426322 426325	Peu
+T2618	Location 426370 426375	Océan
+T2619	Location 426517 426525	Amérique
+T2620	Location 426702 426708	France
+T2621	Person 426862 426868	—— Oui
+T2622	Location 426904 426910	France
+T2623	Location 427053 427055	La
+T2624	Location 427267 427273	Berger
+T2625	Person 427457 427471	monsieur Louis
+T2626	Person 427630 427636	Berger
+T2627	Person 427904 427918	Monsieur Louis
+T2628	Location 428180 428189	Peut—ètre
+T2629	Person 428593 428607	monsieur Louis
+T2630	Person 428664 428667	s ’
+T2631	Organization 428945 428961	LA BELLE RIVIERE
+T2632	Organization 428968 428970	C’
+T2633	Location 429093 429096	Oui
+T2634	Person 429510 429516	PEU D’
+T2635	Person 429571 429609	don Palamède Bernardo Biver del Carpio
+T2636	Person 429923 429934	de Villiers
+T2637	Location 429970 429976	Grigny
+T2638	Organization 430185 430187	Le
+T2639	Organization 430298 430300	Le
+T2640	Organization 430970 430972	Le
+T2641	Person 431516 431525	LA' BELLE
+T2642	Person 432074 432079	André
+T2643	Location 432224 432227	Oui
+T2644	Person 432246 432251	André
+T2645	Location 432329 432335	ajouta
+T2646	Location 432541 432548	plaisir
+T2647	Person 432631 432636	André
+T2648	Person 432940 432945	André
+T2649	Organization 433022 433024	Le
+T2650	Person 433035 433047	don Palamède
+T2651	Person 433176 433182	—— Qu’
+T2652	Organization 433246 433248	Le
+T2653	Location 433286 433293	Audié‘l
+T2654	Person 433295 433301	—— Non
+T2655	Organization 433343 433345	Le
+T2656	Person 433483 433496	—— Savez—vous
+T2657	Location 433556 433559	Non
+T2658	Location 433736 433738	S’
+T2659	Person 433868 433873	André
+T2660	Person 433975 433985	Qui est-ce
+T2661	Person 434028 434031	Ahl
+T2662	Organization 434282 434298	LA BELLE RIVIÈRE
+T2663	Location 434437 434439	La
+T2664	Organization 434494 434496	C’
+T2665	Organization 434744 434746	Le
+T2666	Location 434763 434766	Cid
+T2667	Person 434827 434834	Camille
+T2668	Person 434901 434908	Camille
+T2669	Location 434946 434951	Voilà
+T2670	Person 435187 435193	—— Non
+T2671	Location 435307 435313	Louise
+T2672	Person 435316 435324	—— Louis
+T2673	Location 435476 435486	Bois—Tracy
+T2674	Person 435502 435512	de Maleval
+T2675	Location 435730 435732	La
+T2676	Location 435938 435940	La
+T2677	Person 436032 436036	Dieu
+T2678	Location 436190 436191	A
+T2679	Person 436315 436318	s ’
+T2680	Person 436498 436501	Qu’
+T2681	Person 436940 436946	LEGA L
+T2682	Location 436987 436988	J
+T2683	Organization 437013 437029	LA BELLE RIVIERE
+T2684	Person 437247 437252	André
+T2685	Location 437291 437293	La
+T2686	Person 437327 437332	André
+T2687	Location 437396 437403	GEFFROY
+T2688	Person 437504 437517	BELLE RIVIERE
+T2689	Organization 437526 437532	L’Ohio
+T2690	Organization 437601 437603	C’
+T2691	Person 437685 437690	André
+T2692	Organization 437788 437790	C’
+T2693	Person 437981 437986	André
+T2694	Organization 438030 438032	Le
+T2695	Person 438087 438101	André s‘arrêta
+T2696	Person 438302 438313	de Villiers
+T2697	Person 438330 438335	André
+T2698	Location 438733 438734	A
+T2699	Person 438797 438805	André s’
+T2700	Person 439134 439139	André
+T2701	Person 439292 439298	—— Que
+T2702	Person 439677 439683	—— Qu’
+T2703	Person 440181 440189	LA BELLE
+T2704	Location 440384 440389	Voilà
+T2705	Organization 440425 440434	Fort bien
+T2706	Location 440947 440948	A
+T2707	Organization 441207 441211	Bon!
+T2708	Location 441229 441230	A
+T2709	Location 441502 441504	La
+T2710	Person 441517 441522	André
+T2711	Location 441748 441750	La
+T2712	Location 441903 441911	Pourquoi
+T2713	Organization 442034 442036	C’
+T2714	Organization 442144 442153	Fort bien
+T2715	Location 442328 442335	plaisir
+T2716	Organization 442340 442344	Bon!
+T2717	Organization 442517 442533	LA BELLE RIVIERE
+T2718	Location 442738 442746	Proserit
+T2719	Organization 442751 442753	Le
+T2720	Organization 442891 442893	Où
+T2721	Person 442960 442970	de Maleval
+T2722	Organization 443060 443062	C’
+T2723	Organization 443079 443081	Où
+T2724	Location 443490 443494	Soit
+T2725	Organization 443645 443647	C’
+T2726	Location 444173 444178	Voilà
+T2727	Person 444279 444284	André
+T2728	Organization 444366 444374	LA BELLE
+T2729	Organization 444410 444412	Le
+T2730	Location 444413 444421	Proserit
+T2731	Location 444475 444480	Voilà
+T2732	Location 444506 444507	A
+T2733	Location 444560 444565	Adieu
+T2734	Location 444571 444576	Adieu
+T2735	Organization 444707 444709	Le
+T2736	Location 444710 444718	Prescrit
+T2737	Organization 444823 444825	Lo
+T2738	Location 445409 445413	Ohio
+T2739	Location 445419 445421	Ah
+T2740	Location 445857 445858	A
+T2741	Person 446049 446060	de Villiers
+T2742	Location 446076 446082	Grigny
+T2743	Organization 446098 446111	fort Duquesne
+T2744	Person 446167 446172	De la
+T2745	Location 446258 446266	Proserit
+T2746	Location 446307 446311	quoi
+T2747	Organization 446388 446404	LA BELLE RIVIERE
+T2748	Person 446412 446424	LA COULEUVRE
+T2749	Organization 446426 446428	Le
+T2750	Location 446429 446437	Proserit
+T2751	Person 446599 446611	don Palamède
+T2752	Organization 446684 446691	hidalgo
+T2753	Organization 447471 447473	Le
+T2754	Location 447474 447482	Proscrit
+T2755	Location 448110 448118	Proscrit
+T2756	Location 448472 448482	Mystérieux
+T2757	Organization 448805 448807	Le
+T2758	Organization 449053 449073	LA BELLE RIVIERE 187
+T2759	Person 449231 449234	s ’
+T2760	Organization 449630 449632	Le
+T2761	Location 449633 449641	Prescrit
+T2762	Person 449679 449682	s ’
+T2763	Organization 450147 450149	C’
+T2764	Location 450170 450178	Proscrit
+T2765	Location 450330 450333	Oui
+T2766	Person 450415 450422	Jan Pol
+T2767	Person 450542 450556	Jan Pol Allons
+T2768	Person 450766 450773	Jan Pol
+T2769	Location 450898 450905	plaisir
+T2770	Location 450936 450945	Couleuvre
+T2771	Location 451113 451115	S’
+T2772	Organization 451439 451441	C’
+T2773	Person 451476 451483	Jan Pol
+T2774	Location 451788 451796	Prescrit
+T2775	Organization 451986 452001	LA BELLE mvnann
+T2776	Location 452517 452526	Couleuvre
+T2777	Person 452784 452792	Castille
+T2778	Person 452794 452809	Pierre le Cruel
+T2779	Location 453508 453516	Prescrit
+T2780	Organization 454213 454217	Bon!
+T2781	Organization 454251 454253	Le
+T2782	Location 454498 454500	Tu
+T2783	Organization 454882 454902	LA BELLE RIVIERE 189
+T2784	Organization 454934 454937	W—-
+T2785	Organization 455041 455043	C’
+T2786	Location 455061 455070	Couleuvre
+T2787	Organization 455182 455184	C’
+T2788	Organization 455314 455316	C’
+T2789	Organization 455454 455462	LA BELLE
+T2790	Location 455526 455534	Proscrit
+T2791	Location 455626 455635	Couleuvre
+T2792	Person 455691 455698	Jan Pol
+T2793	Location 455923 455925	S’
+T2794	Location 455979 455988	Couleuvre
+T2795	Organization 456094 456096	Le
+T2796	Location 456097 456105	Proscrit
+T2797	Location 456539 456548	Couleuvre
+T2798	Organization 456946 456948	Le
+T2799	Location 457156 457158	La
+T2800	Location 457159 457168	Couleuvre
+T2801	Person 457607 457610	s ’
+T2802	Organization 457649 457651	Le
+T2803	Organization 457714 457716	Le
+T2804	Organization 457820 457822	Le
+T2805	Organization 458016 458018	Le
+T2806	Organization 458418 458438	LA BELLE RIVIERE 191
+T2807	Location 458484 458486	La
+T2808	Organization 458812 458814	C’
+T2809	Location 458884 458893	Couleuvre
+T2810	Person 459001 459008	Jan Pol
+T2811	Location 459176 459180	quoi
+T2812	Location 459241 459243	Tu
+T2813	Location 459275 459283	Proscrit
+T2814	Person 459456 459468	Anne d’Auray
+T2815	Location 459803 459817	ditle P1oscrit
+T2816	Location 459854 459855	A
+T2817	Location 459883 459892	Couleuvre
+T2818	Location 460755 460763	Pourquoi
+T2819	Location 460788 460796	Proscrit
+T2820	Location 461279 461288	Couleuvre
+T2821	Person 461354 461359	—— Tu
+T2822	Location 461507 461508	A
+T2823	Location 461537 461539	Jf
+T2824	Person 461557 461565	LA BELLE
+T2825	Location 461805 461809	Ohio
+T2826	Location 462328 462330	Tu
+T2827	Location 462378 462383	Voilà
+T2828	Location 462904 462907	toi
+T2829	Location 463006 463009	toi
+T2830	Organization 463133 463135	C’
+T2831	Person 463250 463254	Boni
+T2832	Organization 463300 463302	Le
+T2833	Location 463303 463311	Proscrit
+T2834	Person 463339 463345	—— Oui
+T2835	Organization 463428 463430	C’
+T2836	Location 463774 463776	La
+T2837	Location 463777 463786	Couleuvre
+T2838	Person 463863 463870	Jan Pol
+T2839	Organization 464173 464189	LA BELLE RIVIÈRE
+T2840	Location 464272 464273	A
+T2841	Organization 464301 464303	C’
+T2842	Organization 464404 464406	C’
+T2843	Location 464417 464422	Adieu
+T2844	Location 464452 464457	Merci
+T2845	Location 464460 464462	La
+T2846	Location 464463 464472	Couleuvre
+T2847	Organization 464495 464497	Le
+T2848	Location 464498 464506	Proscrit
+T2849	Person 464710 464717	Jan Pol
+T2850	Location 465050 465055	Merci
+T2851	Location 465149 465157	Proscrit
+T2852	Location 465314 465330	DES LOUPS HURONS
+T2853	Location 465333 465344	Kouha—Handé
+T2854	Organization 465515 465517	Le
+T2855	Location 465646 465652	Berger
+T2856	Person 465668 465684	de Villiers etde
+T2857	Location 465685 465691	Grigny
+T2858	Organization 465923 465925	Le
+T2859	Location 466050 466057	Indiens
+T2860	Organization 466100 466113	fort Duquesne
+T2861	Organization 466482 466490	LA BELLE
+T2862	Location 467026 467033	Indiens
+T2863	Location 467174 467185	Rameau-d’Or
+T2864	Location 467191 467202	Risque—Tout
+T2865	Location 467802 467803	A
+T2866	Location 467909 467920	Kouha-Handé
+T2867	Location 469106 469113	Indiens
+T2868	Organization 469120 469122	Le
+T2869	Organization 469225 469227	Le
+T2870	Organization 469421 469437	LA BELLE RIVIERE
+T2871	Location 469729 469745	Amérique du Nord
+T2872	Location 470455 470462	Indiens
+T2873	Location 471064 471065	A
+T2874	Location 471389 471391	La
+T2875	Organization 472210 472228	LA BELLE lllVlËltE
+T2876	Location 472256 472264	Occident
+T2877	Location 472777 472784	Mexique
+T2878	Location 472873 472880	Gholula
+T2879	Location 473438 473445	Indiens
+T2880	Organization 475207 475209	Le
+T2881	Person 475506 475519	BELLE RIVIERE
+T2882	Location 476091 476098	GEFFROY
+T2883	Organization 476325 476341	LA BELLE RIVIERE
+T2884	Organization 476573 476575	C’
+T2885	Location 476892 476899	Indiens
+T2886	Location 477037 477039	La
+T2887	Location 477457 477464	plaisir
+T2888	Location 477930 477937	Indiens
+T2889	Person 477978 477989	de Villiers
+T2890	Location 478276 478284	Amérique
+T2891	Location 478450 478456	Berger
+T2892	Person 478942 478951	Arrivé la
+T2893	Location 479033 479044	Kouha-Handé
+T2894	Organization 479151 479153	Le
+T2895	Person 479173 479184	de Villiers
+T2896	Person 479324 479333	Mon frère
+T2897	Location 479454 479456	WM
+T2898	Organization 479507 479528	LA BELLE RIVIERE 1199
+T2899	Location 479530 479534	Puis
+T2900	Location 479723 479730	Indiens
+T2901	Person 479775 479781	Berger
+T2902	Organization 479807 479809	Le
+T2903	Person 479839 479850	de Villiers
+T2904	Location 480165 480172	Indiens
+T2905	Location 480517 480523	Grigny
+T2906	Organization 480627 480629	Le
+T2907	Person 480716 480722	Berger
+T2908	Location 480749 480752	toi
+T2909	Person 480783 480797	monsieur Louis
+T2910	Person 481030 481044	monsieur Louis
+T2911	Organization 481047 481049	Le
+T2912	Person 481168 481179	de Villiers
+T2913	Person 481184 481190	—— Non
+T2914	Person 481335 481349	monsieur Louis
+T2915	Person 481390 481396	Berger
+T2916	Organization 481490 481492	C’
+T2917	Location 481697 481705	Canadien
+T2918	Organization 481942 481944	Le
+T2919	Location 482026 482034	Monsieur
+T2920	Organization 482241 482258	LA‘ BELLE RIVIERE
+T2921	Person 482284 482290	—— Que
+T2922	Location 482584 482586	Or
+T2923	Location 482727 482732	Voilà
+T2924	Location 482737 482741	quoi
+T2925	Location 482944 482950	Parlez
+T2926	Location 483449 483460	Kouha—Handé
+T2927	Person 483969 483980	de Villiers
+T2928	Person 483981 483984	s ’
+T2929	Location 484186 484188	La
+T2930	Person 484311 484317	Berger
+T2931	Location 484450 484458	Canadien
+T2932	Organization 484472 484474	Le
+T2933	Organization 484830 484850	LA BELLE RIVIERE 201
+T2934	Person 485079 485082	s ’
+T2935	Location 485218 485219	J
+T2936	Location 485239 485250	cher Berger
+T2937	Person 485351 485365	monsieur Louis
+T2938	Organization 485513 485515	Le
+T2939	Location 486214 486218	Ohio
+T2940	Location 486240 486246	Angèle
+T2941	Location 486277 486285	Proserit
+T2942	Location 486596 486605	Couleuvre
+T2943	Organization 486608 486610	Le
+T2944	Person 486662 486665	s ’
+T2945	Person 486713 486737	Louis Coulon de Villiers
+T2946	Organization 487162 487172	LA BELLE 1
+T2947	Person 487187 487194	—— Soit
+T2948	Person 487247 487271	Louis Coulon de Villiers
+T2949	Person 487323 487339	Armand de Grigny
+T2950	Location 487377 487385	Proscrit
+T2951	Organization 487422 487424	C’
+T2952	Location 487604 487612	Veuillez
+T2953	Organization 487775 487777	Le
+T2954	Person 487784 487795	de Villiers
+T2955	Location 487846 487854	Proscrit
+T2956	Location 488154 488162	Proscrit
+T2957	Person 488403 488409	Berger
+T2958	Location 488496 488497	A
+T2959	Location 488527 488535	Proscrit
+T2960	Location 488616 488629	Pardonnez—moi
+T2961	Location 488745 488747	La
+T2962	Location 488987 488988	A
+T2963	Person 489284 489290	—— Oui
+T2964	Organization 489323 489336	fort Duquesne
+T2965	Person 489590 489596	Berger
+T2966	Location 489824 489831	Indiens
+T2967	Location 490063 490064	A
+T2968	Person 490120 490128	LA BELLE
+T2969	Location 490297 490300	Moi
+T2970	Location 490310 490316	ajouta
+T2971	Organization 490408 490410	C’
+T2972	Location 490565 490569	quoi
+T2973	Location 490738 490741	Moi
+T2974	Person 490983 490994	de Villiers
+T2975	Location 491041 491055	Prétendez—vous
+T2976	Location 491113 491121	Pourquoi
+T2977	Location 491139 491147	Proscrit
+T2978	Organization 491467 491469	Le
+T2979	Location 491470 491478	Proscrit
+T2980	Organization 491805 491807	Le
+T2981	Location 491815 491821	Angèle
+T2982	Location 492049 492057	Monsieur
+T2983	Organization 492087 492100	fort Duquesne
+T2984	Organization 492327 492329	Le
+T2985	Person 492481 492487	Berger
+T2986	Organization 492629 492638	Fort bien
+T2987	Location 492707 492711	Ohio
+T2988	Organization 492877 492893	LA BELLE RIVIÈRE
+T2989	Person 492895 492901	—— Non
+T2990	Organization 492962 492975	fort Duquesne
+T2991	Person 493047 493054	—— Soit
+T2992	Person 493098 493105	—— Jel’
+T2993	Location 493292 493300	Veuillez
+T2994	Organization 493342 493344	Le
+T2995	Location 493345 493353	Proscrit
+T2996	Organization 493452 493454	Le
+T2997	Organization 493548 493550	Le
+T2998	Location 493678 493688	CONTRECŒUR
+T2999	Organization 493696 493698	C’
+T3000	Location 493905 493910	Merci
+T3001	Location 493934 493942	Proserit
+T3002	Location 494029 494031	N’
+T3003	Location 494172 494182	Gontrecœur
+T3004	Location 494355 494356	J
+T3005	Location 494472 494478	Grigny
+T3006	Organization 494602 494604	Le
+T3007	Product 494746 494754	quoi s ’
+T3008	Location 494946 494949	Moi
+T3009	Person 494951 494954	s ’
+T3010	Location 494994 494998	Hein
+T3011	Location 495172 495180	Proserit
+T3012	Location 495555 495556	A
+T3013	Person 495557 495564	BELLE R
+T3014	Person 495572 495574	RE
+T3015	Organization 495642 495644	Le
+T3016	Person 495846 495852	Pardon
+T3017	Location 495879 495887	Prosm‘it
+T3018	Location 496024 496027	LlV
+T3019	Location 496039 496046	GEFFROY
+T3020	Organization 496169 496177	LA BELLE
+T3021	Person 496350 496357	—-— Oui
+T3022	Location 496872 496877	Merci
+T3023	Location 497133 497134	A
+T3024	Person 497147 497151	Dieu
+T3025	Location 497236 497240	quoi
+T3026	Location 497585 497594	Peut—ètre
+T3027	Person 498017 498023	Grigny
+T3028	Location 498381 498389	Monsieur
+T3029	Location 498641 498649	Proserit
+T3030	Location 498777 498781	Enﬁn
+T3031	Organization 499172 499180	LA BELLE
+T3032	Person 499283 499286	Qu’
+T3033	Location 499337 499345	Proserit
+T3034	Location 499504 499513	Couleuvre
+T3035	Location 500077 500085	Proserit
+T3036	Location 500157 500163	Berger
+T3037	Location 501210 501212	La
+T3038	Organization 501504 501506	C’
+T3039	Location 501555 501560	Voilà
+T3040	Organization 502236 502244	LA BELLE
+T3041	Organization 502649 502651	Le
+T3042	Person 503285 503289	Gens
+T3043	Organization 503292 503294	Le
+T3044	Person 503373 503379	—— Que
+T3045	Organization 503494 503496	Le
+T3046	Location 503648 503659	Renard—Bleu
+T3047	Organization 503662 503664	Le
+T3048	Location 503755 503763	Pourquoi
+T3049	Organization 504014 504028	Le Renard—Bleu
+T3050	Organization 504473 504475	Le
+T3051	Location 504476 504487	Renard-Bleu
+T3052	Organization 504585 504598	Renard— B—leu
+T3053	Person 504907 504916	Mon frère
+T3054	Organization 504971 504979	LA BELLE
+T3055	Location 505008 505015	Pardieu
+T3056	Organization 505149 505161	Renard —Bleù
+T3057	Location 505226 505233	Indiens
+T3058	Organization 505345 505347	Le
+T3059	Location 505444 505450	Indien
+T3060	Location 505590 505597	Indiens
+T3061	Person 505815 505827	Rameau-d’ Or
+T3062	Location 505831 505842	Risque—Tout
+T3063	Person 506285 506296	Rameau-d’Or
+T3064	Location 506301 506304	Oui
+T3065	Location 506551 506558	Indiens
+T3066	Location 506598 506602	quoi
+T3067	Organization 506646 506659	Peaux- Rouges
+T3068	Location 507495 507502	Indiens
+T3069	Location 507918 507922	Qæ>M
+T3070	Organization 507993 508009	LA BELLE RIVIERE
+T3071	Location 508185 508192	Indiens
+T3072	Organization 508504 508506	Le
+T3073	Person 508921 508948	contraignitles Peaux-Rouges
+T3074	Location 508991 508998	Indiens
+T3075	Location 509033 509039	Berger
+T3076	Location 509043 509054	Kouha—Handé
+T3077	Organization 509376 509378	Le
+T3078	Location 509402 509409	Indiens
+T3079	Location 509738 509744	Berger
+T3080	Person 509862 509876	monsieur Louis
+T3081	Location 509969 509970	A
+T3082	Location 509971 509975	quoi
+T3083	Person 510189 510195	Berger
+T3084	Organization 510244 510246	Le
+T3085	Organization 510471 510473	Le
+T3086	Person 510551 510554	s ’
+T3087	Person 510575 510592	miséri- -cordieux
+T3088	Organization 510866 510882	LA BELLE RIVIERE
+T3089	Organization 511041 511045	Bon!
+T3090	Location 511096 511107	Kouha-Handé
+T3091	Organization 511110 511112	Le
+T3092	Location 511222 511233	Kouha—Handé
+T3093	Person 511325 511339	FORT NÉcsssrmi
+T3094	Location 511918 511920	La
+T3095	Person 512567 512580	de Jumonville
+T3096	Location 512868 512881	Belle-Rivière
+T3097	Organization 513011 513015	fort
+T3098	Location 513016 513024	Duquesne
+T3099	Location 513111 513115	Ohio
+T3100	Organization 513120 513122	Le
+T3101	Location 513137 513147	Washington
+T3102	Location 513182 513190	Dinwidie
+T3103	Location 513213 513215	G.
+T3104	Organization 513293 513309	LA BELLE RIVIERE
+T3105	Location 513328 513336	Virginie
+T3106	Location 513395 513403	Duquesne
+T3107	Organization 513430 513443	Belle Rivière
+T3108	Organization 513629 513631	Le
+T3109	Organization 513632 513648	major Washington
+T3110	Person 513732 513743	James Makay
+T3111	Person 513758 513762	Ward
+T3112	Location 513825 513833	Amérique
+T3113	Person 514624 514637	dela Virginie
+T3114	Location 514642 514650	Dinwidie
+T3115	Organization 515752 515754	Le
+T3116	Person 516229 516232	s ’
+T3117	Organization 516381 516389	LA BELLE
+T3118	Location 516460 516465	Allez
+T3119	Location 516514 516518	Puis
+T3120	Organization 517008 517016	LA BELLE
+T3121	Person 517571 517579	Harrison
+T3122	Location 517898 517902	Soit
+T3123	Location 518546 518555	Couleuvre
+T3124	Location 518563 518566	Moi
+T3125	Location 518676 518683	plaisir
+T3126	Organization 518855 518857	C’
+T3127	Location 518947 518949	Ah
+T3128	Location 519398 519400	Ah
+T3129	Location 519672 519681	Couleuvre
+T3130	Organization 519859 519867	LA BELLE
+T3131	Organization 519887 519894	B_y God
+T3132	Location 520105 520107	Ah
+T3133	Person 520313 520320	By Godl
+T3134	Location 520393 520401	Laquelle
+T3135	Location 520406 520411	Allez
+T3136	Organization 520475 520477	Le
+T3137	Location 521115 521124	Couleuvre
+T3138	Person 521364 521372	Harrison
+T3139	Location 521585 521586	A
+T3140	Organization 522422 522424	Le
+T3141	Person 522774 522790	LA BELLE mvn‘ann
+T3142	Organization 523055 523057	Le
+T3143	Person 523356 523364	Harrison
+T3144	Organization 523731 523733	Le
+T3145	Person 523802 523810	Harrison
+T3146	Location 524020 524022	La
+T3147	Location 524023 524032	Couleuvre
+T3148	Location 524410 524414	Puis
+T3149	Location 524559 524560	A
+T3150	Person 525403 525407	Ward
+T3151	Location 525541 525551	HW—-rﬁæ—tv
+T3152	Organization 525632 525640	LA BELLE
+T3153	Person 525949 525954	Léona
+T3154	Person 526368 526375	Camille
+T3155	Location 526410 526414	quoi
+T3156	Person 526994 527000	S. Exe
+T3157	Location 527022 527030	Virginie
+T3158	Person 527513 527526	lord Dinwidie
+T3159	Person 527631 527649	Georges Washington
+T3160	Location 527654 527657	Non
+T3161	Person 527691 527703	James Mackay
+T3162	Organization 527705 527707	Le
+T3163	Organization 527708 527724	major Washington
+T3164	Location 528050 528058	Veuillez
+T3165	Location 528368 528370	La
+T3166	Organization 528488 528504	major Washington
+T3167	Organization 528787 528803	LA BELLE mvu‘auu
+T3168	Organization 529045 529047	Le
+T3169	Person 529515 529521	—— Oui
+T3170	Organization 529898 529914	major Washington
+T3171	Location 530151 530158	Waldeck
+T3172	Location 530200 530207	plaisir
+T3173	Person 530282 530288	S. Exo
+T3174	Location 530310 530318	Virginie
+T3175	Organization 530544 530546	Le
+T3176	Organization 530547 530563	major Washington
+T3177	Person 530632 530638	—— Non
+T3178	Organization 530734 530736	Le
+T3179	Location 530819 530826	Waldeck
+T3180	Organization 531077 531093	major Washington
+T3181	Location 531139 531146	plaisir
+T3182	Organization 531756 531764	LA BELLE
+T3183	Location 532145 532155	Washington
+T3184	Organization 532161 532163	Le
+T3185	Location 532432 532437	Cîest
+T3186	Person 532576 532583	——— Non
+T3187	Location 532840 532847	Indiens
+T3188	Person 533587 533598	Chère Léona
+T3189	Person 533755 533761	—— Que
+T3190	Location 534098 534100	La
+T3191	Organization 534143 534145	Le
+T3192	Person 534152 534173	don Palamède Bernardo
+T3193	Person 534273 534282	manne IHV
+T3194	Organization 534692 534709	II LE BENARD-BLEU
+T3195	Organization 534711 534713	Le
+T3196	Person 535035 535051	sir James Mackay
+T3197	Location 535266 535273	Waldeck
+T3198	Organization 535486 535488	Le
+T3199	Organization 535644 535660	capitaine Mackay
+T3200	Person 535964 535976	Mille grâces
+T3201	Location 536029 536037	Veuillez
+T3202	Location 536193 536198	Venez
+T3203	Person 536216 536228	James Mackay
+T3204	Location 536297 536305	Regardez
+T3205	Organization 536482 536500	BEL LE RIVIÈRE 221
+T3206	Person 536815 536818	Qu’
+T3207	Location 537032 537035	Wle
+T3208	Organization 537098 537114	LA BELLE RIVIÈRE
+T3209	Location 537164 537175	Renard-Bleu
+T3210	Location 537407 537409	La
+T3211	Person 537584 537597	lord Dinwidie
+T3212	Organization 537673 537675	Le
+T3213	Location 537705 537712	Indiens
+T3214	Location 538231 538242	Renard—Bleu
+T3215	Location 538425 538431	Indien
+T3216	Organization 539588 539590	Le
+T3217	Organization 539926 539947	LA BELLE RIVIERE 9223
+T3218	Location 539962 539969	Waldeck
+T3219	Person 540074 540090	sir James Muckay
+T3220	Hour 540246 540257	neuf heures
+T3221	Location 540351 540358	Londres
+T3222	Person 540372 540384	James Mackay
+T3223	Person 540400 540404	Ward
+T3224	Organization 540483 540485	Le
+T3225	Person 540825 540839	Harrison parut
+T3226	Organization 540878 540880	Le
+T3227	Location 540881 540892	Renard-Bleu
+T3228	Organization 541294 541296	Le
+T3229	Person 541498 541514	sir James Mackay
+T3230	Location 541531 541537	Indien
+T3231	Organization 541644 541658	Le Renard—Bleu
+T3232	Location 541750 541760	Peau-Rouge
+T3233	Organization 541972 541974	Le
+T3234	Person 542124 542128	Ward
+T3235	Location 542174 542181	Indiens
+T3236	Location 542206 542212	Indien
+T3237	Person 542631 542637	—— Que
+T3238	Location 542729 542732	Oui
+T3239	Organization 542946 542962	LA BELLE RIVIERE
+T3240	Organization 543083 543085	Le
+T3241	Person 543364 543377	Votre Honneur
+T3242	Location 543498 543506	Pourquoi
+T3243	Person 543544 543557	Votre Honneur
+T3244	Person 543807 543820	Votre Honneur
+T3245	Organization 543843 543845	Le
+T3246	Location 543889 543896	Indiens
+T3247	Location 543939 543941	N’
+T3248	Location 544599 544608	Couleuvre
+T3249	Organization 544728 544730	C’
+T3250	Location 544867 544868	A
+T3251	Organization 544892 544894	C’
+T3252	Location 544953 544955	Ah
+T3253	Organization 545069 545071	Le
+T3254	Organization 545175 545177	Le
+T3255	Organization 545256 545258	Le
+T3256	Organization 545610 545618	LA BELLE
+T3257	Organization 545820 545822	Le
+T3258	Organization 546128 546130	C’
+T3259	Person 546320 546329	sir James
+T3260	Person 546345 546351	Pardon
+T3261	Person 546519 546523	Dieu
+T3262	Person 546831 546844	lord Dinwidie
+T3263	Location 547779 547790	Renard—Bleu
+T3264	Organization 547862 547864	Le
+T3265	Location 547865 547875	Peau—Rouge
+T3266	Location 548247 548251	Soit
+T3267	Organization 548423 548435	Renard— Bleu
+T3268	Location 548512 548513	A
+T3269	Organization 548579 548587	LA BELLE
+T3270	Location 548647 548651	Puis
+T3271	Location 548788 548799	Renard—Bleu
+T3272	Organization 548855 548857	Le
+T3273	Location 548859 548870	Renard—Bleu
+T3274	Location 548930 548933	Non
+T3275	Organization 548959 548961	Le
+T3276	Organization 549033 549035	Le
+T3277	Organization 549111 549125	Le Renard—Bleu
+T3278	Organization 549896 549909	brus- quement
+T3279	Location 550385 550390	Adieu
+T3280	Location 550489 550494	Adieu
+T3281	Organization 551120 551133	Peaux- Rouges
+T3282	Organization 551324 551340	LA BELLE RIVIÈRE
+T3283	Organization 551605 551619	Le Renard—Bleu
+T3284	Person 552197 552201	Ward
+T3285	Person 552531 552537	—— Que
+T3286	Person 552556 552565	sir James
+T3287	Location 552568 552576	Pourquoi
+T3288	Location 552752 552756	Hein
+T3289	Location 552758 552762	quoi
+T3290	Location 552996 553004	Pourquoi
+T3291	Location 553243 553251	Pourquoi
+T3292	Organization 553342 553348	By God
+T3293	Location 553429 553435	sienne
+T3294	Person 553464 553468	Dieu
+T3295	Organization 553503 553505	C’
+T3296	Location 553604 553606	N’
+T3297	Organization 553639 553641	Le
+T3298	Organization 553642 553658	capitaine Mackay
+T3299	Person 553708 553712	Ward
+T3300	Location 553787 553789	La
+T3301	Organization 554025 554041	LA BELLE RIVIERE
+T3302	Organization 554128 554130	Le
+T3303	Location 554131 554142	Renard-Bleu
+T3304	Person 554211 554227	sir James Mackay
+T3305	Location 554485 554486	A
+T3306	Person 555094 555106	don Palamède
+T3307	Organization 555108 555110	Le
+T3308	Organization 555117 555124	hidalgo
+T3309	Location 555683 555690	Indiens
+T3310	Organization 555957 555959	C’
+T3311	Organization 555986 555993	hidalgo
+T3312	Location 556214 556223	Couleuvre
+T3313	Location 556344 556346	La
+T3314	Location 556347 556356	Couleuvre
+T3315	Organization 556704 556706	Le
+T3316	Location 556814 556816	La
+T3317	Location 556817 556826	Couleuvre
+T3318	Person 557098 557108	POT LÉGA L
+T3319	Organization 557126 557134	LA BELLE
+T3320	Location 557505 557512	GEFFROY
+T3321	Organization 557610 557620	LA BELLE 1
+T3322	Location 557669 557680	Renard-Bleu
+T3323	Location 557772 557780	Proserit
+T3324	Organization 557965 557979	Le Renard—Bleu
+T3325	Organization 558065 558067	Le
+T3326	Organization 558097 558099	Le
+T3327	Location 558100 558111	Renard-Bleu
+T3328	Organization 558266 558268	C’
+T3329	Organization 558282 558284	Le
+T3330	Organization 558899 558901	Le
+T3331	Location 559102 559109	Indiens
+T3332	Person 559172 559183	don Bernado
+T3333	Location 559249 559260	Renard-Bleu
+T3334	Location 559567 559568	A
+T3335	Location 559760 559768	Proserit
+T3336	Organization 560053 560074	LA BELLE RI\VIÈRE 231
+T3337	Person 560373 560376	Qu’
+T3338	Location 560456 560464	Proscrit
+T3339	Person 560509 560521	Don Bernardo
+T3340	Location 560597 560605	Prescrit
+T3341	Person 560869 560879	de Maleval
+T3342	Location 560909 560917	Proscrit
+T3343	Location 560950 560960	Bois—Tracy
+T3344	Person 561575 561585	Bois-Tracy
+T3345	Organization 561612 561614	Le
+T3346	Location 561615 561623	Prescrit
+T3347	Location 561877 561887	Bois-Tracy
+T3348	Person 561903 561913	de Maleval
+T3349	Location 562057 562059	La
+T3350	Location 562200 562202	La
+T3351	Organization 562975 562991	LA BELLE RIVIERE
+T3352	Person 563083 563089	—— Que
+T3353	Person 563183 563193	de Maleval
+T3354	Location 563316 563320	M“le
+T3355	Location 563324 563334	Bois—Tracy
+T3356	Organization 563436 563438	C’
+T3357	Location 563667 563674	Indiens
+T3358	Location 563743 563750	Indiens
+T3359	Person 563774 563784	de Maleval
+T3360	Location 564018 564023	Venez
+T3361	Location 564059 564060	J
+T3362	Location 564226 564233	Indiens
+T3363	Person 564255 564267	don Bernardo
+T3364	Person 564397 564402	André
+T3365	Person 564657 564669	don Bernardo
+T3366	Person 564749 564754	André
+T3367	Location 564947 564953	ajouta
+T3368	Location 565038 565041	Cid
+T3369	Person 565120 565123	s ’
+T3370	Person 565136 565142	—- Non
+T3371	Location 565252 565258	ajouta
+T3372	Person 565344 565349	André
+T3373	Organization 565598 565606	LA BELLE
+T3374	Person 566009 566014	André
+T3375	Location 566555 566561	ajouta
+T3376	Location 566656 566659	Non
+T3377	Person 566729 566734	André
+T3378	Location 566938 566943	Allez
+T3379	Location 567107 567114	Indiens
+T3380	Location 567515 567526	Kouha-Handé
+T3381	Location 567649 567655	ajouta
+T3382	Person 567683 567689	—— Que
+T3383	Location 567875 567882	Indiens
+T3384	Location 568066 568069	Jl“
+T3385	Organization 568103 568119	LA BELLE RIVIÈRE
+T3386	Location 568169 568177	Pourquoi
+T3387	Location 568302 568310	L’Indien
+T3388	Organization 568324 568337	Kouha-I—Iandé
+T3389	Organization 568408 568410	Le
+T3390	Location 568519 568521	La
+T3391	Location 568639 568647	L’Indien
+T3392	Location 569518 569522	Enﬁn
+T3393	Location 569666 569677	Kouha—Handé
+T3394	Organization 569795 569797	Où
+T3395	Location 569902 569910	Pourquoi
+T3396	Location 570070 570081	Kouha-Handé
+T3397	Location 570112 570118	Indien
+T3398	Location 570238 570251	Pardonnez—moi
+T3399	Location 570294 570302	L’Indien
+T3400	Location 570626 570636	Bois-Tracy
+T3401	Organization 570833 570843	LA BELLE 1
+T3402	Organization 571028 571030	Le
+T3403	Location 571843 571852	Peut—ètre
+T3404	Organization 572090 572092	Le
+T3405	Location 572195 572197	La
+T3406	Location 572407 572418	Renard-Bleu
+T3407	Person 572762 572773	de Villiers
+T3408	Location 572781 572787	Grigny
+T3409	Person 572841 572847	Berger
+T3410	Organization 572852 572860	Canadien
+T3411	Organization 572863 572865	Le
+T3412	Location 573170 573171	A
+T3413	Person 573307 573313	Berger
+T3414	Location 573369 573371	La
+T3415	Person 573433 573444	de Villiers
+T3416	Person 573590 573596	—— Qu’
+T3417	Location 573679 573681	Ah
+T3418	Organization 573889 573897	LA BELLE
+T3419	Location 573913 573914	A
+T3420	Location 573986 573992	ajouta
+T3421	Location 574718 574721	Moi
+T3422	Person 574918 574928	de Maleval
+T3423	Organization 575247 575249	Le
+T3424	Location 575985 575993	Monsieur
+T3425	Location 576085 576089	quoi
+T3426	Person 576313 576318	Léona
+T3427	Person 576850 576862	don Bernardo
+T3428	Location 577329 577336	GEFFROY
+T3429	Organization 577430 577442	LA BELLE lth
+T3430	Location 578713 578715	La
+T3431	Person 578725 578735	de Maleval
+T3432	Location 578773 578783	Bois—Tracy
+T3433	Location 578891 578897	Grigny
+T3434	Location 578906 578912	Grigny
+T3435	Person 579336 579347	de Villiers
+T3436	Person 579562 579564	M'
+T3437	Person 579567 579577	de Maleval
+T3438	Location 579618 579620	Ah
+T3439	Location 579764 579767	Oui
+T3440	Location 580105 580109	Enﬁn
+T3441	Organization 580530 580538	LA BELLE
+T3442	Organization 580555 580557	Le
+T3443	Person 581001 581005	Dieu
+T3444	Location 581283 581289	ajouta
+T3445	Location 581396 581398	La
+T3446	Organization 581471 581473	Le
+T3447	Location 581867 581878	Kouha—Handé
+T3448	Person 581991 582001	de Maleval
+T3449	Person 582100 582106	Armand
+T3450	Organization 582205 582207	Le
+T3451	Location 582289 582292	Non
+T3452	Organization 582428 582430	Le
+T3453	Organization 582655 582657	Le
+T3454	Person 582687 582697	de Maleval
+T3455	Location 582699 582701	La
+T3456	Location 582752 582762	Bois-Tracy
+T3457	Location 582805 582812	Indiens
+T3458	Person 582874 582882	‘ Berger
+T3459	Person 583109 583123	monsieur Louis
+T3460	Organization 583240 583248	LA BELLE
+T3461	Person 583273 583287	monsieur Louis
+T3462	Location 583561 583567	Europe
+T3463	Person 583926 583940	monsieur Louis
+T3464	Location 584011 584012	A
+T3465	Person 584027 584031	Dieu
+T3466	Organization 584075 584077	Le
+T3467	Location 584260 584265	PILMA
+T3468	Organization 584267 584269	Le
+T3469	Person 584891 584902	de Villiers
+T3470	Organization 585638 585658	LA BELLE RIVIERE 241
+T3471	Location 585990 585996	Berger
+T3472	Location 586027 586035	Canadien
+T3473	Person 586236 586250	monsieur Louis
+T3474	Location 586717 586718	J
+T3475	Person 586768 586774	Grigny
+T3476	Location 586878 586880	Ah
+T3477	Location 586916 586919	Non
+T3478	Location 587024 587028	Soit
+T3479	Location 587130 587132	S’
+T3480	Organization 587221 587223	Où
+T3481	Person 587410 587424	monsieur Louis
+T3482	Person 587429 587433	Dieu
+T3483	Organization 587529 587533	Bon!
+T3484	Organization 587604 587606	C’
+T3485	Organization 588311 588327	LA BELLE RIVIERE
+T3486	Person 588359 588365	Berger
+T3487	Location 588648 588656	Canadien
+T3488	Person 588733 588738	—— Tu
+T3489	Person 588812 588818	Berger
+T3490	Location 588879 588888	Peut—être
+T3491	Location 589217 589219	Ah
+T3492	Location 589281 589282	A
+T3493	Location 589366 589367	A
+T3494	Location 589368 589372	quoi
+T3495	Location 589477 589485	Canadien
+T3496	Person 589730 589736	Berger
+T3497	Person 589766 589780	monsieur Louis
+T3498	Location 590237 590239	Tu
+T3499	Person 590266 590272	Berger
+T3500	Location 590372 590374	La
+T3501	Organization 590942 590950	LA BELLE
+T3502	Person 590983 590997	monsieur Louis
+T3503	Location 591269 591274	Pilma
+T3504	Person 591396 591409	maitre Berger
+T3505	Person 591520 591534	monsieur Louis
+T3506	Person 591596 591602	Berger
+T3507	Location 591687 591694	plaisir
+T3508	Location 591846 591848	La
+T3509	Location 591884 591891	Indiens
+T3510	Location 592042 592053	Kouha—Handé
+T3511	Location 592517 592528	Kouha-Handé
+T3512	Person 592707 592713	Berger
+T3513	Person 593143 593161	Coulon de Villiers
+T3514	Location 593250 593257	Indiens
+T3515	Person 593317 593323	Berger
+T3516	Person 593499 593510	de Villiers
+T3517	Hour 593694 593714	huit heures du matin
+T3518	Location 593720 593727	Indiens
+T3519	Organization 594007 594015	LA BELLE
+T3520	Location 594568 594575	Indiens
+T3521	Location 594607 594612	Pilma
+T3522	Location 594821 594828	Indiens
+T3523	Location 595145 595152	Indiens
+T3524	Location 595193 595198	Pilma
+T3525	Person 595450 595457	—— Bien
+T3526	Location 595472 595474	La
+T3527	Organization 595649 595651	C’
+T3528	Person 595665 595671	Berger
+T3529	Person 595672 595675	s ’
+T3530	Location 595738 595745	Indiens
+T3531	Location 596157 596168	Kouha—Handé
+T3532	Organization 596395 596397	Le
+T3533	Location 598894 598898	quoi
+T3534	Organization 598982 598984	Le
+T3535	Organization 599029 599031	Le
+T3536	Location 599489 599490	A
+T3537	Location 599996 600003	Indiens
+T3538	Location 600026 600031	Pilma
+T3539	Organization 600607 600640	parais- sent toùjours appropriées
+T3540	Organization 600801 600821	LA BELLE RIVIERE 947
+T3541	Location 601272 601277	Pilma
+T3542	Person 601660 601666	Berger
+T3543	Organization 601734 601736	Le
+T3544	Location 601915 601919	Puis
+T3545	Person 602366 602372	Berger
+T3546	Location 602473 602478	Venez
+T3547	Person 602536 602547	de Villiers
+T3548	Location 602813 602815	Or
+T3549	Location 602819 602826	Risque—
+T3550	Person 602858 602864	Berger
+T3551	Organization 602963 602965	Où
+T3552	Location 602970 602971	J
+T3553	Person 602975 602978	Pol
+T3554	Person 603216 603222	Berger
+T3555	Person 603478 603484	Berger
+T3556	Location 603491 603499	Proscrit
+T3557	Location 603613 603621	Prescrit
+T3558	Location 603667 603668	A
+T3559	Organization 603723 603739	LA BELLE RIVIERE
+T3560	Location 603909 603911	Ah
+T3561	Person 604029 604043	monsieur Louis
+T3562	Person 604066 604072	Berger
+T3563	Location 604189 604190	A
+T3564	Person 604244 604255	de Villiers
+T3565	Person 604326 604340	monsieur Louis
+T3566	Organization 604455 604457	C’
+T3567	Organization 604734 604736	C’
+T3568	Person 604774 604782	Jan- Pol
+T3569	Person 604896 604900	Lui…
+T3570	Person 604938 604956	indignation Berger
+T3571	Person 605020 605034	monsieur Louis
+T3572	Person 605136 605150	monsieur Louis
+T3573	Person 605632 605638	—— Oui
+T3574	Location 605720 605722	Tu
+T3575	Organization 605791 605799	LA BELLE
+T3576	Organization 605934 605936	C’
+T3577	Person 606193 606204	de Villiers
+T3578	Organization 606308 606310	Le
+T3579	Location 606653 606658	Merci
+T3580	Person 606660 606666	Berger
+T3581	Location 606713 606716	toi
+T3582	Location 606762 606770	Canadien
+T3583	Organization 606957 606959	C’
+T3584	Organization 606988 606990	C’
+T3585	Location 607148 607154	Berger
+T3586	Person 607340 607346	Berger
+T3587	Organization 607814 607816	Où
+T3588	Person 608039 608045	Berger
+T3589	Location 608496 608503	plaisir
+T3590	Organization 608741 608749	LA BELLE
+T3591	Location 609017 609019	Ah
+T3592	Organization 609438 609440	Le
+T3593	Location 609441 609449	Canadien
+T3594	Location 609701 609702	A
+T3595	Location 609954 609955	A
+T3596	Person 610018 610021	s ’
+T3597	Location 610218 610223	Voilà
+T3598	Location 610312 610318	Grigny
+T3599	Location 610323 610328	Venez
+T3600	Person 610701 610707	Berger
+T3601	Location 611041 611048	Indiens
+T3602	Person 611314 611328	monsieur Louis
+T3603	Organization 611409 611411	Où
+T3604	Location 611565 611570	BELLE
+T3605	Organization 611817 611819	Le
+T3606	Organization 612265 612267	Le
+T3607	Person 612626 612632	Berger
+T3608	Location 612657 612660	toi
+T3609	Location 612693 612700	Pardieu
+T3610	Person 612901 612915	monsieur Louis
+T3611	Location 612958 612963	Voilà
+T3612	Location 613165 613172	Indiens
+T3613	Location 613281 613288	Indiens
+T3614	Location 614009 614017	Canadien
+T3615	Organization 614425 614433	LA BELLE
+T3616	Organization 614807 614809	Le
+T3617	Location 614966 614967	J
+T3618	Location 615407 615408	A
+T3619	Organization 615836 615838	C’
+T3620	Person 615962 615966	01te
+T3621	Location 616391 616396	Voilà
+T3622	Person 616477 616483	—— Oui
+T3623	Location 616721 616728	Indiens
+T3624	Location 616894 616905	cher Berger
+T3625	Location 616943 616944	A
+T3626	Person 616957 616971	monsieur Louis
+T3627	Location 617009 617015	Grigny
+T3628	Location 617517 617520	toi
+T3629	Person 618122 618136	monsieur Louis
+T3630	Location 618257 618259	Tu
+T3631	Person 618269 618275	Berger
+T3632	Person 618288 618298	H. GEFFROY
+T3633	Organization 618436 618456	W‘WFN‘-=Nrtu-'wmÿmna
+T3634	Organization 618462 618478	LA BELLE RIVIERE
+T3635	Person 618494 618508	monsieur Louis
+T3636	Location 619125 619126	A
+T3637	Person 619253 619267	monsieur Louis
+T3638	Location 619850 619857	plaisir
+T3639	Person 620366 620380	monsieur Louis
+T3640	Person 620417 620420	Bon
+T3641	Location 620656 620668	Aigle—Volant
+T3642	Location 620826 620828	Tu
+T3643	Person 621007 621020	Aigte- Volant
+T3644	Organization 621319 621339	LA BELLE RIVIERE 255
+T3645	Person 621344 621350	—— Oui
+T3646	Location 621656 621658	Tu
+T3647	Location 621684 621687	toi
+T3648	Person 622000 622014	monsieur Louis
+T3649	Location 622111 622112	A
+T3650	Person 622305 622319	monsieur Louis
+T3651	Location 622460 622462	Tu
+T3652	Person 622601 622607	Berger
+T3653	Location 623242 623250	Canadien
+T3654	Location 623515 623520	Voilà
+T3655	Location 623743 623745	La
+T3656	Location 623868 623872	Enﬁn
+T3657	Location 624170 624171	A
+T3658	Date 624265 624273	17î-'W‘ï
+T3659	Organization 624344 624352	LA BELLE
+T3660	Location 624364 624366	La
+T3661	Location 624487 624488	Y
+T3662	Person 624501 624507	—— Oui
+T3663	Organization 624563 624565	C’
+T3664	Location 624674 624682	Canadien
+T3665	Person 624728 624742	monsieur Louis
+T3666	Location 624777 624780	Oui
+T3667	Location 624825 624826	A
+T3668	Location 625648 625655	plaisir
+T3669	Person 625805 625811	Berger
+T3670	Location 625874 625879	Venez
+T3671	Person 625985 625991	Berger
+T3672	Organization 626529 626531	C’
+T3673	Person 626656 626662	Berger
+T3674	Organization 626955 626971	LA BELLE RIVIÈRE
+T3675	Location 627006 627008	La
+T3676	Organization 627042 627044	Le
+T3677	Organization 629636 629639	WZ£
+T3678	Organization 629652 629660	LA BELLE
+T3679	Person 629771 629777	By God
+T3680	Person 629872 629877	—— Tu
+T3681	Location 629906 629913	Opossum
+T3682	Location 630304 630309	Merci
+T3683	Location 630351 630353	Ah
+T3684	Location 630483 630487	quoi
+T3685	Location 630875 630881	ajouta
+T3686	Location 630884 630891	Opossum
+T3687	Location 630893 630896	Oui
+T3688	Organization 631567 631580	Aigle- Volant
+T3689	Location 631741 631745	Enﬁn
+T3690	Person 631841 631845	Dieu
+T3691	Location 631961 631973	Aigle—Volant
+T3692	Location 632108 632111	Oui
+T3693	Location 632193 632195	Te
+T3694	Organization 632237 632239	C’
+T3695	Organization 632679 632700	LA BELLE RI_VIÈBE 259
+T3696	Person 633234 633237	s ’
+T3697	Location 633279 633283	Soit
+T3698	Location 633424 633428	quoi
+T3699	Location 633637 633644	Opossnm
+T3700	Location 634344 634356	Aigle-Volant
+T3701	Location 634819 634821	Tu
+T3702	Location 634851 634853	Tu
+T3703	Location 634916 634928	Aigle—Volant
+T3704	Location 635059 635066	Indiens
+T3705	Location 635273 635280	Opossum
+T3706	Location 635326 635333	plaisir
+T3707	Location 635335 635337	Tu
+T3708	Person 635453 635459	—- Non
+T3709	Organization 635675 635677	Ge
+T3710	Organization 635807 635823	LA BELLE RIVIERE
+T3711	Location 635828 635831	Moi
+T3712	Location 635837 635840	Oui
+T3713	Location 636044 636046	Tu
+T3714	Location 636422 636426	Soit
+T3715	Location 636584 636588	quoi
+T3716	Location 636667 636679	Aigle—Volant
+T3717	Location 636686 636687	A
+T3718	Person 636713 636719	By God
+T3719	Location 636830 636832	Ah
+T3720	Location 636873 636876	Oui
+T3721	Location 636878 636888	Sans-Piste
+T3722	Organization 636893 636904	Bois— Brûlé
+T3723	Location 637104 637114	Sans—Piste
+T3724	Location 637263 637266	Oui
+T3725	Location 637379 637391	Aigle—Volant
+T3726	Location 637492 637495	Non
+T3727	Organization 637705 637707	Le
+T3728	Location 638015 638020	Voilà
+T3729	Organization 638134 638145	Bois— Brûlé
+T3730	Location 638199 638206	Opossum
+T3731	Location 638300 638302	Tu
+T3732	Location 638346 638356	Sans—Piste
+T3733	Organization 638379 638395	LA BELLE RIVIERE
+T3734	Location 638631 638633	La
+T3735	Location 638760 638763	toi
+T3736	Person 638857 638867	H. GEFFROY
+T3737	Organization 638935 638955	LA BELLE lilVllﬁlll‘
+T3738	Organization 639270 639272	C’
+T3739	Location 639546 639547	A
+T3740	Organization 639652 639656	Bon!
+T3741	Organization 640111 640113	C’
+T3742	Location 640242 640247	Voilà
+T3743	Person 640352 640358	By God
+T3744	Location 640586 640596	Sans—Piste
+T3745	Location 640979 640987	Canadien
+T3746	Location 641386 641398	Aigle—Volant
+T3747	Location 641404 641411	Opossum
+T3748	Location 641682 641690	Canadien
+T3749	Location 641788 641790	.”
+T3750	Organization 641819 641839	LA BELLE RIVIÈRE 963
+T3751	Location 641886 641896	Sans-Piste
+T3752	Location 642117 642124	Opossum
+T3753	Location 642133 642136	Oui
+T3754	Location 642282 642291	Fumerons-
+T3755	Person 642322 642336	Expliquez-vous
+T3756	Location 642477 642481	Soit
+T3757	Location 643119 643127	Canadien
+T3758	Location 643670 643682	Aigle—Volant
+T3759	Organization 643816 643818	C’
+T3760	Location 643856 643866	Sans—Piste
+T3761	Person 643900 643908	Mon Dieu
+T3762	Organization 644157 644162	Tenez
+T3763	Location 644365 644377	Aigle—Volant
+T3764	Person 644457 644463	Berger
+T3765	Organization 644647 644663	LA BELLE RIVIÈRE
+T3766	Organization 645135 645137	C’
+T3767	Person 645807 645813	—— Oui
+T3768	Location 645920 645922	Ah
+T3769	Location 645945 645955	Sans—Piste
+T3770	Location 646036 646039	Non
+T3771	Organization 646162 646164	Où
+T3772	Location 646190 646191	A
+T3773	Location 646694 646707	tort Duquesne
+T3774	Person 646763 646771	Mon Dieu
+T3775	Location 647098 647105	Opossum
+T3776	Location 647316 647328	Aigle—Volant
+T3777	Location 647639 647641	M—
+T3778	Organization 647655 647675	LA BELLE RIVIERE 265
+T3779	Location 648000 648003	Non
+T3780	Location 648041 648054	Belle—Rivière
+T3781	Location 648193 648196	Oui
+T3782	Organization 648324 648326	C’
+T3783	Location 648380 648392	Aigle-Volant
+T3784	Location 648438 648446	Canadien
+T3785	Location 648870 648872	Ah
+T3786	Organization 648909 648911	Le
+T3787	Location 648928 648940	Aigle-Volant
+T3788	Organization 648980 648982	Le
+T3789	Location 649336 649343	Opossum
+T3790	Person 649646 649657	de Villiers
+T3791	Organization 649829 649842	fort Duquesne
+T3792	Person 650048 650059	de Villiers
+T3793	Location 650168 650178	Gontrecœur
+T3794	Location 650272 650282	Jumouville
+T3795	Organization 650376 650384	LA BELLE
+T3796	Person 650520 650531	de Villiers
+T3797	Organization 650542 650555	fort Duquesne
+T3798	Person 650619 650630	Rameau-d’Or
+T3799	Person 650702 650713	Rameau-d‘Or
+T3800	Location 650900 650913	Belle—Rivière
+T3801	Person 651083 651091	Villiers
+T3802	Organization 651393 651406	fort Duquesne
+T3803	Organization 651409 651411	Le
+T3804	Person 651833 651844	Rameau—d’Or
+T3805	Organization 651846 651848	Le
+T3806	Location 651901 651905	quoi
+T3807	Location 652022 652026	Ohio
+T3808	Location 652161 652169	Proserit
+T3809	Location 652259 652265	Angèle
+T3810	Person 652288 652295	Jan Pol
+T3811	Location 652963 652971	Proscrit
+T3812	Location 653161 653167	Berger
+T3813	Person 653664 653675	Rameau-d’Or
+T3814	Organization 654686 654688	Le
+T3815	Organization 654763 654765	Le
+T3816	Organization 655020 655022	Le
+T3817	Person 655180 655191	de Villiers
+T3818	Location 655253 655255	La
+T3819	Organization 655920 655922	Le
+T3820	Location 656119 656120	A
+T3821	Organization 656197 656213	LA BELLE RIVIERE
+T3822	Person 656215 656218	Qu’
+T3823	Location 656348 656356	Prescrit
+T3824	Location 656933 656937	quoi
+T3825	Person 657531 657539	Mon Dieu
+T3826	Organization 658006 658008	Le
+T3827	Person 658122 658126	Dieu
+T3828	Organization 658171 658173	Le
+T3829	Location 658202 658209	plaisir
+T3830	Location 658255 658261	Angèle
+T3831	Location 658988 658991	Non
+T3832	Organization 659216 659218	Ge
+T3833	Organization 659407 659427	LA BELLE RIVIERE 269
+T3834	Organization 659695 659697	Le
+T3835	Location 659851 659853	LW
+T3836	Location 659878 659879	Y
+T3837	Person 660000 660006	--‘ S.
+T3838	Organization 660065 660081	LA BELLE RIVIERE
+T3839	Organization 660685 660687	Ge
+T3840	Location 660846 660850	quoi
+T3841	Location 661403 661414	Rameau-d’Or
+T3842	Organization 661417 661419	Le
+T3843	Location 661584 661586	La
+T3844	Person 661628 661639	Rameau—d'Or
+T3845	Person 661761 661764	Qu’
+T3846	Location 661965 661967	Tu
+T3847	Organization 662149 662151	C’
+T3848	Person 662465 662476	Rameau-d’Or
+T3849	Location 662919 662932	Belle—Rivière
+T3850	Organization 663052 663072	LA BELLE RIVIÈRE 271
+T3851	Organization 663321 663334	Peaux- Rouges
+T3852	Person 663351 663362	Rameau-d’Or
+T3853	Organization 663458 663460	Le
+T3854	Location 664064 664075	Rameau-d’Or
+T3855	Organization 664349 664351	C’
+T3856	Location 664579 664581	Or
+T3857	Location 664636 664645	A bientôt
+T3858	Location 664710 664717	Indiens
+T3859	Location 664996 665003	Indiens
+T3860	Organization 665220 665222	Le
+T3861	Person 665326 665335	Capitaine
+T3862	Location 665429 665432	Non
+T3863	Organization 665667 665683	LA BELLE RIVIERE
+T3864	Organization 665690 665692	C’
+T3865	Location 665717 665720	Oui
+T3866	Person 665722 665729	—— Soit
+T3867	Location 665782 665787	Allez
+T3868	Location 665797 665798	A
+T3869	Organization 666304 666306	C’
+T3870	Organization 666549 666551	Le
+T3871	Organization 666659 666661	Le
+T3872	Location 666985 666991	Indien
+T3873	Organization 667004 667007	Peu
+T3874	Organization 667332 667334	Le
+T3875	Organization 668051 668053	Le
+T3876	Location 668175 668178	Oui
+T3877	Organization 668337 668339	Le
+T3878	Organization 668457 668467	Œ'Ï'ÊÏËÏËm
+T3879	Organization 668474 668494	LA BELLE RIVIERE 273
+T3880	Location 668924 668926	La
+T3881	Organization 669199 669201	Le
+T3882	Organization 669342 669344	Le
+T3883	Location 669623 669630	Indiens
+T3884	Organization 669825 669827	Le
+T3885	Organization 669981 669983	Le
+T3886	Person 670496 670507	de Villiers
+T3887	Organization 670896 670898	Le
+T3888	Location 671123 671124	Y
+T3889	Organization 671198 671206	LA BELLE
+T3890	Location 671428 671441	Belle-Rivière
+T3891	Organization 671501 671514	fort Duquesne
+T3892	Person 671517 671522	De la
+T3893	Person 671865 671871	Berger
+T3894	Location 671876 671884	Canadien
+T3895	Location 671897 671908	Kouha-Handé
+T3896	Location 672361 672369	Canadien
+T3897	Location 672409 672416	plaisir
+T3898	Location 672670 672673	Moi
+T3899	Location 672710 672716	Indien
+T3900	Person 672850 672856	—— Non
+T3901	Location 672867 672874	plaisir
+T3902	Location 672906 672911	Merci
+T3903	Organization 672919 672921	C’
+T3904	Location 673660 673672	Aigle—Volant
+T3905	Location 673730 673734	P-wr
+T3906	Organization 673799 673819	LA BELLE RIVIÈRE 275
+T3907	Location 673953 673960	Opossum
+T3908	Person 673974 673983	Mon frère
+T3909	Location 674011 674014	Oui
+T3910	Organization 674295 674297	C’
+T3911	Location 674688 674689	A
+T3912	Location 674747 674749	Ah
+T3913	Location 674932 674934	Ah
+T3914	Location 675054 675055	J
+T3915	Organization 675296 675304	Canadien
+T3916	Person 675372 675378	—— Qu’
+T3917	Organization 675416 675421	Tenez
+T3918	Organization 675626 675628	C’
+T3919	Location 675731 675733	Ah
+T3920	Location 675740 675746	Indien
+T3921	Location 675768 675773	Venez
+T3922	Location 675893 675897	quoi
+T3923	Location 676095 676101	Indien
+T3924	Person 676136 676142	Berger
+T3925	Person 676204 676210	Berger
+T3926	Person 676252 676263	Rameau-d’Or
+T3927	Organization 676265 676267	Le
+T3928	Organization 676759 676775	LA BELLE RIVIERE
+T3929	Person 676831 676837	Berger
+T3930	Organization 676880 676882	Où
+T3931	Location 677096 677098	Ah
+T3932	Person 677112 677127	monsieur Berger
+T3933	Person 677487 677493	Berger
+T3934	Person 677517 677528	Rameau-d’Or
+T3935	Location 677619 677621	Ah
+T3936	Location 677815 677821	Bienne
+T3937	Organization 677881 677883	Le
+T3938	Person 677969 677984	monsieur Berger
+T3939	Person 677992 677996	Dieu
+T3940	Person 678098 678103	Louis
+T3941	Location 678185 678191	Parlez
+T3942	Location 678231 678236	Voilà
+T3943	Location 678356 678367	Rameau-d‘Or
+T3944	Location 678534 678541	Indiens
+T3945	Person 678825 678836	Rameau—d’Or
+T3946	Person 678855 678861	Berger
+T3947	Location 678933 678939	sienne
+T3948	Organization 679271 679276	Bon !
+T3949	Person 679380 679387	—— Bien
+T3950	Location 679644 679651	Indiens
+T3951	Organization 679732 679752	LA BELLE RIVIÈRE 277
+T3952	Organization 679789 679791	Le
+T3953	Location 679936 679943	Indiens
+T3954	Location 680140 680142	La
+T3955	Location 680213 680220	GEFFROY
+T3956	Organization 680341 680357	LA BELLE RIVIERE
+T3957	Organization 680497 680510	fort Duquesne
+T3958	Person 680962 680973	Rameau—d'Or
+T3959	Person 681307 681313	Berger
+T3960	Location 681317 681318	A
+T3961	Person 681414 681420	Berger
+T3962	Location 681581 681589	Pourquoi
+T3963	Organization 681844 681846	C’
+T3964	Organization 682023 682025	C’
+T3965	Location 682397 682401	Enﬁn
+T3966	Organization 683086 683094	LA BELLE
+T3967	Location 683097 683102	VIÈRE
+T3968	Location 683417 683423	Berger
+T3969	Location 683432 683443	Rameau-d‘Or
+T3970	Location 683597 683605	Canadien
+T3971	Location 683783 683784	A
+T3972	Location 683999 684006	Indiens
+T3973	Location 684430 684437	Indiens
+T3974	Location 684942 684953	Rameau—d’Or
+T3975	Location 685176 685183	Indiens
+T3976	Location 685565 685572	Indiens
+T3977	Organization 685760 685762	C’
+T3978	Person 685783 685787	Dieu
+T3979	Organization 685852 685854	Le
+T3980	Organization 686319 686335	LA BELLE RIVIÈRE
+T3981	Organization 686797 686799	C’
+T3982	Person 686862 686866	Dieu
+T3983	Location 686902 686907	Voilà
+T3984	Person 686941 686947	—— Oui
+T3985	Person 687027 687032	Louis
+T3986	Location 687080 687086	Indien
+T3987	Location 687164 687167	Oui
+T3988	Organization 687280 687282	C’
+T3989	Location 687512 687520	Regardez
+T3990	Organization 687555 687557	Le
+T3991	Location 687886 687891	Allez
+T3992	Location 689084 689087	A.t
+T3993	Organization 689112 689132	LA BELLE RIVIERE 281
+T3994	Location 689139 689141	Ah
+T3995	Location 689447 689458	Kouha—Handé
+T3996	Location 689471 689477	Indien
+T3997	Location 689774 689784	Sans-Piste
+T3998	Person 690014 690017	Qu’
+T3999	Location 690607 690618	Kouha—Handé
+T4000	Location 690685 690694	A bientôt
+T4001	Location 690913 690919	Indien
+T4002	Location 690957 690963	Berger
+T4003	Person 690967 690978	Rameau-d’Or
+T4004	Organization 691055 691068	fort Duquesne
+T4005	Person 691265 691276	de Villiers
+T4006	Organization 691439 691441	Le
+T4007	Location 691451 691457	Grigny
+T4008	Person 691545 691551	Berger
+T4009	Person 691579 691590	de Villiers
+T4010	Organization 691593 691595	Le
+T4011	Organization 691610 691623	fort Duquesne
+T4012	Organization 691892 691908	LA BELLE RIVIERE
+T4013	Organization 692030 692032	Le
+T4014	Person 692145 692156	de Villiers
+T4015	Organization 692514 692527	fort Duquesne
+T4016	Person 692634 692644	Gontrecœur
+T4017	Person 692876 692887	de Villiers
+T4018	Organization 693366 693368	Le
+T4019	Location 693387 693393	Grigny
+T4020	Person 693627 693633	Berger
+T4021	Location 693697 693703	Grigny
+T4022	Person 693781 693787	Pardon
+T4023	Location 693914 693918	Hein
+T4024	Person 694254 694272	Coulon de Villiers
+T4025	Location 694487 694489	Ah
+T4026	Person 694527 694540	maître Berger
+T4027	Person 694548 694552	Dieu
+T4028	Location 694724 694737	Pardonnez—moi
+T4029	Organization 695011 695019	LA BELLE
+T4030	Person 695021 695026	RIVIÈ
+T4031	Person 695027 695029	RE
+T4032	Organization 695039 695041	C’
+T4033	Person 695118 695131	de Jumonville
+T4034	Organization 695446 695448	C’
+T4035	Person 695503 695506	s ’
+T4036	Person 695829 695835	Berger
+T4037	Location 695885 695891	Grigny
+T4038	Location 695996 695999	Oui
+T4039	Person 696024 696035	de Villiers
+T4040	Person 696196 696207	de Villiers
+T4041	Organization 696344 696349	Tenez
+T4042	Location 696363 696373	Contrecœur
+T4043	Person 696553 696564	de Villiers
+T4044	Person 697001 697007	Berger
+T4045	Location 697103 697108	Voilà
+T4046	Location 697484 697490	Grigny
+T4047	Person 697593 697604	de Villiers
+T4048	Person 697763 697769	Berger
+T4049	Person 697853 697860	—— Soit
+T4050	Location 697909 697915	Parlez
+T4051	Organization 698144 698152	LA BELLE
+T4052	Location 698174 698179	Voilà
+T4053	Person 698199 698205	Berger
+T4054	Location 698841 698845	Soit
+T4055	Person 699260 699271	de Villiers
+T4056	Location 699400 699407	Grigny“
+T4057	Person 699529 699536	—— Bien
+T4058	Location 699635 699638	Moi
+T4059	Person 699675 699686	Rameau—d’Or
+T4060	Person 699699 699705	—— Oui
+T4061	Location 699922 699928	Grigny
+T4062	Person 699998 700009	Rameau—d'Or
+T4063	Person 700151 700162	de Villiers
+T4064	Location 700349 700356	plaisir
+T4065	Location 700526 700528	.”
+T4066	Person 700627 700631	Dieu
+T4067	Person 700842 700848	Berger
+T4068	Organization 700859 700861	Le
+T4069	Organization 701226 701234	LA BELLE
+T4070	Location 701239 701244	VIÈRE
+T4071	Location 701480 701481	A
+T4072	Person 701536 701542	Berger
+T4073	Location 701756 701760	quoi
+T4074	Organization 702003 702019	LA BELLE RIVIÈRE
+T4075	Location 702024 702026	La
+T4076	Person 702319 702325	Berger
+T4077	Organization 702379 702381	Le
+T4078	Location 702860 702862	La
+T4079	Location 703773 703781	Canadien
+T4080	Location 704861 704863	La
+T4081	Location 705049 705055	Grigny
+T4082	Organization 705481 705497	LA BELLE RIVIERE
+T4083	Person 705799 705805	Berger
+T4084	Location 705957 705965	Canadien
+T4085	Organization 706199 706201	Le
+T4086	Location 706202 706210	Canadien
+T4087	Organization 706900 706902	C’
+T4088	Person 706932 706937	Louis
+T4089	Location 707257 707268	Rameau—d‘Or
+T4090	Location 707411 707417	ajouta
+T4091	Location 707435 707446	Risque-Tout
+T4092	Person 707647 707658	Rameau-d’Or
+T4093	Location 707946 707950	Puis
+T4094	Organization 707998 708007	Fort bien
+T4095	Organization 708115 708131	LA BELLE RIVIERE
+T4096	Location 708415 708420	Voilà
+T4097	Location 708717 708728	Bois-Brûlés
+T4098	Location 708974 708980	Berger
+T4099	Organization 708983 708985	Le
+T4100	Location 708986 708994	Canadien
+T4101	Location 709043 709049	Grigny
+T4102	Location 709116 709131	Mon cher Berger
+T4103	Location 709443 709451	Veuillez
+T4104	Organization 710211 710213	Le
+T4105	Person 710311 710317	Berger
+T4106	Person 710757 710763	Berger
+T4107	Organization 711137 711139	Le
+T4108	Organization 711540 711556	LA BELLE RIVIÈRE
+T4109	Person 711945 711951	Berger
+T4110	Location 711998 712006	Canadien
+T4111	Location 712021 712022	A
+T4112	Location 712102 712107	FORÊT
+T4113	Person 712185 712191	Grigny
+T4114	Person 712371 712377	Berger
+T4115	Location 712459 712466	plaisir
+T4116	Location 712610 712616	Canada
+T4117	Location 712925 712927	La
+T4118	Location 713039 713045	Canada
+T4119	Location 713158 713165	Indiens
+T4120	Organization 713343 713345	Le
+T4121	Person 713425 713431	Berger
+T4122	Location 713819 713825	Grigny
+T4123	Location 714062 714070	Canadien
+T4124	Organization 714141 714158	LA BELLE RIVIÈR.E
+T4125	Person 714253 714259	Berger
+T4126	Location 714277 714285	Monsieur
+T4127	Person 714769 714777	Mon Dieu
+T4128	Organization 714906 714908	C’
+T4129	Person 715040 715054	Expliquez-vous
+T4130	Location 715194 715201	Pardieu
+T4131	Location 715305 715312	plaisir
+T4132	Location 715317 715320	Oui
+T4133	Location 715500 715508	Canadien
+T4134	Location 715836 715843	Indiens
+T4135	Location 715958 715961	Oui
+T4136	Location 716354 716362	Pourquoi
+T4137	Organization 716830 716839	Fort bien
+T4138	Organization 716986 717002	LA BELLE RIVIERE
+T4139	Location 717373 717376	Oui
+T4140	Location 717699 717704	Voilà
+T4141	Organization 717732 717748	mon brave Berger
+T4142	Person 718006 718012	—— Oui
+T4143	Location 718231 718238	Indiens
+T4144	Organization 718739 718741	Le
+T4145	Organization 718982 718984	C’
+T4146	Location 719181 719184	Moi
+T4147	Location 719425 719427	Or
+T4148	Location 719987 719988	Y
+T4149	Organization 720012 720014	W.
+T4150	Person 720067 720085	LA BELLE IllVlÉltE
+T4151	Person 720197 720201	Dieu
+T4152	Location 720333 720338	Voilà
+T4153	Location 720358 720360	Ah
+T4154	Location 720641 720642	G
+T4155	Person 721032 721042	Bois Brûlé
+T4156	Organization 721087 721089	Le
+T4157	Organization 722197 722199	Le
+T4158	Organization 723243 723258	LA BELLE mvnäan
+T4159	Person 723532 723538	Berger
+T4160	Person 723967 723976	BELLE RIV
+T4161	Location 724015 724023	Canadien
+T4162	Organization 724162 724184	cherchaità raffer- mir
+T4163	Organization 724294 724296	Le
+T4164	Location 724365 724369	Enﬁn
+T4165	Location 724594 724596	Ah
+T4166	Location 724625 724626	A
+T4167	Person 725271 725275	Anne
+T4168	Organization 725470 725472	C’
+T4169	Location 725776 725780	Soit
+T4170	Location 725814 725819	Dites
+T4171	Location 726382 726388	ajouta
+T4172	Person 726390 726396	Bouche
+T4173	Location 726429 726432	Oui
+T4174	Location 726450 726458	Canadien
+T4175	Organization 726549 726565	LA BELLE RIVIERE
+T4176	Organization 726585 726587	C’
+T4177	Location 726761 726769	Canadien
+T4178	Organization 726938 726940	C’
+T4179	Location 726955 726963	Canadien
+T4180	Location 726966 726968	La
+T4181	Product 727078 727093	Berger s arrêta
+T4182	Organization 727480 727482	Le
+T4183	Location 727574 727575	J
+T4184	Location 727587 727595	Proserit
+T4185	Location 727630 727639	Couleuvre
+T4186	Location 727724 727730	Angèle
+T4187	Location 727743 727751	Proscrit
+T4188	Location 727869 727876	plaisir
+T4189	Organization 727878 727880	Le
+T4190	Location 728200 728209	Couleuvre
+T4191	Location 728212 728214	La
+T4192	Location 728354 728362	Proscrit
+T4193	Location 728478 728488	Sans—Piste
+T4194	Location 728659 728666	Jan-Pol
+T4195	Location 728672 728675	Moi
+T4196	Location 728784 728786	Ah
+T4197	Location 728804 728809	Voilà
+T4198	Organization 728964 728966	Où
+T4199	Person 728985 728993	Jan- Pol
+T4200	Location 729119 729121	M—
+T4201	Organization 729153 729171	LA BELLE lthlEltlﬂ
+T4202	Location 729341 729342	A
+T4203	Location 729840 729847	plaisir
+T4204	Location 729933 729935	La
+T4205	Person 730187 730198	de Villiers
+T4206	Organization 730448 730450	C’
+T4207	Person 730590 730596	Berger
+T4208	Location 730865 730876	Kouha—Handé
+T4209	Location 730973 730975	Ah
+T4210	Location 730997 731004	Jan—Pol
+T4211	Person 731190 731196	Berger
+T4212	Location 731235 731246	Kouha—Handé
+T4213	Organization 731336 731338	Le
+T4214	Person 731400 731409	LE MARTYR
+T4215	Organization 731411 731413	Le
+T4216	Person 731420 731438	Coulon de Villiers
+T4217	Organization 731597 731613	LA BELLE RIVIÈRE
+T4218	Location 731967 731969	La
+T4219	Location 732064 732071	Indiens
+T4220	Organization 732190 732192	Le
+T4221	Organization 732633 732635	Le
+T4222	Organization 733003 733005	Le
+T4223	Location 733140 733146	Indien
+T4224	Organization 733363 733365	Le
+T4225	Location 733658 733660	La
+T4226	Organization 733695 733697	Le
+T4227	Organization 734666 734676	LA BELLE R
+T4228	Location 734677 734682	VIÈRE
+T4229	Organization 735009 735011	Le
+T4230	Location 735370 735372	La
+T4231	Organization 735422 735425	Peu
+T4232	Location 735821 735825	Enﬁn
+T4233	Location 735983 735991	Pourquoi
+T4234	Organization 736045 736047	Le
+T4235	Organization 736344 736347	Peu
+T4236	Organization 736457 736459	Où
+T4237	Person 736986 736996	Louis XIII
+T4238	Organization 737659 737667	LA BELLE
+T4239	Person 738097 738114	sonne douze coups
+T4240	Location 738270 738279	Peut—ètre
+T4241	Location 738326 738334	Pourquoi
+T4242	Person 739990 740001	de Villiers
+T4243	Location 740084 740088	Enﬁn
+T4244	Location 740392 740393	A
+T4245	Organization 740438 740454	LA BELLE RIVIÈRE
+T4246	Person 740567 740591	Louis Coulon de Villiers
+T4247	Location 740989 740993	Alll
+T4248	Organization 741020 741022	Où
+T4249	Organization 741208 741210	Le
+T4250	Person 741619 741625	—— Oui
+T4251	Location 741640 741648	Veuillez
+T4252	Organization 741902 741904	C’
+T4253	Location 742072 742078	France
+T4254	Organization 742084 742086	Le
+T4255	Organization 742244 742246	Le
+T4256	Person 742257 742260	s ’
+T4257	Location 742279 742280	A
+T4258	Location 743016 743018	S’
+T4259	Organization 743372 743374	Le
+T4260	Organization 743423 743431	LA BELLE
+T4261	Person 743432 743437	RIVIÈ
+T4262	Person 743438 743440	RE
+T4263	Location 743672 743674	La
+T4264	Location 743961 743963	LW
+T4265	Organization 744090 744098	LA BELLE
+T4266	Location 745352 745357	Voilà
+T4267	Location 745496 745500	Ogre
+T4268	Location 746497 746499	La
+T4269	Organization 747381 747398	LA BELLE R. IVI_È
+T4270	Person 747399 747405	RE 303
+T4271	Organization 747616 747618	Le
+T4272	Location 747748 747749	A
+T4273	Location 747998 748007	Peut—ètre
+T4274	Organization 748744 748746	Le
+T4275	Organization 748971 748973	Le
+T4276	Organization 749364 749366	Le
+T4277	Person 749546 749550	Dieu
+T4278	Location 749802 749806	quoi
+T4279	Location 750141 750143	Ah
+T4280	Person 750359 750366	BEL L E
+T4281	Location 750589 750593	FACE
+T4282	Location 750594 750595	A
+T4283	Location 750596 750600	FACE
+T4284	Location 750838 750846	Monsieur
+T4285	Location 750893 750895	S’
+T4286	Location 750920 750922	S’
+T4287	Location 750943 750951	Monsieur
+T4288	Location 751500 751501	A
+T4289	Person 751537 751542	André
+T4290	Organization 751566 751575	Fort bien
+T4291	Person 751584 751589	André
+T4292	Organization 752161 752163	Le
+T4293	Person 752333 752338	André
+T4294	Location 752360 752362	La
+T4295	Location 752821 752823	WW
+T4296	Organization 752885 752893	LA BELLE
+T4297	Person 752901 752903	RE
+T4298	Organization 753142 753144	C’
+T4299	Organization 753563 753565	C’
+T4300	Location 754469 754476	Indiens
+T4301	Location 754917 754924	Indiens
+T4302	Location 754934 754952	l‘Amérique du Nord
+T4303	Organization 755034 755036	Le
+T4304	Location 755210 755217	Indiens
+T4305	Location 755833 755840	Indiens
+T4306	Location 755987 755988	A
+T4307	Organization 756186 756202	LA BELLE RIVIÈRE
+T4308	Location 756461 756462	A
+T4309	Location 757748 757755	Indiens
+T4310	Location 758277 758285	Amérique
+T4311	Organization 759408 759416	LA BELLE
+T4312	Location 759730 759734	Puis
+T4313	Location 760494 760499	André
+T4314	Location 760775 760777	La
+T4315	Location 760935 760941	Angèle
+T4316	Organization 761312 761314	Le
+T4317	Location 761466 761468	S’
+T4318	Location 761691 761693	La
+T4319	Person 761747 761752	André
+T4320	Location 761952 761953	A
+T4321	Location 761954 761958	quoi
+T4322	Organization 762033 762035	Le
+T4323	Person 762202 762212	de Maleval
+T4324	Organization 762215 762217	C’
+T4325	Organization 762325 762327	Le
+T4326	Organization 762464 762472	LA BELLE
+T4327	Organization 763315 763317	C’
+T4328	Organization 763423 763425	C’
+T4329	Organization 764168 764170	Le
+T4330	Location 764459 764462	Oui
+T4331	Person 765472 765483	de Villiers
+T4332	Organization 765855 765872	LA BELLE RIVIERE-
+T4333	Location 766022 766026	quoi
+T4334	Location 766068 766072	quoi
+T4335	Organization 766252 766254	Le
+T4336	Person 766590 766596	—- Non
+T4337	Location 766693 766695	La
+T4338	Person 766776 766783	—— Soit
+T4339	Location 767247 767249	N’
+T4340	Location 767379 767382	Oui
+T4341	Organization 767620 767622	Où
+T4342	Location 768019 768020	G
+T4343	Organization 768079 768090	Virginie m’
+T4344	Location 768396 768401	Dites
+T4345	Organization 768715 768735	LA BELLE RIVIERE 311
+T4346	Organization 769005 769007	C’
+T4347	Person 769082 769093	de Villiers
+T4348	Location 769205 769215	Versailles
+T4349	Organization 769369 769371	C’
+T4350	Location 769820 769828	Pourquoi
+T4351	Person 770067 770082	Louis quinzième
+T4352	Person 770088 770092	Dieu
+T4353	Person 770232 770240	Louis XV
+T4354	Organization 770446 770448	Le
+T4355	Person 770453 770461	Louis XV
+T4356	Person 770658 770668	Georges 11
+T4357	Organization 770674 770676	Le
+T4358	Location 770800 770802	Ah
+T4359	Location 770842 770847	Voilà
+T4360	Organization 770915 770917	C’
+T4361	Organization 770950 770952	C’
+T4362	Person 771056 771080	Louis Coulon de Villiers
+T4363	Person 771103 771116	de Jumonville
+T4364	Location 771231 771239	Monsieur
+T4365	Location 771342 771349	Indiens
+T4366	Location 771355 771359	Alll
+T4367	Location 771682 771690	Monsieur
+T4368	Person 771828 771844	LA BELLE RIVIÈRE
+T4369	Location 771852 771854	Ah
+T4370	Location 772063 772064	A
+T4371	Person 772078 772089	André parut
+T4372	Person 772094 772097	Qu’
+T4373	Person 772139 772144	André
+T4374	Organization 772414 772416	Le
+T4375	Person 772423 772434	de Villiers
+T4376	Location 772610 772617	Indiens
+T4377	Location 772774 772779	Adieu
+T4378	Organization 773051 773073	Misérablel murmura M“…
+T4379	Person 773074 773084	de Maleval
+T4380	Organization 773197 773199	Le
+T4381	Person 773206 773217	de Villiers
+T4382	Location 773241 773248	Indiens
+T4383	Location 773617 773624	Jan—Pol
+T4384	Location 773636 773643	A.ngèle
+T4385	Location 773651 773660	Couleuvre
+T4386	Location 773765 773776	Rameau—d‘Or
+T4387	Location 773780 773791	Risque—Tout
+T4388	Person 773810 773822	don Palamède
+T4389	Location 773826 773833	Bivar y
+T4390	Person 773834 773844	del Garpio
+T4391	Person 773882 773892	de Maleval
+T4392	Location 773977 773988	Montmorency
+T4393	Organization 774247 774263	LA BELLE RIVIERE
+T4394	Location 774271 774277	France
+T4395	Person 774397 774408	Rameau—d’Or
+T4396	Location 774479 774486	Jan—Pol
+T4397	Location 774701 774712	Risque-Tout
+T4398	Location 775027 775036	Couleuvre
+T4399	Location 775158 775165	Rameau—
+T4400	Person 775277 775295	reprit Risque—Tout
+T4401	Location 775376 775379	toi
+T4402	Location 775502 775505	toi
+T4403	Organization 775713 775715	Le
+T4404	Location 775826 775830	quoi
+T4405	Location 775894 775899	Merci
+T4406	Person 775958 775971	don Palamède“
+T4407	Location 775986 775994	Proserit
+T4408	Organization 775997 775999	Le
+T4409	Location 776096 776100	Ogre
+T4410	Organization 776346 776348	C’
+T4411	Organization 776990 777006	LA BELLE RIVIERE
+T4412	Location 777041 777049	Proserit
+T4413	Person 777142 777146	Dieu
+T4414	Location 777198 777205	Jan-Pol
+T4415	Location 777314 777317	Oui
+T4416	Location 777478 777485	Jan-Pol
+T4417	Location 777637 777646	Couleuvre
+T4418	Location 777836 777847	Rameau-d’Or
+T4419	Location 777944 777951	Jan—Pol
+T4420	Organization 777981 777983	C’
+T4421	Location 778006 778017	Risque—Tout
+T4422	Person 778070 778082	Don Palamède
+T4423	Location 778086 778093	Bivar y
+T4424	Person 778094 778104	del Garpio
+T4425	Location 778255 778264	Couleuvre
+T4426	Person 778322 778328	—— Qu’
+T4427	Location 778460 778471	Risque-Tout
+T4428	Location 778492 778500	Proscrit
+T4429	Person 778577 778588	Rameau—d’Or
+T4430	Organization 779235 779240	Tenez
+T4431	Location 779504 779506	La
+T4432	Location 779640 779645	Voilà
+T4433	Location 779691 779694	Oui
+T4434	Location 779766 779773	Jan-Pol
+T4435	Organization 779998 780015	BELLE RIVIÈRE 345
+T4436	Organization 780421 780423	C’
+T4437	Person 780437 780444	—— Bien
+T4438	Location 780724 780732	Proscrit
+T4439	Location 780783 780794	Rameau-d’Or
+T4440	Location 780804 780815	Risque-Tout
+T4441	Person 780839 780853	Don Pala- mède
+T4442	Location 780862 780870	Jean—Pol
+T4443	Location 781655 781663	Proscrit
+T4444	Organization 781755 781759	Bon!
+T4445	Location 781974 781976	La
+T4446	Location 782283 782285	La
+T4447	Location 782356 782364	Proscrit
+T4448	Location 782595 782602	Indiens
+T4449	Organization 783167 783183	LA BELLE RIVIERE
+T4450	Location 783185 783192	plaisir
+T4451	Location 783218 783225	Indiens
+T4452	Location 783567 783575	Proscrit
+T4453	Location 783759 783767	Jean—Pol
+T4454	Location 783916 783925	Couleuvre
+T4455	Person 784220 784231	Hameau—d'Or
+T4456	Location 784235 784246	Risque—Tout
+T4457	Organization 784441 784443	Le
+T4458	Organization 784807 784809	Le
+T4459	Person 784816 784828	don Palamède
+T4460	Location 785337 785341	lage
+T4461	Organization 785554 785556	Le
+T4462	Organization 786218 786237	LA BELLE mvn‘mn 317
+T4463	Location 786397 786401	Enﬁn
+T4464	Organization 786540 786542	Le
+T4465	Organization 786549 786556	hidalgo
+T4466	Location 786657 786659	LW
+T4467	Organization 786835 786851	LA BELLE RIVIERE
+T4468	Person 786919 786931	don Palamède
+T4469	Organization 787005 787009	Bon!
+T4470	Location 787018 787029	Rameau-d‘Or
+T4471	Organization 787137 787139	Le
+T4472	Organization 787538 787540	Le
+T4473	Person 787742 787754	Don Palamède
+T4474	Organization 788060 788067	hidalgo
+T4475	Location 788105 788107	La
+T4476	Person 788450 788462	don Palamède
+T4477	Person 788661 788672	Rameau-d'Or
+T4478	Location 788693 788698	Paris
+T4479	Organization 788801 788808	hidalgo
+T4480	Location 788892 788896	quoi
+T4481	Organization 789497 789499	Le
+T4482	Location 789539 789550	Rameau-d‘Or
+T4483	Organization 789798 789805	hidalgo
+T4484	Person 790208 790217	LA_ BELLE
+T4485	Organization 790537 790545	agrément
+T4486	Person 790555 790566	Rameau—d’Or
+T4487	Person 790652 790664	Risque— Tout
+T4488	Location 790969 790976	Indiens
+T4489	Organization 791128 791130	Le
+T4490	Organization 791302 791304	Le
+T4491	Location 792512 792518	A moii
+T4492	Person 792647 792658	Rameau—d'Or
+T4493	Location 792679 792680	A
+T4494	Organization 793423 793431	LA BELLE
+T4495	Organization 793442 793444	Le
+T4496	Person 793491 793504	c‘était André
+T4497	Location 793685 793686	A
+T4498	Location 793731 793738	Pardieu
+T4499	Location 793740 793746	ajouta
+T4500	Location 793827 793833	sienne
+T4501	Location 794153 794154	A
+T4502	Location 794161 794172	Risque—Tout
+T4503	Location 794308 794319	Rameau-d‘Or
+T4504	Person 794619 794630	Rameau-d’Or
+T4505	Location 795020 795022	La
+T4506	Person 795309 795315	Berger
+T4507	Location 795331 795337	Grigny
+T4508	Location 795383 795391	Canadien
+T4509	Location 795393 795397	quoi
+T4510	Location 795561 795572	Risque—Tout
+T4511	Location 795660 795662	La
+T4512	Person 795672 795682	de Maleval
+T4513	Organization 795836 795844	LA BELLE
+T4514	Person 795870 795881	de Villiers
+T4515	Location 796289 796293	Joie
+T4516	Organization 796597 796599	Le
+T4517	Location 796669 796671	La
+T4518	Organization 797314 797316	Le
+T4519	Location 797505 797512	Indiens
+T4520	Organization 797768 797770	Le
+T4521	Person 798046 798049	s ’
+T4522	Organization 798104 798106	Le
+T4523	Location 798382 798384	La
+T4524	Location 798660 798666	Indien
+T4525	Location 798719 798725	Indien
+T4526	Organization 798952 798962	LA BELLE 1
+T4527	Location 799067 799078	Kouha-Handé
+T4528	Organization 799114 799116	Le
+T4529	Person 799688 799699	de Villiers
+T4530	Location 800025 800029	quoi
+T4531	Location 800233 800238	Merci
+T4532	Organization 800684 800686	Le
+T4533	Location 800865 800876	Kouha-Handé
+T4534	Person 801032 801043	Bouges yeux
+T4535	Organization 801153 801155	Le
+T4536	Location 801989 801990	A
+T4537	Organization 801999 802015	LA BELLE RIVIERE
+T4538	Location 802246 802250	quoi
+T4539	Location 802295 802297	La
+T4540	Organization 802741 802756	guerrier indien
+T4541	Location 803149 803160	Kouha-Handé
+T4542	Location 803478 803486	Pourquoi
+T4543	Person 803683 803692	Mon frère
+T4544	Person 803726 803735	Mon frère
+T4545	Organization 803880 803882	Où
+T4546	Organization 804003 804005	Le
+T4547	Organization 804346 804365	Visage-Pale attende
+T4548	Location 804529 804533	Puis
+T4549	Location 804683 804684	W
+T4550	Organization 804917 804925	LA BELLE
+T4551	Person 804991 804994	s ’
+T4552	Person 805061 805074	Pourquoi Koul
+T4553	Organization 805161 805174	Kouha-I—Iandé
+T4554	Location 805249 805260	Visage—Pâle
+T4555	Organization 805315 805317	Le
+T4556	Organization 805415 805417	Le
+T4557	Location 805589 805595	Angèle
+T4558	Person 805736 805739	Qu’
+T4559	Location 805784 805789	Venez
+T4560	Location 805986 805988	Ah
+T4561	Location 806045 806050	Merci
+T4562	Person 806052 806058	Angèle
+T4563	Location 806135 806140	Venez
+T4564	Organization 806191 806193	Le
+T4565	Person 806358 806362	Dieu
+T4566	Person 806364 806367	s ’
+T4567	Organization 806455 806457	Le
+T4568	Location 806458 806466	Proserit
+T4569	Organization 806589 806591	Le
+T4570	Location 806739 806744	Venez
+T4571	Person 806746 806755	mon Louis
+T4572	Location 806862 806868	Angèle
+T4573	Location 807170 807171	A
+T4574	Location 807276 807277	A
+T4575	Location 807355 807357	La
+T4576	Location 807407 807414	Indiens
+T4577	Location 807615 807616	A
+T4578	Location 807977 807983	Angèle
+T4579	Person 808126 808138	H. GEI—‘FHOY
+T4580	Location 808146 808166	Reproducliûniulerdim
+T4581	Person 808255 808268	BELLE RIVIERE
+T4582	Location 808743 808749	Angèle
+T4583	Location 808980 808986	Angèle
+T4584	Person 809081 809089	Mon Dieu
+T4585	Person 809104 809114	Jeune ﬁlle
+T4586	Organization 809151 809153	Le
+T4587	Location 809195 809202	Indiens
+T4588	Location 809341 809347	Angèle
+T4589	Organization 809513 809515	Le
+T4590	Location 809578 809586	Monsieur
+T4591	Organization 809921 809923	Le
+T4592	Location 810201 810209	Monsieur
+T4593	Location 810442 810447	Merci
+T4594	Location 810495 810501	Angèle
+T4595	Organization 810606 810608	C’
+T4596	Organization 810668 810681	fort Duquesne
+T4597	Location 810683 810688	Adieu
+T4598	Organization 810786 810788	Le
+T4599	Location 810789 810797	Proscrit
+T4600	Location 811059 811061	La
+T4601	Organization 811062 811069	BELLE R
+T4602	Location 811093 811104	Konda—Handé
+T4603	Location 811151 811158	Indiens
+T4604	Location 811250 811256	Berger
+T4605	Location 811272 811278	Grigny
+T4606	Location 811324 811331	Indiens
+T4607	Location 811839 811841	La
+T4608	Location 812130 812132	La
+T4609	Location 812145 812155	Bois—Tracy
+T4610	Location 812190 812191	A
+T4611	Location 812259 812262	Oui
+T4612	Person 812357 812373	-— Pardonnez—moi
+T4613	Person 812466 812476	de Maleval
+T4614	Person 812636 812640	Dieu
+T4615	Person 812918 812924	—— Non
+T4616	Location 813181 813187	Parlez
+T4617	Person 813263 813273	de Maleval
+T4618	Location 813635 813639	Puis
+T4619	Organization 813755 813771	LA BELLE RIVIÈRE
+T4620	Location 813804 813812	Monsieur
+T4621	Location 813816 813822	Grigny
+T4622	Location 813983 813991	Proscrit
+T4623	Location 814123 814125	La
+T4624	Organization 814462 814464	Le
+T4625	Organization 814610 814612	Le
+T4626	Organization 814772 814774	C’
+T4627	Person 814816 814820	Dieu
+T4628	Location 815016 815017	A
+T4629	Location 815290 815293	Oui
+T4630	Person 815393 815399	Armand
+T4631	Person 815494 815499	Léona
+T4632	Person 815501 815506	Léona
+T4633	Location 815510 815513	Oui
+T4634	Location 815565 815567	Ah
+T4635	Person 815759 815770	de Villiers
+T4636	Person 816120 816124	Dieu
+T4637	Person 816166 816175	—— Pardon
+T4638	Person 816177 816182	Léona
+T4639	Organization 816267 816269	Le
+T4640	Organization 816428 816448	LA BELLE RIVIERE 329
+T4641	Organization 816453 816455	Le
+T4642	Location 816465 816471	Grigny
+T4643	Person 816593 816607	C‘était Berger
+T4644	Location 816967 816973	Grigny
+T4645	Organization 817150 817152	Le
+T4646	Location 817227 817232	Voilà
+T4647	Organization 817260 817262	Le
+T4648	Location 817393 817395	N’
+T4649	Organization 817448 817450	Le
+T4650	Person 817527 817533	Berger
+T4651	Organization 817601 817603	Le
+T4652	Location 817671 817681	Bois-Tracy
+T4653	Location 817697 817703	Grigny
+T4654	Organization 817782 817791	REVAN CHE
+T4655	Location 817856 817868	Manonghahela
+T4656	Location 817891 817895	Ohio
+T4657	Location 817898 817900	La
+T4658	Person 818428 818438	de Maleval
+T4659	Organization 818500 818510	Washington
+T4660	Organization 819107 819115	LA BELLE
+T4661	Person 819135 819153	Coulon de Villiers
+T4662	Person 819185 819198	de Jumonville
+T4663	Organization 819266 819284	Georges Washington
+T4664	Location 819566 819574	Virginie
+T4665	Person 819639 819649	de Maleval
+T4666	Organization 819954 819967	fort Duquesne
+T4667	Location 819977 819987	Gontrecœur
+T4668	Person 820049 820060	de Villiers
+T4669	Organization 820090 820092	Le
+T4670	Person 820273 820279	Berger
+T4671	Person 820306 820318	Konha— Handé
+T4672	Location 820470 820480	Coutrecœur
+T4673	Location 820832 820838	Grigny
+T4674	Location 821000 821003	Oui
+T4675	Person 821018 821028	Contrecœur
+T4676	Organization 821718 821720	Le
+T4677	Person 821856 821862	Berger
+T4678	Location 822005 822016	Kouha-Handé
+T4679	Location 822202 822207	BELLE
+T4680	Date 822210 822216	11‘snu
+T4681	Location 822358 822359	J
+T4682	Location 822400 822407	Indiens
+T4683	Person 822568 822574	Berger
+T4684	Location 822581 822592	Kouha-Handé
+T4685	Person 822634 822638	Dieu
+T4686	Person 822879 822890	de Villiers
+T4687	Location 822998 823005	plaisir
+T4688	Organization 823079 823081	Le
+T4689	Location 823148 823158	Gontrecœur
+T4690	Person 823717 823723	Berger
+T4691	Person 823762 823776	monsieur Louis
+T4692	Person 823781 823785	Boni
+T4693	Location 824346 824351	Voilà
+T4694	Organization 824627 824629	Le
+T4695	Location 824630 824638	Proserit
+T4696	Organization 824685 824693	LA BELLE
+T4697	Location 825350 825351	J
+T4698	Location 825502 825509	Contre-
+T4699	Location 825909 825914	Voilà
+T4700	Location 826259 826268	Continuez
+T4701	Location 826295 826305	Gontrecœur
+T4702	Location 826308 826316	Jean—Pol
+T4703	Location 826356 826358	La
+T4704	Person 826368 826378	de Maleval
+T4705	Location 826386 826388	La
+T4706	Location 826444 826447	Oui
+T4707	Person 826612 826623	de Villiers
+T4708	Person 826647 826657	de Maleval
+T4709	Organization 826800 826802	Le
+T4710	Person 827006 827010	Dieu
+T4711	Person 827322 827333	Mennesville
+T4712	Organization 827454 827470	LA BELLE RIVIERE
+T4713	Organization 827507 827509	Le
+T4714	Location 827519 827525	Grigny
+T4715	Person 827564 827575	de Villiers
+T4716	Location 827660 827670	Gontrecœur
+T4717	Location 827901 827909	Virginie
+T4718	Organization 828067 828083	LA BELLE RIVIERE
+T4719	Location 828141 828151	Gontrecœur
+T4720	Location 828155 828158	Oui
+T4721	Location 828219 828227	Proserit
+T4722	Location 828613 828617	quoi
+T4723	Location 828977 828984	Jan—Pol
+T4724	Location 829304 829305	A
+T4725	Location 829333 829343	Gontrecœur
+T4726	Person 829399 829402	Pol
+T4727	Location 829428 829429	A
+T4728	Person 829456 829467	de Villiers
+T4729	Location 829486 829488	Or
+T4730	Location 829626 829634	Proserit
+T4731	Location 829763 829771	Proserit
+T4732	Location 830040 830044	quoi
+T4733	Location 830186 830190	Soit
+T4734	Location 830315 830324	Continuez
+T4735	Location 830336 830337	J
+T4736	Location 830739 830742	Oui
+T4737	Location 830759 830765	ajouta
+T4738	Organization 830882 830898	LA BELLE RIVIERE
+T4739	Location 830986 830992	Angèle
+T4740	Person 831172 831182	Contrecœur
+T4741	Location 831356 831362	Europe
+T4742	Person 831531 831550	lebomte de Villiers
+T4743	Location 831557 831560	Oui
+T4744	Person 831792 831810	Coulon de Villiers
+T4745	Location 831848 831854	Angèle
+T4746	Location 831881 831888	Jan—Pol
+T4747	Location 831893 831902	Pros—crit
+T4748	Organization 831989 831991	Le
+T4749	Location 832247 832253	Parlez
+T4750	Organization 832318 832320	Le
+T4751	Organization 832452 832454	C’
+T4752	Location 832468 832477	A bientôt
+T4753	Location 832520 832527	Jan—Pol
+T4754	Location 832548 832556	Pourquoi
+T4755	Organization 832628 832630	C’
+T4756	Organization 832667 832669	Le
+T4757	Location 832670 832678	Proscrit
+T4758	Organization 832792 832794	Le
+T4759	Organization 832891 832904	fort Duquesne
+T4760	Organization 832907 832909	Le
+T4761	Date 832910 832925	_3 juillet 1754
+T4762	Location 833405 833407	La
+T4763	Organization 833532 833548	LA BELLE RIVIÈRE
+T4764	Person 833948 833959	de Villiers
+T4765	Location 833968 833974	Berger
+T4766	Date 833978 833993	parle- mentaire
+T4767	Person 834765 834783	Georges Washington
+T4768	Person 834900 834911	de Villiers
+T4769	Location 834914 834924	Washington
+T4770	Organization 834997 834999	Le
+T4771	Person 835607 835617	Jumonville
+T4772	Location 835665 835669	Puis
+T4773	Person 835804 835816	James Mackay
+T4774	Person 835842 835860	Coulon de Villiers
+T4775	Location 835986 835989	Vol
+T4776	Organization 836063 836071	LA BELLE
+T4777	Location 836098 836100	La
+T4778	Location 836476 836477	A
+T4779	Organization 836738 836740	Le
+T4780	Organization 836776 836778	F1
+T4781	Person 836839 836849	de Maleval
+T4782	Organization 837093 837095	C’
+T4783	Organization 837135 837137	Le
+T4784	Location 837188 837198	Gontrecœur
+T4785	Person 837327 837333	Berger
+T4786	Location 837369 837371	La
+T4787	Location 837649 837657	Proscrit
+T4788	Location 837830 837832	La
+T4789	Location 837882 837884	La
+T4790	Location 838177 838188	Kouha-Handé
+T4791	Organization 838311 838313	Le
+T4792	Location 838366 838373	Indiens
+T4793	Person 838556 838559	s ’
+T4794	Organization 838686 838688	Le
+T4795	Location 838940 838951	Kouha—Handé
+T4796	Organization 839019 839035	LA BELLE RIVIERE
+T4797	Organization 839037 839039	Le
+T4798	Organization 839077 839079	Le
+T4799	Person 839227 839243	Berger essaya-td
+T4800	Location 839411 839417	Indien
+T4801	Location 839949 839958	Ma- leval
+T4802	Location 840023 840025	La
+T4803	Location 840123 840131	Proserit
+T4804	Location 840559 840567	Proscrit
+T4805	Location 840603 840616	Belle-Rivière
+T4806	Location 840645 840664	Washington lui—mème
+T4807	Location 840771 840779	Amérique
+T4808	Location 840802 840808	France
+T4809	Location 840817 840826	Charmante
+T4810	Person 840964 840975	de Villiers
+T4811	Person 841044 841047	Qu’
+T4812	Person 841072 841077	De la
+T4813	Location 841086 841093	Jan—Pol
+T4814	Organization 841150 841152	Le
+T4815	Organization 841411 841413	Le
+T4816	Person 841448 841454	Berger
+T4817	Person 841546 841552	Berger
+T4818	Person 841558 841569	de Villiers
+T4819	Person 841605 841611	Berger
+T4820	Location 841615 841621	Europe
+T4821	Organization 841623 841625	Le
+T4822	Person 841692 841698	Angèle
+T4823	Person 841844 841848	P A.
+T4824	Location 841997 841998	W
+T4825	Organization 842008 842028	LA BELLE RIVIÈRÉ 339
+T4826	Location 842043 842048	Adieu
+T4827	Location 842155 842160	Adieu
+T4828	Person 842162 842176	monsieur Louis
+T4829	Person 842204 842215	de Villiers
+T4830	Location 842233 842239	Angèle
+T4831	Person 842507 842518	de Villiers
+T4832	Location 842546 842554	Proserit
+T4833	Person 842702 842707	Louis
+T4834	Person 842799 842804	Louis
+T4835	Location 843082 843083	J
+T4836	Location 843130 843136	Angèle
+T4837	Person 843202 843208	Pardon
+T4838	Location 843231 843239	Prescrit
+T4839	Person 843276 843281	Louis
+T4840	Person 843283 843297	domaùda Angèle
+T4841	Person 843337 843347	mon Angèle
+T4842	Person 843372 843383	de Villiers
+T4843	Location 843575 843590	Nouvelle-France
+T4844	Location 843615 843621	Canada
+T4845	Organization 843882 843885	Peu
+T4846	Location 844198 844202	quoi
+T4847	Location 844466 844472	Canada
+T4848	Organization 844475 844477	C’

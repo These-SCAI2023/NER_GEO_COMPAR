@@ -1,0 +1,691 @@
+T1	Person 77 90	Norine Duclos
+T2	Organization 149 154	Adonc
+T3	Person 186 197	chez Norine
+T4	Person 261 268	Mandine
+T5	Person 381 392	Jean-Claude
+T6	Location 423 426	Toi
+T7	Location 431 435	Rose
+T8	Location 491 498	Désirée
+T9	Person 689 696	Cellier
+T10	Location 702 708	Norine
+T11	Location 887 901	Saint-Brunelle
+T12	Person 1168 1177	Armandine
+T13	Location 1182 1186	Rose
+T14	Location 1195 1202	Désirée
+T15	Location 1221 1225	Rose
+T16	Location 1310 1316	Norine
+T17	Location 1434 1438	Rose
+T18	Person 1594 1605	Jean-Claude
+T19	Person 2009 2018	père Roux
+T20	Location 2142 2150	Perpétue
+T21	Person 2185 2189	Dieu
+T22	Person 2194 2203	Qu'est-ce
+T23	Person 2285 2296	Jean-Claude
+T24	Location 2298 2305	Bonsoir
+T25	Person 2307 2318	Jean-Claude
+T26	Location 2324 2331	Bonsoir
+T27	Location 2348 2354	Norine
+T28	Location 2359 2366	Bonsoir
+T29	Person 2386 2397	Jean-Claude
+T30	Person 2613 2622	père Roux
+T31	Location 2650 2654	Rose
+T32	Location 2791 2794	toi
+T33	Person 2910 2917	La Rose
+T34	Person 2973 2987	devers Gaspard
+T35	Location 3151 3158	Gaspard
+T36	Location 3337 3341	Rose
+T37	Organization 3357 3371	bonnets blancs
+T38	Location 3383 3390	Gaspard
+T39	Location 3425 3431	Norine
+T40	Person 3454 3461	Gaspard
+T41	Location 3741 3748	Gaspard
+T42	Person 3759 3764	Denis
+T43	Location 3812 3818	Norine
+T44	Location 3820 3827	Désirée
+T45	Location 4026 4033	Désirée
+T46	Person 4217 4226	père Roux
+T47	Location 4254 4261	Gaspard
+T48	Person 4350 4359	père Roux
+T49	Person 4367 4374	Gaspard
+T50	Location 4385 4389	Rose
+T51	Location 4397 4401	Rose
+T52	Person 4458 4464	Pierre
+T53	Person 4495 4501	Pierre
+T54	Location 4626 4629	toi
+T55	Location 4634 4638	Rose
+T56	Person 4644 4655	Jean-Claude
+T57	Location 4755 4759	Rose
+T58	Location 4791 4798	Gaspard
+T59	Person 4845 4856	petiot Roux
+T60	Location 4862 4868	Norine
+T61	Location 5000 5008	Perpétue
+T62	Location 5033 5039	Toinon
+T63	Person 5135 5146	Jean-Claude
+T64	Location 6227 6235	Perpétue
+T65	Person 6244 6253	père Roux
+T66	Location 6778 6784	France
+T67	Person 6865 6874	père Roux
+T68	Location 6950 6957	Bonsoir
+T69	Location 6974 6981	Bonsoir
+T70	Person 6983 6989	Pierre
+T71	Location 7547 7560	Saint-Quentin
+T72	Organization 7630 7644	bonnets blancs
+T73	Person 7778 7793	père Nom-de-Nom
+T74	Location 7890 7897	Bonsoir
+T75	Person 7977 7986	père Roux
+T76	Location 7989 8000	Jean-Claude
+T77	Location 8096 8101	Allez
+T78	Person 8132 8143	Jean-Claude
+T79	Person 8267 8282	père Nom-de-Nom
+T80	Location 8346 8349	toi
+T81	Person 8405 8429	père Chausson-Chaussette
+T82	Person 8568 8575	Sylvain
+T83	Person 8612 8627	père Nom-de-Nom
+T84	Person 9015 9030	père Nom-de-Nom
+T85	Organization 9033 9038	Adonc
+T86	Location 9162 9169	Gaspard
+T87	Location 9221 9225	Rose
+T88	Location 9635 9650	Carrière-Fondue
+T89	Organization 9914 9919	Adonc
+T90	Person 10675 10684	Qu'est-ce
+T91	Person 10732 10741	père Roux
+T92	Person 11262 11273	Jean-Claude
+T93	Location 11362 11368	Norine
+T94	Person 11403 11418	père Nom-de-Nom
+T95	Person 12385 12396	Jean-Claude
+T96	Location 12660 12664	Rose
+T97	Location 12706 12709	Oui
+T98	Person 12737 12746	père Roux
+T99	Person 12764 12770	Pierre
+T100	Person 12948 12957	Armandine
+T101	Person 13045 13060	père Nom-de-Nom
+T102	Person 13119 13128	Armandine
+T103	Location 13304 13308	Rose
+T104	Person 13568 13579	Jean-Claude
+T105	Location 13789 13792	Bah
+T106	Person 13811 13820	père Roux
+T107	Person 14064 14073	père Roux
+T108	Location 14098 14109	Morlincourt
+T109	Person 14205 14214	père Roux
+T110	Location 14241 14247	Norine
+T111	Person 14355 14366	Jean-Claude
+T112	Person 14371 14377	Norine
+T113	Person 14516 14521	Conte
+T114	Person 14523 14530	Cellier
+T115	Location 14536 14542	Norine
+T116	Location 14660 14671	Jean-Claude
+T117	Location 14762 14769	Bonsoir
+T118	Location 14801 14809	Perpétue
+T119	Location 14977 14988	Morlincourt
+T120	Organization 15074 15088	bonnets blancs
+T121	Person 15149 15153	Dieu
+T122	Location 15264 15275	Morlincourt
+T123	Person 15572 15584	Vierge Marie
+T124	Location 15743 15754	Morlincourt
+T125	Organization 15846 15851	Adonc
+T126	Person 15859 15870	Mlle Léonie
+T127	Location 16192 16203	Morlincourt
+T128	Location 16487 16498	Morlincourt
+T129	Person 16678 16687	père Roux
+T130	Organization 16851 16865	bonnets blancs
+T131	Person 17532 17547	répéta Jeacquet
+T132	Person 17610 17614	Dieu
+T133	Location 17680 17684	Rose
+T134	Location 17725 17729	Rose
+T135	Location 17735 17743	Jeacquet
+T136	Location 17854 17857	toi
+T137	Location 17862 17866	Rose
+T138	Location 17894 17902	Jeacquet
+T139	Person 17934 17941	LA ROSE
+T140	Location 18052 18056	Rose
+T141	Organization 18571 18576	Adonc
+T142	Person 18702 18708	Norine
+T143	Person 18833 18841	Plaisant
+T144	Location 18946 18950	Rose
+T145	Person 19159 19167	Plaisant
+T146	Person 19189 19195	Pierre
+T147	Location 19219 19225	Norine
+T148	Organization 19394 19408	bonnets blancs
+T149	Location 19538 19544	Pierre
+T150	Location 19554 19558	Rose
+T151	Person 19654 19660	Pierre
+T152	Location 19951 19955	Rose
+T153	Organization 20026 20031	Adonc
+T154	Person 20103 20109	Pierre
+T155	Location 20326 20332	Norine
+T156	Location 20732 20736	Rose
+T157	Person 20768 20774	Pierre
+T158	Organization 20858 20863	Adonc
+T159	Location 21147 21154	Gaspard
+T160	Person 21220 21226	Pierre
+T161	Location 21286 21292	Norine
+T162	Location 21499 21503	Rose
+T163	Person 21580 21586	Pierre
+T164	Person 21979 21986	La Rose
+T165	Person 22405 22412	ma Rose
+T166	Person 22592 22599	ma Rose
+T167	Person 22770 22776	Pierre
+T168	Location 22808 22811	toi
+T169	Location 22814 22817	toi
+T170	Person 23101 23107	Pierre
+T171	Location 23297 23301	Rose
+T172	Person 23528 23534	Pierre
+T173	Location 23784 23790	Norine
+T174	Person 23912 23919	ma Rose
+T175	Person 23925 23931	Pierre
+T176	Person 24373 24380	ma Rose
+T177	Person 24745 24752	La Rose
+T178	Person 24805 24815	mon Pierre
+T179	Person 25223 25229	Pierre
+T180	Location 25469 25473	Rose
+T181	Person 25526 25532	Pierre
+T182	Location 25648 25654	Norine
+T183	Location 25784 25787	toi
+T184	Location 25916 25920	Rose
+T185	Location 25967 25970	Bah
+T186	Organization 26021 26035	bonnets blancs
+T187	Organization 26111 26116	Adonc
+T188	Location 26425 26429	Rose
+T189	Location 26454 26460	Norine
+T190	Person 26510 26516	Pierre
+T191	Location 27097 27101	Rose
+T192	Person 27155 27161	Pierre
+T193	Organization 27188 27202	bonnets blancs
+T194	Organization 27271 27285	bonnets blancs
+T195	Person 27517 27523	Pierre
+T196	Location 27692 27696	Rose
+T197	Person 28055 28061	Pierre
+T198	Location 28339 28343	Rose
+T199	Person 28454 28460	Pierre
+T200	Location 28519 28523	Rose
+T201	Location 28655 28659	Rose
+T202	Person 28727 28737	mon Pierre
+T203	Person 28793 28797	Rose
+T204	Person 28815 28821	Pierre
+T205	Location 28830 28834	Rose
+T206	Person 29002 29009	ma Rose
+T207	Person 29056 29062	Pierre
+T208	Location 29129 29136	Thérèse
+T209	Location 29149 29160	Jean-Claude
+T210	Person 29256 29262	Norine
+T211	Location 29328 29334	Toinon
+T212	Location 29391 29402	Morlincourt
+T213	Person 29480 29489	Qu'est-ce
+T214	Location 29654 29665	Morlincourt
+T215	Person 29671 29682	Jean-Claude
+T216	Person 29696 29701	Céran
+T217	Location 29746 29752	Toinon
+T218	Person 29894 29900	Claude
+T219	Location 30137 30143	Toinon
+T220	Person 30154 30165	Jean-Claude
+T221	Location 30174 30185	Morlincourt
+T222	Organization 30713 30727	bonnets blancs
+T223	Person 30789 30800	Jean-Claude
+T224	Location 30847 30858	Morlincourt
+T225	Person 30894 30899	Céran
+T226	Person 31032 31043	Jean-Claude
+T227	Location 31200 31207	Thérèse
+T228	Person 31266 31271	Céran
+T229	Person 31310 31321	Jean-Claude
+T230	Person 31397 31408	Jean-Claude
+T231	Location 31554 31560	Norine
+T232	Location 31600 31606	Toinon
+T233	Location 31718 31721	Oui
+T234	Person 32508 32519	Jean-Claude
+T235	Person 32526 32531	Céran
+T236	Person 32614 32631	Quand Jean-Claude
+T237	Person 33008 33014	Ouvrez
+T238	Person 33483 33487	Dieu
+T239	Person 33544 33549	Céran
+T240	Location 33630 33637	Favette
+T241	Person 33758 33767	Qu'est-ce
+T242	Location 33849 33852	Oui
+T243	Person 33864 33875	Jean-Claude
+T244	Location 34079 34087	Jeacquet
+T245	Location 34182 34190	Jeacquet
+T246	Location 34346 34354	Jeacquet
+T247	Person 34360 34371	Jean-Claude
+T248	Person 34854 34859	Céran
+T249	Person 34963 34974	Jean-Claude
+T250	Person 35218 35229	Jean-Claude
+T251	Person 35236 35241	Céran
+T252	Location 35312 35317	Maria
+T253	Person 35435 35440	Maria
+T254	Location 38116 38127	Jean-Claude
+T255	Person 38136 38141	Céran
+T256	Location 38193 38198	Allez
+T257	Person 38200 38214	monsieur Céran
+T258	Person 38223 38234	Jean-Claude
+T259	Person 38591 38605	monsieur Céran
+T260	Person 38611 38622	Jean-Claude
+T261	Location 38905 38914	Morlinval
+T262	Location 39191 39205	Saint-Brunelle
+T263	Person 39442 39451	père Roux
+T264	Person 39797 39802	Céran
+T265	Person 39814 39830	chez Jean-Claude
+T266	Location 39883 39889	Norine
+T267	Person 39891 39898	La Rose
+T268	Person 40015 40020	Céran
+T269	Location 40495 40500	Allez
+T270	Person 40955 40960	Céran
+T271	Location 40979 40993	Saint-Brunelle
+T272	Person 41224 41235	Jean-Claude
+T273	Person 41327 41332	Céran
+T274	Person 41348 41355	LE CURÉ
+T275	Person 41358 41365	La Rose
+T276	Person 41422 41428	Pierre
+T277	Location 41463 41469	Toinon
+T278	Location 41667 41671	Rose
+T279	Location 41802 41808	Norine
+T280	Location 41848 41852	Rose
+T281	Location 42155 42169	Saint-Brunelle
+T282	Location 42488 42502	Saint-Brunelle
+T283	Location 43338 43343	Allez
+T284	Location 43373 43379	Pâques
+T285	Organization 43395 43409	bonnets blancs
+T286	Person 44261 44265	Dieu
+T287	Person 44454 44458	Dieu
+T288	Location 46004 46018	Saint-Brunelle
+T289	Organization 46066 46080	bonnets blancs
+T290	Location 46363 46371	Jeacquet
+T291	Person 46456 46465	Qu'est-ce
+T292	Person 47081 47085	Dieu
+T293	Person 47130 47141	Jean-Claude
+T294	Person 47214 47218	Dieu
+T295	Person 47425 47436	Jean-Claude
+T296	Organization 47657 47671	bonnets blancs
+T297	Person 47785 47796	Jean-Claude
+T298	Organization 47814 47828	bonnets blancs
+T299	Person 48247 48255	Dorothée
+T300	Location 48345 48351	PIGNON
+T301	Person 48377 48388	Jean-Claude
+T302	Person 49041 49058	Quand Jean-Claude
+T303	Location 49131 49134	Bah
+T304	Location 49355 49369	Saint-Brunelle
+T305	Person 49588 49602	Jean-Claude me
+T306	Organization 49860 49865	Adonc
+T307	Person 49881 49895	Clarisse Manot
+T308	Person 50214 50229	Jean-Claude lui
+T309	Organization 50280 50294	bonnets blancs
+T310	Person 50533 50537	Dieu
+T311	Person 50727 50731	Dieu
+T312	Organization 50961 50975	bonnets blancs
+T313	Location 51177 51185	Perpétue
+T314	Location 51187 51195	Jeacquet
+T315	Location 51226 51232	Toinon
+T316	Person 51382 51396	Clarisse Manot
+T317	Location 51416 51430	Saint-Brunelle
+T318	Location 51803 51809	Pâques
+T319	Person 51848 51862	Jean-Claude me
+T320	Person 52129 52138	père Roux
+T321	Person 52149 52160	Jean-Claude
+T322	Location 52178 52184	pignon
+T323	Organization 52228 52233	Adonc
+T324	Person 52239 52250	Jean-Claude
+T325	Location 52320 52327	Thérèse
+T326	Person 52373 52377	Dieu
+T327	Location 52394 52399	Manot
+T328	Location 52412 52420	Clarisse
+T329	Person 52574 52583	Qu'est-ce
+T330	Person 52626 52637	Jean-Claude
+T331	Location 52888 52893	Manot
+T332	Location 52898 52901	Oui
+T333	Location 52917 52925	Clarisse
+T334	Person 52964 52978	Jean-Claude te
+T335	Location 53022 53027	Manot
+T336	Person 53053 53064	Jean-Claude
+T337	Location 53067 53070	toi
+T338	Location 53184 53189	Manot
+T339	Location 53290 53295	Manot
+T340	Person 53557 53568	Jean-Claude
+T341	Location 53881 53884	Bah
+T342	Location 54114 54117	Oui
+T343	Person 54129 54137	Clarisse
+T344	Location 54392 54397	Allez
+T345	Person 54572 54580	Clarisse
+T346	Person 54630 54637	Cellier
+T347	Location 54822 54825	toi
+T348	Location 54827 54835	Clarisse
+T349	Person 54959 54970	Jean-Claude
+T350	Person 55268 55277	père Roux
+T351	Location 55459 55464	Alger
+T352	Location 55562 55565	Bah
+T353	Person 55702 55718	Jean-Claude nous
+T354	Location 55874 55879	Alger
+T355	Person 55888 55895	Sylvain
+T356	Person 55947 55962	père Nom-de-Nom
+T357	Person 55968 55979	Jean-Claude
+T358	Location 56103 56111	Jeacquet
+T359	Location 56184 56189	Manot
+T360	Location 56224 56232	Jeacquet
+T361	Location 56244 56249	Manot
+T362	Location 56282 56290	Tais-toi
+T363	Location 56292 56297	Manot
+T364	Location 56354 56362	Clarisse
+T365	Location 56433 56438	Manot
+T366	Person 56511 56522	LA MAIRESSE
+T367	Location 56525 56532	Gaspard
+T368	Location 56672 56676	Rose
+T369	Person 56773 56779	Pierre
+T370	Location 56879 56884	Allez
+T371	Location 57202 57208	Norine
+T372	Location 57568 57582	Saint-Brunelle
+T373	Location 57702 57707	Allez
+T374	Person 58816 58827	Jean-Claude
+T375	Location 58980 58986	Norine
+T376	Location 59158 59165	Désirée
+T377	Location 59169 59178	Armandine
+T378	Location 59263 59267	Rose
+T379	Person 59367 59378	Jean-Claude
+T380	Location 59516 59522	Pierre
+T381	Person 59594 59599	Céran
+T382	Location 59687 59691	Rose
+T383	Location 59784 59788	Rose
+T384	Person 59882 59888	Claude
+T385	Person 60076 60083	Ma Rose
+T386	Person 60101 60112	Jean-Claude
+T387	Person 60247 60258	chez Norine
+T388	Location 60286 60290	Rose
+T389	Location 60592 60598	Norine
+T390	Location 60603 60610	Désirée
+T391	Location 60616 60625	Armandine
+T392	Location 60646 60650	Rose
+T393	Location 60755 60761	Norine
+T394	Location 60999 61002	Oui
+T395	Location 61020 61024	Rose
+T396	Location 61284 61290	Norine
+T397	Location 61403 61409	Norine
+T398	Location 61645 61649	Rose
+T399	Person 61954 61965	chez Norine
+T400	Location 61988 61992	Rose
+T401	Person 62023 62032	Armandine
+T402	Person 62034 62041	Désirée
+T403	Location 62165 62179	Saint-Brunelle
+T404	Location 62227 62238	Morlincourt
+T405	Product 62251 62277	si la Rose devenait habile
+T406	Person 62408 62414	Pierre
+T407	Person 63080 63084	Dieu
+T408	Location 63170 63176	Toinon
+T409	Organization 63324 63338	bonnets blancs
+T410	Location 63469 63480	Morlincourt
+T411	Organization 63936 63950	bonnets blancs
+T412	Person 64286 64297	Jean-Claude
+T413	Organization 64462 64476	bonnets blancs
+T414	Organization 64729 64743	bonnets blancs
+T415	Location 65352 65360	Pensez-y
+T416	Organization 65362 65367	Adonc
+T417	Location 65949 65963	Saint-Brunelle
+T418	Person 66690 66695	Céran
+T419	Location 66709 66718	Morlinval
+T420	Location 66794 66803	Morlinval
+T421	Person 66884 66889	Céran
+T422	Person 67320 67331	niche Maria
+T423	Location 68544 68558	Saint-Brunelle
+T424	Location 68754 68761	Gaspard
+T425	Person 68773 68778	Denis
+T426	Location 68793 68799	Toinon
+T427	Location 68811 68822	Morlincourt
+T428	Location 68861 68867	Norine
+T429	Location 68869 68876	Désirée
+T430	Person 68878 68889	Jean-Claude
+T431	Person 68916 68921	Denis
+T432	Location 68953 68959	Norine
+T433	Location 68970 68976	Toinon
+T434	Location 68992 69000	Perpétue
+T435	Location 69055 69061	Toinon
+T436	Person 69091 69100	père Roux
+T437	Location 69115 69122	Gaspard
+T438	Person 69219 69224	Denis
+T439	Location 69226 69233	Gaspard
+T440	Location 69246 69252	Toinon
+T441	Location 69542 69548	France
+T442	Organization 70174 70179	Adonc
+T443	Location 70829 70838	Morlinval
+T444	Person 71198 71205	Gaspard
+T445	Person 71217 71222	Denis
+T446	Location 71237 71243	Toinon
+T447	Person 71673 71692	Tout Saint-Brunelle
+T448	Organization 71975 71986	pré Brugnon
+T449	Organization 72137 72148	pré Brugnon
+T450	Location 72226 72240	Saint-Brunelle
+T451	Organization 72565 72576	pré Brugnon
+T452	Organization 72626 72631	Adonc
+T453	Organization 72875 72886	pré Brugnon
+T454	Location 72982 72989	Brugnon
+T455	Organization 73402 73413	pré Brugnon
+T456	Person 73930 73941	Jean-Claude
+T457	Location 74186 74192	Toinon
+T458	Location 74226 74234	Perpétue
+T459	Location 74276 74287	Morlincourt
+T460	Location 74477 74480	Bah
+T461	Person 74582 74591	père Roux
+T462	Person 74649 74653	Dieu
+T463	Person 74672 74683	Jean-Claude
+T464	Person 74724 74733	père Roux
+T465	Organization 75079 75084	Adonc
+T466	Person 75172 75183	Jean-Claude
+T467	Person 75190 75199	père Roux
+T468	Person 75708 75717	père Roux
+T469	Person 75774 75783	Père Roux
+T470	Person 75789 75800	Jean-Claude
+T471	Location 75826 75829	toi
+T472	Location 75965 75968	toi
+T473	Person 76127 76136	père Roux
+T474	Person 76273 76284	Jean-Claude
+T475	Location 76389 76397	Tais-toi
+T476	Person 76427 76436	père Roux
+T477	Person 76493 76504	Jean-Claude
+T478	Organization 76697 76702	Adonc
+T479	Person 76837 76848	Jean-Claude
+T480	Person 76936 76945	père Roux
+T481	Person 77201 77212	Jean-Claude
+T482	Person 77637 77646	père Roux
+T483	Person 77701 77712	Jean-Claude
+T484	Location 77849 77863	Saint-Brunelle
+T485	Person 77894 77903	père Roux
+T486	Location 78174 78185	Jean-Claude
+T487	Location 78352 78363	Jean-Claude
+T488	Person 78445 78456	Jean-Claude
+T489	Person 78551 78565	Clarisse Manot
+T490	Location 79240 79257	Hommes-sans-Têtes
+T491	Location 79652 79658	Norine
+T492	Person 79687 79700	chez Perpétue
+T493	Person 80304 80313	père Roux
+T494	Location 81072 81079	Désirée
+T495	Person 81093 81098	Denis
+T496	Person 81150 81161	chez Norine
+T497	Person 81188 81199	Jean-Claude
+T498	Person 81255 81266	Jean-Claude
+T499	Person 81330 81341	Jean-Claude
+T500	Person 81629 81640	Jean-Claude
+T501	Location 81789 81793	Rose
+T502	Location 81797 81803	Norine
+T503	Location 82066 82073	Cellier
+T504	Person 82141 82155	Jean-Claude me
+T505	Location 82370 82376	Norine
+T506	Location 82396 82400	Rose
+T507	Person 82530 82544	Jean-Claude me
+T508	Location 83309 83314	Allez
+T509	Organization 83945 83950	Adonc
+T510	Location 84215 84222	Désirée
+T511	Person 84517 84530	Jean-Claude y
+T512	Person 84647 84658	Jean-Claude
+T513	Person 84847 84856	cria Dizy
+T514	Person 85149 85160	Jean-Claude
+T515	Person 85275 85286	Jean-Claude
+T516	Location 85446 85457	Jean-Claude
+T517	Person 85461 85474	gouailla Dizy
+T518	Organization 85730 85744	bonnets blancs
+T519	Person 87506 87520	Clarisse Manot
+T520	Location 87612 87620	Clarisse
+T521	Location 87660 87665	Manot
+T522	Location 87857 87868	Jean-Claude
+T523	Location 87963 87966	Bah
+T524	Location 88266 88277	Jean-Claude
+T525	Location 88306 88309	Oui
+T526	Person 88315 88326	Jean-Claude
+T527	Location 88443 88451	Baptiste
+T528	Person 88470 88481	Jean-Claude
+T529	Location 88493 88499	Norine
+T530	Location 88596 88599	toi
+T531	Location 88627 88630	Oui
+T532	Person 88731 88742	Jean-Claude
+T533	Location 88848 88851	toi
+T534	Location 88869 88877	Baptiste
+T535	Person 88940 88948	Baptiste
+T536	Person 89016 89025	Qu'est-ce
+T537	Person 89624 89635	Jean-Claude
+T538	Location 90059 90062	Oui
+T539	Person 90081 90090	père Roux
+T540	Organization 90118 90129	pré Brugnon
+T541	Location 90758 90764	Norine
+T542	Location 90855 90859	Rose
+T543	Location 91296 91300	Rose
+T544	Person 91535 91542	La Rose
+T545	Product 91611 91628	aux champs ; ceux
+T546	Person 91783 91790	Cellier
+T547	Location 92132 92136	Rose
+T548	Location 92193 92197	Rose
+T549	Location 92375 92381	Norine
+T550	Organization 92679 92693	bonnets blancs
+T551	Location 92863 92867	Rose
+T552	Person 92877 92882	Denis
+T553	Person 92910 92915	Denis
+T554	Location 92917 92923	Norine
+T555	Person 92925 92936	Jean-Claude
+T556	Location 93225 93229	Rose
+T557	Person 93513 93524	Jean-Claude
+T558	Location 93717 93740	X  CE QU'IL VOUS PLAIRA
+T559	Organization 94005 94019	bonnets blancs
+T560	Location 94229 94233	Rose
+T561	Location 94258 94264	Pierre
+T562	Person 94318 94325	La Rose
+T563	Person 94370 94379	Pierrette
+T564	Person 94429 94436	La Rose
+T565	Product 94580 94651	fille à Norine, douce et complaisante, aimable, avenante avec un chacun
+T566	Person 95024 95029	Céran
+T567	Person 95072 95083	Jean-Claude
+T568	Location 95206 95210	Rose
+T569	Person 95506 95511	Céran
+T570	Person 95605 95614	père Roux
+T571	Location 95648 95655	Gaspard
+T572	Location 95669 95674	Paris
+T573	Person 95939 95948	père Roux
+T574	Location 95953 95960	Gaspard
+T575	Location 96112 96119	Gaspard
+T576	Person 96204 96213	père Roux
+T577	Person 96295 96309	Clarisse Manot
+T578	Person 96314 96323	père Roux
+T579	Location 96351 96356	Paris
+T580	Location 96852 96855	Bah
+T581	Person 97002 97011	père Roux
+T582	Location 97266 97271	Manot
+T583	Person 97355 97364	père Roux
+T584	Location 97528 97533	Paris
+T585	Location 97594 97602	Clarisse
+T586	Person 97696 97705	père Roux
+T587	Location 97926 97934	Clarisse
+T588	Location 97951 97963	Palais-Royal
+T589	Person 97992 98003	Jean-Claude
+T590	Location 98090 98101	Morlincourt
+T591	Location 98256 98268	Palais-Royal
+T592	Location 98389 98400	Morlincourt
+T593	Location 98454 98459	Paris
+T594	Location 98617 98620	toi
+T595	Person 98626 98637	Jean-Claude
+T596	Location 98656 98670	Saint-Brunelle
+T597	Organization 99016 99021	Adonc
+T598	Person 99059 99068	Qu'est-ce
+T599	Organization 99461 99469	Parisien
+T600	Person 99619 99630	Jean-Claude
+T601	Person 99754 99763	père Roux
+T602	Location 101002 101008	France
+T603	Location 101170 101176	France
+T604	Location 101329 101338	Morlinval
+T605	Location 101343 101354	Morlincourt
+T606	Organization 101977 101991	bonnets blancs
+T607	Person 102125 102136	Jean-Claude
+T608	Location 102666 102672	France
+T609	Location 103040 103046	France
+T610	Organization 103325 103339	bonnets blancs
+T611	Location 104311 104317	France
+T612	Person 104441 104446	Céran
+T613	Person 104465 104474	père Roux
+T614	Location 104619 104630	Jean-Claude
+T615	Person 104644 104656	Cadet Lambin
+T616	Location 104682 104688	France
+T617	Organization 105084 105098	bonnets blancs
+T618	Person 105220 105231	Jean-Claude
+T619	Location 105384 105398	Saint-Brunelle
+T620	Person 105454 105465	Jean-Claude
+T621	Person 105543 105550	Cellier
+T622	Location 105571 105582	Jean-Claude
+T623	Location 105594 105605	Morlincourt
+T624	Person 105629 105634	Céran
+T625	Person 105733 105738	Céran
+T626	Person 105891 105899	me Céran
+T627	Person 106081 106095	Monsieur Céran
+T628	Location 106187 106201	Saint-Brunelle
+T629	Person 106332 106340	me Céran
+T630	Person 106372 106386	Monsieur Céran
+T631	Person 106400 106414	Monsieur Céran
+T632	Person 106988 106993	Céran
+T633	Person 107245 107261	chez Jean-Claude
+T634	Location 107291 107295	Rose
+T635	Location 107309 107316	Thérèse
+T636	Person 107419 107424	Céran
+T637	Location 107512 107523	Jean-Claude
+T638	Location 107528 107535	Thérèse
+T639	Location 107564 107568	Rose
+T640	Location 107805 107809	Rose
+T641	Person 107818 107823	Céran
+T642	Person 107966 107971	Céran
+T643	Location 108367 108381	Saint-Brunelle
+T644	Location 108672 108676	Rose
+T645	Location 108719 108724	Allez
+T646	Person 108819 108830	Jean-Claude
+T647	Location 108880 108885	Paris
+T648	Person 108980 108985	Céran
+T649	Location 109055 109059	Rose
+T650	Location 109135 109149	Saint-Brunelle
+T651	Location 109997 110011	Saint-Brunelle
+T652	Person 110019 110028	père Roux
+T653	Location 110519 110524	Vénus
+T654	Location 110526 110534	Bérénice
+T655	Location 110536 110545	Cassiopée
+T656	Person 110591 110598	La Rose
+T657	Location 110824 110828	Rose
+T658	Organization 111980 111994	bonnets blancs
+T659	Location 112272 112276	Rose
+T660	Location 112335 112342	Bonsoir
+T661	Person 112436 112447	Jean-Claude
+T662	Person 112449 112458	Qu'est-ce
+T663	Location 112690 112694	Rose
+T664	Location 112719 112730	Jean-Claude
+T665	Location 112884 112888	Nord
+T666	Organization 112948 112961	tout Parisien
+T667	Location 113019 113024	Paris
+T668	Location 113226 113243	faucheurs du Nord
+T669	Location 113245 113251	belges
+T670	Location 113294 113300	France
+T671	Location 113838 113842	Nord
+T672	Person 114092 114103	Jean-Claude
+T673	Location 114273 114279	France
+T674	Person 114287 114296	père Roux
+T675	Location 114327 114332	Paris
+T676	Organization 114410 114424	bonnets blancs
+T677	Person 114475 114486	Jean-Claude
+T678	Location 114943 114947	Rose
+T679	Person 115267 115278	Jean-Claude
+T680	Person 115348 115355	ma Rose
+T681	Person 115484 115496	père Remblay
+T682	Location 115862 115867	Allez
+T683	Person 116102 116114	père Remblay
+T684	Person 116120 116131	Jean-Claude
+T685	Organization 116275 116289	bonnets blancs
+T686	Location 116356 116370	Saint-Brunelle
+T687	Person 116384 116400	SOUHAITS  PRIÈRE
+T688	Person 116680 116689	père Roux
+T689	Location 116723 116728	Paris
+T690	Person 117027 117032	Céran
+T691	Person 117221 117238	FRUCTUEUX CELLIER

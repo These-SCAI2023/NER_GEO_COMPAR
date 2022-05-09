@@ -1,8 +1,10 @@
 # NER_GEO_COMPAR
 
-## Le corpus
 
-11 oeuvres extraite de ELTeC, collection Française
+
+## Le corpus 
+
+11 oeuvres extraites de ELTeC, collection Française
 [Collection européenne de textes littéraires](https://www.distant-reading.net/eltec/)
 |Titre et Auteur.e|Date |Pages|Mots|
 |--------|--------|--------|--------|
@@ -17,4 +19,4 @@
 |"La belle rivière", Gustave Aimard|1894|339|177*103| 
 |"La nouvelle espérance", Anna de Noailles|1903|325|67*103|
 |"Marie-Claire", Marguerite Audoux|1925|120|44*103| 
-|--------|--------|--------|--------|
+

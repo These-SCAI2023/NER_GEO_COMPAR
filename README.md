@@ -8,7 +8,7 @@
 [Collection européenne de textes littéraires](https://www.distant-reading.net/eltec/)
 |Titre et Auteur.e|Date |Pages|Mots|
 |--------|--------|--------|--------|
-|“Le château de Pinon, vol. I.”, G. A. Dash, Comtesse |1844|332|56*103|
+|“Le château de Pinon, vol. I.”, G. A. Dash, Comtesse |1844|332|56*10<sup>3</sup>|
 |"Albert Savarus.", Honoré de Balzac|1853|60|49*103|
 |"Les trappeurs de l'Arkansas”, Gustave Aimard|1858|450|112*103|
 |"Mon village", Juliette Adam (Lambert)|1860|200|26*103| 
